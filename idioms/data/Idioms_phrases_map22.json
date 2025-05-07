@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "afflict someone with something",
+            "definition": "to cause someone to suffer from a disease or disability.  The virus has aff licted everyone in the valley."
+        },
+        {
+            "id": 1,
+            "phrase": "afraid of one’s own shadow",
+            "definition": "easily frightened; always frightened, timid, or suspicious. (An exaggeration.) _ After Tom was robbed, he was even afraid of his own shadow."
+        },
+        {
+            "id": 2,
+            "phrase": "after a fashion",
+            "definition": "in a manner that is just barely adequate; poorly.  He thanked me—after a fashion—for my help.  Oh, yes, I can swim, after a fashion."
+        },
+        {
+            "id": 3,
+            "phrase": "after all",
+            "definition": "1. anyway; in spite of what had been decided. (Often refers to a change in plans or a reversal of plans.) _ It looks like Tom will go to law school after all. 2. recalling or considering the fact that.  Don’t punish Tommy! After all, he’s only three years old!"
+        },
+        {
+            "id": 4,
+            "phrase": "after all is said and done",
+            "definition": "Cliché when everything is settled or concluded; finally.  After all is said and done, it will turn out just as I said."
+        },
+        {
+            "id": 5,
+            "phrase": "after hours",
+            "definition": "after the regular closing time; after any normal or regular time, such as one’s bedtime.  John got a job sweeping f loors in the library after hours."
+        },
+        {
+            "id": 6,
+            "phrase": "after the fact",
+            "definition": "after something has happened; after something, such as a crime, has taken place. (Originally a legal phrase.) _ John is always making excuses after the fact."
+        },
+        {
+            "id": 7,
+            "phrase": "After while(, crocodile).",
+            "definition": "Inf. Good-bye till later.; See you later. (The word crocodile is used only for the sake of the rhyme. It is the response to See you later, alligator.) _ Mary: See you later, alligator. Bill: After while, crocodile."
+        },
+        {
+            "id": 8,
+            "phrase": "After you.",
+            "definition": "Please go ahead of me.; Please pass through ahead of me. Bob stepped back and made a motion with his hand indicating that Mary should go first. “After you,” smiled Bob."
+        },
+        {
+            "id": 9,
+            "phrase": "again and again",
+            "definition": "repeatedly; again and even more [times].  He knocked on the door again and again until I finally answered."
+        },
+        {
+            "id": 10,
+            "phrase": "against all odds",
+            "definition": "despite very low probability; in a most unlikely way.  Against all odds, she managed to win the trophy."
+        },
+        {
+            "id": 11,
+            "phrase": "against someone’s will",
+            "definition": "without a person’s consent or agreement. You cannot force me to come with you against my will!"
+        },
+        {
+            "id": 12,
+            "phrase": "against the clock",
+            "definition": "in a race with time; in a great hurry to get something done before a particular time. In a race against the clock, they rushed the accident victim to the hospital."
+        },
+        {
+            "id": 13,
+            "phrase": "*against the grain",
+            "definition": "across the alignment of the fibers of a piece of wood. (*Typically: be ~; cut ~; go ~; run ~; saw ~.) _ You sawed it wrong. You sawed against the grain when you should have cut with grain.  You went against the grain and made a mess of your sanding."
+        },
+        {
+            "id": 14,
+            "phrase": "Age before beauty.",
+            "definition": "a jocular and slightly rude way of encouraging someone to go ahead of oneself; a comical, teasing, and slightly grudging way of indicating that someone else should or can go first. “No, no. Please, you take the next available seat,” smiled Tom. “Age before beauty, you know.”"
+        },
+        {
+            "id": 15,
+            "phrase": "The age of miracles is past.",
+            "definition": "Prov.Miracles do not happen nowadays.  I’m afraid this old vacuum cleaner can’t be fixed. The age of miracles is past."
+        },
+        {
+            "id": 16,
+            "phrase": "age out (of something)",
+            "definition": "[for an adult] to grow [mentally or in years] out of certain behavior or out of a group or classification that is based on age. (Jargon.) _ Most of them tend to age out at about 35."
+        },
+        {
+            "id": 17,
+            "phrase": "agitate against someone or something",
+            "definition": "to stir up active dissatisfaction about someone or something. The students were agitating against the closing of the old cafeteria."
+        },
+        {
+            "id": 18,
+            "phrase": "agitate for something",
+            "definition": "to stir up active support for something.  The committee agitated for a change, but nothing was done."
+        },
+        {
+            "id": 19,
+            "phrase": "agonize (oneself) over someone or something",
+            "definition": "to fret or anguish about someone or something.  Now, now, don’t agonize yourself over the situation. Time cures all."
+        },
+        {
+            "id": 20,
+            "phrase": "agree to disagree",
+            "definition": "Cliché [for two or more parties] to calmly agree not to come to an agreement in a dispute.  We have accomplished nothing except that we agree to disagree."
+        },
+        {
+            "id": 21,
+            "phrase": "agree to something",
+            "definition": "to consent to something; to allow something to be done; to approve something.  If you don’t agree to my leaving early, I’ll just do it anyway."
+        },
+        {
+            "id": 22,
+            "phrase": "agree (up)on someone or something",
+            "definition": "to agree to the choice of someone or something. Let’s try to agree upon a date."
+        },
+        {
+            "id": 23,
+            "phrase": "agree with someone",
+            "definition": "to hold the same opinion or judgment as someone else.  I simply do not agree with you!"
+        },
+        {
+            "id": 24,
+            "phrase": "agree with something",
+            "definition": "1. Fig. [for something] to look good or go well with something else. This dress does not agree with these shoes, does it? 2. Fig. [for something] to be in accord with something else.  Your analysis agrees with mine."
+        },
+        {
+            "id": 25,
+            "phrase": "agree (with something) (in something)",
+            "definition": "[for grammatical features] to match or go together with other grammatical features.  The subject and the verb agree in number."
+        },
+        {
+            "id": 26,
+            "phrase": "*ahead of one’s time",
+            "definition": "having ideas or attitudes that are too advanced to be acceptable in the present. (*Typically: be ~; think ~.) _ Sue’s grandmother was ahead of her time in wanting to study medicine."
+        },
+        {
+            "id": 27,
+            "phrase": "*ahead of schedule",
+            "definition": "having done something before the time given on a schedule or before the expected time. (*Typically: be ~; finish ~.) _I want to be able to finish the job ahead of schedule."
+        },
+        {
+            "id": 28,
+            "phrase": "*ahead (of someone or something)",
+            "definition": "farther forward than someone or something. (*Typically: be ~; get ~; keep ~; remain ~; stay ~.) _ I managed to get ahead of everyone else in line and get tickets for everyone.  Try to stay ahead of that big truck we just passed."
+        },
+        {
+            "id": 29,
+            "phrase": "*ahead of something",
+            "definition": "ahead or on target with one’s work schedule or responsibilities. (*Typically: be ~; get ~; keep ~; remain ~; stay ~.) _By the end of the week, I usually can get ahead of my duties, but not by much.  Jerry can’t seem to get ahead of his work."
+        },
+        {
+            "id": 30,
+            "phrase": "*ahead of the game",
+            "definition": "being early; having an advantage in a competitive situation; having done more than necessary. (*Typically: be ~; get ~; keep ~; remain ~; stay ~.) _Without the full cooperation of my office staff, I find it hard to stay ahead of the game.  If being ahead of the game is important to you and to your business, lease a mobile phone from us."
+        },
+        {
+            "id": 31,
+            "phrase": "*ahead of time",
+            "definition": "beforehand; before the announced time. (*Typically: arrive ~; get there ~; leave ~; show up ~.) _ If you show up ahead of time, you will have to wait.  Be there ahead of time if you want to get a good seat."
+        },
+        {
+            "id": 32,
+            "phrase": "*(a)hold of someone or something",
+            "definition": "[get/have] a grasp of someone or something. (*Typically: get ~; have ~; take ~.) _ I got hold of him and dragged him back from the edge just in time.  I took ahold of his hand and held on tight."
+        },
+        {
+            "id": 33,
+            "phrase": "aid and abet someone",
+            "definition": "Cliché to help someone; to incite someone to do something, possibly something that is wrong. (Originally a legal phrase.) _ He was scolded for aiding and abetting the boys who were fighting."
+        },
+        {
+            "id": 34,
+            "phrase": "aid someone in doing something",
+            "definition": "to help someone do something.  He aided her in fixing up the back bedroom."
+        },
+        {
+            "id": 35,
+            "phrase": "aid someone in something",
+            "definition": "to help someone in some kind of trouble.  Will you aid me in this difficulty?"
+        },
+        {
+            "id": 36,
+            "phrase": "aim something at someone or something",
+            "definition": "to point or direct something at someone or something.  Wally aimed the hose at Sarah and tried to soak her."
+        },
+        {
+            "id": 37,
+            "phrase": "aim to do something",
+            "definition": "Rur. to intend to do something.  I didn’t aim to hurt your feelings, sugar, you know I didn’t."
+        },
+        {
+            "id": 38,
+            "phrase": "ain’t fittin’ to roll with a pig",
+            "definition": "Rur. is or are filthy or uncouth.  After a day’s work in the hot sun, Clyde ain’t fittin’ to roll with a pig."
+        },
+        {
+            "id": 39,
+            "phrase": "Ain’t it the truth?",
+            "definition": "Rur. or Jocular That is true.; Isn’t that true? (Used to agree with a statement someone has made.) _Jane: I swear, life can be a trial sometimes. Bill: Yes, Lordy. Ain’t it the truth?"
+        },
+        {
+            "id": 40,
+            "phrase": "ain’t particular",
+            "definition": "1. Rur. doesn’t or don’t care.  Tom: Would you rather have ice cream or cheese on your apple pie? Mary: Whatever you’re having. I ain’t particular. 2. Rur. doesn’t or don’t have a preference. Jane ain’t particular. She’ll use any old brand of soap."
+        },
+        {
+            "id": 41,
+            "phrase": "*the air",
+            "definition": "a dismissal. (*Typically: get ~; give someone ~.) _ Whenever I get around Tom, I end up getting the air."
+        },
+        {
+            "id": 42,
+            "phrase": "air one’s belly",
+            "definition": "Sl. to empty one’s stomach; to vomit. I had a bad case of food poisoning and was airing my belly for most of the night."
+        },
+        {
+            "id": 43,
+            "phrase": "air one’s grievances",
+            "definition": "to complain; to make a public complaint.  I know how you feel, John, but it isn’t necessary to air your grievances over and over."
+        },
+        {
+            "id": 44,
+            "phrase": "air one’s lungs",
+            "definition": "1. Rur. to swear. Don’t pay those old cowboys no mind. They’re just airin’ the lungs.  I could tell John was working on his old car ’cause I could hear him out in the garage, airin’ his lungs. 2. Rur. to talk, gossip, or brag. The ladies just love to air their lungs whenever they get together."
+        },
+        {
+            "id": 45,
+            "phrase": "air one’s paunch",
+            "definition": "Sl. to vomit.  He got so nauseous that he spent much of the night airing his paunch."
+        },
+        {
+            "id": 46,
+            "phrase": "air one’s pores",
+            "definition": "Sl. to undress oneself; to become naked.  Me and Wilbur, that’s my brother, both fell in the creek and had to air our pores a while so our pants could dry out."
+        },
+        {
+            "id": 47,
+            "phrase": "air out",
+            "definition": "[for something] to remain in the fresh air and become fresher.  The pillows are airing out on the balcony."
+        },
+        {
+            "id": 48,
+            "phrase": "air something out†",
+            "definition": "to freshen something up by placing it in the open air; to freshen a room by letting outside air move through it.  I’ll have to air out the car. Someone has been smoking in it."
+        },
+        {
+            "id": 49,
+            "phrase": "alert someone to something",
+            "definition": "to make someone aware of trouble or potential trouble.  The auditors alerted us to some problems with the accounts."
+        },
+        {
+            "id": 50,
+            "phrase": "alienate someone from someone or something",
+            "definition": "to cause someone to feel negative about someone or something.  The teacher alienated the entire class from the subject of calculus."
+        },
+        {
+            "id": 51,
+            "phrase": "alight from something",
+            "definition": "to get off something; to get down off something.  Almost three hundred people alighted from the plane."
+        },
+        {
+            "id": 52,
+            "phrase": "alight (up)on someone or something",
+            "definition": "to land on something; [for a bird or other flying animal] to come to rest on something. (Upon is more formal than on.) _A small bird alighted on the branch directly over my head.  It alighted upon the branch and began to sing."
+        },
+        {
+            "id": 53,
+            "phrase": "align oneself with someone or something",
+            "definition": "to bring oneself into agreement with someone or someone’s ideas; to associate oneself with someone or someone’s cause. She sought to align herself with the older members."
+        },
+        {
+            "id": 54,
+            "phrase": "align something with something",
+            "definition": "to adjust, straighten, or arrange something in reference to something else.  Try to align this piece with the one next to it."
+        },
+        {
+            "id": 55,
+            "phrase": "*alike as (two) peas in a pod",
+            "definition": "very similar. (Compare this with like (two) peas in a pod. *Also: as ~.) _ These two books are as alike as peas in a pod."
+        },
+        {
+            "id": 56,
+            "phrase": "alive with people or things",
+            "definition": "covered with, filled with, or active with people or creatures.  Look! Ants everywhere. The f loor is alive with ants!"
+        },
+        {
+            "id": 57,
+            "phrase": "all agog",
+            "definition": "surprised and amazed. He sat there, all agog, as the master of ceremonies read his name as the winner of first prize."
+        },
+        {
+            "id": 58,
+            "phrase": "all and sundry",
+            "definition": "Cliché everyone; one and all. Cold drinks were served to all and sundry."
+        },
+        {
+            "id": 59,
+            "phrase": "all around Robin Hood’s barn",
+            "definition": "going somewhere by an indirect route; going way out of the way [to get somewhere]; by a long and circuitous route. We had to go all around Robin Hood’s barn to get to the little town."
+        },
+        {
+            "id": 60,
+            "phrase": "all at once",
+            "definition": "all at the same time. The entire group spoke all at once."
+        },
+        {
+            "id": 61,
+            "phrase": "(all) at sea (about something)",
+            "definition": "to be confused; to be lost and bewildered. (Alludes to being lost at sea.) _When it comes to higher math, John is totally at sea."
+        },
+        {
+            "id": 62,
+            "phrase": "*(all) balled up",
+            "definition": "troubled; confused; in a mess. (*Typically: be ~; get ~.) _ John is all balled up because his car was stolen."
+        },
+        {
+            "id": 63,
+            "phrase": "(all) beer and skittles",
+            "definition": "all fun and pleasure; easy and pleasant. (Skittles is the game of ninepins, a game similar to bowling. Fixed phrase.) _For Sam, college was beer and skittles. He wasted a lot of time and money."
+        },
+        {
+            "id": 64,
+            "phrase": "all better (now)",
+            "definition": "improved or cured. (Juvenile.) _ I fell off my tricycle and bumped my knee. Mommy kissed it, and it’s all better now."
+        },
+        {
+            "id": 65,
+            "phrase": "all by one’s lonesome",
+            "definition": "Rur. all alone; by oneself. Mary’s folks went out and left her all by her lonesome."
+        },
+        {
+            "id": 66,
+            "phrase": "All cats are gray in the dark.",
+            "definition": "Prov. When in the dark, appearances are meaningless, since everything is hard to see or unseen.  I don’t care if my date is ugly. All cats are gray in the dark."
+        },
+        {
+            "id": 67,
+            "phrase": "all day long",
+            "definition": "throughout the day; during the entire day.  We waited for you at the station all day long."
+        },
+        {
+            "id": 68,
+            "phrase": "*(all) dolled up",
+            "definition": "dressed up and well-groomed. (Usually used of females. *Typically: be ~; get ~.) _I have to get all dolled up for the dance tonight."
+        },
+        {
+            "id": 69,
+            "phrase": "*(all) dressed up",
+            "definition": "dressed in one’s best clothes; dressed formally. (*Typically: be ~; get ~; get someone ~.) _ I really hate to get all dressed up just to go somewhere to eat."
+        },
+        {
+            "id": 70,
+            "phrase": "all ears",
+            "definition": "listening eagerly and carefully.  Well, hurry up and tell me. I’m all ears."
+        },
+        {
+            "id": 71,
+            "phrase": "all eyes and ears",
+            "definition": "listening and watching eagerly and carefully.  Be careful what you say. The children are all eyes and ears.  Tell us quick. We are all eyes and ears!"
+        },
+        {
+            "id": 72,
+            "phrase": "(all) for the best",
+            "definition": "good in spite of the way it seems; better than you think or than it appears to be. (Often said when someone dies after a painful illness.) _ I’m very sorry to hear of the death of your aunt. Perhaps it’s for the best.  I didn’t get into the college I wanted, but I couldn’t afford it anyway. It’s probably all for the best."
+        },
+        {
+            "id": 73,
+            "phrase": "all gone",
+            "definition": "used up; finished; over with. Oh, the strawberry jelly is all gone.  We used to have wonderful parties, but those days are all gone."
+        },
+        {
+            "id": 74,
+            "phrase": "All good things must (come to an) end.",
+            "definition": "Prov. All experiences, even pleasant ones, eventually end. It’s time to leave the party, honey. All good things must end. We’ve had a lovely visit, but all good things must come to an end."
+        },
+        {
+            "id": 75,
+            "phrase": "all hell broke loose",
+            "definition": "all sorts of wild or terrible things happened.  When the boss left early for the weekend, all hell broke loose."
+        },
+        {
+            "id": 76,
+            "phrase": "*(all) het up",
+            "definition": "Rur. very angry or upset. (All “heated” up. *Typically: get ~; be ~.) _The boss got all het up when I said my project would be late. Jane gets real het up when folks tease her about her freckles."
+        },
+        {
+            "id": 77,
+            "phrase": "*all hours (of the day and night)",
+            "definition": "very late in the night or very early in the morning. (*Typically: until ~; till ~; at ~.) _ Why do you always stay out until all hours of the day and night? _I like to stay out till all hours."
+        },
+        {
+            "id": 78,
+            "phrase": "all in a day’s work",
+            "definition": "part of what is expected; typical or normal.  I don’t particularly like to cook, but it’s all in a day’s work. Cleaning up after other people is all in a day’s work for a busboy."
+        },
+        {
+            "id": 79,
+            "phrase": "all in all",
+            "definition": "considering everything that has happened; in summary and in spite of any unpleasantness.  All in all, it was a very good party.  All in all, I’m glad that I visited New York City."
+        },
+        {
+            "id": 80,
+            "phrase": "all in good time",
+            "definition": "at some future time; in the near future; in good time; soon. (This phrase is used to encourage people to be patient and wait quietly.) _ When will the baby be born? All in good time. Mary: I’m starved! When will Bill get here with the pizza? Tom: All in good time, Mary, all in good time."
+        },
+        {
+            "id": 81,
+            "phrase": "(all) in one breath",
+            "definition": "spoken very rapidly, usually while one is very excited.  Ann said all in one breath, “Hurry, quick! The parade is coming!” _ Jane was in a play, and she was so excited that she said her whole speech in one breath."
+        },
+        {
+            "id": 82,
+            "phrase": "all in one piece",
+            "definition": "safely; without damage.  Her son came home from school all in one piece, even though he had been in a fight.  The package was handled carelessly, but the vase inside arrived all in one piece."
+        },
+        {
+            "id": 83,
+            "phrase": "(all) in the family",
+            "definition": "restricted to one’s own family, as with private or embarrassing information.  Don’t tell anyone else. Please keep it all in the family.  He only told his brother because he wanted it to remain in the family."
+        },
+        {
+            "id": 84,
+            "phrase": "*all kinds of someone or something",
+            "definition": "a great number of people or things; a great amount of something, especially money. (*Typically: be ~; have ~.) _ There were all kinds of people there, probably thousands.  The Smith family has all kinds of money."
+        },
+        {
+            "id": 85,
+            "phrase": "all manner of someone or something",
+            "definition": "all types of people or things.  We saw all manner of people there. They came from every country in the world.  They were selling all manner of things in the country store."
+        },
+        {
+            "id": 86,
+            "phrase": "all my eye (and Betty Martin)",
+            "definition": "nonsense; not true.  Jane is always talking about her wonderful childhood, but it’s all my eye. He pretends to have great plans, but they’re all my eye and Betty Martin."
+        },
+        {
+            "id": 87,
+            "phrase": "all night long",
+            "definition": "throughout the whole night.  I couldn’t sleep all night long.  John was sick all night long."
+        },
+        {
+            "id": 88,
+            "phrase": "all of a size",
+            "definition": "Rur. all of the same size.  I tried to pick out the biggest tomato, but they were pretty much all of a size.  The houses in that neighborhood are all of a size."
+        },
+        {
+            "id": 89,
+            "phrase": "all of a sudden",
+            "definition": "suddenly.  All of a sudden lightning struck the tree we were sitting under.  I felt a sharp pain in my side all of a sudden."
+        },
+        {
+            "id": 90,
+            "phrase": "all or nothing",
+            "definition": "everything or nothing at all. Sally would not accept only part of the money. She wanted all or nothing.  I can’t bargain over trif les. I will have to have all or nothing."
+        },
+        {
+            "id": 91,
+            "phrase": "(all) over again",
+            "definition": "starting over completely again; going through something completely yet another time.  Do I have to go through this all over again? _ Please start over again for those who came in late."
+        },
+        {
+            "id": 92,
+            "phrase": "*all over (some place)",
+            "definition": "found in every place; available in all locations. (*Typically: be ~; spread ~.) _ The window shattered and shards of glass were all over the place.  There are ants all over the cake!"
+        },
+        {
+            "id": 93,
+            "phrase": "all over town",
+            "definition": "in many places in town.  Our dog got loose and ran all over town. Jane looked all over town for a dress to wear to the party."
+        },
+        {
+            "id": 94,
+            "phrase": "All right for you!",
+            "definition": "That’s the end of being friendly with you!; That’s the last chance for you! (Usually said by a child who is angry with a playmate.) _ All right for you, John. See if I ever play with you again.  All right for you! I’m telling your mother what you did."
+        },
+        {
+            "id": 95,
+            "phrase": "all right with someone",
+            "definition": "agreeable to someone.  If you want to ruin your life and marry Tom, it’s all right with me.  I’ll see if using the car is all right with my father."
+        },
+        {
+            "id": 96,
+            "phrase": "All righty.",
+            "definition": "Inf. All right.; OK.  Tom: Let’s go to the state fair. Bill: All righty, let’s do that.  Everybody ready? All righty, then, let’s get started."
+        },
+        {
+            "id": 97,
+            "phrase": "All right(y) already!",
+            "definition": "Inf. an impatient way of indicating agreement or acquiescence. Alice: All right already! Stop pushing me! Mary: I didn’t do anything! _ Bill: Come on! Get over here! Bob: All righty already! Don’t rush me!"
+        },
+        {
+            "id": 98,
+            "phrase": "All roads lead to Rome.",
+            "definition": "Prov. There are many different routes to the same goal.  Mary was criticizing the way that Jane was planting the f lowers. John said, “Never mind, Mary, all roads lead to Rome.” _ Some people learn by doing. Others have to be taught. In the long run, all roads lead to Rome."
+        },
+        {
+            "id": 99,
+            "phrase": "All’s fair in love and war.",
+            "definition": "Prov. Cliché In some situations, such as when you are in love or waging war, you are allowed to be deceitful in order to get what you want. (Often said as an excuse for deception.) _I cheated on the entrance exam, but I really want to get into that school, and all’s fair in love and war.  To get Judy to go out with him, Bob lied and told her that her boyfriend was seeing another woman. All’s fair in love and war."
+        },
+        {
+            "id": 100,
+            "phrase": "All’s well that ends well.",
+            "definition": "Prov. Cliché An event that has a good ending is good even if some things went wrong along the way. (This is the name of a play by Shakespeare.) _ I’m glad you finally got here, even though your car had a f lat tire on the way. Oh, well. All’s well that ends well.  The groom was late for the wedding, but everything worked out all right. All’s well that ends well."
+        },
+        {
+            "id": 101,
+            "phrase": "*all shook up",
+            "definition": "Sl. excited; disturbed and upset.  She stole my heart, and I’m all shook up.  They were all shook up after the accident."
+        },
+        {
+            "id": 102,
+            "phrase": "all show and no go",
+            "definition": "Sl. equipped with good looks but lacking action or energy. (Used to describe someone or something that looks good but does not perform as promised.) _That shiny car of Jim’s is all show and no go. He’s mighty handsome, but I hear he’s all show and no go."
+        },
+        {
+            "id": 103,
+            "phrase": "*all spruced up",
+            "definition": "freshened up; tidied up; cleaned up. (*Typically: be ~; get ~; get someone or something ~.) _ Let’s get the yard all spruced up for spring."
+        },
+        {
+            "id": 104,
+            "phrase": "all sweetness and light",
+            "definition": "Cliché very kind, innocent, and helpful.  She was mad at first, but after a while, she was all sweetness and light.  At the reception, the whole family was all sweetness and light, but they argued and fought after the guests left."
+        },
+        {
+            "id": 105,
+            "phrase": "All systems (are) go.",
+            "definition": "Cliché Everything is ready. (Originally said when preparing to launch a rocket.) _ The rocket is ready to blast off—all systems are go.  Tom: Are you guys ready to start playing? Bill: Sure, Tom, all systems go."
+        },
+        {
+            "id": 106,
+            "phrase": "all talk (and no action)",
+            "definition": "talking often about doing something, but never actually doing it.  The car needs washing, but Bill is all talk and no action on this matter.  Bill keeps saying he’ll get a job soon, but he’s all talk and no action.  Bill won’t do it. He’s just all talk."
+        },
+        {
+            "id": 107,
+            "phrase": "all the livelong day",
+            "definition": "all day long.  Well, of course you get to feeling stiff, sitting in front of a computer all the livelong day.  I’d go crazy if I had to stay at home all the livelong day."
+        },
+        {
+            "id": 108,
+            "phrase": "*all the marbles",
+            "definition": "all the winnings, spoils, or rewards. (*Typically: end up with ~; get ~; win ~; give someone ~.) _Somehow Fred always seems to end up with all the marbles. I don’t think he plays fair."
+        },
+        {
+            "id": 109,
+            "phrase": "all the rage",
+            "definition": "in current fashion; being a current fad.  A new dance called the “f loppy disc” is all the rage.  Wearing a rope instead of a belt was all the rage in those days."
+        },
+        {
+            "id": 110,
+            "phrase": "all the time",
+            "definition": "throughout a specific period of time.  Bill was stealing money for the last two years, and Tom knew it all the time.  All the time through December and January, Jane held down two jobs."
+        },
+        {
+            "id": 111,
+            "phrase": "all the way",
+            "definition": "from the beginning to the end; the entire distance, from start to finish.  The ladder reaches all the way to the top of the house.  I walked all the way home."
+        },
+        {
+            "id": 112,
+            "phrase": "all the way live",
+            "definition": "Sl. very exciting; excellent.  Man, this place is all the way live.  Oh, Tiffany is just, like, all the way live!"
+        },
+        {
+            "id": 113,
+            "phrase": "all there",
+            "definition": "alert, aware, and mentally sound. (Usually negative.) _ After talking with Larry today, I get the feeling that he’s not quite all there. You do such foolish things sometimes! I wonder if you’re all there."
+        },
+        {
+            "id": 114,
+            "phrase": "all thumbs",
+            "definition": "very awkward and clumsy, especially with one’s hands. Poor Bob can’t play the piano at all. He’s all thumbs. Mary is all thumbs when it comes to gardening."
+        },
+        {
+            "id": 115,
+            "phrase": "all to the good",
+            "definition": "for the best; to one’s benefit. He missed the train, but it was all to the good because the train had a wreck.  It was all to the good that he died without suffering."
+        },
+        {
+            "id": 116,
+            "phrase": "all told",
+            "definition": "totaled up; including all parts.  All told, he earned about $700 last week.  All told, he has many fine characteristics."
+        },
+        {
+            "id": 117,
+            "phrase": "*all tore up (about something)",
+            "definition": "Inf. very upset and sorry about something. (The correct torn can also be used. *Typically: be ~; get ~.) _When Jim’s dog was lost, he was all tore up about it. I’m all tore up about denting your car like that. I’d be more than happy to pay for fixing it."
+        },
+        {
+            "id": 118,
+            "phrase": "*(all) tuckered out",
+            "definition": "Rur. tired out; worn out. (*Typically: be ~; get ~.) _ Poor John worked so hard that he’s all tuckered out. Look at that little baby sleeping. She’s really tuckered out."
+        },
+        {
+            "id": 119,
+            "phrase": "all vine and no taters",
+            "definition": "Rur. to be all display with no real value.  She’s a good-looking woman, but really she’s all vine and no taters.  Don’t be fooled by Jim’s f lowery promises. They’re all vine and no taters."
+        },
+        {
+            "id": 120,
+            "phrase": "all walks of life",
+            "definition": "all social, economic, and ethnic groups.  We saw people at the airport from all walks of life. The people who came to the street fair represented all walks of life."
+        },
+        {
+            "id": 121,
+            "phrase": "(all) well and good",
+            "definition": "good; desirable. It’s well and good that you’re here on time. I was afraid you’d be late again.  It’s all well and good that you’re passing English, but what about math and science?"
+        },
+        {
+            "id": 122,
+            "phrase": "all wet",
+            "definition": "completely wet.  I fell in and got all wet."
+        },
+        {
+            "id": 123,
+            "phrase": "all wool and a yard wide",
+            "definition": "trustworthy and genuinely good. (A description of good quality wool cloth.) _ Mary’s a fine human being—all wool and a yard wide. I won’t hear a word against Bill. He’s all wool and a yard wide."
+        },
+        {
+            "id": 124,
+            "phrase": "all wool and no shoddy",
+            "definition": "Rur. one hundred percent good quality. Everything Mary sells is the best there is, all wool and no shoddy. John’s a good man through and through— all wool and no shoddy."
+        },
+        {
+            "id": 125,
+            "phrase": "All work and no play makes Jack a dull boy.",
+            "definition": "Prov. It is not healthy for someone to work all the time and never play. (Often used to exhort someone to stop working, or to justify why you have stopped working. You can substitute the name of the person you are addressing for Jack.) _ Don’t come to the office this weekend. All work and no play makes Jack a dull boy.  I’d like to take a week’s vacation next month. All work and no play makes Jack a dull boy."
+        },
+        {
+            "id": 126,
+            "phrase": "all year round",
+            "definition": "throughout all the seasons of the year; during the entire year.  The public swimming pool is enclosed so that it can be used all year round. In the South they can grow f lowers all year round."
+        },
+        {
+            "id": 127,
+            "phrase": "allot something to someone or something",
+            "definition": "to give or assign something to someone or something.  We will allot a share of the proceeds to charity.  I allotted a small portion of the work to Fred."
+        },
+        {
+            "id": 128,
+            "phrase": "*an all-out effort",
+            "definition": "a very good and thorough effort. (*Typically: begin ~; have ~; make ~; start ~.) _We need to make an all-out effort to get this job done on time.  The government began an all-out effort to reduce the federal budget."
+        },
+        {
+            "id": 129,
+            "phrase": "all-out war",
+            "definition": "total war, as opposed to limited military actions or threats of war.  We are now concerned about all-out war in the Middle East.  Threats of all-out war caused many tourists to leave the country immediately."
+        },
+        {
+            "id": 130,
+            "phrase": "allow for someone or something",
+            "definition": "1. to plan on having enough of something (such as food, space, etc.) for someone. Mary is bringing Bill on the picnic, so be sure to allow for him when buying the food.  Allow for an extra person when setting the table tonight. 2. to plan on the possibility of something.  Allow for a few rainy days on your vacation.  Be sure to allow for future growth when you plant the rosebushes."
+        },
+        {
+            "id": 131,
+            "phrase": "allow someone up (from something)",
+            "definition": "to permit someone to arise or get up. (Fixed phrase.) _ He knocked Peter down and would not allow him up from the ground. The doctor won’t allow you up!"
+        },
+        {
+            "id": 132,
+            "phrase": "allow something for something",
+            "definition": "1. to allocate a share or a suitable amount of something, such as time, money, space, etc., for some activity or goal.  I allowed only an hour for lunch.  They did not allow enough money for their expenditures this month. 2. to give consideration to circumstances or contingencies.  We allowed room for expansion when we designed the building.  Allowing for his youth and lack of experience, I forgave him completely for his oversight."
+        },
+        {
+            "id": 133,
+            "phrase": "alloy something with something",
+            "definition": "to combine one molten metal into another molten metal.  Is it possible to alloy copper with nickel? _ The copper has been alloyed with nickel."
+        },
+        {
+            "id": 134,
+            "phrase": "allude to someone or something",
+            "definition": "to refer to someone or something; to make an implication about someone or something. I did not mean to allude to someone you disliked so much.  I alluded to the accident only once."
+        },
+        {
+            "id": 135,
+            "phrase": "ally oneself to someone or something",
+            "definition": "to unite or affiliate oneself with someone or something. She sought to ally herself to the older members. Jane allied herself to the teacher almost immediately."
+        },
+        {
+            "id": 136,
+            "phrase": "ally (oneself) (with someone) (against someone or something)",
+            "definition": "to unite with someone in opposition to someone or something. Sally allied herself with John against the committee. We allied with the older ones against the younger ones.  They allied themselves against the attackers."
+        },
+        {
+            "id": 137,
+            "phrase": "the almighty dollar",
+            "definition": "the U.S. dollar, or the acquisition of money, when viewed as more important than anything else.  Bill was a slave to the almighty dollar.  It’s the almighty dollar that drives Wall Street thinking."
+        },
+        {
+            "id": 138,
+            "phrase": "almost lost it",
+            "definition": "to nearly lose one’s temper, composure, or control, as out of anger.  I was so mad, I almost lost it.  When he saw the dent in his fender, he almost lost it."
+        },
+        {
+            "id": 139,
+            "phrase": "(a)long about a certain time",
+            "definition": "near a particular time.  We arrived in town long about midnight and went right to the hotel.  Along about his thirteenth birthday, Tom decided he was old enough to leave home."
+        },
+        {
+            "id": 140,
+            "phrase": "along with someone or something",
+            "definition": "in addition to someone or something; together with someone or something.  Jane went to the mall along with David. I ate some chocolates along with some fruit."
+        },
+        {
+            "id": 141,
+            "phrase": "alongside (of ) someone or something",
+            "definition": "as compared with a person or a thing. (The things being compared need not be beside one another. Of is normally used before pronouns.) _ Our car looks quite small alongside of theirs.  My power of concentration is quite limited alongside of yours."
+        },
+        {
+            "id": 142,
+            "phrase": "*aloof from someone or something",
+            "definition": "being remote or distant from someone or something. (*Typically: be ~; keep ~; remain ~; stay ~.) _She tends to keep aloof from the rest of us. Ken stays aloof from other committee members between meetings."
+        },
+        {
+            "id": 143,
+            "phrase": "alpha and omega",
+            "definition": "both the beginning and the end; the essentials, from the beginning to the end; everything, from the beginning to the end.  He was forced to learn the alpha and omega of corporate law in order to even talk to the lawyers. He loved her deeply. She was his alpha and omega."
+        },
+        {
+            "id": 144,
+            "phrase": "alphabet soup",
+            "definition": "initialisms and acronyms, especially when used excessively.  The names of these government agencies are just alphabet soup. Just look at the telephone book! You can’t find anything because it’s filled with alphabet soup."
+        },
+        {
+            "id": 145,
+            "phrase": "also-ran",
+            "definition": "someone of no significance. (From horse racing, used of a horse that finishes a race but that does not finish among the money winners.) _ Oh, he’s just another also-ran.  Ignore the also-rans."
+        },
+        {
+            "id": 146,
+            "phrase": "alternate with something",
+            "definition": "1. [for someone] to serve as a substitute for someone. I alternated with Fred as the lead in the school play.  They asked Harry to alternate with Ron on the team. 2. [for something] to appear repetitively and regularly in a sequence with something else. (For instance, A alternates with B in the sequence ABABAB.) _ In this design the straight lines alternate with the circles.  The red dots alternate with the blue ones."
+        },
+        {
+            "id": 147,
+            "phrase": "always chasing rainbows",
+            "definition": "tending to look for something (more) exciting and (more) rewarding but without realistic expectations.  He can’t seem to settle down and enjoy life. He’s always chasing rainbows."
+        },
+        {
+            "id": 148,
+            "phrase": "Am I glad to see you!",
+            "definition": "I am very glad to see you! (Not a question. There is a stress on I and another on you.) _Bill: Well, I finally got here! John: Wow! Am I glad to see you! _ Tom (as Bill opens the door): Here I am, Bill. What’s wrong? Bill: Boy, am I glad to see you! I need your help right now."
+        },
+        {
+            "id": 149,
+            "phrase": "Am I right?",
+            "definition": "Inf. Isn’t that so? Right? (A way of demanding a response and stimulating further conversation.) _ John: Now, this is the kind of thing we should be doing. Am I right? Sue: Well, sure. I guess.  Fred: You don’t want to do this for the rest of your life. Am I right? Bob: Yeah. Fred: You want to make something of yourself. Am I right? Bob: I suppose."
+        },
+        {
+            "id": 150,
+            "phrase": "amalgamate something with something",
+            "definition": "to unite something with something else; to merge two things. We will amalgamate this company with another firm.  How long has our local been amalgamated with the national union?"
+        },
+        {
+            "id": 151,
+            "phrase": "amalgamate with something",
+            "definition": "to join with something; to merge with something.  Our group decided to amalgamate with another group.  The groups did not amalgamate after all."
+        },
+        {
+            "id": 152,
+            "phrase": "amble along (something)",
+            "definition": "to walk along slowly and casually somewhere.  They ambled along the path.  I was just ambling along, minding my own business, when I tripped."
+        },
+        {
+            "id": 153,
+            "phrase": "ambulance chaser",
+            "definition": "a lawyer who hurries to the scene of an accident to try to get business from injured persons.  The insurance companies are cracking down on ambulance chasers."
+        },
+        {
+            "id": 154,
+            "phrase": "*American as apple pie",
+            "definition": "Cliché quintessentially American. (*Also: as ~.) _ A small house with a white picket fence is supposed to be as American as apple pie."
+        },
+        {
+            "id": 155,
+            "phrase": "amount to much",
+            "definition": "to be as good as something; to be any good. His fine plans don’t amount to much, since he won’t work for them. (Usually negative.) _ She’s a nice girl, but she’ll never amount to much."
+        },
+        {
+            "id": 156,
+            "phrase": "amuse someone with something",
+            "definition": "to entertain or interest someone with something.  Try to amuse the child with this little toy. She was able to amuse herself with the puzzle for a while."
+        },
+        {
+            "id": 157,
+            "phrase": "ancient history",
+            "definition": "someone or something from so long ago as to be completely forgotten or no longer important, as a former relationship.  Bob? I never think about Bob anymore. He’s ancient history.  His interest in joining the army is now ancient history."
+        },
+        {
+            "id": 158,
+            "phrase": "and all that jazz",
+            "definition": "and all that stuff; and all that nonsense.  I need some glue, paper, string, and all that jazz to make a kite.  She told me I was selfish, hateful, rude, ugly, and all that jazz."
+        },
+        {
+            "id": 159,
+            "phrase": "and change",
+            "definition": "plus a few cents; plus a few hundredths. (Used in citing a price or other decimal figure to indicate an additional fraction of a full unit.) _This one only costs ten bucks and change. The New York Stock Exchange was up seven points and change for the third broken record this week."
+        },
+        {
+            "id": 160,
+            "phrase": "And how!",
+            "definition": "Inf. I agree! _ I am really excited you are here. And how! _ Bill: I am pleased you are here. Bob: Me, too! And how!"
+        },
+        {
+            "id": 161,
+            "phrase": "and that’s a fact",
+            "definition": "and that is true. (Used to emphasize a statement.) _John ain’t no friend of mine, and that’s a fact.  I’ll be glad when this day is over, and that’s a fact."
+        },
+        {
+            "id": 162,
+            "phrase": "And that’s that.",
+            "definition": "That is final and nothing more needs to be said.  I refuse to go with you and that’s that!"
+        },
+        {
+            "id": 163,
+            "phrase": "and the like",
+            "definition": "and other similar things.  Whenever we go on a picnic, we take potato chips, hot dogs, soda pop, and the like. I’m very tired of being yelled at, pushed around, and the like."
+        },
+        {
+            "id": 164,
+            "phrase": "and then some",
+            "definition": "and even more; and more than has been mentioned.  John is going to have to run like a deer and then some to win this race.  The cook put the amount of salt called for into the soup and then some."
+        },
+        {
+            "id": 165,
+            "phrase": "and this and that",
+            "definition": "and more; and other miscellaneous things.  Mom sent me some pillowcases, some sheets, a couple of blankets, and this and that.  The repairman tightened some screws, fiddled with some bolts, and this and that."
+        },
+        {
+            "id": 166,
+            "phrase": "and what have you",
+            "definition": "and more things; and other various things.  Their garage is full of bikes, sleds, old boots, and what have you.  The merchant sells writing paper, pens, string, and what have you."
+        },
+        {
+            "id": 167,
+            "phrase": "angle for something",
+            "definition": "to fish for something, as with a fishhook and line.  Fred was angling for a big bass.  I am angling for whatever I can catch."
+        },
+        {
+            "id": 168,
+            "phrase": "angle off (to(ward) something)",
+            "definition": "to turn or move toward something at an angle.  The road angles off to the right. The sailboat angled off toward the direction the wind was blowing."
+        },
+        {
+            "id": 169,
+            "phrase": "annex something to something",
+            "definition": "[for a governmental body of a town or city] to attach a parcel of land onto an existing parcel of land through legal proceedings.  The village annexed some adjacent land to itself.  The adjoining lot was annexed to the site to allow for a bigger building."
+        },
+        {
+            "id": 170,
+            "phrase": "annex to something",
+            "definition": "[for the owner of a parcel of land] to have land attached to an adjacent town or city.  Our community doesn’t want to annex to Adamsville.  The town voted to annex to the neighboring city of Smithton."
+        },
+        {
+            "id": 171,
+            "phrase": "announce (one’s support) for someone or something",
+            "definition": "to declare one’s political support for someone or something.  The senator announced for the Supreme Court nominee.  Our club announced for the incumbent candidate."
+        },
+        {
+            "id": 172,
+            "phrase": "announce something to someone",
+            "definition": "to tell something publicly to someone.  The president announced his nominee for attorney general to the media.  When was the news announced to the public?"
+        },
+        {
+            "id": 173,
+            "phrase": "anoint someone with something",
+            "definition": "to pour or rub oil on a person’s head as an honor or blessing; to put a liquid onto oneself. (Mostly in biblical references.) _ They anointed the king with oil and praised him greatly.  He anointed himself with a menthol rub that was meant to help his cold symptoms."
+        },
+        {
+            "id": 174,
+            "phrase": "another country heard from",
+            "definition": "yet another person adds to the conversation. Used when someone joins a discussion other people are having, especially unexpectedly. (Used sarcastically, implying that the new speaker is not welcome in the discussion.) _ Alan: You ought to take a vacation tomorrow. You really look tired. Fred: I am not tired and I don’t need a vacation. Jane: But you do seem awfully short-tempered. Fred: Well, well, another country heard from! _ Brother: Let’s go to the movies. Father: I’m too busy to drive you to the movies. Sister: I want to go to the movies, too. Let’s go to the movies! Father: Oh, splendid. Another country heard from."
+        },
+        {
+            "id": 175,
+            "phrase": "(another) nail in someone’s or something’s coffin",
+            "definition": "something that will harm or destroy someone or something. (Alludes to the sealing of a coffin with nails.) _ Every word of criticism that Bob said about the boss was another nail in his coffin.  Losing their biggest customer was the final nail in the company’s coffin."
+        },
+        {
+            "id": 176,
+            "phrase": "answer for someone",
+            "definition": "to speak for another person.  I can’t answer for Chuck, but I do have my own opinion. I will answer for my friend in his absence."
+        },
+        {
+            "id": 177,
+            "phrase": "answer for someone or something",
+            "definition": "to explain or justify the actions of someone or some act; to take responsibility or blame for someone or something.  You will have to answer for your children’s bad behavior.  I will answer only for my own misdeeds."
+        },
+        {
+            "id": 178,
+            "phrase": "answer the door",
+            "definition": "[after hearing the doorbell or a knock] to go to the door to see who is there. Would you please answer the door. I am busy. I wish someone would answer the door. I can’t stand to hear the knocking."
+        },
+        {
+            "id": 179,
+            "phrase": "answer to someone",
+            "definition": "1. Fig. to explain or justify one’s actions to someone. (Usually with have to.) _If John can- not behave properly, he’ll have to answer to me.  The car thief will have to answer to the judge. 2. Fig. [in the hierarchy of the workplace] to be under the supervision of someone; to report to someone. You will answer directly to Mr. Wright.  I answer only to the boss."
+        },
+        {
+            "id": 180,
+            "phrase": "answer to the description of someone",
+            "definition": "to match a particular set of physical or facial characteristics. Chuck answers to the description his sister gave us.  The man in police custody answers to the description of the burglar."
+        },
+        {
+            "id": 181,
+            "phrase": "answer to the name (of ) something",
+            "definition": "to respond to a particular name.  I answer to the name Walter.  She answers to the name of Claire."
+        },
+        {
+            "id": 182,
+            "phrase": "*ants in one’s pants",
+            "definition": "nervousness and agitation. (on the image of someone suffering great discomfort as if having actual ants in the pants. *Typically: get ~; have ~; give one ~.) _I always get ants in my pants before a test.  I wonder if all actors get ants in their pants before they go onstage."
+        },
+        {
+            "id": 183,
+            "phrase": "any fool thing",
+            "definition": "any ridiculous thing; anything that should be viewed as unimportant.  He’ll buy his wife any fool thing she wants.  Bill can get distracted by any fool thing."
+        },
+        {
+            "id": 184,
+            "phrase": "Any friend of someone(‘s) (is a friend of mine).",
+            "definition": "Cliché. I am always pleased to meet a friend of someone I know. (A pleasant response when meeting or being introduced to a friend of a friend.) _Fred: Well, nice to meet you, Tom. Any friend of my brother is a friend of mine. Tom: Thanks, Fred. Nice to meet you too.  John: Thank you so much for helping me find Sue’s address. Sally: You’re welcome. Any friend of Sue’s."
+        },
+        {
+            "id": 185,
+            "phrase": "any number of someone or something",
+            "definition": "a large number; a sufficiently large number. (Used when the exact number is not important.) _ Any number of people can vouch for my honesty.  I can give you any number of reasons why I should join the army.  I ate at that diner any number of times and never became ill."
+        },
+        {
+            "id": 186,
+            "phrase": "any old thing",
+            "definition": "just anything, not necessarily old.  Just give me one. I don’t care which. Just give me any old thing."
+        },
+        {
+            "id": 187,
+            "phrase": "any port in a storm",
+            "definition": "when one is having serious trouble, one must accept any solution, whether one likes the solution or not. I don’t want to live with my parents, but it’s a case of any port in a storm. I can’t find an apartment I can afford.  He hates his job, but he can’t get another. Any port in a storm, you know."
+        },
+        {
+            "id": 188,
+            "phrase": "Anything new down your way?",
+            "definition": "Rur. Has any interesting event happened where you live? _ Bill: Anything new down your way? Bob: Nothing worth talking about.  Mary: Hi, Sally. Anything new down your way? Sally: No, what’s new with you? Mary: Nothing much."
+        },
+        {
+            "id": 189,
+            "phrase": "Anything you say.",
+            "definition": "Yes.; I agree.  Mary: Will you please take these blouses over to the cleaners? Bill: Sure, anything you say.  Mother: You’re going to finish your homework before you watch TV, right? Child: Anything you say, Mom."
+        },
+        {
+            "id": 190,
+            "phrase": "apologize (to someone) (for someone)",
+            "definition": "to make an apology to someone for someone else’s actions.  Would you please apologize to Wally for Tom? _I apologized for Frank to the hostess.  I had to apologize for Frank.  I had to apologize to the hostess.  He was never able to apologize to himself for his past errors."
+        },
+        {
+            "id": 191,
+            "phrase": "appeal against something",
+            "definition": "to ask a court of appeals to change a ruling made by a lower court.  My lawyer appealed against the judgment.  We will file an appeal against the court ruling."
+        },
+        {
+            "id": 192,
+            "phrase": "appeal (to a court) (for something)",
+            "definition": "to plead to a court of appeals for a favorable ruling.  She appealed to the court for a retrial. She appealed for an injunction to the circuit court.  She appealed for a retrial."
+        },
+        {
+            "id": 193,
+            "phrase": "appeal to someone",
+            "definition": "to please or attract someone.  Fast food doesn’t appeal to me.  The idea of a vacation to Florida this winter appeals to me a lot."
+        },
+        {
+            "id": 194,
+            "phrase": "appear as something",
+            "definition": "1. to act a certain part in a play, opera, etc.  Madame Smith-Franklin appeared as Carmen at the City Opera last season.  The actor refused to appear as a villain in the play. 2. [for something] to be seen or occur in a particular form or with particular characteristics. The tumors appear as shadows on the X-ray.  The first signs of the disease appear as a fever and a rash."
+        },
+        {
+            "id": 195,
+            "phrase": "appear at some place",
+            "definition": "to perform at a particular place.  She is appearing at the Bijou all month.  I will appear at Carnegie Hall soon."
+        },
+        {
+            "id": 196,
+            "phrase": "appear at some time",
+            "definition": "to arrive at a particular time.  I am due to appear at the council at noon.  I will appear at the meeting whenever my plane gets in."
+        },
+        {
+            "id": 197,
+            "phrase": "appear before someone",
+            "definition": "1. to show up in the presence of someone, suddenly. The deer appeared before us with no sound or other warning.  A frightful specter appeared before me. 2. to have a trial or hearing with a particular judge or court.  You have to appear before Judge Cahill tomorrow.  Have you ever appeared before the Supreme Court?"
+        },
+        {
+            "id": 198,
+            "phrase": "appear before something",
+            "definition": "to arrive in advance of the appointed time or before some event.  Please appear at least ten minutes before you are due.  It is best to appear shortly before the time of your interview."
+        },
+        {
+            "id": 199,
+            "phrase": "appear for someone",
+            "definition": "to represent or substitute for a person who is absent.  I will appear for you in the council.  Who is going to appear for my lawyer, who is ill?"
+        },
+        {
+            "id": 200,
+            "phrase": "appear in court",
+            "definition": "to go to a court of law as a participant.  She has to appear in court tomorrow.  I have to appear in court for my traffic violation."
+        },
+        {
+            "id": 201,
+            "phrase": "appear in something",
+            "definition": "1. to be seen in some performance.  The singer will appear in the opera with the rest of the chorus.  I will appear in Aida. 2. to be seen wearing something. I wouldn’t appear in that in public! _Would you want to appear in a wrinkled suit?"
+        },
+        {
+            "id": 202,
+            "phrase": "appear to someone",
+            "definition": "[for something] to make an appearance before someone. My late grandmother appeared to me in a dream."
+        },
+        {
+            "id": 203,
+            "phrase": "appear to someone that...",
+            "definition": "to seem to someone that...  It appears to me that you are always late."
+        },
+        {
+            "id": 204,
+            "phrase": "appear under the name of some name",
+            "definition": "[for an actor] to perform under a special name.  She is appearing under the name of Fifi.  I appeared under the stage name Rex Righteous."
+        },
+        {
+            "id": 205,
+            "phrase": "appear (up)on something",
+            "definition": "to arrive and be seen on something. (Upon is more formal and less commonly used than on.) _ A f ly appeared on the sterile bandages.  A small bird appeared on our mailbox."
+        },
+        {
+            "id": 206,
+            "phrase": "Appearances can be deceiving.",
+            "definition": "Prov. Things can look different from the way they really are.  Edward seems like a very nice boy, but appearances can be deceiving.  Jane may look like she doesn’t understand you, but she’s really extremely bright. Appearances can be deceiving."
+        },
+        {
+            "id": 207,
+            "phrase": "append something (on)to something",
+            "definition": "to attach something to something; to hang something onto something.  Please append these tassels onto the hem of your coat.  Append this sentence to the last paragraph."
+        },
+        {
+            "id": 208,
+            "phrase": "appertain to something",
+            "definition": "[of a responsibility or privilege] to belong to something as a right. Do these rights appertain to a third cousin of the deceased? _ The statement doesn’t make sense. It appertains to no one as it is stated."
+        },
+        {
+            "id": 209,
+            "phrase": "An apple a day keeps the doctor away.",
+            "definition": "Prov. Apples are so nutritious that if you eat an apple every day, you will not ever need to go to a doctor.  Remember to take an apple in your lunch today. An apple a day keeps the doctor away.  Grandma always fed us lots of apples when we visited her. She believed that an apple a day keeps the doctor away."
+        },
+        {
+            "id": 210,
+            "phrase": "the apple of someone’s eye",
+            "definition": "someone’s favorite person or thing; a boyfriend or a girlfriend. Tom is the apple of Mary’s eye. She thinks he’s the greatest.  John’s new car is the apple of his eye."
+        },
+        {
+            "id": 211,
+            "phrase": "apple-polisher",
+            "definition": "a flatterer.  Doesn’t that wimpy apple-polisher know how stupid he looks? _ Everybody at my office seems to be an apple-polisher but me."
+        },
+        {
+            "id": 212,
+            "phrase": "apples and oranges",
+            "definition": "two entities that are not similar. (Used especially in reference to comparisons of unlike things.) _ You can’t talk about Fred and Ted in the same breath! They’re like apples and oranges. Talking about her current book and her previous bestseller is like comparing apples and oranges."
+        },
+        {
+            "id": 213,
+            "phrase": "apply oneself to something",
+            "definition": "to work hard and diligently at something.  You should apply yourself to your studies.  She applied herself to her work and the time passed very rapidly."
+        },
+        {
+            "id": 214,
+            "phrase": "apply something to something",
+            "definition": "to put something onto the surface of something.  Apply the decal to the surface of the glass. Apply the paint evenly to each surface."
+        },
+        {
+            "id": 215,
+            "phrase": "apply to someone or something",
+            "definition": "[for rules, laws, etc.] to affect someone or something; to be relevant to someone or something.  Does this rule apply to me? _ These policies apply only to very large companies."
+        },
+        {
+            "id": 216,
+            "phrase": "apply (to someone or something) (for something)",
+            "definition": "to ask for something from someone or an organization. You must apply to the proper office for permission. I applied to seven colleges for admission."
+        },
+        {
+            "id": 217,
+            "phrase": "apply within",
+            "definition": "to ask about something [inside some place]. (Usually part of a sign or announcement posted outside a place.) _The sign outside the office read,“Apply within.” _If you are interested in working here, please apply within."
+        },
+        {
+            "id": 218,
+            "phrase": "appoint someone to something",
+            "definition": "to select or assign someone to serve in a particular role. (Usually focusing on the role of the person or on a group of persons with similar roles.) _ I am going to appoint you to the position of treasurer.  Fred tried to appoint himself to the board of directors, but it violated the by-laws."
+        },
+        {
+            "id": 219,
+            "phrase": "apportion something out† (among some people)",
+            "definition": "to divide something and distribute it among people.  He apportioned the cake out among the guests. He apportioned out the applications among all those in the waiting room."
+        },
+        {
+            "id": 220,
+            "phrase": "appraise something at something",
+            "definition": "to study something and place a monetary value on it.  They appraised the house at twice what it is worth. The diamond ring was appraised at a very high price."
+        },
+        {
+            "id": 221,
+            "phrase": "apprentice someone to someone",
+            "definition": "to assign someone to work at a certain trade and learn it from someone experienced.  She apprenticed her son to a local diesel mechanic.  I apprenticed myself to a printer and learned what it means to get really dirty."
+        },
+        {
+            "id": 222,
+            "phrase": "apprise someone of something",
+            "definition": "to inform someone of something. I hope you will apprise me of any change. Have you been apprised of the new rule?"
+        },
+        {
+            "id": 223,
+            "phrase": "approach someone about someone or something",
+            "definition": "to ask someone about someone or something, usually with tact and caution.  Wally has been acting strangely. I will approach Judy about him. She approached Tom about the broken window."
+        },
+        {
+            "id": 224,
+            "phrase": "appropriate something for something",
+            "definition": "1. to allot a certain amount of money for a particular purpose.  They will appropriate $10,000 for the exhibit at the fair.  A large sum was appropriated for the expenses. 2. Euph. to take something [from someone else] and use it as something else or for a purpose different from what was intended. Walter appropriated a truck for an ambulance.  It was necessary to appropriate your laptop for connecting to the Internet."
+        },
+        {
+            "id": 225,
+            "phrase": "approve of someone or something",
+            "definition": "to take a favorable view of someone or something. I approve of the way you have remodeled the kitchen.  I don’t approve of your foul language."
+        },
+        {
+            "id": 226,
+            "phrase": "April showers bring May flowers.",
+            "definition": "Prov. Although rain in April is annoying, it starts the flowers growing.  Child: I hate all this rain. Why does it have to rain? Mother: April showers bring May f lowers.  Although it was a dreary, rainy day, we felt cheerful, since April showers bring May f lowers."
+        },
+        {
+            "id": 227,
+            "phrase": "arbitrate between someone and someone else",
+            "definition": "to mediate between two disagreeing parties; to help two disagreeing parties to resolve their differences.  Jane was called upon to arbitrate between the workers and the manager.  I arbitrated between Fred and his ex-wife."
+        },
+        {
+            "id": 228,
+            "phrase": "arbitrate in a dispute",
+            "definition": "to mediate or negotiate a settlement in a dispute.  She refuses to arbitrate in this dispute.  I will arbitrate in this little disagreement."
+        },
+        {
+            "id": 229,
+            "phrase": "arch (oneself) over",
+            "definition": "to bend or curve over. (Oneself includes itself.) _ The tree arched over in the wind.  Arch yourself over gracefully and then straighten up.  The tree arched itself over in the windstorm."
+        },
+        {
+            "id": 230,
+            "phrase": "arch over someone or something",
+            "definition": "to bend or curve over someone or something; to stand or remain bent or curved over someone or something. The trees arched gracefully over the walkway. A lovely bower of roses arched over the bride."
+        },
+        {
+            "id": 231,
+            "phrase": "arch something over someone or something",
+            "definition": "to place something above someone or something to form an arch or archway.  The cadets arched their swords over the bridal couple. The willow arched its long drooping branches over the tiny cabin."
+        },
+        {
+            "id": 232,
+            "phrase": "(Are) things getting you down?",
+            "definition": "Are everyday issues bothering you? _Jane: Gee, Mary, you look sad. Are things getting you down? _ Tom: What’s the matter, Bob? Things getting you down? Bob: No, I’m just a little tired."
+        },
+        {
+            "id": 233,
+            "phrase": "(Are you) feeling okay?",
+            "definition": "Do you feel well? _ Tom: Are you feeling okay? Bill: Oh, fair to middling.  Susan: Are you feeling okay? Mary: I’m still a little dizzy, but it will pass."
+        },
+        {
+            "id": 234,
+            "phrase": "(Are you) going my way?",
+            "definition": "If you are traveling in the direction of my destination, could I please go with you or can I have a ride in your car? _ Mary: Are you going my way? Sally: Sure. Get in.  “Going my way?” said Tom as he saw Mary turn toward him."
+        },
+        {
+            "id": 235,
+            "phrase": "(Are you) ready for this?",
+            "definition": "a way of presenting a piece of news or information that is expected to excite or surprise the person spoken to.  Tom: Boy, do I have something to tell you! Are you ready for this? Mary: Sure. Let me have it! _ Tom: Now, here’s a great joke! Are you ready for this? It is so funny! Alice: I can hardly wait."
+        },
+        {
+            "id": 236,
+            "phrase": "(Are you) ready to order?",
+            "definition": "Would you please tell me what you want as your meal? (A standard phrase used in eating establishments to find out what a customer wants to eat.) _The waitress came over and asked, “Are you ready to order?” _ Tom: I know what I want. What about you, Sally? Are you ready to order? Sally: Don’t rush me!"
+        },
+        {
+            "id": 237,
+            "phrase": "(Are you) sorry you asked?",
+            "definition": "Now that you have heard (the unpleasant answer), do you regret having asked the question? (Compare this with You’ll be sorry you asked.) _ Father: How are you doing in school? Bill: I’m f lunking out. Sorry you asked? _Mother: You’ve been looking a little down lately. Is there anything wrong? Bill: I probably have the f lu. Are you sorry you asked?"
+        },
+        {
+            "id": 238,
+            "phrase": "argue against someone or something",
+            "definition": "[for someone] to make a case against someone or something; to oppose the choice of someone or something in an argument.  I am preparing myself to argue against the case. Liz argued against Tom as the new president, but we chose him anyway."
+        },
+        {
+            "id": 239,
+            "phrase": "argue back",
+            "definition": "to argue with or oppose someone; to answer back (to someone); to talk back (to someone). (Usually said of persons who are supposed to listen and obey without comment.) _ Please don’t argue back all the time.  I wish you children did not argue back so much."
+        },
+        {
+            "id": 240,
+            "phrase": "argue for someone or something",
+            "definition": "to make a case in favor of someone or something; to speak on behalf of someone or something in an argument.  Are you prepared to argue strongly for this proposal? _ We will argue for our candidate in the debate."
+        },
+        {
+            "id": 241,
+            "phrase": "argue someone down†",
+            "definition": "to defeat someone in a debate.  Sally could always argue him down if she had to. She tries to argue down everyone she meets."
+        },
+        {
+            "id": 242,
+            "phrase": "argue someone into doing something",
+            "definition": "to convince or persuade someone to do something.  She was unable to argue the manager into attending.  She was unable to argue herself into doing something so unpleasant."
+        },
+        {
+            "id": 243,
+            "phrase": "argue something down†",
+            "definition": "to reduce something, such as a bill or a price, by arguing.  I tried to argue the price down, but it did no good.  Tom could not argue down the bill."
+        },
+        {
+            "id": 244,
+            "phrase": "argue something out†",
+            "definition": "to settle something by discussing all the important points. We are going to have to argue this out some other time. Must we argue out every single detail of this contract?"
+        },
+        {
+            "id": 245,
+            "phrase": "argue with something",
+            "definition": "to challenge or dispute something; to dispute someone’s statement of fact.  I won’t argue with your conclusions.  It is not a good idea to argue with the facts."
+        },
+        {
+            "id": 246,
+            "phrase": "*arm in arm",
+            "definition": "[of persons] linked or hooked together by the arms. (*Typically: go ~; stroll ~; walk ~.) _ The two lovers walked arm in arm down the street. They skated arm in arm around the rink."
+        },
+        {
+            "id": 247,
+            "phrase": "arm (someone against someone or something) (with something)",
+            "definition": "to equip someone with whatever is needed to fight against someone or something.  They armed themselves against the enemy with guns and ammunition.  The government armed the soldiers with the new guns."
+        },
+        {
+            "id": 248,
+            "phrase": "*armed and dangerous",
+            "definition": "Cliché [of someone who is suspected of a crime] having a gun or other lethal weapon and not being reluctant to use it. (This is part of a warning to police officers who might try to capture an armed suspect. *Typically: be ~; be regarded as ~; be presumed to be ~.) _ The murderer is at large, presumed to be armed and dangerous. The suspect has killed once and is armed and dangerous."
+        },
+        {
+            "id": 249,
+            "phrase": "armed to the teeth",
+            "definition": "heavily armed with deadly weapons.  The bank robber was armed to the teeth when he was caught.  There are too many guns around. The entire country is armed to the teeth."
+        }
+    ]
+}

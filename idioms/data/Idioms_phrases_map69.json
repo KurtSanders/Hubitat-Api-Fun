@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "see someone back (to something)",
+            "definition": "to accompany someone back to something or some place.  I saw her back to her apartment.  I will see her back safely."
+        },
+        {
+            "id": 1,
+            "phrase": "see someone down to something",
+            "definition": "to accompany or escort someone to a lower level. I will see you down to the front door.  Would you please see Mrs. Bracknell down to the door?"
+        },
+        {
+            "id": 2,
+            "phrase": "see someone home",
+            "definition": "to accompany someone home.  Bill agreed to see his aunt home after the movie.  You don’t need to see me home. It’s perfectly safe, and I can get there on my own."
+        },
+        {
+            "id": 3,
+            "phrase": "see someone off†",
+            "definition": "to accompany one to the point of departure for a trip and say good-bye upon departure.  We went to the train station to see Andy off.  We saw off all the scouts going to camp."
+        },
+        {
+            "id": 4,
+            "phrase": "see someone off something",
+            "definition": "to accompany someone who is leaving something; to escort someone away from something. I saw the elderly lady off the station platform safely.  The emcee saw the contestants off the stage."
+        },
+        {
+            "id": 5,
+            "phrase": "see someone or something around something",
+            "definition": "to notice someone or something in the vicinity of something or near something. I saw the boys around the swings on the playground. Did you see my cat around the neighborhood anywhere?"
+        },
+        {
+            "id": 6,
+            "phrase": "see someone or something in a new light",
+            "definition": "to understand someone or something in a different way [than before].  After we had a little discussion, I began to see Fred in a new light.  I can now see the problem in a new light."
+        },
+        {
+            "id": 7,
+            "phrase": "see someone to some place",
+            "definition": "to escort someone to a place; to make sure that someone gets some place safely; to accompany someone to a place.  I saw Mary to her apartment, and then got back in my car and left.  Bill saw his cousin to the train station, and then they parted."
+        },
+        {
+            "id": 8,
+            "phrase": "see someone to something",
+            "definition": "to accompany or escort someone to something or some place.  Let me see you to the station.  Would you please see your aunt to her car?"
+        },
+        {
+            "id": 9,
+            "phrase": "see someone up to something",
+            "definition": "to accompany or escort someone to a higher level.  That is the end of the tour of the wine cellar. I will see you up to the exit. Ted saw Mary up to her apartment."
+        },
+        {
+            "id": 10,
+            "phrase": "see something against something",
+            "definition": "to view something against something else.  I can’t see the cars against the evening sky if their lights aren’t on. The cars can’t be seen against the evening sky."
+        },
+        {
+            "id": 11,
+            "phrase": "see something as something else",
+            "definition": "to visualize or fantasize something as something else.  I see this as a wonderful way to interest some new people in our organization.  We all see this as a golden opportunity to get to know one another better."
+        },
+        {
+            "id": 12,
+            "phrase": "see something in someone or something",
+            "definition": "to appreciate a certain quality in someone or something.  I see a strong sense of dignity in Fred. That’s good. I now see the strong points in your proposal."
+        },
+        {
+            "id": 13,
+            "phrase": "see something of someone or something",
+            "definition": "to know, experience, or visit with someone or some group for some amount of time. I hope we are able to see something of you while you are in town.  We don’t see enough of the town council. What does it do?"
+        },
+        {
+            "id": 14,
+            "phrase": "see something through",
+            "definition": "to follow through on something until it is completed. Mary is prepared to see the project through.  It’s going to be an unpleasant experience, but I hope you’ll see it through."
+        },
+        {
+            "id": 15,
+            "phrase": "see stars",
+            "definition": "to seem to see flashing lights after receiving a blow to the head.  I saw stars when I bumped my head on the attic ceiling.  The little boy saw stars when he fell headfirst onto the concrete."
+        },
+        {
+            "id": 16,
+            "phrase": "see the color of someone’s money",
+            "definition": "to verify that someone has money or has enough money. So, you want to make a bet? Not until I see the color of your money.  I want to see the color of your money before we go any further with this business deal."
+        },
+        {
+            "id": 17,
+            "phrase": "see the (hand)writing on the wall",
+            "definition": "to know that something is about to happen. If you don’t improve your performance, they’ll fire you. Can’t you see the writing on the wall? _ I know I’ll get fired. I can see the handwriting on the wall."
+        },
+        {
+            "id": 18,
+            "phrase": "see the last of someone or something",
+            "definition": "to have experienced the last visit, episode, adventure, etc., with someone or something.  I hope I have seen the last of Robert Ellis! _ We have seen the last of grandma’s homemade strawberry jam."
+        },
+        {
+            "id": 19,
+            "phrase": "see the light",
+            "definition": "to understand something clearly at last.  After a lot of studying and asking many questions, I finally saw the light.  I know that geometry is difficult. Keep working at it. You’ll see the light pretty soon."
+        },
+        {
+            "id": 20,
+            "phrase": "see the light (at the end of the tunnel)",
+            "definition": "to foresee an end to one’s problems after a long period of time.  I had been horribly ill for two months before I began to see the light at the end of the tunnel.  I began to see the light one day in early spring. At that moment, I knew I’d get well."
+        },
+        {
+            "id": 21,
+            "phrase": "see the light (of day)",
+            "definition": "to come to the end of a very busy time. Finally, when the holiday season was over, we could see the light of day. We had been so busy! _ When business lets up for a while, we’ll be able to see the light."
+        },
+        {
+            "id": 22,
+            "phrase": "see the sights",
+            "definition": "to see the important things in a place; to see what tourists usually see. We plan to visit Paris and see the sights.  Everyone left the hotel early in the morning to see the sights."
+        },
+        {
+            "id": 23,
+            "phrase": "see through someone or something",
+            "definition": "[for one’s vision] to penetrate something clear or opaque or a person. Of course, I can see through the window! _ With x-rays, they can see through your body!"
+        },
+        {
+            "id": 24,
+            "phrase": "see (to it) that something is done",
+            "definition": "to make sure of something; to make certain of something; to be certain to do something.  The manager saw to it that everyone began working on time.  The mayor should see that the potholes are repaired."
+        },
+        {
+            "id": 25,
+            "phrase": "see to someone or something",
+            "definition": "to take care of someone or something. Tom will see to the horses. Come to the house and freshen up.  I hear the doorbell. Will someone please see to answering the door?"
+        },
+        {
+            "id": 26,
+            "phrase": "see which way the wind is blowing",
+            "definition": "to determine what is the most expedient thing to do under the conditions at hand. We studied the whole situation to see which way the wind was blowing and decided to avoid any conf lict at that time.  Sam failed to see which way the wind was blowing and got himself caught up in an argument."
+        },
+        {
+            "id": 27,
+            "phrase": "See ya, bye-bye.",
+            "definition": "Inf. Bye.  Bill: I have to be off. Bob: See ya, bye-bye.  Mary: See ya, bye-bye. Sue: Toodle-oo."
+        },
+        {
+            "id": 28,
+            "phrase": "See you around.",
+            "definition": "Inf. I will see you again somewhere.  Bob: Bye for now. Jane: See you around.  Tom: See you around, Fred. Fred: Sure, Tom. See you."
+        },
+        {
+            "id": 29,
+            "phrase": "Seeing is believing.",
+            "definition": "Prov. It is hard to believe something you have not seen. (Implies that you will not believe the thing under discussion until you have actually seen it.) _ Jill: They say Melissa has become a wonderful housekeeper now that she has her own apartment. Jane: Seeing is believing.  I really didn’t think that Jerry’s girlfriend could be as pretty as he said she was, but seeing is believing."
+        },
+        {
+            "id": 30,
+            "phrase": "seeing that...",
+            "definition": "considering...; since... Seeing that she has no money, Sally won’t be going shopping.  Seeing that it’s raining, we won’t go to the beach."
+        },
+        {
+            "id": 31,
+            "phrase": "seeing things",
+            "definition": "imagining that one sees someone or something that is not there.  Lisa says that she saw a ghost, but she was just seeing things.  I thought I was seeing things when Bill walked into the room. Someone had told me he was dead."
+        },
+        {
+            "id": 32,
+            "phrase": "seek after someone or something",
+            "definition": "to keep looking for someone or something.  I will continue to seek after the thief who stole my car. The thief was seeking after a late-model sedan."
+        },
+        {
+            "id": 33,
+            "phrase": "Seek and ye shall find.",
+            "definition": "Prov. If you search hard enough for something, you will find it. (Biblical. Can imply that the only thing you need to do to get something is look for it.) _ The bookstore on the corner is an excellent one. Any book you want, just seek and ye shall find."
+        },
+        {
+            "id": 34,
+            "phrase": "seek professional help",
+            "definition": "Euph. to get psychiatric or psychological treatment. If you are seriously thinking of sui- cide, now is the time to seek professional help. His friends suggested that he seek professional help."
+        },
+        {
+            "id": 35,
+            "phrase": "seek someone or something out†",
+            "definition": "to search for and find someone or something.  We will seek someone out to do the work for us.  Liz sought out a helper for Karen."
+        },
+        {
+            "id": 36,
+            "phrase": "seek something from someone or something",
+            "definition": "to pursue something from someone or something.  We will seek an injunction from the judge.  My lawyer sought an injunction from the court to try to stop the building project."
+        },
+        {
+            "id": 37,
+            "phrase": "seem like someone or something",
+            "definition": "to appear to be like some kind of person or something. You seemed like such a nice person when I met you.  This seems like a nice day."
+        },
+        {
+            "id": 38,
+            "phrase": "seep away",
+            "definition": "[for a fluid] to escape little by little, as through a leak. All the oil seeped away, leaving none in the engine.  The water seeped away after a while."
+        },
+        {
+            "id": 39,
+            "phrase": "seep in(to something)",
+            "definition": "[for a fluid] to trickle or leak out of something. Water is seeping into the basement. Water is seeping in very slowly."
+        },
+        {
+            "id": 40,
+            "phrase": "seep out (of something)",
+            "definition": "[for a fluid] to trickle or leak out of something.  A lot of oil has seeped out of the car onto the driveway.  There is oil seeping out. There must be a leak."
+        },
+        {
+            "id": 41,
+            "phrase": "seep through something",
+            "definition": "[for a fluid] to permeate something and escape. The oil seeped through the gasket onto the ground. Some water seeped through the ceiling, ruining our carpet as well as the ceiling."
+        },
+        {
+            "id": 42,
+            "phrase": "seethe with someone or something",
+            "definition": "to swarm or seem to “boil” with someone or something. The wedding reception was seething with guests and well-wishers. The room was just seething with f lies and other f lying creatures."
+        },
+        {
+            "id": 43,
+            "phrase": "seethe with something",
+            "definition": "[for someone] to be agitated with anger, hatred, scorn, disgust, etc.  Laura was seething with rage as she entered the tax office.  We were seething with disgust at the rude way they treated the people who had just moved in."
+        },
+        {
+            "id": 44,
+            "phrase": "segregate someone, something, or an animal into something",
+            "definition": "to isolate someone, an animal, or something into something or a special place. We segregated the infected people into a separate room.  Let’s segregate the white pigs into a different pen."
+        },
+        {
+            "id": 45,
+            "phrase": "segue into something",
+            "definition": "to make a smooth transition into something. (From filmmaking and broadcasting. Rhymes with egg - day.) _ At this point in the script, you should segue into the next scene.  Don’t segue here, this is where a commercial goes."
+        },
+        {
+            "id": 46,
+            "phrase": "seize onto someone or something",
+            "definition": "to grab onto someone or something. The beggar seized onto the well-dressed gentleman and demanded money. Tony seized onto the doorknob and gave it a hard jerk."
+        },
+        {
+            "id": 47,
+            "phrase": "seize someone or something with something",
+            "definition": "to grab someone or something with something.  The robot seized Roger with its mechanical claws.  The dockworker seized the cable with a long hook."
+        },
+        {
+            "id": 48,
+            "phrase": "seize something up†",
+            "definition": "to grab or take something. The crow seized the freshly hatched chick up and f lew away.  The huge bird seized up the tiny chick."
+        },
+        {
+            "id": 49,
+            "phrase": "seize the opportunity",
+            "definition": "to take advantage of an opportunity when offered.  My uncle offered me a trip to Europe, so I seized the opportunity.  Whenever you have a chance, you should seize the opportunity."
+        },
+        {
+            "id": 50,
+            "phrase": "seize up",
+            "definition": "to freeze or halt; to grind suddenly to a stop.  The engine seized up, and the car coasted to a stop.  My knee seized up in the middle of a football game."
+        },
+        {
+            "id": 51,
+            "phrase": "seize (up)on something",
+            "definition": "to grasp something tightly. (Upon is formal and less commonly used than on.) _Dave seized upon the knob of the door and yanked hard. I seized on the railing and held on tight."
+        },
+        {
+            "id": 52,
+            "phrase": "seized with something",
+            "definition": "affected suddenly by something, such as laughter, coughing, sneezing, fits of rage, etc. Suddenly, I was seized with a fit of coughing. Mary was seized with laughter at the sight of Ted in a clown suit."
+        },
+        {
+            "id": 53,
+            "phrase": "select from someone or something",
+            "definition": "to make a choice from a group of people or things.  You will have to select from the people we have asked to interview with you today.  They told me that I had to select from what you have in stock."
+        },
+        {
+            "id": 54,
+            "phrase": "select someone from something",
+            "definition": "to choose someone from a group of people.  You will have to select a new secretary from the available pool of workers.  I selected Ted from the applicants I had at the time."
+        },
+        {
+            "id": 55,
+            "phrase": "select someone or something as something",
+            "definition": "to choose someone or something to be something.  The voters selected Alice as the county treasurer.  We selected Acme as our main distributor."
+        },
+        {
+            "id": 56,
+            "phrase": "select someone or something for someone or something",
+            "definition": "to choose someone or something for the benefit of someone or something. You need a helper, so I will select someone for you.  Jane selected a car for her husband."
+        },
+        {
+            "id": 57,
+            "phrase": "Self-praise is no recommendation.",
+            "definition": "Prov. If you praise yourself, people will think that you are boastful and will not respect you.  After listening to the lawyer brag about his achievements for a solid half hour, I decided I would find someone else to handle my case. Self-praise is no recommendation."
+        },
+        {
+            "id": 58,
+            "phrase": "Self-preservation is the first law of nature.",
+            "definition": "Prov. Every living thing will fight to survive.; It is natural to think of yourself first.  When Joe’s best friend was arrested, Joe pretended not to know him. “Perhaps it wasn’t very loyal of me,” he thought, “but self-preservation is the first law of nature.”"
+        },
+        {
+            "id": 59,
+            "phrase": "sell at something",
+            "definition": "[for something] to be marketed at a particular price.  This coat formerly sold at twice this price.  Next month, this will sell at a 60 percent markup."
+        },
+        {
+            "id": 60,
+            "phrase": "sell like hotcakes",
+            "definition": "[for something] to be sold very fast.  The delicious candy sold like hotcakes.  The fancy new cars were selling like hotcakes."
+        },
+        {
+            "id": 61,
+            "phrase": "sell out",
+            "definition": "[for an item] to be sold until there is no more.  All the plastic hangers have sold out."
+        },
+        {
+            "id": 62,
+            "phrase": "sell out (to someone)",
+            "definition": "1. to sell everything, such as all one’s property or one’s company, to someone.  The farmer finally gave up and sold out to a large corporation. I refuse to sell out no matter what they offer me. 2. to betray someone or something to someone. I think that you have sold out to the enemy!"
+        },
+        {
+            "id": 63,
+            "phrase": "sell someone a bill of goods",
+            "definition": "to get someone to believe something that isn’t true; to deceive someone.  Don’t pay any attention to what John says. He’s just trying to sell you a bill of goods.  I’m not selling you a bill of goods. What I say is true."
+        },
+        {
+            "id": 64,
+            "phrase": "sell someone or something as something",
+            "definition": "to put someone or something up for consideration as something. The political party tried to sell the candidate as a responsible administrator.  The sales force was told to sell the paint as the best available anywhere."
+        },
+        {
+            "id": 65,
+            "phrase": "sell someone or something short",
+            "definition": "to underestimate someone or something; to fail to see the good qualities of someone or something.  This is a very good restaurant. Don’t sell it short. When you say that John isn’t interested in music, you’re selling him short. Did you know he plays the violin quite well?"
+        },
+        {
+            "id": 66,
+            "phrase": "sell something at something",
+            "definition": "1. to market something at a particular price. Do you think we can sell these things at four dollars each? _ We cannot sell these at ten times what we paid for them! 2. to market something at something or some place. We will try to sell our old kitchen sink at the flea market in Adamsville.  He sold all his watermelons at the farmers market in town."
+        },
+        {
+            "id": 67,
+            "phrase": "sell something for a certain price",
+            "definition": "to market something at a certain price.  I think I can sell this for twice what I paid for it.  This is selling for twice the price at the shop down the street."
+        },
+        {
+            "id": 68,
+            "phrase": "sell something for a song",
+            "definition": "to sell something for very little money. (As in trading something of value for the singing of a song.) _I had to sell my car for a song because I needed the money in a hurry. I have two geometry books and I would sell one of them for a song."
+        },
+        {
+            "id": 69,
+            "phrase": "sell something off†",
+            "definition": "to sell all of something. We ended up with a large stock of out-of-style coats and we had to sell them all off at a loss.  We sold off all the excess stock."
+        },
+        {
+            "id": 70,
+            "phrase": "sell something on credit",
+            "definition": "to sell something now and let the purchaser pay for it later.  I’m sorry, we don’t sell groceries on credit. It’s strictly cash-and-carry.  There is a shop around the corner that sells clothing on credit."
+        },
+        {
+            "id": 71,
+            "phrase": "sell something out†",
+            "definition": "to sell all of something.  Have they sold their supply out yet? _ The stores sold out their stocks of that game long before Christmas."
+        },
+        {
+            "id": 72,
+            "phrase": "a selling point",
+            "definition": "a feature of a product or idea that is worth mentioning when trying to sell the product or idea. The fact that the book had large type is an important selling point."
+        },
+        {
+            "id": 73,
+            "phrase": "send after someone or something",
+            "definition": "to request that someone or something be brought; to send for someone or something. You really ought to send after a doctor. Let’s send after a taxi to take us to the airport."
+        },
+        {
+            "id": 74,
+            "phrase": "send ahead for something",
+            "definition": "to send a message for something to be ready or available when one arrives.  I will send ahead for a taxi to meet us at the station.  We sent ahead for room reservations at the hotel."
+        },
+        {
+            "id": 75,
+            "phrase": "send away (for something)",
+            "definition": "to order something to be brought or sent from some distance.  I sent away for a new part to replace the one that was broken.  I couldn’t find the part locally. I had to send away for it."
+        },
+        {
+            "id": 76,
+            "phrase": "send for someone or something",
+            "definition": "to make a request that someone or something be brought.  Mr. Franklin sent for his secretary.  I think we should send for an ambulance."
+        },
+        {
+            "id": 77,
+            "phrase": "send one about one’s business",
+            "definition": "to send someone away, usually in an unfriendly way.  Is that annoying man on the telephone again? Please send him about his business.  Ann, I can’t clean up the house with you hanging around. I’m going to have to send you about your business."
+        },
+        {
+            "id": 78,
+            "phrase": "send one to one’s death",
+            "definition": "to order one to go on a mission or journey that will result in one’s death.  The general sent many fine young men to their deaths that day.  They were sent to their death by the act of a madman."
+        },
+        {
+            "id": 79,
+            "phrase": "send out (for someone or something)",
+            "definition": "to send an order by messenger, telephone, cable, or fax that someone or something is to come or be delivered.  We sent out for a public stenographer to record the will as Uncle Herman dictated it.  There was no food in the refrigerator, so we decided to send out."
+        },
+        {
+            "id": 80,
+            "phrase": "send someone after someone or something",
+            "definition": "to send someone to get someone or something. Please send John after the doctor. This is an emergency.  The telephone was out so we sent someone after an ambulance."
+        },
+        {
+            "id": 81,
+            "phrase": "send someone away with something",
+            "definition": "to make someone leave and carry something away.  I sent him away with a message for his mother.  She sent Ted away with a little booklet about manners."
+        },
+        {
+            "id": 82,
+            "phrase": "send someone back for something",
+            "definition": "to cause someone to return to get something.  He came without it, so I sent him back for it. Ted sent Roger back for the rest of the groceries."
+        },
+        {
+            "id": 83,
+            "phrase": "send someone before someone or something",
+            "definition": "to cause someone to appear before someone or a group.  I sent my lawyer before the mayor to plead my cause.  Donna sent a friend before the committee."
+        },
+        {
+            "id": 84,
+            "phrase": "send someone below",
+            "definition": "to send someone to one of the lower decks of a ship.  The first mate sent the sailor below to shovel coal into the boiler.  The captain sent Mr. Wallace below, where he would be out of the way during the storm."
+        },
+        {
+            "id": 85,
+            "phrase": "send someone down for something",
+            "definition": "to request someone to go to a place on a lower level to get something.  I sent the butler down for another bottle of wine. I sent the butler down for more of this vintage."
+        },
+        {
+            "id": 86,
+            "phrase": "send someone for someone or something",
+            "definition": "to cause someone to go and get someone or something.  Please send Jerry for the doctor. This is an emergency.  Could you send someone for pizza?"
+        },
+        {
+            "id": 87,
+            "phrase": "send someone from pillar to post",
+            "definition": "to send someone to many different places, none of which is the correct place. (Compare this with send someone on a wild-goose chase.) _ Jill sent Roger from pillar to post to look for a special kind of paper.  Roger was sent from pillar to post with his problem."
+        },
+        {
+            "id": 88,
+            "phrase": "send someone in for someone",
+            "definition": "to send someone into a game as a replacement for someone else.  The coach sent Jill in for Alice, who was beginning to tire.  Ted sent Bill in for Wally."
+        },
+        {
+            "id": 89,
+            "phrase": "send someone into a state or condition",
+            "definition": "to cause someone to be in a certain state or condition.  The horrifying news sent our family into hysterics.  The clerk’s rude behavior sent the customer into a fit of anger."
+        },
+        {
+            "id": 90,
+            "phrase": "send someone off",
+            "definition": "to participate in saying good-bye to someone who is leaving.  We had a party to send Tom off on his retirement. Bob’s parents sent him off from the airport."
+        },
+        {
+            "id": 91,
+            "phrase": "send someone off (to something)",
+            "definition": "to send someone away to something or some place, especially away on a journey; to be present when someone sets out on a journey to something or some place. We sent both kids off to camp this summer and had peace in the house for the first time in years.  Liz sent Karen off to the store."
+        },
+        {
+            "id": 92,
+            "phrase": "send someone on a wild-goose chase",
+            "definition": "to send someone on a pointless or futile search.  You sent me on a wild-goose chase! There are no straw hats for sale anywhere in town! _Fred was sent on a wild-goose chase while his friends prepared a surprise party for him."
+        },
+        {
+            "id": 93,
+            "phrase": "send someone or something across (something)",
+            "definition": "to cause someone or something to cross something.  The coach sent the player across the field to give a message to someone on the other side. We sent the taxi across the river to pick up Gerald on the other side."
+        },
+        {
+            "id": 94,
+            "phrase": "send someone or something along†",
+            "definition": "to help someone or something continue along; to send someone.  I knew it was time for Johnny to go home, so I sent him along. I will send along the baggage later."
+        },
+        {
+            "id": 95,
+            "phrase": "send someone or something around†",
+            "definition": "to cause someone or something to go from place to place.  I sent my secretary around to look for the missing book.  I will send around some papers for you to sign."
+        },
+        {
+            "id": 96,
+            "phrase": "send someone or something around for someone or something",
+            "definition": "to make someone or something go somewhere to pick up someone or something.  I will send my driver around for you at about six.  We sent a taxi around for Jane."
+        },
+        {
+            "id": 97,
+            "phrase": "send someone or something away†",
+            "definition": "to cause someone, a group, or something to leave.  I sent the salesman away.  The store sent away all late deliveries."
+        },
+        {
+            "id": 98,
+            "phrase": "send someone or something back†",
+            "definition": "to cause someone or something to return.  He came to apologize, but I sent him back.  Send back these goods. They are defective."
+        },
+        {
+            "id": 99,
+            "phrase": "send someone or something down†",
+            "definition": "to dispatch someone or something to some place on a lower level.  They wanted someone downstairs to help with the moving, so I sent John down.  I sent down John to help."
+        },
+        {
+            "id": 100,
+            "phrase": "send someone or something on† (ahead) (of someone or something)",
+            "definition": "to dispatch someone or something to arrive before someone or something else.  I sent my personal assistant on ahead of me to get the rooms ready.  Jeff sent on his luggage."
+        },
+        {
+            "id": 101,
+            "phrase": "send someone or something under something",
+            "definition": "to force someone or something under something.  The accident sent poor Roger under the wheels of a truck.  Mary kicked the ball and sent it under a bush."
+        },
+        {
+            "id": 102,
+            "phrase": "send someone or something up†",
+            "definition": "to order someone to go upward to a higher level; to arrange for something to be taken upward to a higher level.  I’ll send up Gary.  They are hungry on the tenth f loor. Let’s send some sandwiches up."
+        },
+        {
+            "id": 103,
+            "phrase": "send someone out† (for someone or something)",
+            "definition": "to send someone out to search for someone or something.  We sent Gerald out for Walter, who was supposed to have been here already.  Karen sent out Liz for some medicine."
+        },
+        {
+            "id": 104,
+            "phrase": "send someone (out) on an errand",
+            "definition": "to dispatch someone to perform an errand.  Jerry will be back in a minute. I sent him out on an errand.  Who sent you on an errand?"
+        },
+        {
+            "id": 105,
+            "phrase": "send someone packing",
+            "definition": "to send someone away; to dismiss someone, possibly rudely. I couldn’t stand him anymore, so I sent him packing.  The maid proved to be so incompetent that I had to send her packing."
+        },
+        {
+            "id": 106,
+            "phrase": "send someone to glory",
+            "definition": "1. Fig. to kill someone. One shot sent him to glory.  You want me to send you to glory or something? 2. Fig. to officiate at the burial services for someone. The preacher sent him to glory amidst the sobs of his relatives. The preacher probably gets fifty bucks for every stiff he sends to glory."
+        },
+        {
+            "id": 107,
+            "phrase": "send someone up†",
+            "definition": "to mock or ridicule, particularly by imitation.  Last week, he sent the prime minister up.  In his act, he sends up famous people."
+        },
+        {
+            "id": 108,
+            "phrase": "send someone up (the river)",
+            "definition": "to send someone to prison. (Underworld. As done by a judge or indirectly by the police.) _ They tried to send me up the river, but my testimony got me off.  I’m gonna send you up the river if it’s the last thing I do."
+        },
+        {
+            "id": 109,
+            "phrase": "send someone up the wall",
+            "definition": "to annoy and irritate someone; to drive someone crazy.  Don’t scratch your fingers on the blackboard. It sends me up the wall! _ That noise sends me up the wall!"
+        },
+        {
+            "id": 110,
+            "phrase": "send something by something",
+            "definition": "to dispatch something by a particular carrier.  I will send it to you by special messenger.  We sent the package by air freight."
+        },
+        {
+            "id": 111,
+            "phrase": "send something C.O.D.",
+            "definition": "to send merchandise to someone who will pay for it when it is delivered. (C.O.D. means “cash on delivery” or “collect on delivery.”) _I asked them to send the book C.O.D.  This person has ordered a copy of our upcoming release. Send it C.O.D."
+        },
+        {
+            "id": 112,
+            "phrase": "send something from something",
+            "definition": "to dispatch something from something or some place.  Ted sent the package from the downtown post office.  The gifts were sent off in a large box from the company’s shipping dock."
+        },
+        {
+            "id": 113,
+            "phrase": "send something off† (to someone or something)",
+            "definition": "to dispatch something to someone, something, or some place. I will send the package off to you in tomorrow’s mail.  Karen sent off a letter to her aunt."
+        },
+        {
+            "id": 114,
+            "phrase": "send something over† ((to) some place)",
+            "definition": "to cause something to be taken to some place. I sent the package over to your home.  Please send over the rest of the mail."
+        },
+        {
+            "id": 115,
+            "phrase": "send something to someone or something",
+            "definition": "to dispatch something to someone, something, or some place. I will send the books to my parents.  I sent the order to Detroit."
+        },
+        {
+            "id": 116,
+            "phrase": "send up a trial balloon",
+            "definition": "to suggest something and see how people respond to it; to test public opinion.  Mary had an excellent idea, but when we sent up a trial balloon, the response was very negative. Don’t start the whole project without sending up a trial balloon."
+        },
+        {
+            "id": 117,
+            "phrase": "send word to someone",
+            "definition": "to get a message to someone by any means. I will send word to her as soon as I have something to report.  Tom sent word to Bill just in time."
+        },
+        {
+            "id": 118,
+            "phrase": "a sense of humor",
+            "definition": "the ability to appreciate good humor and jokes; the ability to create jokes and say funny things. Does he have a sense of humor? He looks like he has never laughed in his life."
+        },
+        {
+            "id": 119,
+            "phrase": "sensitize someone to something",
+            "definition": "1. to make a person have an allergic reaction to something.  Frequent exposure to the chemical sensitized Harry to it and made him get a rash.  He became sensitized to pet dander. 2. to make someone more thoughtful and receptive to something.  We want to sensitize you to the feelings of other people.  He never became sensitized to the needs of others."
+        },
+        {
+            "id": 120,
+            "phrase": "sentence someone to something (for something)",
+            "definition": "[for a judge] to order someone to suffer confinement, death, or labor for committing a crime. The judge sentenced Roger to three years in prison for the crime. The judge sentenced him to hard labor."
+        },
+        {
+            "id": 121,
+            "phrase": "separate but equal",
+            "definition": "segregated but of equal value or quality. (A doctrine once sanctioned by the U.S. Supreme Court regarding racial segregation.) _ The separate but equal doctrine was abandoned years ago. They were provided with facilities that were said to be separate but equal—but were really of a lower standard."
+        },
+        {
+            "id": 122,
+            "phrase": "separate off (from something)",
+            "definition": "to move or head away from something. The road to the cabin separates off from the main road and goes along for a mile or two.  It separates off about a mile from here."
+        },
+        {
+            "id": 123,
+            "phrase": "separate someone or something into something",
+            "definition": "to divide people or things into subdivisions.  We had to separate the kids into smaller groups.  Jane separated the apples into three groups by size."
+        },
+        {
+            "id": 124,
+            "phrase": "separate the wheat from the chaff",
+            "definition": "Prov. to separate what is useful or valuable from what is worthless. When it comes to books, time will separate the wheat from the chaff. Good books will have lasting appeal, and the rest will be forgotten. The managers hoped that the new procedure for evaluating employees would separate the wheat from the chaff."
+        },
+        {
+            "id": 125,
+            "phrase": "serious about someone",
+            "definition": "in love with someone; romantically interested in someone.  I’m afraid I’m getting serious about Bill. Bill, unfortunately, is pretty serious about Mary."
+        },
+        {
+            "id": 126,
+            "phrase": "serve a (useful) purpose",
+            "definition": "to be useful in accomplishing some purpose.  This large book should serve a useful purpose. We can use it for a doorstop."
+        },
+        {
+            "id": 127,
+            "phrase": "serve as a guinea pig",
+            "definition": "[for someone] to be experimented on; to allow some sort of test to be performed on one. (Alludes to the use of guinea pigs for biological experiments.) _ Try it on someone else! I don’t want to serve as a guinea pig! _Jane agreed to serve as a guinea pig. She’ll be the one to try out the new f lavor of ice cream."
+        },
+        {
+            "id": 128,
+            "phrase": "serve as someone or something",
+            "definition": "to act in the capacity of someone or something. I served as the mayor’s assistant for a number of years.  This brick will not serve as a doorstop."
+        },
+        {
+            "id": 129,
+            "phrase": "serve notice (on someone)",
+            "definition": "to formally or clearly announce something to someone.  John served notice that he wouldn’t prepare the coffee anymore.  I’m serving notice that I’ll resign as secretary next month."
+        },
+        {
+            "id": 130,
+            "phrase": "serve on something",
+            "definition": "to carry out one’s duty or responsibility on something, such as a committee or a board. Will you be able to serve on this committee next year also? _ Sarah refused to serve on the committee again."
+        },
+        {
+            "id": 131,
+            "phrase": "serve someone right",
+            "definition": "[for an act or event] to punish someone fairly (for doing something). John copied off my test paper. It would serve him right if he fails the test.  It’d serve John right if he got arrested."
+        },
+        {
+            "id": 132,
+            "phrase": "serve someone with something",
+            "definition": "to officially deliver something, such as a subpoena, to someone.  He served her with papers from the circuit court.  Has Tom been served with the subpoena?"
+        },
+        {
+            "id": 133,
+            "phrase": "serve something around†",
+            "definition": "to distribute something to eat or drink to everyone present.  Please serve the snacks around so that everyone gets some.  Serve around the birthday cakes, would you?"
+        },
+        {
+            "id": 134,
+            "phrase": "serve something for something",
+            "definition": "to distribute something to eat or drink for a particular purpose. We served smoked salmon for an appetizer.  What will you serve for a main course?"
+        },
+        {
+            "id": 135,
+            "phrase": "serve something in something",
+            "definition": "to present something to eat or drink in a particular container.  Kelly served the lemonade in paper cups. What will you serve the soup in?"
+        },
+        {
+            "id": 136,
+            "phrase": "serve something on someone",
+            "definition": "to officially deliver something, such as a subpoena, to someone.  A prosecuting attorney served the subpoena on Max.  The document was served on the plaintiff by a sheriff ’s deputy."
+        },
+        {
+            "id": 137,
+            "phrase": "serve something out†",
+            "definition": "to carry out one’s duty or responsibility for the whole time, all the way to the end. She was unable to serve her term out.  The convict served out his sentence in solitary confinement."
+        },
+        {
+            "id": 138,
+            "phrase": "serve something to someone†",
+            "definition": "1. to present someone with something to eat or drink.  The host served the snacks to everyone and left the room to work on the salad.  The snacks were served to everyone in attendance. 2. to officially deliver something, such as a subpoena, to someone.  The sheriff at the door was there to serve a subpoena to Fred. She served the papers to the person who lived there."
+        },
+        {
+            "id": 139,
+            "phrase": "serve something up†",
+            "definition": "to distribute or deliver food for people to eat.  The cook served the stew up and then passed around the bread.  Can you serve up the food now?"
+        },
+        {
+            "id": 140,
+            "phrase": "serve time",
+            "definition": "to spend a certain amount of time in jail.  The criminal served ten years in jail.  After the felon served his time, he was released from prison."
+        },
+        {
+            "id": 141,
+            "phrase": "serve under someone or something",
+            "definition": "to carry out one’s responsibility under the direction or in the employment of someone.  I served under the president of the company as special assistant.  Jane served under the previous administration as an investigator."
+        },
+        {
+            "id": 142,
+            "phrase": "serve with someone",
+            "definition": "to perform military service alongside or with someone. I served with Harry when we were both in the army.  At the reunion, I met a lot of the guys I served with in the navy."
+        },
+        {
+            "id": 143,
+            "phrase": "Set a beggar on horseback, and he’ll ride to the devil.",
+            "definition": "Prov. If a poor person becomes wealthy, he or she will quickly become corrupt. Jill: Since Phil inherited all that money, all he does is go to parties and take drugs. Jane: Yep. Set a beggar on horseback, and he’ll ride to the devil."
+        },
+        {
+            "id": 144,
+            "phrase": "set a precedent",
+            "definition": "to establish a pattern; to set a policy that must be followed in future cases.  I’ll do what you ask this time, but it doesn’t set a precedent. We’ve already set a precedent in matters such as these."
+        },
+        {
+            "id": 145,
+            "phrase": "Set a thief to catch a thief.",
+            "definition": "Prov. The best person to catch a thief is another thief, because he or she knows how thieves think. The government set a thief to catch a thief, hiring a stockbroker convicted of fraudulent practices to entrap the stockbroker they were investigating for fraud."
+        },
+        {
+            "id": 146,
+            "phrase": "set a trap",
+            "definition": "to adjust and prepare a trap to catch an animal. Bill set a mousetrap and baited it with cheese. The old man set a trap to catch an annoying squirrel."
+        },
+        {
+            "id": 147,
+            "phrase": "set about doing something",
+            "definition": "to begin to do something.  When are you going to set about fixing the roof ? _ We will set about painting the house when the weather gets a little cooler."
+        },
+        {
+            "id": 148,
+            "phrase": "set foot in some place",
+            "definition": "to enter into some place; to begin to enter some place.  The judge ordered him never to set foot in her house again.  I would never set foot in a place like that."
+        },
+        {
+            "id": 149,
+            "phrase": "set for life",
+            "definition": "prepared to exist for the rest of one’s life; having adequate supplies for the rest of one’s life.  As soon as I win the lottery, I will be set for life. I’ll never have to work again!"
+        },
+        {
+            "id": 150,
+            "phrase": "set great store by someone or something",
+            "definition": "to have positive expectations for someone or something; to have high hopes for someone or something. I set great store by my computer and its ability to help me in my work.  Bill sets great store by his expensive tools."
+        },
+        {
+            "id": 151,
+            "phrase": "set in",
+            "definition": "to begin; to become fixed for a period of time.  A severe cold spell set in early in November. When high temperatures set in, the use of electricity went up considerably."
+        },
+        {
+            "id": 152,
+            "phrase": "set in one’s ways",
+            "definition": "leading a fixed lifestyle; living according to one’s own established patterns.  At her age, she’s getting sort of set in her ways. If you weren’t so set in your ways, you’d be able to understand young people better."
+        },
+        {
+            "id": 153,
+            "phrase": "a set of pipes",
+            "definition": "a very loud voice; a good singing voice. She has a nice set of pipes. With a set of pipes like that, she’s a winner."
+        },
+        {
+            "id": 154,
+            "phrase": "a set of wheels",
+            "definition": "a car.  I need a new set of wheels.  Man, look at that set of wheels that chick has!"
+        },
+        {
+            "id": 155,
+            "phrase": "set off (for something)",
+            "definition": "to leave for something or some place. We set off for Springfield three hours late. It was afternoon before we could set off."
+        },
+        {
+            "id": 156,
+            "phrase": "set off on something",
+            "definition": "to begin on a journey or expedition.  When do you plan to set off on your journey? _ We will set off on our adventure tomorrow morning."
+        },
+        {
+            "id": 157,
+            "phrase": "set one back on one’s heels",
+            "definition": "to surprise or shock someone.  I’ll bet that news really set her back on her heels! _ The bill for the repairs set me back on my heels."
+        },
+        {
+            "id": 158,
+            "phrase": "set one’s heart against something",
+            "definition": "to turn against something; to become totally against something.  Jane set her heart against going to Australia.  I set my heart against her departure."
+        },
+        {
+            "id": 159,
+            "phrase": "set one’s heart on someone or something",
+            "definition": "to be determined to get or do someone or something.  I am sorry you didn’t get to pick the one you wanted. I know you had set your heart on Fred. Jane set her heart on going to London."
+        },
+        {
+            "id": 160,
+            "phrase": "set one’s hopes on someone or something",
+            "definition": "to have one’s hopes or expectations dependent on someone or something. Please don’t set your hopes on me in the race. I can’t run as fast as I used to.  I have set my hopes on the effectiveness of the new law."
+        },
+        {
+            "id": 161,
+            "phrase": "set one’s house in order",
+            "definition": "to make certain that one’s affairs are in proper legal order.  Before we can ask for a bank loan, we have to set our house in order.  I found an accountant who would help me set my house in order."
+        },
+        {
+            "id": 162,
+            "phrase": "set one’s mind on someone or something",
+            "definition": "to be determined to get or have someone or something. I’ve set my mind on Dave. I have to have him on my team. Jamie set her mind on the red sports car."
+        },
+        {
+            "id": 163,
+            "phrase": "set one’s (own) price",
+            "definition": "to name the (relatively high) price at which one is willing to sell something.  If you have a first edition of Milton, you can almost set your own price. They are in great demand by collectors."
+        },
+        {
+            "id": 164,
+            "phrase": "set one’s sights on someone or something",
+            "definition": "to regard having someone or something as one’s goal. He wanted a wife and he had set his sights on Alice.  James set his sights on a law degree."
+        },
+        {
+            "id": 165,
+            "phrase": "set out (for some place) (from some place)",
+            "definition": "to leave from some place on a journey for some place.  We set out for home from the cabin on the very next morning.  We set out from the cabin at dawn."
+        },
+        {
+            "id": 166,
+            "phrase": "set out (on something)",
+            "definition": "to begin a journey; to begin a project. We set out on our trip exactly as planned.  We set out at noon."
+        },
+        {
+            "id": 167,
+            "phrase": "set out to do something",
+            "definition": "to begin to do something; to intend to do something.  Jill set out to weed the garden, but pulled up a few valuable plants in the process. I set out to repair the door, not rebuild the whole porch."
+        },
+        {
+            "id": 168,
+            "phrase": "set sail for some place",
+            "definition": "to leave in a ship or boat for some place. (Not limited to ships having sails.) _We set sail for Grenada at noon.  When do we set sail for Nantucket?"
+        },
+        {
+            "id": 169,
+            "phrase": "set someone about something",
+            "definition": "to make someone begin doing something.  I set the boys about raking up the leaves.  She set herself about repairing the damaged machine."
+        },
+        {
+            "id": 170,
+            "phrase": "set someone apart from someone else",
+            "definition": "to make someone stand out when compared to someone else.  Her flaming red hair sets her apart from all the others in her class.  They set themselves apart from the rest due to their superb accomplishments."
+        },
+        {
+            "id": 171,
+            "phrase": "set someone back (some amount of money)",
+            "definition": "to cost someone (an amount of money). This coat set me back about $250. That fancy dinner at the restaurant last night really set us back."
+        },
+        {
+            "id": 172,
+            "phrase": "set someone down (on(to) something)",
+            "definition": "to place a person one is carrying or lifting onto something. I set the small boy down onto the desk and gave him a piece of candy.  Set the baby down and come over here."
+        },
+        {
+            "id": 173,
+            "phrase": "set someone off†",
+            "definition": "1. Fig. to cause someone to become very angry; to ignite someone’s anger. (Based on set something off Q.) _That kind of thing really sets me off! _Your rude behavior set off Mrs. Franklin. 2. Fig. to cause someone to start talking or lecturing about a particular subject. (Based on set something off W.) _ When I mentioned high taxes it really set Walter off. He talked and talked.  The subject set off my uncle, and he talked on endlessly."
+        },
+        {
+            "id": 174,
+            "phrase": "set someone on fire",
+            "definition": "to excite someone; to make someone passionate. (Based on set fire to someone or something.) _ Her oratory set everyone on fire.  Ted’s presentation didn’t exactly set me on fire, but it was a good summary of the project."
+        },
+        {
+            "id": 175,
+            "phrase": "set someone or an animal on someone or an animal",
+            "definition": "to command someone or an animal to attack someone or an animal.  The gang leader set his thugs on the unwary tourists.  Scott set his hounds on the raccoon."
+        },
+        {
+            "id": 176,
+            "phrase": "set someone or something above someone or something",
+            "definition": "1. to place someone or something in a physical location higher than someone or something.  Timmy’s dad set him above the others so he could see better.  I set the trophy above the television on a little shelf. 2. to regard someone or something as better than someone or something else.  Fred set his wife and children above everyone else.  Gene set his job above his family."
+        },
+        {
+            "id": 177,
+            "phrase": "set someone or something free (from something)",
+            "definition": "to release someone or something from something.  The commando set the secret agent free from the prison.  Who set the chickens free from their pens? _ At last, he set himself free from the inhibitions that held him back."
+        },
+        {
+            "id": 178,
+            "phrase": "set someone or something to work",
+            "definition": "to start someone or something working; to cause someone or something to begin functioning.  The captain set everyone to work repairing the tears in the fabric of the sails.  We will set the machines to work at the regular time."
+        },
+        {
+            "id": 179,
+            "phrase": "set someone or something up† against someone or something",
+            "definition": "to put someone or something into competition against someone or something.  The coach set his team up against the Lions.  He set up Will against a very fast runner."
+        },
+        {
+            "id": 180,
+            "phrase": "set someone or something up† as something",
+            "definition": "to arrange for or equip someone or something to be or work as something.  His uncle set him up as a tax consultant.  Lee set up his nephew as a tax consultant.  Ken set the company up as a partnership."
+        },
+        {
+            "id": 181,
+            "phrase": "set someone’s mind at ease (about someone or something)",
+            "definition": "to make someone feel mentally comfortable about someone or something.  Alice is upset. I will have to do something to set her mind at ease about the accident.  Please set your mind at ease. Everything will be all right."
+        },
+        {
+            "id": 182,
+            "phrase": "set someone’s teeth on edge",
+            "definition": "1. Fig. [for a scraping sound] to irritate someone’s nerves.  That noise sets my teeth on edge! _ Tom’s teeth were set on edge by the incessant screaming of the children. 2. Fig. [for a person or an idea] to upset someone very much.  Her overbearing manner usually sets my teeth on edge.  The very thought of doing that set her teeth on edge."
+        },
+        {
+            "id": 183,
+            "phrase": "set someone straight",
+            "definition": "to make certain that someone understands something exactly. (Often said in anger or domination.) _ Please set me straight on this matter. Do you or do you not accept the responsibility for the accident? _I set her straight about who she had to ask for permission to leave early."
+        },
+        {
+            "id": 184,
+            "phrase": "set someone up†",
+            "definition": "to lead—by deception—a person to play a particular role in an event; to arrange an event—usually by deception—so that a specific person suffers the consequences for the event; to frame someone. I had nothing to do with the robbery! I was just standing there. Somebody must have set me up! _John isn’t the one who started the fight. Somebody set up the poor guy."
+        },
+        {
+            "id": 185,
+            "phrase": "set someone up (in business)",
+            "definition": "to help establish someone in business; to provide the money someone needs to start a business. My father set my sisters up in business.  He helped set them up so he could keep the business in the family."
+        },
+        {
+            "id": 186,
+            "phrase": "set something against someone or something",
+            "definition": "1. to place or lean something against someone or something.  Dave set the chair against Fred and had to move it away.  I set the rake against the side of the house. 2. to make someone hate or oppose someone or something.  His second wife set him against his former in-laws.  The Civil War set brother against brother."
+        },
+        {
+            "id": 187,
+            "phrase": "set something apart from something else",
+            "definition": "1. to move something so it is away from something else. Set the old ones apart from the others so we can sell them first.  The stale loaves were set apart from the fresh ones. 2. to make something stand out when compared to something else. The bright green really sets this plant apart from the others.  Her golden hair sets her apart from all the others."
+        },
+        {
+            "id": 188,
+            "phrase": "set something aside†",
+            "definition": "to place something in a place that is to one side or out of the way.  Betty set the manuscript aside until she had more time to work on it.  Liz set aside her book for a while."
+        },
+        {
+            "id": 189,
+            "phrase": "set something aside† (for someone or something)",
+            "definition": "to reserve something for someone or some purpose.  I will set a piece of cake aside for you.  Liz set aside some cake for Karen."
+        },
+        {
+            "id": 190,
+            "phrase": "set something at something",
+            "definition": "to fix something at a particular value or amount.  Please set the thermostat at a lower temperature.  Who set the refrigerator at freezing?"
+        },
+        {
+            "id": 191,
+            "phrase": "set something before someone, something, or some creature",
+            "definition": "to place something in front of someone, an animal, a group, or something. I set the plate of sandwiches before the children and they were gone in a few minutes.  Jane set the bowl of food before the cats."
+        },
+        {
+            "id": 192,
+            "phrase": "set something beside something",
+            "definition": "to place something near or next to something.  Please set the chair beside the window.  I set the suitcase beside the door so I would not forget it."
+        },
+        {
+            "id": 193,
+            "phrase": "set something down as something",
+            "definition": "to regard something as something. I set his behavior down as an event that would not repeat itself. Please just set the whole afternoon down as an exercise in patience."
+        },
+        {
+            "id": 194,
+            "phrase": "set something for something",
+            "definition": "to adjust something for a particular setting.  I set the thermostat for a lower temperature.  Please set the air conditioning for about 75 degrees."
+        },
+        {
+            "id": 195,
+            "phrase": "set something forth†",
+            "definition": "to explain something; to present some information.  She set her ideas forth in an organized and interesting manner. Please set forth your thoughts quickly and concisely."
+        },
+        {
+            "id": 196,
+            "phrase": "set something forward",
+            "definition": "1. to move something to a more forward position. Please set the chair forward a little bit. It is in the walkway.  If you set the vase forward, it will show up better against the dark background. 2. to reset a timepiece to a later time.  You are supposed to set your clock forward at this time of year. Did you set your watch forward?"
+        },
+        {
+            "id": 197,
+            "phrase": "set something in a place",
+            "definition": "to locate the action of a play or movie in a place.  The author set the second act in a wooded glade.  The opera was set in a forest outside Moscow."
+        },
+        {
+            "id": 198,
+            "phrase": "set something in a type face",
+            "definition": "to set something in type, a particular style of type, or a particular font.  Why not set this section in italics to make it stand out from the rest? _ Why was this paragraph set in bold type?"
+        },
+        {
+            "id": 199,
+            "phrase": "set something in motion",
+            "definition": "to start something moving.  The mayor set the project in motion by digging the first shovelful of soil.  I cannot set the procedure in motion until I receive a purchase order."
+        },
+        {
+            "id": 200,
+            "phrase": "set something off†",
+            "definition": "to ignite something, such as fireworks.  The boys were setting firecrackers off all afternoon.  They set off rocket after rocket."
+        },
+        {
+            "id": 201,
+            "phrase": "set something out† (for someone or something)",
+            "definition": "to remove something and place it so that it is available for someone or some purpose.  I set a piece of cake out for you to eat whenever you get home.  Liz set out some cake for Karen."
+        },
+        {
+            "id": 202,
+            "phrase": "set something over something",
+            "definition": "to place something in a position above something else.  Toby set the plate over the hole in the tablecloth. Please place the kettle over the fire."
+        },
+        {
+            "id": 203,
+            "phrase": "set something to music",
+            "definition": "to write a piece of music to accompany a set of words. The musician set my lyrics to music.  The rock band set the poem to music."
+        },
+        {
+            "id": 204,
+            "phrase": "set something up†",
+            "definition": "to put something together; to erect something. My parents bought me a dollhouse, but I had to set it up myself.  It took nearly an hour to set up the tent."
+        },
+        {
+            "id": 205,
+            "phrase": "set something up† (with someone)",
+            "definition": "to make plans for something. John is hard at work setting something up with Bill and Mary.  Sally and Tom set up a party for Saturday night."
+        },
+        {
+            "id": 206,
+            "phrase": "set something (up)on something",
+            "definition": "to place something on the surface of something.  Mrs. Franklin set a bowl of fruit upon the table.  I set my empty glass on the counter."
+        },
+        {
+            "id": 207,
+            "phrase": "set the record straight",
+            "definition": "to put right a mistake or misunderstanding; to make sure that an account, etc., is correct. The manager thought Jean was to blame, but she soon set the record straight. Jane’s mother heard that Tom is a married man, but he set the record straight. He’s divorced."
+        },
+        {
+            "id": 208,
+            "phrase": "set the stage for something",
+            "definition": "to arrange a stage for an act or scene of a production.  The stage crew set the stage for the first act.  They set the stage for the second scene while the orchestra played."
+        },
+        {
+            "id": 209,
+            "phrase": "set the table",
+            "definition": "to place plates, glasses, napkins, etc., on the table before a meal. (The opposite of clear the table.) _ Jane, would you please set the table? _ I’m tired of setting the table. Ask someone else to do it."
+        },
+        {
+            "id": 210,
+            "phrase": "set the world on fire",
+            "definition": "to do exciting things that bring fame and glory. (Frequently with the negative.) _I’m not very ambitious. I don’t want to set the world on fire.  You don’t have to set the world on fire. Just do a good job."
+        },
+        {
+            "id": 211,
+            "phrase": "set to",
+            "definition": "to begin to fight; to attack or commence someone or something. The two boys set to almost as soon as they met each other. They set to and fought for about ten minutes, cursing and screaming."
+        },
+        {
+            "id": 212,
+            "phrase": "*set to do something",
+            "definition": "ready to do something. (*Typically: be ~; get ~.) _ I’m all set to go. Are you ready? _ We are set to leave at a moment’s notice."
+        },
+        {
+            "id": 213,
+            "phrase": "set to work (on someone or something)",
+            "definition": "to begin working on someone or something.  We have finished questioning Tom, so we will set to work on Fred.  We set to work on dinner at noon."
+        },
+        {
+            "id": 214,
+            "phrase": "set tongues (a)wagging",
+            "definition": "to cause people to start gossiping.  The affair between the boss and her accountant set tongues awagging.  If you don’t get the lawn mowed soon, you will set tongues wagging in the neighborhood."
+        },
+        {
+            "id": 215,
+            "phrase": "set type",
+            "definition": "to arrange type for printing; to prepare finished pages for printing.  Have you finished setting the type for page one yet? _ John sets type for a living."
+        },
+        {
+            "id": 216,
+            "phrase": "set up shop somewhere",
+            "definition": "to establish one’s place of work somewhere.  Mary set up shop in a small office building on Oak Street.  The police officer said, “You can’t set up shop right here on the sidewalk!”"
+        },
+        {
+            "id": 217,
+            "phrase": "set upon someone or something",
+            "definition": "to attack someone or something violently. The dogs set upon the bear and chased it up a tree.  Bill set upon Tom and struck him hard in the face."
+        },
+        {
+            "id": 218,
+            "phrase": "settle down",
+            "definition": "1. to calm down.  Now, children, it’s time to settle down and start class.  If you don’t settle down, I’ll send you all home. 2. to settle into a stable way of life; to get married and settle into a stable way of life.  Tom, don’t you think it’s about time you settled down and stopped all of this running around? _ Bill and Ann decided to settle down and start a family."
+        },
+        {
+            "id": 219,
+            "phrase": "settle for something",
+            "definition": "to agree to accept something (even though something else would be better).  We wanted a red one, but settled for a blue one. Ask your grocer for Wilson’s canned corn—the best corn in cans. Don’t settle for less."
+        },
+        {
+            "id": 220,
+            "phrase": "settle in",
+            "definition": "to become accustomed to one’s new surroundings; to get used to living in a place or a new dwelling.  I need a little time to settle in, then I can think about buying a car."
+        },
+        {
+            "id": 221,
+            "phrase": "settle on something",
+            "definition": "to decide on something. We’ve discussed the merits of all of them, and we’ve settled on this one.  I can’t settle on one or the other, so I’ll buy both."
+        },
+        {
+            "id": 222,
+            "phrase": "settle someone’s affairs",
+            "definition": "to deal with one’s business matters; to manage the business affairs of someone who can’t.  When my uncle died, I had to settle his affairs.  I have to settle my affairs before going to Mexico for a year."
+        },
+        {
+            "id": 223,
+            "phrase": "settle someone’s hash",
+            "definition": "Sl. to calm someone down, perhaps by threats or by violence.  If he comes in here, I’ll settle his hash.  Now, that ought to settle your hash."
+        },
+        {
+            "id": 224,
+            "phrase": "settle (something) (out of court)",
+            "definition": "to end a disagreement and reach an agreement without having to go through trial in a court of justice. The plaintiff and defendant decided to settle before the trial. Mary and Sue settled out of court before the trial."
+        },
+        {
+            "id": 225,
+            "phrase": "settle up with someone",
+            "definition": "to pay someone what one owes; to pay one one’s share of something.  I must settle up with Jim for the bike I bought for him. Bob paid the whole restaurant bill and we all settled up with him later."
+        },
+        {
+            "id": 226,
+            "phrase": "a seven-day wonder",
+            "definition": "a person or a process supposedly perfected in only seven days. (Sarcastic.) _ Tommy is no seven-day wonder. It took him 6 years to get through high school!"
+        },
+        {
+            "id": 227,
+            "phrase": "the seven-year itch",
+            "definition": "a real or imagined longing for other women in a man’s seventh year of marriage.  Looks like Jack has the seven-year itch.  The seven-year itch is just a rumor."
+        },
+        {
+            "id": 228,
+            "phrase": "sever ties with someone",
+            "definition": "to end a relationship or agreement suddenly or completely.  The company severed its ties with the dishonest employee.  John has severed all ties with his parents."
+        },
+        {
+            "id": 229,
+            "phrase": "sew someone or something up†",
+            "definition": "to stitch together an opening in someone or something.  The surgeon sewed the patient up and pronounced the operation a success.  This is torn. Can you sew up this rip?"
+        },
+        {
+            "id": 230,
+            "phrase": "shack up (with someone)",
+            "definition": "Inf. to sleep or live with someone temporarily in a sexual relationship.  They shacked up for over a year until her parents found out and stopped sending her money."
+        },
+        {
+            "id": 231,
+            "phrase": "shackle someone with something",
+            "definition": "to fetter or hobble someone with something, such as chains, etc.  The sheriff shackled the prisoner with handcuffs and leg irons.  The prisoners were shackled with leg irons."
+        },
+        {
+            "id": 232,
+            "phrase": "shades of someone or something",
+            "definition": "reminders of someone or something; a thing that is reminiscent of someone or something.  When I met Jim’s mother, I thought “shades of Aunt Mary.” _ “Shades of grade school,” said Jack as the university lecturer rebuked him for being late."
+        },
+        {
+            "id": 233,
+            "phrase": "a shady deal",
+            "definition": "a questionable and possibly dishonest deal or transaction.  The lawyer got caught making a shady deal with a convicted felon."
+        },
+        {
+            "id": 234,
+            "phrase": "shag (off )",
+            "definition": "Sl. to depart.  I gotta shag. It’s late.  Go on! Shag off! _ I gotta shag. Somebody’s calling my name."
+        },
+        {
+            "id": 235,
+            "phrase": "shagged out",
+            "definition": "Sl. exhausted.  What a day! I’m shagged out! _ You guys look sort of shagged out."
+        },
+        {
+            "id": 236,
+            "phrase": "a shaggy-dog story",
+            "definition": "a kind of funny story that relies for its humor on its length and its sudden ridiculous ending. Don’t let John tell a shaggy-dog story. It’ll go on for hours.  Mary didn’t get the point of Fred’s shaggy-dog story."
+        },
+        {
+            "id": 237,
+            "phrase": "shake a disease or illness off†",
+            "definition": "[for the body] to fight off a disease or illness.  I thought I was catching a cold, but I guess I shook it off.  I hope I can shake off this f lu pretty soon."
+        },
+        {
+            "id": 238,
+            "phrase": "shake a leg",
+            "definition": "1. to hurry; to move faster. (Often as a command.) _ Let’s shake a leg, you guys. We gotta be there in twenty minutes.  She told me to shake a leg, so I hurried the best I could. 2. to dance. Let’s shake a leg. The music’s great.  Hey, Jill! You wanna shake a leg with me?"
+        },
+        {
+            "id": 239,
+            "phrase": "shake (hands) on something",
+            "definition": "to clasp and shake the hand of someone as a sign of agreement about something.  The two people didn’t sign a contract; they just shook hands on the terms of the agreement.  I think it would be better to sign an agreement than just shake on it."
+        },
+        {
+            "id": 240,
+            "phrase": "shake hands (with someone)",
+            "definition": "to clasp and shake the hand of someone as a greeting.  His hands were full, and I didn’t know whether to try to shake hands with him or not.  He put down his packages, and we shook hands."
+        },
+        {
+            "id": 241,
+            "phrase": "Shake it (up)!",
+            "definition": "Inf. Hurry!; Move faster! _ Get going, chum! Shake it up! _ We’re late. Shake it!"
+        },
+        {
+            "id": 242,
+            "phrase": "shake someone down†",
+            "definition": "1. to blackmail someone. (Underworld.) _ Fred was trying to shake Jane down, but she got the cops in on it. The police chief was trying to shake down just about everybody in town. 2. to put pressure on someone to lend one money. We tried to shake down Max for a few hundred, but no deal.  If you’re trying to shake me down, forget it. I have no cash."
+        },
+        {
+            "id": 243,
+            "phrase": "shake someone or something off†",
+            "definition": "to get rid of someone; to get free of someone who is bothering you.  Stop bothering me! What do I have to do to shake you off ? _ I wish I could shake off John. He’s such a pest!"
+        },
+        {
+            "id": 244,
+            "phrase": "shake someone or something up†",
+            "definition": "to jostle or knock someone or something around; to toss someone or something back and forth.  We rode over a rough road, and that shook us up.  The accident shook up John quite a bit."
+        },
+        {
+            "id": 245,
+            "phrase": "shake someone up†",
+            "definition": "to shock or upset someone. The sight of the injured man shook me up. Your rude remark really shook up Tom."
+        },
+        {
+            "id": 246,
+            "phrase": "shake something off†",
+            "definition": "to get rid of something that is on one by shaking.  I tried to shake the spider off. The dog shook off the blanket Billy had put on him."
+        },
+        {
+            "id": 247,
+            "phrase": "shake something up†",
+            "definition": "to shake a container to mix its contents together well.  Please shake this up before using it.  I shook up the medicine bottle like it says on the label."
+        },
+        {
+            "id": 248,
+            "phrase": "The shame of it (all)!",
+            "definition": "That is so shameful!; I am so embarrassed; I am shocked. (Considerable use jocularly or as a parody. Compare this with For shame!) _ John: Good grief! I have a pimple! Always, just before a date. Andy: The shame of it all! _ Tom: John claims that he cheated on his taxes. Bill: Golly! The shame of it!"
+        },
+        {
+            "id": 249,
+            "phrase": "Shame on you!",
+            "definition": "a phrase scolding someone for being naughty. (Typically said to a child or to an adult for a childish infraction.) _John: I think I broke one of your figurines. Mary: Shame on you! John: I’ll replace it, of course. Mary: Thanks, I sort of liked it.  “Shame on you!” said Mary. “You should have known better!”"
+        }
+    ]
+}

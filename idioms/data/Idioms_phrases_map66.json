@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "relax one’s hold on someone or something",
+            "definition": "to lessen one’s grasp on someone or something.  When she relaxed her hold on me, I got away.  Never relax your hold on an alligator."
+        },
+        {
+            "id": 1,
+            "phrase": "relay something to someone",
+            "definition": "to pass something on to someone.  Can you relay this to Frank, who is way down the line? _ The message was relayed to Frank, who was at the end of the line."
+        },
+        {
+            "id": 2,
+            "phrase": "release someone or something from something",
+            "definition": "to liberate or let someone or something go from something.  The police officer released George from the handcuffs.  I released all the dogs from the city dog pound."
+        },
+        {
+            "id": 3,
+            "phrase": "release someone to someone",
+            "definition": "to discharge or distribute someone to someone.  The judge released the defendant to his mother. Don was released by the police to his father, who was more than a little bit angry."
+        },
+        {
+            "id": 4,
+            "phrase": "relegate someone to someone or something",
+            "definition": "to assign someone to someone or something. (Often refers to something unimportant or demeaning.) _They relegated the old man to a bed in the corner.  The former vice president was relegated to the position of manager of special projects."
+        },
+        {
+            "id": 5,
+            "phrase": "reliance on someone or something",
+            "definition": "trust and dependence on someone or something.  John’s reliance on his family is holding him back.  Reliance on sleeping pills is dangerous."
+        },
+        {
+            "id": 6,
+            "phrase": "relieve one of one’s duties",
+            "definition": "Euph. to fire someone; to dismiss someone from employment.  I am afraid I must relieve you of your duties.  After the scandal, she was relieved of her duties at the embassy."
+        },
+        {
+            "id": 7,
+            "phrase": "relieve oneself",
+            "definition": "Euph. to urinate or defecate.  He stopped by the side of the road to relieve himself. She needed badly to relieve herself, but there was no bathroom in sight."
+        },
+        {
+            "id": 8,
+            "phrase": "relieve someone of something",
+            "definition": "to unburden someone of something. Here, let me relieve you of that heavy box.  At last, he could relieve himself of the problem."
+        },
+        {
+            "id": 9,
+            "phrase": "religious about doing something",
+            "definition": "strict about something; conscientious about something.  Bob is religious about paying his bills on time.  Max tries to be religious about being polite to everyone."
+        },
+        {
+            "id": 10,
+            "phrase": "relinquish something over someone",
+            "definition": "to release the hold on or control of someone.  She refused to relinquish control over the operations of the front office. Mary was ordered to relinquish her hold over the children for a month each year."
+        },
+        {
+            "id": 11,
+            "phrase": "relinquish something to someone or something",
+            "definition": "to surrender something to someone or something.  Todd refused to relinquish his authority to anyone.  I finally relinquished the car to the bank."
+        },
+        {
+            "id": 12,
+            "phrase": "relocate someone or something in something",
+            "definition": "to reposition or move someone or something in or at something.  I will have to relocate you in a different office.  Can I relocate the copy machine in the other room?"
+        },
+        {
+            "id": 13,
+            "phrase": "reluctant to do something",
+            "definition": "unwilling to do something; not wanting to do something. David was reluctant to admit his mistakes.  Although reluctant to appear in court, the witness was ordered to by subpoena."
+        },
+        {
+            "id": 14,
+            "phrase": "rely (up)on someone or something",
+            "definition": "to depend on someone or something; to trust in someone or something. (Upon is formal and less commonly used than on.) _ I know I can rely upon you to do a good job.  Can we rely on this old car to get us there?"
+        },
+        {
+            "id": 15,
+            "phrase": "remain at some place",
+            "definition": "to stay at some place; to stay behind at some place.  I will remain at the office until supper time.  Please remain at home until I call you."
+        },
+        {
+            "id": 16,
+            "phrase": "remain away (from someone or something)",
+            "definition": "to stay away from someone or something.  I must ask you to remain away from my daughter.  I cannot remain away any longer. I must be with her."
+        },
+        {
+            "id": 17,
+            "phrase": "remain behind",
+            "definition": "to stay at a place even when others have left. Can’t I go too? Do I have to remain behind? _I will remain behind for a day or two."
+        },
+        {
+            "id": 18,
+            "phrase": "remain down",
+            "definition": "to stay down; to keep down. I asked them to remain down until the shooting stopped. Please remain down with me so no one will see us."
+        },
+        {
+            "id": 19,
+            "phrase": "remain in (something)",
+            "definition": "1. to stay within something.  Please remain in the house today. It is too cold to go out.  You should remain in because the weather is bad. 2. to stay in an organization as a member. He remained in the Boy Scouts until he was sixteen. I will remain in the teacher’s union for many years."
+        },
+        {
+            "id": 20,
+            "phrase": "remain together",
+            "definition": "to stay close together; to stay in association.  We will have to remain together while we are on this tour. It is very easy to get lost in this town.  The two boys remained together throughout college."
+        },
+        {
+            "id": 21,
+            "phrase": "remain under something",
+            "definition": "to continue to stay beneath the surface of something. Please remain under the umbrella so you don’t get wet.  A lot of people decided to leave the shelter, but I remained under it."
+        },
+        {
+            "id": 22,
+            "phrase": "remain up",
+            "definition": "to stay awake and out of bed.  I remained up throughout most of the night.  I cannot remain up much longer."
+        },
+        {
+            "id": 23,
+            "phrase": "remain within (something)",
+            "definition": "to stay inside something or some place.  Please try to remain within the boundaries of the campus.  Everyone else went out, but I decided to remain within."
+        },
+        {
+            "id": 24,
+            "phrase": "remark (up)on someone or something",
+            "definition": "to comment on someone or something. (Upon is formal and less commonly used than on.) _ She remarked upon his tardiness and then continued the lesson. There is no need to remark on me or anything I do or don’t do."
+        },
+        {
+            "id": 25,
+            "phrase": "Remember me to someone.",
+            "definition": "Please carry my good wishes to someone. (The someone can be a person’s name or a pronoun.) _ Tom: My brother says hello. Bill: Oh, good. Please remember me to him. Tom: I will. Fred: Bye. John: Good-bye, Fred. Remember me to your Uncle Tom."
+        },
+        {
+            "id": 26,
+            "phrase": "remember someone as something",
+            "definition": "to recall someone as being a particular type of person.  I remember Terri as a rather cheerful girl, always willing to help out. William will be remembered as a grouchy person."
+        },
+        {
+            "id": 27,
+            "phrase": "remember someone in one’s will",
+            "definition": "to bequeath something to someone in one’s will. My uncle always said he would remember me in his will.  He failed to remember me in his will."
+        },
+        {
+            "id": 28,
+            "phrase": "remember someone to someone",
+            "definition": "to carry the greetings of someone to someone else.  Please remember all of us to your uncle.  I will remember you to my brother, who asks of you often."
+        },
+        {
+            "id": 29,
+            "phrase": "remind someone about someone or something",
+            "definition": "to cause someone to remember someone or something. Will you please remind me about Fred? He’s coming to visit next week.  I will remind you about your appointments for today."
+        },
+        {
+            "id": 30,
+            "phrase": "remind someone of someone or something",
+            "definition": "to bring a memory of someone or something into someone’s mind. You remind me of my brother.  The happy song reminded us of our cabin on the lake."
+        },
+        {
+            "id": 31,
+            "phrase": "reminisce about someone or something",
+            "definition": "to think about one’s memories of someone or something; to discuss or share memories of someone or something.  They were reminiscing about their old friends.  The old men sat and reminisced about the good old days."
+        },
+        {
+            "id": 32,
+            "phrase": "reminisce with someone",
+            "definition": "to share memories with someone.  I love to reminisce with my sister about old times. Todd was reminiscing with Alice about the good old days."
+        },
+        {
+            "id": 33,
+            "phrase": "reminiscent of someone or something",
+            "definition": "reminding someone about someone or something; seeming like or suggesting someone or something.  This fragrance is reminiscent of fresh f lowers.  Jane’s dress seems reminiscent of the style worn in the 1920s."
+        },
+        {
+            "id": 34,
+            "phrase": "remit something to someone or something",
+            "definition": "to send something, especially money, to someone or a group.  Please remit your rent to your landlady immediately. You are requested to remit your loan payment to the bank on time this month."
+        },
+        {
+            "id": 35,
+            "phrase": "remonstrate (with someone) (about someone or something)",
+            "definition": "to protest to someone about someone or something. After remonstrating with the manager about the price for a while, Vernon left quietly.  I spent an hour remonstrating about Ted with Alice."
+        },
+        {
+            "id": 36,
+            "phrase": "remove someone from something",
+            "definition": "to take someone out of an office or position.  The county board removed the sheriff from office.  She removed herself from office voluntarily."
+        },
+        {
+            "id": 37,
+            "phrase": "remove someone or something from someone or something",
+            "definition": "to take someone or something away from someone or something.  The authorities removed the child from his mother.  They removed the dog from the kennel."
+        },
+        {
+            "id": 38,
+            "phrase": "remunerate someone for something",
+            "definition": "1. to pay someone for something.  Of course, I will remunerate you for your time.  She was promptly remunerated for the hours she spent working on the project. 2. to repay someone for money spent.  I will remunerate you for the cost of the book if you will give me the receipt.  Please remunerate me for the charges as soon as possible."
+        },
+        {
+            "id": 39,
+            "phrase": "rend something from someone or something",
+            "definition": "to tear something from someone or something. (The past tense and past participle are rent.) _ Harry rent the burning clothing from the man who had just f led from the burning building.  I will rend these dirty old clothes from my body and shower."
+        },
+        {
+            "id": 40,
+            "phrase": "rend something into something",
+            "definition": "to rip or tear something into something. (The past tense and past participle are rent.) _ The tailor rent the garment into shreds in his anger.  The garment was rent into bits and pieces by the machine."
+        },
+        {
+            "id": 41,
+            "phrase": "render something down†",
+            "definition": "to cook the fat out of something.  Polly rendered the chicken fat down to a bit of golden grease that she would use in cooking a special dish. Jane rendered down the fat for use later. The cook rendered it down."
+        },
+        {
+            "id": 42,
+            "phrase": "render something in(to) something",
+            "definition": "to translate something into something.  Now, see if you can render this passage in French.  Are you able to render this into German?"
+        },
+        {
+            "id": 43,
+            "phrase": "renege on something",
+            "definition": "to go back on one’s promise or commitment.  I am mad at you because you reneged on your promise! _ I did not renege on what I promised."
+        },
+        {
+            "id": 44,
+            "phrase": "renounce someone for something",
+            "definition": "to repudiate someone for doing something. She renounced her brother for his political orientation. Jane was renounced for her illegal activities."
+        },
+        {
+            "id": 45,
+            "phrase": "rent something from someone",
+            "definition": "to pay someone for the use of something.  We rented a small car from one of the rental agencies. They rented a house from a local realtor."
+        },
+        {
+            "id": 46,
+            "phrase": "rent something (out†) (to someone)",
+            "definition": "to sell temporary rights for the use of something to someone.  I rented the back room out to a nice young student.  We rented the back room to someone.  For how long did you rent it out? _ Let’s rent out the garage."
+        },
+        {
+            "id": 47,
+            "phrase": "repair to some place",
+            "definition": "to move oneself to some place.  I will repair to my room until the crisis is over. She repaired to a safe place for the duration of the storm."
+        },
+        {
+            "id": 48,
+            "phrase": "repatriate someone to some place",
+            "definition": "to restore one to one’s country of origin.  He asked that they repatriate him to the land of his birth.  She was repatriated to her homeland."
+        },
+        {
+            "id": 49,
+            "phrase": "repay someone by something",
+            "definition": "to recompense someone by doing something; to settle a debt with someone by doing something. I will repay you by cutting your lawn free for a year. How’s that? _Can I repay you by taking you to dinner?"
+        },
+        {
+            "id": 50,
+            "phrase": "repay someone for something",
+            "definition": "to remunerate someone for doing something. I refused to repay him for his excessive expenses.  She was repaid for her kindness many times over."
+        },
+        {
+            "id": 51,
+            "phrase": "repay someone with something",
+            "definition": "to remunerate someone with something.  The farmer’s wife repaid the plumbers with fresh eggs and cream. We were repaid with fresh eggs from the farm."
+        },
+        {
+            "id": 52,
+            "phrase": "repel someone from something",
+            "definition": "to push someone back from something; to fight someone off from something.  The army repelled the attackers from the entrance to the city.  The attacking army was repelled from the city."
+        },
+        {
+            "id": 53,
+            "phrase": "replenish something with something",
+            "definition": "to rebuild the supply of something with more of it. I will replenish the checking account with more money at the end of the month.  Can I replenish your glass with more iced tea?"
+        },
+        {
+            "id": 54,
+            "phrase": "reply to someone or something",
+            "definition": "to give a response to someone or something.  I replied to her already. There is no reason to do it again.  I will reply to her letter as soon as I can."
+        },
+        {
+            "id": 55,
+            "phrase": "report about someone or something",
+            "definition": "to deliver information about someone or something.  Isn’t it time to report about Frank and how well he is doing? _ I want to report about the accident."
+        },
+        {
+            "id": 56,
+            "phrase": "report back (on someone or something)",
+            "definition": "to return with information or an explanation from someone or something.  I need you to report back on Walter by noon.  I’ll report back as soon as I can."
+        },
+        {
+            "id": 57,
+            "phrase": "report back (to someone or something)",
+            "definition": "1. to go back to someone or something and present oneself. Report back to me at once! _I’ll report back immediately. 2. to present information or an explanation to someone or some group. Please report back to me when you have the proper information.  I’ll report back as soon as I have all the information."
+        },
+        {
+            "id": 58,
+            "phrase": "report for something",
+            "definition": "to present oneself for something.  Please report for duty on Monday morning at eight o’clock sharp.  I can’t report for my examination at the time we agreed upon."
+        },
+        {
+            "id": 59,
+            "phrase": "report in",
+            "definition": "to present oneself; to make one’s presence known.  Please report in when you get back in town.  He reported in and his name was taken off the absentee list."
+        },
+        {
+            "id": 60,
+            "phrase": "report in sick",
+            "definition": "to call one’s office to say that one will not come to work because one is sick; to show up for work ill.  I don’t feel well today. I will report in sick.  The phone was busy, so I reported in sick by e-mail."
+        },
+        {
+            "id": 61,
+            "phrase": "report something to someone",
+            "definition": "to present a body of information to someone. Please report the results to the supervisor.  The event was reported to the proper person."
+        },
+        {
+            "id": 62,
+            "phrase": "report to someone or something",
+            "definition": "1. to present oneself to someone or an office.  You must report to me for duty at noon.  They told me to report to this office at this time. 2. to be supervised by someone or an office. When you start work here, you will report to Mrs. Franklin. I report directly to the home office. 3. to return to someone or an office and make a report.  Please report to me when you have the results. If you have any more to say, please report to headquarters and tell the whole story."
+        },
+        {
+            "id": 63,
+            "phrase": "report (up)on someone or something",
+            "definition": "to present an explanation on someone or something. (Upon is formal and less commonly used than on.) _ The detective visited Mrs. Jones to report upon Mr. Jones.  I want to report on the events of the day. Do you have time to listen?"
+        },
+        {
+            "id": 64,
+            "phrase": "repose in something",
+            "definition": "1. to lie stretched out in something, such as a bed.  I think I would like to repose in my own bed for an hour or two before I begin my journey.  Tom reposed in a comfortable chair for the rest of the evening. 2. to lie stretched out in a particular state, such as death or slumber.  She lay on the cot, reposed in slumber, waiting for Prince Charming to arrive.  The ruler reposed in death on public view for two days. 3. [for something] to exist in something or be part of the essence of something.  Much of our cultural heritage reposes in our literature. Considerable important thinking reposes in folktales and myths."
+        },
+        {
+            "id": 65,
+            "phrase": "repose (up)on something",
+            "definition": "to lie on something. (Upon is formal and less commonly used than on.) _ I will repose upon these cushions until my bathwater has been drawn.  Dawn reposed on the sofa for over an hour."
+        },
+        {
+            "id": 66,
+            "phrase": "represent someone in something",
+            "definition": "to act as one’s advocate or agent in business or legal proceedings.  My lawyer represented me in court.  His attorney will represent him in all his dealings with the publishing company."
+        },
+        {
+            "id": 67,
+            "phrase": "represent someone or something as something",
+            "definition": "to depict or portray someone or something as something; to think of someone or something as something.  I don’t think you should represent me as so perfect. After all, I’m human.  The artist represented my puppy as a playful animal."
+        },
+        {
+            "id": 68,
+            "phrase": "represent something to someone",
+            "definition": "1. to exemplify something to someone.  What does this behavior represent to you? _ This represents a lapse in manners to me. 2. to explain a matter to someone. He represented the matter to me in a much more charitable light.  I did not represent it properly to you."
+        },
+        {
+            "id": 69,
+            "phrase": "reprimand someone for something",
+            "definition": "to scold someone for something; to admonish someone for something. There is no need to reprimand me for a simple accident! _ Mary was reprimanded for being late."
+        },
+        {
+            "id": 70,
+            "phrase": "reproach someone for something",
+            "definition": "to rebuke or censure someone for something.  She reproached Jerry for gambling away all their money.  She reproached herself mercilessly for her failure."
+        },
+        {
+            "id": 71,
+            "phrase": "reproach someone with something",
+            "definition": "to rebuke someone with reference to something.  I wish you wouldn’t continue to reproach me with things that happened long ago.  She was reproached with something out of the past."
+        },
+        {
+            "id": 72,
+            "phrase": "reproduce something from something",
+            "definition": "to make a copy of something from something else.  I think we can reproduce the picture from the copy that you have there. We don’t need the negative.  Can you reproduce a good copy from this old print?"
+        },
+        {
+            "id": 73,
+            "phrase": "reprove someone for something",
+            "definition": "to criticize or censure someone for something.  The boss reproved all the employees for their use of the telephones for personal calls.  We were all reproved for being late too often."
+        },
+        {
+            "id": 74,
+            "phrase": "repulse someone or something from something",
+            "definition": "to resist or repel someone or something from something. The royal guard repulsed the rebels from the palace grounds.  Only the use of guns could repulse the starving wolves from the area around the cabin."
+        },
+        {
+            "id": 75,
+            "phrase": "*a reputation (as a something)",
+            "definition": "a state of having a particular kind of reputation for being something. (Can be a good or a bad reputation. *Typically: get ~; have ~; give someone ~.) _She once had a reputation as a singer.  Unfortunately, Tom’s got a reputation as a cheat."
+        },
+        {
+            "id": 76,
+            "phrase": "*a reputation (for doing something)",
+            "definition": "a state of having a particular kind of reputation for doing something. (Often a bad reputation, as in the examples. *Typically: get ~; have ~; give someone ~.) _ You’ll get a reputation for cheating.  I don’t want to get a reputation for being late."
+        },
+        {
+            "id": 77,
+            "phrase": "reputed to",
+            "definition": "thought to do, be, or have someone or something. My boss is reputed to have cancer. My neighbor was reputed to have been a spy during the war."
+        },
+        {
+            "id": 78,
+            "phrase": "request someone to do something",
+            "definition": "to ask someone to do something.  I am going to request you to turn your radio down. Mary was requested to arrive a few minutes early."
+        },
+        {
+            "id": 79,
+            "phrase": "request something from someone",
+            "definition": "to call for something from someone.  I will request an explanation from the employee in question.  A full report was requested from each person present."
+        },
+        {
+            "id": 80,
+            "phrase": "request something of someone",
+            "definition": "to call for someone to give or do something. I have to request a favor of you. Can I request anything more of him?"
+        },
+        {
+            "id": 81,
+            "phrase": "require something from someone",
+            "definition": "to demand something from someone.  The telephone company required a deposit from John and Martha before they would install a telephone.  They required some help from us."
+        },
+        {
+            "id": 82,
+            "phrase": "require something of someone",
+            "definition": "to expect or demand someone to give or do something.  I require absolute loyalty of my employees.  What is required of me in this job?"
+        },
+        {
+            "id": 83,
+            "phrase": "requisition something for someone or something",
+            "definition": "to present an order or formal request for something for someone or some purpose.  I will have to requisition a desk for you. You can’t work an eight-hour day at a table. We will requisition catering for the office party."
+        },
+        {
+            "id": 84,
+            "phrase": "requisition something from someone or something",
+            "definition": "to send an order or formal request to someone or something for something.  The general requisitioned food and bedding from the supply depot.  We requisitioned a new bookcase from central supply."
+        },
+        {
+            "id": 85,
+            "phrase": "rescue someone or something from someone or something",
+            "definition": "to save or liberate someone or something from someone or something.  I hoped that someone would come and rescue me from this boring person.  Nothing can rescue us from the ravages of time."
+        },
+        {
+            "id": 86,
+            "phrase": "research into someone or something",
+            "definition": "to study about someone or something thoroughly.  I decided that I would research into Queen Elizabeth.  We researched into the period in which she lived."
+        },
+        {
+            "id": 87,
+            "phrase": "resemble someone or something in something",
+            "definition": "to look or seem like someone or something. You resemble my Uncle Herman in the way you walk.  This resembles vanilla ice cream in f lavor, but not in consistency."
+        },
+        {
+            "id": 88,
+            "phrase": "reserve something for someone or something",
+            "definition": "to save or set aside something for someone or something. I am reserving this seat for Claire. We are reserving some of the cake for tomorrow."
+        },
+        {
+            "id": 89,
+            "phrase": "reside in some place",
+            "definition": "to dwell in some place.  I reside in a small apartment in the center of town.  The Wilsons resided in a large house on a hill."
+        },
+        {
+            "id": 90,
+            "phrase": "reside in someone or something",
+            "definition": "to be a property or characteristic of someone or something.  I never knew such anger could reside in such a calm person.  The finest acoustics that can be found in the world reside in this hall."
+        },
+        {
+            "id": 91,
+            "phrase": "resign from something",
+            "definition": "to make a written statement that removes one from an office or position of employment. Andy resigned from the fraternity. I will not resign from my job. You will have to fire me."
+        },
+        {
+            "id": 92,
+            "phrase": "resign oneself to something",
+            "definition": "to accept something reluctantly.  I finally resigned myself to going to Mexico even though I didn’t want to.  Mary resigned herself to her fate."
+        },
+        {
+            "id": 93,
+            "phrase": "resonate with someone",
+            "definition": "[for an idea, issue, or concept] to appeal to someone or cause someone to relate to it.  The concept of wearing worn-looking clothing seems to resonate with young people.  Your notion just doesn’t resonate with the public in general."
+        },
+        {
+            "id": 94,
+            "phrase": "resort to something",
+            "definition": "to turn to something that is not the first choice. I hope they don’t resort to a lawsuit to accomplish their goals. She will resort to anything to get her way."
+        },
+        {
+            "id": 95,
+            "phrase": "resound through(out) something",
+            "definition": "to roar, noisily, through a space or an enclosed area.  An explosion resounded through the busy train station.  An explosion resounded throughout the busy train station."
+        },
+        {
+            "id": 96,
+            "phrase": "resound with something",
+            "definition": "[for something, such as the air or a place] to be filled with sound or sounds.  The hall resounded with the sounds of the orchestra.  The house resounded with the laughter of children."
+        },
+        {
+            "id": 97,
+            "phrase": "respect someone as something",
+            "definition": "to admire someone as something.  I respect you as a friend and supervisor.  We respected them all as colleagues and coworkers."
+        },
+        {
+            "id": 98,
+            "phrase": "respect someone for something",
+            "definition": "to admire someone for something.  I really respect George for his courage.  Mary respected the company for its fine products."
+        },
+        {
+            "id": 99,
+            "phrase": "respond to someone or something",
+            "definition": "1. to answer someone or something.  Would you please respond to me? _ When are you going to respond to my letter? 2. to react to someone or something. You have heard his presentation. How would you respond to him? _ I need you to respond to the points in the report by the end of the day.  The police responded right away to the riot call."
+        },
+        {
+            "id": 100,
+            "phrase": "the responsible party",
+            "definition": "the person or organization responsible or liable for something.  I intend to find the responsible party and get some answers to my questions.  Mary sued the responsible party in the car crash."
+        },
+        {
+            "id": 101,
+            "phrase": "rest against someone or something",
+            "definition": "to lean against someone or something; to take a rest period positioned against someone or something.  The child rested against his father until it was time to board the train.  A fishing pole rested against the side of the garage, ready to go to work."
+        },
+        {
+            "id": 102,
+            "phrase": "rest assured",
+            "definition": "to be assured; to be certain.  Rest assured that you’ll receive the best of care. Please rest assured that we will do everything possible to help."
+        },
+        {
+            "id": 103,
+            "phrase": "rest from something",
+            "definition": "to take it easy and recover from something.  I need to take a few minutes and rest from all that exertion. When you have rested from your running, please come in here and help me."
+        },
+        {
+            "id": 104,
+            "phrase": "rest in peace",
+            "definition": "to lie dead peacefully for eternity. (A solemn entreaty used in funeral prayers, eulogies, etc.) _ We prayed that the deceased would rest in peace.  The bodies of the soldiers will rest in peace."
+        },
+        {
+            "id": 105,
+            "phrase": "rest in something",
+            "definition": "1. to be comfortable in something, such as a chair or a bed.  I rested in the chair for a while and then got up and made supper.  I will rest in bed until I feel better. 2. to be at ease in a particular condition or status, such as comfort or comfortable surroundings.  I hope that you can rest in comfort for the rest of the night.  We rested in the plush surroundings and then went back out into the hot sun to work. 3. [for something] to have its source in something.  The source of her magnetism rests in the way she uses her eyes.  His skill rests in his thorough training."
+        },
+        {
+            "id": 106,
+            "phrase": "The rest is gravy.",
+            "definition": "Any additional money received is just an easily acquired bonus. There is some cost involved in buying the raw materials, and the cost of manufacturing is negligible. When we pay off the costs, the rest is gravy."
+        },
+        {
+            "id": 107,
+            "phrase": "The rest is history.",
+            "definition": "Everyone knows the rest of the story that I am referring to.  Bill: Then they arrested all the officers of the corporation, and the rest is history. Bob: Hey, what happened between you and Sue? Bill: Finally we realized that we could never get along, and the rest is history."
+        },
+        {
+            "id": 108,
+            "phrase": "rest on one’s laurels",
+            "definition": "to stop trying because one is satisfied with one’s past achievements.  Despite our success, this is no time to rest on our laurels.  We rested on our laurels too long. Our competitors took away a lot of our business."
+        },
+        {
+            "id": 109,
+            "phrase": "rest something against something",
+            "definition": "to lean or position something against something, allowing it to bear part of the weight of the thing being rested.  Rest the heavy end of the box against the wall and we’ll slide it down the stairs.  Please rest the board against something solid while you paint it."
+        },
+        {
+            "id": 110,
+            "phrase": "rest something in someone or something",
+            "definition": "to place or vest something in someone or something.  The board of directors saw fit to rest the power to hire and fire in the office of the vice president.  The president rested the power to hire and fire in the hands of his son, who promptly fired all the top managers."
+        },
+        {
+            "id": 111,
+            "phrase": "rest up (for something)",
+            "definition": "to take it easy in advance of something tiring.  Excuse me, but I have to go rest up for the concert tonight.  I really need to rest up a while."
+        },
+        {
+            "id": 112,
+            "phrase": "rest up (from something)",
+            "definition": "to recover or recuperate from something tiring. I need about a week to rest up from my long travels.  I’ll need a few days to rest up."
+        },
+        {
+            "id": 113,
+            "phrase": "rest (up)on something",
+            "definition": "to lie on something; to take it easy on something. (Upon is formal and less commonly used than on.) _Here, rest upon this mat. I’ll just rest on this chair, thanks."
+        },
+        {
+            "id": 114,
+            "phrase": "rest with someone or something",
+            "definition": "to remain with someone or something; to be vested with someone or something. The final decision rests with you. The power rests with the board of directors."
+        },
+        {
+            "id": 115,
+            "phrase": "restore something to someone",
+            "definition": "to give something back to someone; to cause something to be returned to someone.  I will restore the man’s wallet to him after we lock the thief up.  His wallet was restored to him by a police officer."
+        },
+        {
+            "id": 116,
+            "phrase": "restore something to something",
+            "definition": "to bring something to its original state.  The state restored the park to its original condition.  The government forced the mining company to restore the area to its original state."
+        },
+        {
+            "id": 117,
+            "phrase": "restrain someone from something",
+            "definition": "to prevent someone from doing something.  I had to restrain her from hurting herself.  I was unable to restrain myself from giggling at the wisecrack."
+        },
+        {
+            "id": 118,
+            "phrase": "restrict someone or something to someone or something",
+            "definition": "to limit someone or something to someone or something; to confine someone or something to someone or something. (The first something may typically refer to a choice or selection.) _ When choosing team members, we are restricting them to people they already know.  We restricted the choices to Bill, Bob, or Ted."
+        },
+        {
+            "id": 119,
+            "phrase": "result from something",
+            "definition": "to emerge from something; to be the outcome of something.  It will be interesting to see what results from your efforts.  Nothing resulted from all that work."
+        },
+        {
+            "id": 120,
+            "phrase": "result in something",
+            "definition": "to achieve something; to bring about something; to cause something to happen.  I hope that this will result in the police finding your car. All my effort resulted in nothing at all."
+        },
+        {
+            "id": 121,
+            "phrase": "resurrect someone or something from something",
+            "definition": "to restore someone or something from some state to its formal state. We decided to resurrect Toby from the ranks of the retired.  I resurrected my old uniform from its tattered and wrinkled state."
+        },
+        {
+            "id": 122,
+            "phrase": "retail at something",
+            "definition": "to sell at a retail price of something.  This model normally retails at a much higher price. What does a product like this usually retail at?"
+        },
+        {
+            "id": 123,
+            "phrase": "retail for something",
+            "definition": "to sell for a retail price of an amount of money.  This item retails for less than ten dollars.  How much does this retail for?"
+        },
+        {
+            "id": 124,
+            "phrase": "retail something to someone",
+            "definition": "to sell something to someone at a retail price.  I can retail this merchandise at ninety percent of the price of my competitor. We are not allowed to retail this to anyone in the state of Maine."
+        },
+        {
+            "id": 125,
+            "phrase": "retain something over someone or something",
+            "definition": "to keep or maintain something, such as power or control, over someone or something.  Tony found a way to retain control over Fred.  I wish to retain veto power over the committee."
+        },
+        {
+            "id": 126,
+            "phrase": "retaliate against someone or something",
+            "definition": "to take revenge against someone or something. The striking workers will retaliate against the company with a protest march.  The students retaliated against the administration."
+        },
+        {
+            "id": 127,
+            "phrase": "retire from something",
+            "definition": "to withdraw from something. (Usually to terminate a working career permanently.) _ I retired from the company early.  When do you intend to retire from your job?"
+        },
+        {
+            "id": 128,
+            "phrase": "retire (in)to something",
+            "definition": "to quit working and move into something or some place.  Sam and Ella retired into a Florida condo.  Joe did not want to retire to Florida."
+        },
+        {
+            "id": 129,
+            "phrase": "retire on something",
+            "definition": "to quit working and live on something or a particular amount of money. I already have enough money to retire on.  I cannot retire on a sum like that!"
+        },
+        {
+            "id": 130,
+            "phrase": "retire someone or something from something",
+            "definition": "to take someone or something out of service permanently. The company retired the vice president from the job and gave it to someone else. It is time to retire my automobile from service."
+        },
+        {
+            "id": 131,
+            "phrase": "retire to some place",
+            "definition": "to quit working permanently and move to a particular location.  When I quit working, I want to retire to Florida.  We will retire to our place in the country."
+        },
+        {
+            "id": 132,
+            "phrase": "retool for something",
+            "definition": "to set up with new or altered tools for a different kind of production. The factory was closed down so they could retool for next year’s model.  How soon can we retool for this new line of products?"
+        },
+        {
+            "id": 133,
+            "phrase": "retool something for something",
+            "definition": "to set up a factory with new or altered tools for a different kind of production.  The manager decided to retool the factory for greater efficiency.  We will retool the plant for next year’s models."
+        },
+        {
+            "id": 134,
+            "phrase": "retreat (from something) (to some place)",
+            "definition": "to withdraw from something to some place. The army retreated from the battlefield to the safety of the forest.  They retreated to the other side of the river."
+        },
+        {
+            "id": 135,
+            "phrase": "retrieve someone or something from some place",
+            "definition": "to recover and bring back someone or something from some place.  The mother hurried to the school and retrieved her child from the classroom.  I retrieved my cat from the well into which she had fallen."
+        },
+        {
+            "id": 136,
+            "phrase": "retrieve something from someone",
+            "definition": "to get something back from someone.  I hope I can retrieve my book from the person who borrowed it. We were not able to retrieve the lawn mower from Fred before he moved away and took it with him."
+        },
+        {
+            "id": 137,
+            "phrase": "return from some place",
+            "definition": "to come back from some place.  I just returned from a research trip in the Amazon basin.  When will they return from their vacation?"
+        },
+        {
+            "id": 138,
+            "phrase": "return someone or something to someone",
+            "definition": "to give someone or something back to someone.  Please return my tools to me.  Would you return my book to me soon?"
+        },
+        {
+            "id": 139,
+            "phrase": "return something for something",
+            "definition": "to give or pay back something for something.  The clerk returned the correct change for a twenty-dollar bill.  I hope that the product returns good value for my money."
+        },
+        {
+            "id": 140,
+            "phrase": "return the favor",
+            "definition": "to do a good deed for someone who has done a good deed for you.  You helped me last week, so I’ll return the favor and help you this week.  There is no point in helping Bill. He’ll never return the favor."
+        },
+        {
+            "id": 141,
+            "phrase": "return to some place",
+            "definition": "to go or come back to some place.  When do you plan to return to your home? _ I will return there when I have finished here."
+        },
+        {
+            "id": 142,
+            "phrase": "return with something",
+            "definition": "to come back with something.  He went to town and returned with the doctor just in time.  She returned with the material they had requested."
+        },
+        {
+            "id": 143,
+            "phrase": "reunite someone or something with someone or something",
+            "definition": "to bring someone or something together with someone or something.  Mary was pleased to reunite Sally with her sister.  I reunited the lost cat with its owner."
+        },
+        {
+            "id": 144,
+            "phrase": "rev something up†",
+            "definition": "to make an idling engine run very fast, in short bursts of power.  Hey! Stop revving it up! _ I wish that Tom wouldn’t sit out in front of our house in his car and rev up his engine."
+        },
+        {
+            "id": 145,
+            "phrase": "rev up",
+            "definition": "to increase in amount or activity.  Production revved up after the strike. We’re hoping business will rev up soon."
+        },
+        {
+            "id": 146,
+            "phrase": "reveal someone or something to someone",
+            "definition": "to show or disclose someone or something to someone.  The magician opened the door of the cabinet and revealed his assistant to the audience.  I revealed my secret to no one.  She stepped out from behind the tree and revealed herself to the hostess."
+        },
+        {
+            "id": 147,
+            "phrase": "revel in something",
+            "definition": "to rejoice or celebrate about something.  All the children reveled in the fresh, warm, spring air.  Tony reveled in his success."
+        },
+        {
+            "id": 148,
+            "phrase": "Revenge is a dish best served cold.",
+            "definition": "Prov. It is very satisfying to get revenge a long time after the event for which you want revenge.  I don’t mind waiting to get revenge on Greg; I’ll wait ten years if I have to. Revenge is a dish best served cold."
+        },
+        {
+            "id": 149,
+            "phrase": "Revenge is sweet.",
+            "definition": "Prov. It is very pleasurable to revenge yourself on someone.  Jill: Remember when Tom left me for another woman? Well, she just left him, and he asked me out on a date. I told him I had better things to do. Jane: Revenge is sweet, huh?"
+        },
+        {
+            "id": 150,
+            "phrase": "revenge oneself (up)on someone or something",
+            "definition": "to retaliate against someone or something. (Upon is formal and less commonly used than on.) _ There is no need for you to revenge yourself upon Walter. It was an accident. She did not know how she would revenge herself on Joe, but she knew she would."
+        },
+        {
+            "id": 151,
+            "phrase": "reverberate through something",
+            "definition": "[for sound] to roll through or pass through a space.  The thunder reverberated through the valley. The sound of the organ reverberated through the church."
+        },
+        {
+            "id": 152,
+            "phrase": "reverberate throughout something",
+            "definition": "[for sound] to roll about and fill a space.  The thunder reverberated throughout the valley.  The noise of chairs scraping the f loor reverberated throughout the room."
+        },
+        {
+            "id": 153,
+            "phrase": "reverberate with something",
+            "definition": "to echo or resound with something.  The hall reverberated with the rich basso voice of Walter Rogers. The church reverberated with the roar of the pipe organ."
+        },
+        {
+            "id": 154,
+            "phrase": "revere someone or something for something",
+            "definition": "to admire or venerate someone or something for something.  I will always revere my dear aunt for her devotion to all of us.  We have always revered his lovely gift for our little kindness."
+        },
+        {
+            "id": 155,
+            "phrase": "revert to someone or something",
+            "definition": "1. to return to some type of person or a former state.  After he was out of prison, he reverted to a life of crime.  She quickly reverted to her childhood dialect after a few weeks at home. 2. to become the property of someone, a group, or an institution.  At the end of ten years, this house and the land it sits on reverts to the youngest living child.  Then the property reverts to the state."
+        },
+        {
+            "id": 156,
+            "phrase": "review for something",
+            "definition": "to study material again for something, such as an examination.  I need some time to review for the examination.  Have you had enough time to review for your speech?"
+        },
+        {
+            "id": 157,
+            "phrase": "revolt against someone or something",
+            "definition": "to rebel or rise against someone or something.  The citizens were gathering arms, preparing to revolt against the government."
+        },
+        {
+            "id": 158,
+            "phrase": "revolted at someone or something",
+            "definition": "sickened by someone or something.  I was revolted at Frank and his behavior.  We were all revolted at the scene of the bloody highway accident."
+        },
+        {
+            "id": 159,
+            "phrase": "reward someone for something",
+            "definition": "to give someone a prize or a bonus for doing something. I would like to reward you for your honesty.  She wanted to reward herself for her hard work, so she treated herself to a massage."
+        },
+        {
+            "id": 160,
+            "phrase": "reward someone with something",
+            "definition": "to honor someone with a gift of something.  She rewarded the helpful child with a chocolate chip cookie. He rewarded himself with a night on the town."
+        },
+        {
+            "id": 161,
+            "phrase": "rhapsodize over someone or something",
+            "definition": "to go on and on about the virtues of someone or something.  Young Thomas likes to rhapsodize over Francine, his girlfriend.  Please do not rhapsodize over this poem anymore."
+        },
+        {
+            "id": 162,
+            "phrase": "rhyme something with something",
+            "definition": "[for someone] to make one word rhyme with another word.  I need to rhyme tree with some other word. Any suggestions? _Can I rhyme good with food?"
+        },
+        {
+            "id": 163,
+            "phrase": "rhyme with something",
+            "definition": "[for a word] to rhyme with another word.  You can’t use house in that line of the poem, because it doesn’t rhyme with mice. The last word in your poem doesn’t rhyme with any other word in the poem!"
+        },
+        {
+            "id": 164,
+            "phrase": "rich in something",
+            "definition": "having valuable resources, characteristics, traditions, or history.  The entire region is rich in historical churches.  Our soil is rich in important nutrients."
+        },
+        {
+            "id": 165,
+            "phrase": "A rich man’s joke is always funny.",
+            "definition": "Prov. Everyone wants to curry favor with rich people and so will always laugh at their jokes. (From a poem by Thomas Edward Brown.) _ We all thought that Mr. Lisle was a narrowminded, unpleasant old man, but we were careful to act otherwise, because he was wealthy. A rich man’s joke is always funny."
+        },
+        {
+            "id": 166,
+            "phrase": "rich with something",
+            "definition": "having a lot of something; abundant in something.  The beautiful book was rich with color illustrations.  The old town was rich with elegant Victorian houses."
+        },
+        {
+            "id": 167,
+            "phrase": "ricochet off something",
+            "definition": "[for some rapidly moving object, such as a bullet] to bounce off something at an angle.  The bullet ricocheted off the wall and struck the gunman.  Bullets were ricocheting off the walls from all angles."
+        },
+        {
+            "id": 168,
+            "phrase": "*rid of someone or something",
+            "definition": "free of someone or something. (*Typically: be ~; get ~.) _I’m trying to get rid of Mr. Smith. He’s bothering me.  I’ll be happy when I get rid of my old car."
+        },
+        {
+            "id": 169,
+            "phrase": "rid oneself or something of someone or something",
+            "definition": "to free oneself or something of someone or something; to deliver oneself or something from someone or something. The boys were not clever enough to rid themselves of Tom’s little sister. Will we ever be able to rid this house of spiders?"
+        },
+        {
+            "id": 170,
+            "phrase": "riddle someone or something with something",
+            "definition": "to fill someone or something with small holes, such as bullet holes.  Max pulled the trigger of the machine gun and riddled Lefty with holes.  The police riddled the wall with holes trying to shoot the escaped convict in the house."
+        },
+        {
+            "id": 171,
+            "phrase": "ride away",
+            "definition": "to depart, riding a bike or a horse or similar animal. She got on her horse and rode away. They rode away without even saying good-bye."
+        },
+        {
+            "id": 172,
+            "phrase": "ride by someone or something",
+            "definition": "to pass by someone or something, riding. (As on a horse or bicycle, or as a passenger in a car.) _ She rode by me without saying anything.  I rode by the store and forget to stop and go in."
+        },
+        {
+            "id": 173,
+            "phrase": "ride herd on someone or something",
+            "definition": "to supervise someone or something. (Alludes to a cowboy supervising cattle.) _ I’m tired of having to ride herd on my kids all the time. My job is to ride herd on this project and make sure everything is done right."
+        },
+        {
+            "id": 174,
+            "phrase": "ride off",
+            "definition": "to depart, riding something such as a horse or a bicycle. Betty said good-bye and rode off. We rode off, each one in a different direction."
+        },
+        {
+            "id": 175,
+            "phrase": "ride off in all directions",
+            "definition": "1. Fig. [for people] to scatter, riding something, such as a horse or a bicycle. The boys hopped on their bikes and rode off in all directions.  The sheriff got the posse together and they rode off in all directions, looking for the bank robber. 2. Fig. to behave in a totally confused manner; to try to do everything at once.  Bill has a tendency to ride off in all directions. He’s not organized enough.  Now, calm down. There is no sense in riding off in all directions."
+        },
+        {
+            "id": 176,
+            "phrase": "ride on",
+            "definition": "to continue to ride, traveling onward.  We rode on for at least an hour before finding a rest stop.  They rode on for a while."
+        },
+        {
+            "id": 177,
+            "phrase": "ride on something",
+            "definition": "to travel on something. Do you like to ride on the train? _ I have never ridden on a horse."
+        },
+        {
+            "id": 178,
+            "phrase": "ride out (of some place)",
+            "definition": "to travel out of a place on something such as a horse or bicycle.  All the racers rode out of the starting area and began the bicycle marathon.  At the sound of the starting gun, all the contestants rode out."
+        },
+        {
+            "id": 179,
+            "phrase": "ride over someone or something",
+            "definition": "to pass over someone or something, riding something such as a horse or a bicycle.  Bobby fell down and Susan rode over him with her bicycle, but he wasn’t hurt at all.  Tom almost rode over my toe!"
+        },
+        {
+            "id": 180,
+            "phrase": "ride someone about something",
+            "definition": "to continue to bother someone about something.  Stop riding me about my weight! This is how I’m supposed to be! _ It’s not fair to ride someone about being bald."
+        },
+        {
+            "id": 181,
+            "phrase": "ride someone or an animal down†",
+            "definition": "to chase down someone or an animal while riding on horseback.  The mounted policeman rode the mugger down and captured him. The rider rode down the thief. We had to ride down the runaway horse."
+        },
+        {
+            "id": 182,
+            "phrase": "ride something down",
+            "definition": "to ride on something that is going down, such as an elevator. You take the stairs, and I will ride the elevator down.  I don’t want to ride the cable car down. I will walk."
+        },
+        {
+            "id": 183,
+            "phrase": "ride something out†",
+            "definition": "to endure something unpleasant. (Originally referred to ships lasting out a storm.) _It was a nasty situation, but the mayor tried to ride it out.  The mayor decided to ride out the scandal."
+        },
+        {
+            "id": 184,
+            "phrase": "ride the gravy train",
+            "definition": "to live in ease or luxury.  If I had a million dollars, I sure could ride the gravy train.  I wouldn’t like loafing if I were rich. I don’t want to ride the gravy train."
+        },
+        {
+            "id": 185,
+            "phrase": "ride to some place",
+            "definition": "to travel to a place, riding something such as a horse or a bicycle, or a vehicle one does not drive.  I will ride to town and get the doctor.  Tom will ride to the store on his bike to get a loaf of bread."
+        },
+        {
+            "id": 186,
+            "phrase": "ride up (on someone)",
+            "definition": "[for someone on a horse] to approach someone, riding. I rode up on him and frightened him.  I guess I was in the house when you rode up."
+        },
+        {
+            "id": 187,
+            "phrase": "ride (up)on someone or something",
+            "definition": "to use someone or something as a beast of burden. (Upon is formal and less commonly used than on.) _ As a game, the children used to ride on their father. We rode upon burros along the narrow mountain trails."
+        },
+        {
+            "id": 188,
+            "phrase": "ride with someone",
+            "definition": "to travel with someone on or in a vehicle or a beast of burden.  I’m going to the store for some milk. Do you want to ride with me? _ Can I ride with you to the store?"
+        },
+        {
+            "id": 189,
+            "phrase": "riding for a fall",
+            "definition": "risking failure or an accident, usually due to overconfidence.  Tom drives too fast, and he seems too sure of himself. He’s riding for a fall. Bill needs to eat better and get more sleep. He’s riding for a fall."
+        },
+        {
+            "id": 190,
+            "phrase": "rifle through something",
+            "definition": "to ransack something; to search quickly or roughly through something looking for something.  The teenager quickly rif led through the cabinets, looking for something worth eating.  The soldiers rif led through every house they could break into."
+        },
+        {
+            "id": 191,
+            "phrase": "rig someone or something out† (in something)",
+            "definition": "to outfit someone or something in something; to decorate or dress someone or something in something. (Alludes to the rigging of a sailing ship.) _ Joan rigged her daughter out in a witch’s costume for the Halloween party.  He rigged out his car with lights for the parade."
+        },
+        {
+            "id": 192,
+            "phrase": "rig something up†",
+            "definition": "to prepare something, perhaps on short notice or without the proper materials.  We don’t have what’s needed to make the kind of circuit you have described, but I think we can rig something up anyway.  We will rig up whatever you need."
+        },
+        {
+            "id": 193,
+            "phrase": "*right as rain",
+            "definition": "Cliché perfectly fine; all right. (Based on the alliteration with r. *Also: as ~.) _ Lily has sprained her ankle, but after a few weeks of rest she should be as right as rain. All we need to do is tidy the house up; then it will be right as rain."
+        },
+        {
+            "id": 194,
+            "phrase": "right in the kisser",
+            "definition": "Inf. right in the mouth or face.  Wilbur poked the cop right in the kisser.  He caught a punch right in the kisser."
+        },
+        {
+            "id": 195,
+            "phrase": "(right) off the top of one’s head",
+            "definition": "without giving it too much thought or without precise knowledge. Mary: How much do you think this car would be worth on a trade? Fred: Well, right off the top of my head, I’d say about a thousand.  Tom: What time does the morning train come in? Bill: Off the top of my head, I don’t know."
+        },
+        {
+            "id": 196,
+            "phrase": "Right on!",
+            "definition": "Sl. Exactly!; That is exactly right! _ After the speaker finished, many people in the audience shouted, “Right on!” _ One member of the crowd called out, “Right on!”"
+        },
+        {
+            "id": 197,
+            "phrase": "right on time",
+            "definition": "at the correct time; no later than the specified time.  Bill always shows up right on time.  If you get there right on time, you’ll get one of the free tickets."
+        },
+        {
+            "id": 198,
+            "phrase": "right side up",
+            "definition": "with the correct (top) side upwards, as with a box or some other container.  Keep this box right side up, or the contents will be crushed.  Please set your coffee cup right side up so I can fill it."
+        },
+        {
+            "id": 199,
+            "phrase": "the right stuff",
+            "definition": "the right or correct character or set of skills to do something well. She’s got the right stuff to be a winner."
+        },
+        {
+            "id": 200,
+            "phrase": "(right) under someone’s (very) nose",
+            "definition": "1. Fig. right in front of someone.  I thought I’d lost my purse, but it was sitting on the table under my very nose.  How did Mary fail to see the book? It was right under her nose. 2. Fig. in someone’s presence.  The thief stole Jim’s wallet right under his nose. The jewels were stolen from under the very noses of the security guards."
+        },
+        {
+            "id": 201,
+            "phrase": "*the right-of-way",
+            "definition": "the legal right to occupy a particular space on a public roadway. (*Typically: get ~; have ~; give someone ~; yield ~.) _ I had a traffic accident yesterday, but it wasn’t my fault. I had the right-of-way.  Don’t pull out onto a highway if you haven’t yielded the right-of-way."
+        },
+        {
+            "id": 202,
+            "phrase": "rile someone up†",
+            "definition": "to get someone excited and angry.  He yelled at them and riled them up. They left quite angry.  He riles up everyone he talks to."
+        },
+        {
+            "id": 203,
+            "phrase": "ring a bell",
+            "definition": "[for something] to cause someone to remember something or for it to seem familiar.  I’ve never met John Franklin, but his name rings a bell.  Whenever I see a bee, it rings a bell. I remember when I was stung by one."
+        },
+        {
+            "id": 204,
+            "phrase": "ring around something",
+            "definition": "to circle something. The children ringed around the maypole, dancing and singing.  The mourners had ringed around the coffin for the final ceremony."
+        },
+        {
+            "id": 205,
+            "phrase": "ring back",
+            "definition": "to call back on the telephone.  No, there’s no message. I’ll ring back later.  She’s not here now. I suggest you ring back after dinner."
+        },
+        {
+            "id": 206,
+            "phrase": "ring in the new year",
+            "definition": "to celebrate the beginning of the new year at midnight on December 31. We are planning a big party to ring in the new year. How did you ring in the new year?"
+        },
+        {
+            "id": 207,
+            "phrase": "ring off the hook",
+            "definition": "[for a telephone] to ring incessantly and repeatedly.  What a busy day! The telephone has been ringing off the hook all day long. The telephone has been ringing off the hook ever since the ad appeared in the paper."
+        },
+        {
+            "id": 208,
+            "phrase": "ring out",
+            "definition": "[for a loud sound] to go out.  The bells rang out at the end of the wedding ceremony. Loud cheers rang out at the end of the game. A shot rang out and started all the dogs barking."
+        },
+        {
+            "id": 209,
+            "phrase": "ring out the old",
+            "definition": "to celebrate the end of a year while celebrating the beginning of a new one.  I don’t plan to ring out the old this year. I’m just going to go to bed.  We never ring out the old because it’s too dismal."
+        },
+        {
+            "id": 210,
+            "phrase": "ring someone back†",
+            "definition": "to call someone back on the telephone. I will have to ring back the store at a later time. Please ring me back when you have a moment."
+        },
+        {
+            "id": 211,
+            "phrase": "ring someone up†",
+            "definition": "to call someone on the telephone.  I will ring her up when I get a chance.  I have to ring up a whole list of people."
+        },
+        {
+            "id": 212,
+            "phrase": "ring something up†",
+            "definition": "to record the cost of an item on a cash register.  Please ring this chewing gum up first, and I’ll put it in my purse. The cashier rang up each item and told me how much money I owed."
+        },
+        {
+            "id": 213,
+            "phrase": "ring the bell",
+            "definition": "Inf. to be just what is needed; to hit the spot.  This cold water really rings the bell.  A good hot bowl of soup would ring the bell about now."
+        },
+        {
+            "id": 214,
+            "phrase": "ring the curtain up†",
+            "definition": "1. Fig. to raise the curtain in a theater. (Alludes to sending the signal to raise the curtain.) _ The stagehand rang the curtain up precisely on time.  Let’s ring up the curtain. It’s time to start the show. 2. Fig. to start a series of activities or events.  I am set to ring up the curtain on a new lifestyle.  It’s a little late to ring up the curtain for a new career."
+        },
+        {
+            "id": 215,
+            "phrase": "ring true",
+            "definition": "to sound or seem true or likely. (From testing the quality of metal or glass by striking it and evaluating the sound made.) _ The student’s excuse for being late doesn’t ring true.  Do you think that Mary’s explanation for her absence rang true?"
+        },
+        {
+            "id": 216,
+            "phrase": "ring with something",
+            "definition": "to resound with something.  The morning air rang with the sound of church bells. The canyon rang with the sound of gunfire."
+        },
+        {
+            "id": 217,
+            "phrase": "rinse someone or something down†",
+            "definition": "to wash or clean someone or something with water or other fluid. I rinsed him down for an hour and still didn’t get the smell of skunk off him.  I had to rinse down the driveway."
+        },
+        {
+            "id": 218,
+            "phrase": "rinse someone or something off†",
+            "definition": "to wash or clean someone or something by flushing with water or other fluid.  Mother rinsed the baby off and dried him with a soft towel.  She rinsed off the baby."
+        },
+        {
+            "id": 219,
+            "phrase": "rinse something down† (with something)",
+            "definition": "to wash something down one’s throat with a liquid; to follow something that one has eaten with a drink to aid its going down.  Alice rinsed the cheeseburger down with a milkshake. She rinsed down the sandwich with a drink."
+        },
+        {
+            "id": 220,
+            "phrase": "rinse something out†",
+            "definition": "1. to clean cloth or clothing partially by immersing it in water and squeezing it out.  Can you please rinse this rag out? It’s all dirty. Please rinse out your clothes to make sure there is no soap left in them. 2. to launder something delicate, such as feminine underwear, using a mild soap.  I have to go rinse a few things out.  After I rinse out some things, I will be right with you. 3. to clean the inside of a container partially by flushing it out with water.  Rinse the bottle out and throw it away.  Rinse out the bottle and throw it away."
+        },
+        {
+            "id": 221,
+            "phrase": "rinse something out of something",
+            "definition": "to remove something from something by flushing it with water. See if you can rinse the dirt out of this jacket.  I can’t rinse out the dirt."
+        },
+        {
+            "id": 222,
+            "phrase": "rinse something with something",
+            "definition": "to flush something with some fluid.  You should rinse your clothes in milk or tomato juice to remove the smell of the skunk. Please rinse the stain with cold water."
+        },
+        {
+            "id": 223,
+            "phrase": "a riot of color",
+            "definition": "Cliché a selection of many bright colors.  The landscape was a riot of color each autumn."
+        },
+        {
+            "id": 224,
+            "phrase": "rip into someone or something",
+            "definition": "to attack someone or something by ripping. The raccoons ripped into the trash bags, scattering papers and stuff all over the street.  The horrid murderer ripped into the helpless victim."
+        },
+        {
+            "id": 225,
+            "phrase": "rip off",
+            "definition": "[for something] to tear or peel off.  My pocket ripped off, and my money is gone now! _ A piece of the bumper ripped off my car."
+        },
+        {
+            "id": 226,
+            "phrase": "rip on someone",
+            "definition": "Sl. to give someone a hard time; to hassle someone.  Stop ripping on me! What did I do to you? _ Tim is ripping on Mary and she is getting really mad."
+        },
+        {
+            "id": 227,
+            "phrase": "ripsnorter",
+            "definition": "Rur. a remarkable person or thing; a hilarious joke. Old Fred is a real ripsnorter. Her new car is a ripsnorter, I tell you.  Let me tell you a ripsnorter about a farmer and his cow."
+        },
+        {
+            "id": 228,
+            "phrase": "rip someone off†",
+            "definition": "Inf. to steal [something] from someone; to cheat someone.  That merchant ripped me off! _ She rips off everyone."
+        },
+        {
+            "id": 229,
+            "phrase": "rip someone or something apart†",
+            "definition": "to tear someone or something apart into pieces.  The automobile accident ripped the car apart.  Don’t rip apart the newspaper!"
+        },
+        {
+            "id": 230,
+            "phrase": "rip someone or something to something",
+            "definition": "to tear someone or something into small pieces, expressed as bits, pieces, shreds, etc.  If you fall into that lawn mower, it will rip you to pieces.  The lawn mower ripped the newspaper to tiny bits."
+        },
+        {
+            "id": 231,
+            "phrase": "rip someone or something up†",
+            "definition": "to tear someone or something into bits; to mutilate someone or something.  Careful! That machine will rip you up if you fall in.  I ripped up the contract and threw the pieces in the trash."
+        },
+        {
+            "id": 232,
+            "phrase": "rip something away† (from someone)",
+            "definition": "to grab or snatch something away from someone.  Betty ripped the box away from Frank and walked away with it.  She ripped away the box and opened it."
+        },
+        {
+            "id": 233,
+            "phrase": "rip something away† (from something)",
+            "definition": "to tear or strip something away.  Billy ripped the wrapping paper away from the box.  He ripped away the paper."
+        },
+        {
+            "id": 234,
+            "phrase": "rip something down†",
+            "definition": "to tear something down. (Alludes to something that has been posted or mounted.) _ The cus- todian ripped all the posters down at the end of the day.  He ripped down the posters."
+        },
+        {
+            "id": 235,
+            "phrase": "rip something off†",
+            "definition": "Inf. to steal something [from someone].  The mugger ripped my purse off of me.  Jane ripped off a lot of money.  Somebody ripped my wallet off."
+        },
+        {
+            "id": 236,
+            "phrase": "rip something up†",
+            "definition": "to take something up by force and remove it. (Usually refers to something on the floor or ground, such as carpeting or pavement.) _ They are going to rip all the broken sidewalk up.  The workers ripped up the pavement and loaded the pieces into a truck."
+        },
+        {
+            "id": 237,
+            "phrase": "a ripe old age",
+            "definition": "a very old age. Mr. Smith died last night, but he lived to a ripe old age—99.  All the Smiths seem to reach a ripe old age."
+        },
+        {
+            "id": 238,
+            "phrase": "ripen into something",
+            "definition": "to ripen and become something recognizable.  This little green ball will ripen into an apple."
+        },
+        {
+            "id": 239,
+            "phrase": "(rip-)off artist",
+            "definition": "Inf. a con artist. Fred is such an off artist.  Beware of the rip-off artist who runs that shop."
+        },
+        {
+            "id": 240,
+            "phrase": "a ripple of excitement",
+            "definition": "a series of quiet but excited murmurs.  A ripple of excitement spread through the crowd.  As the president came near, a ripple of excitement indicated that people could really see him."
+        },
+        {
+            "id": 241,
+            "phrase": "a ripple of protest",
+            "definition": "quiet remarks protesting something; a small amount of subdued protest.  There was only a ripple of protest about the new tax law.  The rude comedian hardly drew a ripple of protest."
+        },
+        {
+            "id": 242,
+            "phrase": "ripple through something",
+            "definition": "to move through a liquid so as to cause ripples or tiny waves.  The canoe rippled through the still water. A tiny snake rippled through the water of the swamp."
+        },
+        {
+            "id": 243,
+            "phrase": "rise above something",
+            "definition": "to move up above something.  The huge sun rose above the horizon and spread its red glow across the sea."
+        },
+        {
+            "id": 244,
+            "phrase": "Rise and shine!",
+            "definition": "Get out of bed and be lively and energetic! (Often a command.) _Come on, children! Rise and shine! We’re going to the beach. Father always calls “Rise and shine!” in the morning when we want to go on sleeping."
+        },
+        {
+            "id": 245,
+            "phrase": "rise from someone or something",
+            "definition": "to emanate from someone or something in the manner of a cloud of dust or a cheer. After the singer finished, a loud cheer rose from the crowd.  A cloud of smoke rose from the burning barn."
+        },
+        {
+            "id": 246,
+            "phrase": "rise from the ashes",
+            "definition": "[for a structure] to be rebuilt after destruction.  The entire west section of the city was destroyed and a group of new buildings rose from the ashes in only a few months.  Will the city rise again from the ashes? No one knows."
+        },
+        {
+            "id": 247,
+            "phrase": "rise from the ranks",
+            "definition": "to achieve position or office, having worked up from the masses.  He rose from the ranks to become president of the company.  Most of the officers of the company have risen from the ranks."
+        },
+        {
+            "id": 248,
+            "phrase": "rise in something",
+            "definition": "to increase in something.  I hope that this land rises in value over the next few years. Her expensive antique car actually rose in value during the first year."
+        },
+        {
+            "id": 249,
+            "phrase": "rise to one’s feet",
+            "definition": "to stand up.  The entire audience rose to its feet, applauding wildly. We rose to our feet when the bride came down the aisle."
+        }
+    ]
+}

@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "glut someone or something with something",
+            "definition": "to overfill someone or something with something.  The hungry lions glutted themselves with the meat of their recent kill. Sally would glut herself with doughnuts, given the chance."
+        },
+        {
+            "id": 1,
+            "phrase": "a glutton for punishment",
+            "definition": "someone who is eager for a burden or some sort of difficulty; someone willing to accept a difficult task.  Tom works too hard. He is a glutton for punishment.  I enjoy managing difficult projects, but I am a glutton for punishment."
+        },
+        {
+            "id": 2,
+            "phrase": "gnash one’s teeth",
+            "definition": "to grind or bite noisily with one’s teeth.  Bill clenched his fists and gnashed his teeth in anger.  The wolf gnashed its teeth and chased after the deer."
+        },
+        {
+            "id": 3,
+            "phrase": "a gnashing of teeth",
+            "definition": "a show of anger or dismay. (Biblical: “weeping, wailing, and gnashing of teeth.”) _ After a little gnashing of teeth and a few threats, the boss calmed down and become almost reasonable."
+        },
+        {
+            "id": 4,
+            "phrase": "gnaw (away) at someone",
+            "definition": "to worry someone; to create constant anxiety in someone.  The thought of catching some horrible disease gnawed away at her.  A lot of guilt gnawed at him day and night."
+        },
+        {
+            "id": 5,
+            "phrase": "gnaw (away) at someone or something",
+            "definition": "to chew at someone or something. I hear a mouse gnawing away at the wall.  The mosquitoes are gnawing at me something awful."
+        },
+        {
+            "id": 6,
+            "phrase": "gnaw on something",
+            "definition": "to chew on something. (Usually said of an animal.) _ The puppy has been gnawing on my slippers! _ This slipper has been gnawed on!"
+        },
+        {
+            "id": 7,
+            "phrase": "go about something",
+            "definition": "to approach the doing of something in a particular way.  How should I go about researching this topic? _ Would you tell me how to go about it?"
+        },
+        {
+            "id": 8,
+            "phrase": "go above someone or something",
+            "definition": "to travel over someone or something.  The model airplane swooped low right at us but went above us at the last minute."
+        },
+        {
+            "id": 9,
+            "phrase": "go across (something)",
+            "definition": "to cross something, such as water, a bridge, land, the ocean, etc. We went across the ocean in just three hours. How long did it take you to go across?"
+        },
+        {
+            "id": 10,
+            "phrase": "go across something to someone or something",
+            "definition": "to cross something to someone, something, or some place on the other side.  We went across the bridge to the island.  We came upon a little footbridge and went across to the other side.  Timmy went across the street to his mother."
+        },
+        {
+            "id": 11,
+            "phrase": "go after someone",
+            "definition": "to investigate someone or something for possible criminal prosecution. The prosecutor went after Max first, knowing that Max was the gang leader.  The police detectives went after the whole gang."
+        },
+        {
+            "id": 12,
+            "phrase": "go after someone, something, or an animal",
+            "definition": "to pursue someone, something, or an animal. The dogs went after the burglar. I went after the gang that took my wallet."
+        },
+        {
+            "id": 13,
+            "phrase": "Go ahead.",
+            "definition": "Please do it.; You have my permission and encouragement to do it.  Alice: I’m leaving. John: Go ahead. See if I care. Jane: Can I put this one in the refrigerator? Sue: Sure. Go ahead."
+        },
+        {
+            "id": 14,
+            "phrase": "(Go ahead,) make my day!",
+            "definition": "1. Just try to do me harm or disobey me. I will enjoy punishing you. (From a phrase said in a movie where the person saying the phrase is holding a gun on a villain and would really like the villain to do something that would justify firing the gun. Compare this with Keep it up!) _ The crook reached into his jacket for his wallet. The cop, thinking the crook was about to draw a gun, said, “Go ahead, make my day!” _As Bill pulled back his clenched fist to strike Tom, who is much bigger and stronger than Bill, Tom said, “Make my day!” 2. Go ahead, ruin my day!; Go ahead, give me the bad news. (A sarcastic version ofQ.) _Tom (standing in the doorway): Hello, I’m with the Internal Revenue Service. Could I come in? Mary: Go ahead, make my day! _ Sally: I’ve got some bad news for you. John: Go ahead, make my day!"
+        },
+        {
+            "id": 15,
+            "phrase": "go ahead (of someone or something)",
+            "definition": "to get in front of and proceed someone or something.  Please let me go ahead of you. The car carrying the parade marshall went ahead of the others."
+        },
+        {
+            "id": 16,
+            "phrase": "go ahead (with something)",
+            "definition": "1. to continue with something; to continue with plans to do something.  Can we go ahead with our party plans? _ Let’s go ahead with it. 2. to carry something ahead.  Please go ahead with the baggage. I will meet you at the ticket counter.  Will you please go ahead with the cake? I will bring the ice cream in a minute."
+        },
+        {
+            "id": 17,
+            "phrase": "go all out (for someone or something)",
+            "definition": "to do everything possible for someone or something.  We went all out for George and threw a big party on his return.  We went all out and it was not appreciated at all."
+        },
+        {
+            "id": 18,
+            "phrase": "go along",
+            "definition": "1. to continue; to progress.  Things are going along quite nicely in my new job.  I hope everything is going along well. 2. to accompany [someone].  Can I go along? _ If you’re going to the party, can I go along?"
+        },
+        {
+            "id": 19,
+            "phrase": "go along (with someone) for the ride",
+            "definition": "to accompany someone just to be taking a ride.  Why don’t you go along with us for the ride? _ I am going to the store. Do you want to go along for the ride?"
+        },
+        {
+            "id": 20,
+            "phrase": "go along with someone or something",
+            "definition": "to travel along with someone or something.  Dorothy went along with the scarecrow for a while until they met a lion."
+        },
+        {
+            "id": 21,
+            "phrase": "go ape (over someone or something)",
+            "definition": "Sl. to become very excited over something.  I just go ape over chocolate.  Sam went ape over Mary."
+        },
+        {
+            "id": 22,
+            "phrase": "go around doing something",
+            "definition": "to move around doing something.  She keeps going around telling lies about me.  Please stop going around knocking things over.  She goes around helping whomever she can."
+        },
+        {
+            "id": 23,
+            "phrase": "go (a)round in circles",
+            "definition": "to move over and over on a circular path.  The model plane went around in circles until it ran out of fuel.  The oxen went around in circles, pulling along a beam that was connected to the millstone."
+        },
+        {
+            "id": 24,
+            "phrase": "go around someone",
+            "definition": "to walk or travel in such a way as to avoid hitting or touching someone.  I can’t move from this place right now. You’ll have to go around me."
+        },
+        {
+            "id": 25,
+            "phrase": "go astray",
+            "definition": "to wander off the road or path.  Stick to the path and try not to go astray.  I couldn’t see the trail and I almost went astray."
+        },
+        {
+            "id": 26,
+            "phrase": "go at one another tooth and nail",
+            "definition": "to fight one another like animals. (One another can also be each other.) _The man and his wife went at one another tooth and nail.  The children would go at one another tooth and nail almost every evening."
+        },
+        {
+            "id": 27,
+            "phrase": "go at someone or something",
+            "definition": "to attack someone or something; to move or lunge toward someone or something.  The dog went at the visitor and almost bit him.  He went at the door and tried to break it down."
+        },
+        {
+            "id": 28,
+            "phrase": "go at something like a boy killing snakes",
+            "definition": "Rur. to do something with a great deal of energy.  Once Mary decided to take that test, she went at her books like a boy killing snakes. I hired Joe to weed my garden, and he went at it like a boy killing snakes."
+        },
+        {
+            "id": 29,
+            "phrase": "Go away!",
+            "definition": "Leave me!; Get away from me! _ Mary: You’re such a pest, Sue. Go away! Sue: I was just trying to help.  “Go away!” yelled the child at the bee."
+        },
+        {
+            "id": 30,
+            "phrase": "go away empty-handed",
+            "definition": "to depart with nothing.  I hate for you to go away empty-handed, but I cannot afford to contribute any money.  They came hoping for some food, but they had to go away empty-handed."
+        },
+        {
+            "id": 31,
+            "phrase": "go away (for something)",
+            "definition": "1. to leave for a period of time. I have to go away for a week or two. Sharon went away for a few days. 2. to leave in order to get something and bring it back.  Excuse me. I have to go away for a soft drink.  He went away for a pizza. He’ll be right back."
+        },
+        {
+            "id": 32,
+            "phrase": "go away with someone or something",
+            "definition": "1. to leave in the company of someone or something. I saw him go away with Margie. She went away with the others. 2. to take someone or a group away with one.  He went away with the baby in his arms."
+        },
+        {
+            "id": 33,
+            "phrase": "go AWOL",
+            "definition": "to become absent without leave. (Originally military.) _ Private Smith went AWOL last Wednesday. Now he’s in a military prison. Tom went AWOL and finally we had to fire him."
+        },
+        {
+            "id": 34,
+            "phrase": "go back",
+            "definition": "to return to the place of origin.  That’s where I came from, and I’ll never go back. I don’t want to go back."
+        },
+        {
+            "id": 35,
+            "phrase": "go back to someone or something",
+            "definition": "to return to someone, something, or some place. She went back to her husband after a few months.  Sharon had to go back to her office for a few minutes."
+        },
+        {
+            "id": 36,
+            "phrase": "go back to square one",
+            "definition": "to return to the starting point. (Alludes to the squares of a board game.) _It’s back to square one. We have to start over. It looks like it’s back to square one for you."
+        },
+        {
+            "id": 37,
+            "phrase": "go back to the drawing board",
+            "definition": "to return to the planning stage, so that a failed project can be planned again. These plans have to go back to the drawing board. I thought these problems went back to the drawing board once already."
+        },
+        {
+            "id": 38,
+            "phrase": "go back to the salt mines",
+            "definition": "to return to one’s work. (Jocular; fig. on the image of menial labor working in salt mines.) _ It’s late. I have to go back to the salt mines.  What time do you have to go back to the salt mines Monday morning?"
+        },
+        {
+            "id": 39,
+            "phrase": "go bad",
+            "definition": "to become rotten, undesirable, evil, etc.  I’m afraid that this milk has gone bad.  Life used to be wonderful. Now it has gone bad."
+        },
+        {
+            "id": 40,
+            "phrase": "go badly with someone or something",
+            "definition": "[for something] to proceed badly for someone or something.  I hope that things are not still going badly with you. Things are going very badly with the project."
+        },
+        {
+            "id": 41,
+            "phrase": "go bananas",
+            "definition": "Sl. to go mildly crazy.  Sorry, I just went bananas for a minute.  I thought he was going to go bananas."
+        },
+        {
+            "id": 42,
+            "phrase": "go before someone or something",
+            "definition": "1. to precede someone or something.  Do you wish to go before me? _ I will go before the other waiters and clear the aisles. 2. to appear before someone or something.  Sharon went before a magistrate and laid out her complaint. Mary went before the entire board of directors with her proposal."
+        },
+        {
+            "id": 43,
+            "phrase": "go begging",
+            "definition": "to be left over, unwanted, or unused. (As if a thing were begging for an owner or a user.) _ There is still food left. A whole lobster is going begging. Please eat some more. There are many excellent books in the library just going begging because people don’t know they are there."
+        },
+        {
+            "id": 44,
+            "phrase": "go behind someone’s back",
+            "definition": "to move behind someone; to locate oneself at someone’s back.  The mugger went behind my back and put a gun to my spine. Bob went behind my back and pushed me through the opening."
+        },
+        {
+            "id": 45,
+            "phrase": "go below",
+            "definition": "to go beneath the main deck of a ship. (Nautical.) _ I will have to go below and fiddle with the engine.  The captain went below to escape the worst of the storm."
+        },
+        {
+            "id": 46,
+            "phrase": "go berserk",
+            "definition": "to go crazy.  She went berserk and strangled her cat."
+        },
+        {
+            "id": 47,
+            "phrase": "go between someone or something and someone or something else",
+            "definition": "to get in between people or things, in any combination.  The dog went between Mr. Franklin and the wall. The arrow went between Jed and Tex, injuring neither of them."
+        },
+        {
+            "id": 48,
+            "phrase": "go beyond someone or something",
+            "definition": "to pass ahead of someone or something. I went beyond the place where I should have turned off. Fred went beyond me a half block before he remembered who I was. Then he came back and said hello."
+        },
+        {
+            "id": 49,
+            "phrase": "go beyond something",
+            "definition": "to do more of something than the expected amount; to go further with something than was required. You clearly went beyond what was required of you.  Sharon went beyond the basic requirements."
+        },
+        {
+            "id": 50,
+            "phrase": "go broke",
+            "definition": "to completely run out of money and other assets. This company is going to go broke if you don’t stop spending money foolishly.  I made some bad investments last year, and it looks as if I may go broke this year."
+        },
+        {
+            "id": 51,
+            "phrase": "go by (someone or something)",
+            "definition": "to pass by someone or something.  We went by Alice without even noticing her.  We went by because we were in a hurry."
+        },
+        {
+            "id": 52,
+            "phrase": "go by the board",
+            "definition": "to get ruined or lost. (This is originally a nautical expression meaning “to fall or be washed overboard.”) _ I hate to see good food go by the board. Please eat up so we won’t have to throw it out.  Your plan has gone by the board. The entire project has been canceled."
+        },
+        {
+            "id": 53,
+            "phrase": "go by the name of something",
+            "definition": "to be known by a specific name.  She goes by the name of Gladys George.  I used to go by the name of George."
+        },
+        {
+            "id": 54,
+            "phrase": "go cold turkey",
+            "definition": "Inf. to stop (doing something) without tapering off. (Originally drug slang. Now concerned with breaking any habit.) _I had to stop smoking, so I went cold turkey. It’s awful! _ When heroin addicts go cold turkey, they get terribly sick."
+        },
+        {
+            "id": 55,
+            "phrase": "go down",
+            "definition": "1. to sink below a normal or expected level or height. The plane went down in f lames. The ship went down with all hands aboard. 2. to descend to a lower measurement. Her fever went down. The price of the stock went down yesterday. 3. to be swallowed.  The medicine went down without any trouble at all. The pill I took simply would not go down. 4. to fall or drop down, as when struck or injured.  Sam went down when he was struck on the chin. The deer went down when it was hit with the arrow. 5. Sl. to happen.  Hey, man! What’s going down? _ Something strange is going down around here. 6. Sl. to be accepted. We’ll just have to wait awhile to see how all this goes down.  The proposal didn’t go down very well with the manager. 7. Sl. to be arrested. (Underworld.) _ Lefty didn’t want to go down for a crime he didn’t do. Mr. Big said that somebody had to go down for it, and he didn’t care who."
+        },
+        {
+            "id": 56,
+            "phrase": "go down fighting",
+            "definition": "to continue the struggle until one is completely defeated. I won’t give up easily. I’ll go down fighting. Sally, who is very determined, went down fighting."
+        },
+        {
+            "id": 57,
+            "phrase": "go down for the third time",
+            "definition": "to be just on the verge of failing. (From the notion that a boxer who is knocked down three times in one round normally loses the fight.) _ I was going down for the third time when I thought of a plan that would save my job."
+        },
+        {
+            "id": 58,
+            "phrase": "go down in flames",
+            "definition": "[for a plane] to crash.  The enemy fighter planes went down in f lames, ending the battle. The pilot and crew went down in f lames near the airport."
+        },
+        {
+            "id": 59,
+            "phrase": "go down (in history) (as someone or something)",
+            "definition": "to be recorded for history as a significant person or event.  You will go down in history as the most stubborn woman who ever lived. She will go down as a very famous woman."
+        },
+        {
+            "id": 60,
+            "phrase": "go down on one’s knees",
+            "definition": "to kneel down.  The people went down on their knees and prayed.  Larry went down on his knees and asked for forgiveness."
+        },
+        {
+            "id": 61,
+            "phrase": "go down something",
+            "definition": "to descend something; to fall down something.  She went down the ladder very carefully.  I did not want to go down those steep stairs."
+        },
+        {
+            "id": 62,
+            "phrase": "go down the line",
+            "definition": "to go from person to person or thing to thing in a line of people or things.  She went down the line, asking everyone for a dollar for a cup of coffee.  Sam went down the line, passing out tickets."
+        },
+        {
+            "id": 63,
+            "phrase": "go down to someone or something",
+            "definition": "to travel to someone, something, or some place that is downtown, at a lower level, or in the South.  We went down to Amy’s aunt in Memphis.  Fran went down to Tiffany’s place on the first f loor."
+        },
+        {
+            "id": 64,
+            "phrase": "go down to something",
+            "definition": "[for something] to decline or diminish to some level.  His temperature has gone down to normal.  Will the temperature go down to freezing tonight?"
+        },
+        {
+            "id": 65,
+            "phrase": "go down with something",
+            "definition": "to be stricken with a disease.  Beth went down with the f lu.  She went down with a high fever."
+        },
+        {
+            "id": 66,
+            "phrase": "go downhill",
+            "definition": "[for something] to decline and grow worse and worse.  This industry is going downhill. We lose money every year. As one gets older, one’s health tends to go downhill."
+        },
+        {
+            "id": 67,
+            "phrase": "go Dutch",
+            "definition": "[for each person in a pair or a group] to pay for himself or herself.  I don’t want you to pay for my ticket. Let’s go Dutch. Is it still considered a date if you go Dutch?"
+        },
+        {
+            "id": 68,
+            "phrase": "go easy on someone or something",
+            "definition": "to be gentle on someone or something; not to be too critical of someone or something; to take it easy on someone or something.  Go easy on Sherri. She’s my friend.  Try to go easy on criticizing their report. They did the best they could in the time allotted."
+        },
+        {
+            "id": 69,
+            "phrase": "go easy on something",
+            "definition": "to use something sparingly.  Go easy on the mustard. That’s all there is.  Please go easy on the onions. I don’t like them very much."
+        },
+        {
+            "id": 70,
+            "phrase": "go fifty-fifty (on something)",
+            "definition": "to divide the cost of something in half with someone.  Todd and Jean decided to go fifty-fifty on dinner. The two brothers went fifty-fifty on a replacement for the broken lamp."
+        },
+        {
+            "id": 71,
+            "phrase": "Go figure.",
+            "definition": "It’s really strange.; Just try to figure it out.  She says she wants to have a conversation, but when I try, she does all the talking. Go figure."
+        },
+        {
+            "id": 72,
+            "phrase": "go for broke",
+            "definition": "to risk everything; to try as hard as possible.  Okay, this is my last chance. I’m going for broke.  Look at Mary starting to move in the final hundred yards of the race! She is really going for broke."
+        },
+        {
+            "id": 73,
+            "phrase": "Go for it!",
+            "definition": "Inf. Go ahead! Give it a good try! _ Sally: I’m going to try out for the basketball team. Do you think I’m tall enough? Bob: Sure you are! Go for it! _Bob: Mary can’t quit now! She’s almost at the finish line! Bill: Go for it, Mary!"
+        },
+        {
+            "id": 74,
+            "phrase": "go for nothing",
+            "definition": "[for something] to be done for no purpose.  All our work went for nothing.  Our efforts at helping out went for nothing."
+        },
+        {
+            "id": 75,
+            "phrase": "go forward with something",
+            "definition": "to continue with something; to do something that is planned.  We will go forward with our plans.  Let’s go forward with the plan."
+        },
+        {
+            "id": 76,
+            "phrase": "go from bad to worse",
+            "definition": "to progress from a bad situation to one that is worse.  Things went from bad to worse in a matter of days.  I’m afraid that things are going from bad to worse."
+        },
+        {
+            "id": 77,
+            "phrase": "go from one extreme to the other",
+            "definition": "to change from one thing to its opposite.  You go from one extreme to another about Tom—one day angry, the next day perfectly happy."
+        },
+        {
+            "id": 78,
+            "phrase": "Go fry an egg!",
+            "definition": "Go away and stop bothering me! _ Go away and stop bothering me. Go fry an egg! _ Get out of my way! Go fry an egg!"
+        },
+        {
+            "id": 79,
+            "phrase": "go haywire",
+            "definition": "Rur. to go wrong; to malfunction; to break down. I was talking to Mary when suddenly the telephone went haywire. I haven’t heard from her since.  There we were, driving along, when the engine went haywire. It was two hours before the tow truck came."
+        },
+        {
+            "id": 80,
+            "phrase": "go hog wild",
+            "definition": "Rur. to behave wildly.  Have a good time at the party, but don’t go hog wild. The teacher cannot control a class that is going hog wild."
+        },
+        {
+            "id": 81,
+            "phrase": "go home in a box",
+            "definition": "Sl. to be shipped home dead. (Often said in exaggeration.) _ Hey, I’m too young to go home in a box.  You had better be careful on this camping trip, or you’ll go home in a box."
+        },
+        {
+            "id": 82,
+            "phrase": "go home to mama",
+            "definition": "to give up something—such as a marriage— and return to one’s mother’s home.  I’ve had it. I’m going home to mama. Mary left him and went home to mama."
+        },
+        {
+            "id": 83,
+            "phrase": "go hungry",
+            "definition": "to miss a meal and end up hungry.  The kids were late for dinner so they had to go hungry."
+        },
+        {
+            "id": 84,
+            "phrase": "go in and out (of something)",
+            "definition": "to pass in and out of something or some place. The nervous little mouse kept going in and out of its hole. The cat kept going in and out of the back door."
+        },
+        {
+            "id": 85,
+            "phrase": "go in for something",
+            "definition": "to take part in something; to enjoy (doing) something. John doesn’t go in for sports. None of them seems to go in for swimming."
+        },
+        {
+            "id": 86,
+            "phrase": "go in one ear and out the other",
+            "definition": "Cliché Fig. [for something] to be heard and then soon ignored or forgotten.  Everything I say to you seems to go in one ear and out the other. Why don’t you pay attention? _ I can’t concentrate. Things people say to me just go in one ear and out the other."
+        },
+        {
+            "id": 87,
+            "phrase": "go in someone’s favor",
+            "definition": "[for something] to change to someone’s benefit. (Alludes to very changeable things like game scores, wind direction, or chance in general.) _ Things appear to be going in our favor—finally.  The game was going in our favor during the first half."
+        },
+        {
+            "id": 88,
+            "phrase": "go in the right direction",
+            "definition": "to head or travel in the right direction.  Are you sure we are going in the right direction? _ We were supposed to turn back there. We are not going in the right direction."
+        },
+        {
+            "id": 89,
+            "phrase": "go in with someone (on something)",
+            "definition": "to join together with someone to work on a project; to pool financial resources with someone to buy something.  I would be happy to go in with you on the charity ball. I’ll find a hall.  Yes, we can pool our money. I’ll go in with you."
+        },
+        {
+            "id": 90,
+            "phrase": "go into a huddle",
+            "definition": "[for team members] to get into a small circle and plan what they are going to do next.  They went into a huddle to plan their strategy. The players will go into a huddle and decide what to do."
+        },
+        {
+            "id": 91,
+            "phrase": "go into a tailspin",
+            "definition": "[for an airplane] to lose control and spin to the earth, nose first.  The plane shook and then suddenly went into a tailspin. The pilot was not able to bring the plane out of the tailspin, and it crashed into the sea."
+        },
+        {
+            "id": 92,
+            "phrase": "go into detail(s)",
+            "definition": "to give all the details; to present and discuss the details.  The clerk went into detail about the product with the customer.  I just want a simple answer. Don’t go into details."
+        },
+        {
+            "id": 93,
+            "phrase": "go into hiding",
+            "definition": "to conceal oneself in a hidden place for a period of time.  The political dissident went into hiding.  After robbing the bank, the bandits went into hiding for months."
+        },
+        {
+            "id": 94,
+            "phrase": "go into hock",
+            "definition": "go into debt. We will have to go into hock to buy a house. I go further into hock every time I use my credit card."
+        },
+        {
+            "id": 95,
+            "phrase": "go into one’s act",
+            "definition": "to begin to behave in a way typical to oneself.  The curtain opened and Steve went into his act."
+        },
+        {
+            "id": 96,
+            "phrase": "go into orbit",
+            "definition": "[for a rocket, satellite, etc.] to rotate around a heavenly body in a fixed path.  The satellite went into orbit just as planned.  When did the moon go into orbit?"
+        },
+        {
+            "id": 97,
+            "phrase": "go into service",
+            "definition": "to start operating.  When will the new elevator go into service? _ It has already gone into service."
+        },
+        {
+            "id": 98,
+            "phrase": "go into the service",
+            "definition": "to enter one of the military services. She went into the service when she got out of high school.  I chose not to go into the service."
+        },
+        {
+            "id": 99,
+            "phrase": "go it alone",
+            "definition": "to do something by oneself.  Do you need help, or will you go it alone? _ I think I need a little more experience before I go it alone."
+        },
+        {
+            "id": 100,
+            "phrase": "go like clockwork",
+            "definition": "to progress with regularity and dependability. The building project is progressing nicely. Everything is going like clockwork. The elaborate pageant was a great success. It went like clockwork from start to finish."
+        },
+        {
+            "id": 101,
+            "phrase": "go near (to) someone or something",
+            "definition": "to approach someone or something.  Don’t go near Sue. She’s got chicken pox.  Now, don’t go near the water!"
+        },
+        {
+            "id": 102,
+            "phrase": "go off",
+            "definition": "[for an explosive device] to explode.  The fireworks all went off as scheduled.  The bomb went off and did a lot of damage."
+        },
+        {
+            "id": 103,
+            "phrase": "go off (by oneself)",
+            "definition": "to go into seclusion; to isolate oneself.  She went off by herself where no one could find her.  I have to go off and think about this."
+        },
+        {
+            "id": 104,
+            "phrase": "go off half-cocked",
+            "definition": "to go into action too early or without thinking. (Originally refers to a flintlock or matchlock gun firing prematurely, before the trigger was pulled.) _ Don’t go off half-cocked. Plan out what you’re going to do.  Bill went off half-cocked and told everybody he was running for the state legislature."
+        },
+        {
+            "id": 105,
+            "phrase": "go off (into something)",
+            "definition": "to go away to something; to depart and go into something.  He went off into the army.  Do you expect me just to go off into the world and make a living?"
+        },
+        {
+            "id": 106,
+            "phrase": "go off on a tangent",
+            "definition": "to pursue a somewhat related or irrelevant course while neglecting the main subject.  Don’t go off on a tangent. Stick to your job.  Just as we started talking, Henry went off on a tangent about the high cost of living."
+        },
+        {
+            "id": 107,
+            "phrase": "go off on someone",
+            "definition": "Sl. to berate someone.  Don’t go off on me! I’m not the cause of your problems! _ The teacher went off on poor little Harry."
+        },
+        {
+            "id": 108,
+            "phrase": "go off (with someone)",
+            "definition": "to go away with someone.  Tom just now went off with Maggie.  I think that Maria went off with Fred somewhere."
+        },
+        {
+            "id": 109,
+            "phrase": "go on a binge",
+            "definition": "to do too much of something, especially to drink too much.  Jane went on a binge last night and is very sick this morning.  Bill loves to spend money on clothes. He’s out on a binge right now—buying everything in sight."
+        },
+        {
+            "id": 110,
+            "phrase": "go on a rampage",
+            "definition": "to get very disturbed or angry.  The angry bull went on a rampage and broke the fence.  My boss went on a rampage because the report wasn’t finished."
+        },
+        {
+            "id": 111,
+            "phrase": "go on and on",
+            "definition": "to (seem to) last or go forever.  You talk too much, Bob. You just go on and on.  The road to their house is very boring. It goes on and on with nothing interesting to look at."
+        },
+        {
+            "id": 112,
+            "phrase": "go on (and on) (about someone or something)",
+            "definition": "to talk endlessly about someone or something.  She just went on and on about her new car.  Albert went on about the book for a long time."
+        },
+        {
+            "id": 113,
+            "phrase": "go on before (someone)",
+            "definition": "to precede someone.  Please go on before me. I will follow.  She went on before."
+        },
+        {
+            "id": 114,
+            "phrase": "go on the block",
+            "definition": "[for something] to go up for auction; [for something] to be placed on the auction block.  Our farm went on the block last week. Got a good price.  When this painting goes on the block, I hope I get a lot for it."
+        },
+        {
+            "id": 115,
+            "phrase": "go on to a better land",
+            "definition": "Euph. to die.  After a long illness, Reggie went on to a better land.  When I finally go on to a better land, I hope there is enough money for a proper funeral."
+        },
+        {
+            "id": 116,
+            "phrase": "go on to something",
+            "definition": "to advance to something or to doing something. After a few years she went on to even greater heights.  Larry went on to found his own company."
+        },
+        {
+            "id": 117,
+            "phrase": "go on tour",
+            "definition": "[for a performing group] to go from place to place, performing. Our play went on tour across the state.  If we make the play a success, we will go on tour."
+        },
+        {
+            "id": 118,
+            "phrase": "go out for someone or something",
+            "definition": "to leave in order to bring back someone or something.  Albert just went out for a newspaper.  Fran went out for Bob, who was on the back porch, smoking a cigarette."
+        },
+        {
+            "id": 119,
+            "phrase": "go out in search of someone or something",
+            "definition": "to leave to find someone or something.  I went out in search of someone to help me.  Mary went out in search of Gloria."
+        },
+        {
+            "id": 120,
+            "phrase": "go out of business",
+            "definition": "to stop doing commerce or business. The new shop will probably go out of business if sales don’t get better.  I have to work hard to keep from going out of business."
+        },
+        {
+            "id": 121,
+            "phrase": "go out of one’s way (to do something)",
+            "definition": "to travel an indirect route or an extra distance in order to do something.  I’ll have to go out of my way to give you a ride home.  I’ll give you a ride even though I have to go out of my way."
+        },
+        {
+            "id": 122,
+            "phrase": "go out of service",
+            "definition": "[for something] to stop working; [for something] to have been turned off so it cannot be used.  This elevator went out of service last week.  How long has it been since this thing went out of service?"
+        },
+        {
+            "id": 123,
+            "phrase": "go out to someone",
+            "definition": "[for one’s sympathy, heart, etc.] to be aimed toward someone. All of my sympathy went out to her. I knew just how she felt. My thanks go out to you all."
+        },
+        {
+            "id": 124,
+            "phrase": "go out with something",
+            "definition": "to go out of fashion at the same time as something else went out of fashion.  That style of dress went out with the bustle.  Your thinking went out with the horse and buggy."
+        },
+        {
+            "id": 125,
+            "phrase": "go over",
+            "definition": "Euph. to leave one’s country and go to ideologically opposed or enemy country; to defect.  When the ballet company visited New York, two of the dancers went over.  He had been spying for the Americans for many years, and he finally went over."
+        },
+        {
+            "id": 126,
+            "phrase": "go over big (with someone)",
+            "definition": "to be very much appreciated by someone.  Your jokes did not exactly go over big with my parents. We hope that the musical will go over big with the audience."
+        },
+        {
+            "id": 127,
+            "phrase": "go over like a lead balloon",
+            "definition": "to fail completely; to go over badly. Your joke went over like a lead balloon.  If that play was supposed to be a comedy, it went over like a lead balloon.  Her suggestion went over like a lead balloon."
+        },
+        {
+            "id": 128,
+            "phrase": "go over someone or something",
+            "definition": "to examine someone or something.  The doctor will go over you very carefully, I’m sure. I went over the papers and found nothing wrong."
+        },
+        {
+            "id": 129,
+            "phrase": "go over something (with someone)",
+            "definition": "to review or explain something.  The teacher went over the lesson with the class.  Can you please go over it again, more slowly?"
+        },
+        {
+            "id": 130,
+            "phrase": "go over to some place",
+            "definition": "to travel some distance or cross water to get to some place. We went over to Cedar Point and spent the day having fun. John went over to the other side of the stadium for the rest of the tournament."
+        },
+        {
+            "id": 131,
+            "phrase": "go over (well)",
+            "definition": "[for someone or something] to be accepted or well received.  The party went over very well.  The play really went over with the audience."
+        },
+        {
+            "id": 132,
+            "phrase": "go over with a bang",
+            "definition": "1. Fig. [for something] to be funny or entertaining. Our presentation was a success. It really went over with a bang.  That’s a great joke. It went over with a bang. 2. Fig. to succeed spectacularly.  The play was a success. It really went over with a bang.  That’s a great joke. It went over with a bang."
+        },
+        {
+            "id": 133,
+            "phrase": "go overboard",
+            "definition": "1. Fig. to fall out of a boat or off of a ship; to fall overboard. Be careful or you will go overboard.  Someone went overboard in the fog. 2. Fig. to do too much; to be extravagant.  Look, Sally, let’s have a nice party, but don’t go overboard. It doesn’t need to be fancy. Okay, you can buy a big comfortable car, but don’t go overboard on price."
+        },
+        {
+            "id": 134,
+            "phrase": "go past someone or something",
+            "definition": "to pass by someone or something. You went right past Tom. Did you mean to? _Did I go past it?"
+        },
+        {
+            "id": 135,
+            "phrase": "go places",
+            "definition": "to become very successful.  I knew that Sally, with all her talent, would go places.  I really want to go places in life."
+        },
+        {
+            "id": 136,
+            "phrase": "go public (with something)",
+            "definition": "1. to sell to the public shares of a privately owned company. (Securities markets.) _ The company decided not to go public because the economy was so bad at the time.  We’ll go public at a later time. 2. to reveal something to the public.  It’s too early to go public with the story.  Just let me know when we can go public with this press release."
+        },
+        {
+            "id": 137,
+            "phrase": "go sky-high",
+            "definition": "to go very high.  Prices go sky-high whenever there is inf lation.  Oh, it’s so hot. The temperature went sky-high about noon."
+        },
+        {
+            "id": 138,
+            "phrase": "go so far as to say something",
+            "definition": "to put something into words; to risk saying something. I think that Bob is dishonest, but I wouldn’t go so far as to say he’s a thief.  Red meat may be harmful, but I can’t go so far as to say it causes cancer."
+        },
+        {
+            "id": 139,
+            "phrase": "go sour",
+            "definition": "to turn bad or unpleasant.  It looks like all my plans are going sour. My whole life is going sour right now."
+        },
+        {
+            "id": 140,
+            "phrase": "go stag",
+            "definition": "to go to an event (which is meant for couples) without a member of the opposite sex. (Originally referred only to males.) _ Is Tom going to take you, or are you going stag? _ Bob didn’t want to go stag, so he took his sister to the party."
+        },
+        {
+            "id": 141,
+            "phrase": "go straight",
+            "definition": "to stop breaking the law and lead a lawful life instead. The judge encouraged the thief to go straight.  After Bob was arrested, he promised his mother he would go straight."
+        },
+        {
+            "id": 142,
+            "phrase": "go (straight) to the top",
+            "definition": "to attempt to confer with the person at the top of the chain of command, bypassing the intermediate people.  When I want something, I always go straight to the top. I don’t have time for a lot of bureaucracy."
+        },
+        {
+            "id": 143,
+            "phrase": "go the distance",
+            "definition": "to do the whole amount; to play the entire game; to run the whole race. (Originally sports use.) _That horse runs fast. I hope it can go the distance. This is going to be a long, hard project. I hope I can go the distance."
+        },
+        {
+            "id": 144,
+            "phrase": "go the extra mile",
+            "definition": "to try harder to please someone or to get the task done correctly; to do more than one is required to do to reach a goal. I like doing business with that company. They always go the extra mile. My teacher goes the extra mile to help us."
+        },
+        {
+            "id": 145,
+            "phrase": "go the limit",
+            "definition": "to do as much as possible; to get as much as possible.  Let’s plan to do everything we can. Let’s go the limit.  We’ll go the limit. To heck with the cost."
+        },
+        {
+            "id": 146,
+            "phrase": "go there",
+            "definition": "to begin a discussion of something; to take up a certain topic. (Similar to go into something. Often in the negative. This has nothing to do with traveling or going to a place.) _A: How are things going at your place of business? B: Please! I don’t want to go there.  We don’t have time to discuss your health problems, so let’s not go there."
+        },
+        {
+            "id": 147,
+            "phrase": "go through",
+            "definition": "to be approved; to succeed in getting through the approval process. I sent the board of directors a proposal. I hope it goes through.  We all hope that the new law goes through."
+        },
+        {
+            "id": 148,
+            "phrase": "go through someone",
+            "definition": "to travel through someone’s body; to go (right) through someone.  That medicine went right through me."
+        },
+        {
+            "id": 149,
+            "phrase": "go through someone or something",
+            "definition": "[for something sharp] to penetrate someone or something.  The sword went through the knight cleanly and quickly.  The nail went through all three boards."
+        },
+        {
+            "id": 150,
+            "phrase": "go through something",
+            "definition": "1. to search through something.  She went through his pants pockets, looking for his wallet.  He spent quite a while going through his desk, looking for the papers. 2. to use up all of something rapidly. We have gone through all the aspirin again! _ How can you go through your allowance so fast? 3. [for something] to pass through an opening. The piano wouldn’t go through the door.  Do you think that such a big truck can go through the tunnel under the river? 4. to pass through various stages or processes.  The pickles went through a number of processes before they were packed.  Johnny is going through a phase where he wants everything his way. 5. to work through something, such as an explanation or story.  I went through my story again, carefully and in great detail. I would like to go through it again, so I can be sure to understand it. 6. to experience or endure something.  You can’t believe what I’ve gone through. Mary has gone through a lot lately. 7. to rehearse something; to practice something for performance. They went through the second act a number of times.  We need to go through the whole play a few more times."
+        },
+        {
+            "id": 151,
+            "phrase": "go through the changes",
+            "definition": "to experience life’s changes.  A good day, a bad day—it’s all part of going through the changes.  Nothing new with me, just going through the changes."
+        },
+        {
+            "id": 152,
+            "phrase": "go through the motions",
+            "definition": "to make a feeble effort to do something; to do something insincerely or in cursory fashion. Jane isn’t doing her best. She’s just going through the motions.  Bill was supposed to be raking the yard, but he was just going through the motions."
+        },
+        {
+            "id": 153,
+            "phrase": "go through (the proper) channels",
+            "definition": "to use the proper procedure, working through the correct people and offices to get something done; to cooperate with a bureaucracy. I’m sorry. I can’t help you. You’ll have to go through the proper channels.  I didn’t get what I wanted because I didn’t go through channels."
+        },
+        {
+            "id": 154,
+            "phrase": "go through the roof",
+            "definition": "1. Fig. Inf. to become very angry.  She saw what had happened and went through the roof. My father went through the roof when he saw what I did to the car. 2. Fig. Inf. [for prices] to become very high.  These days, prices for gasoline are going through the roof.  The cost of coffee is going through the roof."
+        },
+        {
+            "id": 155,
+            "phrase": "go through with something",
+            "definition": "to complete something the outcome of which is troubling or doubtful; to do something in spite of problems and drawbacks.  I have to go through with it, no matter what. I just couldn’t go through with it."
+        },
+        {
+            "id": 156,
+            "phrase": "go to any length",
+            "definition": "to do whatever is necessary.  I’ll go to any length to secure this contract.  I want to get a college degree, but I won’t go to any length to get one."
+        },
+        {
+            "id": 157,
+            "phrase": "go to bat against someone",
+            "definition": "to aid someone against someone else. I would be happy to go to bat against Dan.  We refused to go to bat against one of our friends."
+        },
+        {
+            "id": 158,
+            "phrase": "go to bat for someone",
+            "definition": "to support or help someone. I tried to go to bat for Bill, but he said he didn’t want any help.  I heard them gossiping about Sally, so I went to bat for her."
+        },
+        {
+            "id": 159,
+            "phrase": "go to bed",
+            "definition": "to go to where one’s bed is, get into it, and go to sleep.  It’s time for me to go to bed.  I want to go to bed, but there is too much work to do."
+        },
+        {
+            "id": 160,
+            "phrase": "go to bed with the chickens",
+            "definition": "to go to bed at sundown— at the same time that chickens go to sleep. They say that farmers go to bed with the chickens.  We always go to bed with the chickens and get up early too."
+        },
+        {
+            "id": 161,
+            "phrase": "go to bed with the sun",
+            "definition": "to go to bed early, at sunset.  The campers went to bed with the sun.  The children had to go to bed with the sun. The grown-ups stayed up a little later."
+        },
+        {
+            "id": 162,
+            "phrase": "go to extremes (to do something)",
+            "definition": "to be excessive in one’s efforts to do something. Auntie Jane will go to extremes to make us all comfortable. Let’s not go to extremes! We’ve already spent enough on gifts for the kids."
+        },
+        {
+            "id": 163,
+            "phrase": "go to it",
+            "definition": "to start something actively; to do something with vigor.  Time to play ball. Go to it! _ Let’s go to it, you guys!"
+        },
+        {
+            "id": 164,
+            "phrase": "go to one’s (just) reward",
+            "definition": "Euph. to die.  Let us pray for our departed sister, who has gone to her just reward. Bill: How’s your grandma these days? Tom: She went to her reward last winter, may she rest in peace."
+        },
+        {
+            "id": 165,
+            "phrase": "go to pieces",
+            "definition": "[for something] to fall apart into many pieces.  The vase—which had been repaired many times—just went to pieces when I put it down. When the window was hit by the ball, it went to pieces."
+        },
+        {
+            "id": 166,
+            "phrase": "go to press",
+            "definition": "[for a publication] to be sent to the printing presses. The book went to press last week. We expect finished books by the first of the month. The book you want to order hasn’t even gone to press yet."
+        },
+        {
+            "id": 167,
+            "phrase": "go to press with something",
+            "definition": "[for someone] to cause something to be printed. The columnist went to press with the rumor without checking any of her usual sources. We are going to press with a series of books on textiles."
+        },
+        {
+            "id": 168,
+            "phrase": "go to sea",
+            "definition": "to become a sailor.  I went to sea at an early age.  When I get older, I’m going to go to sea too."
+        },
+        {
+            "id": 169,
+            "phrase": "go to someone’s head",
+            "definition": "1. Fig. [for something, such as fame or success] to make someone conceited. Don’t let all this praise go to your head.  Too much success will go to her head. 2. Fig. [for alcohol] to affect someone’s brain.  That last glass of champagne went right to her head. Any kind of liquor goes to my head."
+        },
+        {
+            "id": 170,
+            "phrase": "go to the bathroom",
+            "definition": "1. Fig. Euph. to go into and use a restroom, bathroom, or toilet.  Bill: Where is Bob? Jane: He went to the bathroom.  John went to the bathroom to brush his teeth. 2. Fig. Euph. to eliminate bodily wastes.  Mommy! The dog went to the bathroom on the carpet! _Billy’s in there going to the bathroom. Don’t disturb him."
+        },
+        {
+            "id": 171,
+            "phrase": "go to the expense (of doing something)",
+            "definition": "to pay the (large) cost of doing something.  I hate to have to go to the expense of painting the house.  It needs to be done, so you’ll have to go to the expense."
+        },
+        {
+            "id": 172,
+            "phrase": "go to the lavatory",
+            "definition": "Euph. to go into a restroom and use a toilet. Bob requested to leave the room to go to the lavatory.  Please stop the car. I have to go to the lavatory."
+        },
+        {
+            "id": 173,
+            "phrase": "go to the limit",
+            "definition": "to do as much as is possible to do. Okay, we can’t afford it, but we’ll go to the limit.  How far shall I go? Shall I go to the limit?"
+        },
+        {
+            "id": 174,
+            "phrase": "go to the polls",
+            "definition": "to go to a place to vote; to vote.  What day do we go to the polls? _Our community goes to the polls in November."
+        },
+        {
+            "id": 175,
+            "phrase": "go to the toilet",
+            "definition": "Euph. to use a toilet for defecation or urination.  Jimmy washed his hands after he went to the toilet.  Excuse me, I have to go to the toilet."
+        },
+        {
+            "id": 176,
+            "phrase": "go to the wall (on something)",
+            "definition": "to take on great risk or to hold out to the very last on some issue.  I will go to the wall on this point.  This is a very important matter and I will go to the wall if necessary."
+        },
+        {
+            "id": 177,
+            "phrase": "go to town",
+            "definition": "to travel into town or a city.  I have to go to town today."
+        },
+        {
+            "id": 178,
+            "phrase": "go to trial",
+            "definition": "[for a case] to go into court to be tried. When will this case go to trial? _ We go to trial next Monday."
+        },
+        {
+            "id": 179,
+            "phrase": "go to war (over someone or something)",
+            "definition": "to wage a war over someone or something. (Often an exaggeration.) _ We aren’t going to go to war over this, are we? _ Do you want to go to war over Sarah? Is she that important to you?"
+        },
+        {
+            "id": 180,
+            "phrase": "go to waste",
+            "definition": "[for something] to be wasted; to be unused (and therefore thrown away).  Eat your potatoes! Don’t let them go to waste. We shouldn’t let all those nice herbs go to waste. Let’s pick some before the first hard frost."
+        },
+        {
+            "id": 181,
+            "phrase": "go to work (on someone or something)",
+            "definition": "to begin working on someone or something.  The masons went to work on repairing the wall.  The surgeons went to work on the patient.  Come on! Let’s go to work!"
+        },
+        {
+            "id": 182,
+            "phrase": "go together",
+            "definition": "[for two or more things] to look, sound, or taste good together.  Do you think that this pink one and this purple one go together? _Milk and grapefruit don’t go together."
+        },
+        {
+            "id": 183,
+            "phrase": "go too far",
+            "definition": "to do more than is acceptable.  I didn’t mind at first, but now you’ve gone too far.  If you go too far, I’ll slap you."
+        },
+        {
+            "id": 184,
+            "phrase": "go toward someone or something",
+            "definition": "to move toward someone or something. The child went toward the open door.  The dog went toward the cat and the cat ran away."
+        },
+        {
+            "id": 185,
+            "phrase": "go under",
+            "definition": "1. to sink beneath the surface of the water.  After capsizing, the ship went under very slowly.  I was afraid that our canoe would go under in the rapidly moving water. 2. Fig. [for something] to fail.  The company went under exactly one year after it opened.  We tried to keep it from going under. 3. Fig. to become unconscious from anesthesia.  After a few minutes, she went under and the surgeon began to work. Tom went under and the operation began."
+        },
+        {
+            "id": 186,
+            "phrase": "go under (someone or something)",
+            "definition": "1. to pass beneath someone or something.  The boats went under us as we stood on the bridge.  The boat went under the bridge. 2. to belong beneath someone or something.  That box goes under the bed.  All the Christmas presents go under the tree after the children are asleep."
+        },
+        {
+            "id": 187,
+            "phrase": "go under the knife",
+            "definition": "to submit to surgery; to have surgery done on oneself. She goes under the knife tomorrow for her gallbladder.  Frank lives in constant fear of having to go under the knife."
+        },
+        {
+            "id": 188,
+            "phrase": "go under the name of something",
+            "definition": "[for someone or something] to be known under a particular name.  Now she goes under the name of Suzanne.  The man you just met goes under the name of Walter Sampson."
+        },
+        {
+            "id": 189,
+            "phrase": "go under the wrecking ball",
+            "definition": "to be wrecked or torn down.  That lovely old building finally went under the wrecking ball. I hate to see good architecture go under the wrecking ball."
+        },
+        {
+            "id": 190,
+            "phrase": "go up",
+            "definition": "[for something] to go higher.  Gasoline prices are still going up.  Prices keep going up and up, no matter what."
+        },
+        {
+            "id": 191,
+            "phrase": "go up against someone",
+            "definition": "to compete with someone; to face someone in competition.  She is going up against Rodney in the spelling bee.  The champ went up against the challenger in a match last Friday."
+        },
+        {
+            "id": 192,
+            "phrase": "go up something",
+            "definition": "to climb up something.  The monkey went up the tree in no time.  How fast can you go up this rope?"
+        },
+        {
+            "id": 193,
+            "phrase": "go up the wall",
+            "definition": "to climb or run up the wall. Look at that silly cat go up the wall! How can its claws hold onto the brick?"
+        },
+        {
+            "id": 194,
+            "phrase": "go up to someone or something",
+            "definition": "to approach someone or something. The temperature will go up to near one hundred today.  I went up to her and asked her for a match."
+        },
+        {
+            "id": 195,
+            "phrase": "go well with someone or something",
+            "definition": "[for something] to proceed nicely for someone or something.  I hope things are going well with you.  Things are going very well with the project."
+        },
+        {
+            "id": 196,
+            "phrase": "go whole hog",
+            "definition": "to do everything possible; to be extravagant. Let’s go whole hog. Order steak and lobster. Show some restraint. Don’t go whole hog all the time."
+        },
+        {
+            "id": 197,
+            "phrase": "go wild",
+            "definition": "to get very excited.  At the end of the football game, the kick was good and the crowd went wild."
+        },
+        {
+            "id": 198,
+            "phrase": "go window-shopping",
+            "definition": "to go about looking at goods in store windows without actually buying anything.  The office workers go window-shopping on their lunch hour, looking for things to buy when they get paid.  Joan said she was just going window-shopping, but she bought a new coat."
+        },
+        {
+            "id": 199,
+            "phrase": "go with the tide",
+            "definition": "to move along with the effect of outside forces.  I just go with the tide. I never fight fate.  She just goes with the tide, never giving a thought to thinking for herself."
+        },
+        {
+            "id": 200,
+            "phrase": "go without (someone or something)",
+            "definition": "to manage without a particular type of person or thing.  I can’t go without a doctor much longer.  I need a doctor now. I simply can’t go without.  We can go without food for only so long."
+        },
+        {
+            "id": 201,
+            "phrase": "go wrong",
+            "definition": "to fail; [for something bad] to happen.  The project failed. I don’t know what went wrong.  I’m afraid that everything will go wrong."
+        },
+        {
+            "id": 202,
+            "phrase": "goad someone into something",
+            "definition": "to urge or coerce someone into doing something. Don’t try to goad me into it. I just won’t do it! _ We goaded Mary into going with us."
+        },
+        {
+            "id": 203,
+            "phrase": "goad someone on",
+            "definition": "to urge someone onward, possibly with jeers or challenges; to urge someone to continue. (Usually in this order.) _ The cheering crowd goaded the team on to victory.  I goaded Jed on to taking the risk."
+        },
+        {
+            "id": 204,
+            "phrase": "gobble someone or something up†",
+            "definition": "to eat someone or something completely and rapidly.  The wolf said that he was going to gobble the little girl up.  The wolf wanted to gobble up the little pig."
+        },
+        {
+            "id": 205,
+            "phrase": "gobble something down†",
+            "definition": "to eat something very fast, swallowing large chunks.  The dog gobbled the meat down in seconds.  The cat gobbled down the sardines."
+        },
+        {
+            "id": 206,
+            "phrase": "gobble something up†",
+            "definition": "to use up, buy up, or occupy all of something.  The shoppers gobbled all the sale merchandise up in a few hours.  They gobbled up everything."
+        },
+        {
+            "id": 207,
+            "phrase": "God only knows!",
+            "definition": "Inf. Only God knows.; No one knows but God.  Tom: How long is all this going to take? Alice: God only knows! _ Bob: Where are we going to find one hundred thousand dollars? Mary: God only knows!"
+        },
+        {
+            "id": 208,
+            "phrase": "God rest someone’s soul.",
+            "definition": "May God bless a previously mentioned person who has died.  I remember what my mother, God rest her soul, used to say about that."
+        },
+        {
+            "id": 209,
+            "phrase": "God’s gift (to women)",
+            "definition": "a desirable or perfect man. (Usually sarcastic.) _Tom thinks he’s God’s gift to women, but if the truth were known, they laugh at him behind his back.  He acted like he was God’s gift and I should be real grateful to be going out with him."
+        },
+        {
+            "id": 210,
+            "phrase": "God takes soonest those he loveth best.",
+            "definition": "Prov. Good people often die young. The minister told the boy’s grieving parents that God takes soonest those he loveth best.  It may seem to us that Nancy was too young to die, but God takes soonest those he loveth best."
+        },
+        {
+            "id": 211,
+            "phrase": "God willing.",
+            "definition": "If God wants it to happen. (An expression indicating that there is a high certainty that something will happen, so high that only God could prevent it.) _ John: Please try to be on time. Alice: I’ll be there on time, God willing.  Bob: Will I see you after your vacation? Mary: Of course, God willing."
+        },
+        {
+            "id": 212,
+            "phrase": "God’s in his heaven; all’s right with the world.",
+            "definition": "Prov. Everything is just as it should be. (Used to express satisfaction, joy, or contentment.) _ Now that my wife has returned from her long trip, God’s in his heaven; all’s right with the world."
+        },
+        {
+            "id": 213,
+            "phrase": "The gods send nuts to those who have no teeth.",
+            "definition": "Prov. People often get good fortune that is no use to them.  Soon after Melissa lost her hearing, she won season tickets to the symphony. The gods send nuts to those who have no teeth."
+        },
+        {
+            "id": 214,
+            "phrase": "goggle at someone or something",
+            "definition": "to stare at someone or something with bulging eyes. Don’t stand there goggling at me! _ The child stood there and goggled at the newborn lamb."
+        },
+        {
+            "id": 215,
+            "phrase": "going, going, gone",
+            "definition": "1. [in an auction] close to being sold, almost sold, sold.  Going, going, gone. The new owner is the handsome gentleman in the back row. 2. Fig. disappearing and finally gone.  The little car is going, going, gone."
+        },
+        {
+            "id": 216,
+            "phrase": "going great guns",
+            "definition": "going fast or energetically.  I’m over my cold and going great guns.  Business is great. We are going great guns selling ice cream."
+        },
+        {
+            "id": 217,
+            "phrase": "the going rate",
+            "definition": "the current rate or the current charges for something. The going interest rate for your account is 10 percent.  Our babysitter charges us the going rate."
+        },
+        {
+            "id": 218,
+            "phrase": "going strong",
+            "definition": "functioning well or energetically.  We are still well and going strong."
+        },
+        {
+            "id": 219,
+            "phrase": "a gold mine of information",
+            "definition": "someone or something that is full of information.  Grandfather is a gold mine of information about World War I.  The new encyclopedia is a positive gold mine of useful information."
+        },
+        {
+            "id": 220,
+            "phrase": "A golden key can open any door.",
+            "definition": "Prov. Sufficient money can accomplish anything.  Jill: I’m amazed that Sally got into a good university; her grades were so poor. Jane: Well, she comes from a wealthy family, and a golden key can open any door. Jane: How did Fred manage to get invited to the party at the country club? It’s so exclusive there. Alan: Yes, but a golden key can open any door."
+        },
+        {
+            "id": 221,
+            "phrase": "a golden opportunity",
+            "definition": "an excellent opportunity that is not likely to be repeated.  When I failed to finish college, I missed my golden opportunity to prepare myself for a good job."
+        },
+        {
+            "id": 222,
+            "phrase": "gone but not forgotten",
+            "definition": "Cliché gone or dead and still remembered. The good days we used to have together are gone, but not forgotten.  Uncle Harry is gone but not forgotten. The stain where he spilled the wine is still visible in the parlor carpet."
+        },
+        {
+            "id": 223,
+            "phrase": "gone goose",
+            "definition": "someone or something that has departed or run away.  Surely, the burglar is a gone goose by now.  The child was a gone goose, and we did not know where to look for him."
+        },
+        {
+            "id": 224,
+            "phrase": "gone to meet one’s maker",
+            "definition": "Euph. died.  Poor old Bob has gone to meet his maker.  After a long illness, Reggie went to meet his maker."
+        },
+        {
+            "id": 225,
+            "phrase": "gone with the wind",
+            "definition": "gone as if taken away by the wind. (A phrase made famous by the Margaret Mitchell novel and subsequent film Gone with the Wind. The phrase is used to make gone have a stronger force.) _ Everything we worked for was gone with the wind."
+        },
+        {
+            "id": 226,
+            "phrase": "a goner",
+            "definition": "a dead or dying creature or person.  The boy brought the sick fish back to the pet store to get his money back. “This one is a goner,” he said.  John thought he was a goner when his parachute didn’t open."
+        },
+        {
+            "id": 227,
+            "phrase": "(Good) afternoon.",
+            "definition": "1. the appropriate greeting for use between noon and supper time.  Sally: How are you today? Jane: Good afternoon. How are you? Sally: Fine, thank you.  Bob: Afternoon. Nice to see you. Bill: Good afternoon. How are you? Bob: Fine, thanks. 2. an expression used on departure or for dismissal between noon and supper time. (Meaning “I wish you a good afternoon.”) _ Sally: See you later, Bill. Bill: Afternoon. See you later.  Mary: Nice to see you. Tom: Good afternoon. Take care."
+        },
+        {
+            "id": 228,
+            "phrase": "good and something",
+            "definition": "very or completely something. (Something is a state of being.) _Joe never does anything till he’s good and ready.  Mary’s good and mad, all right."
+        },
+        {
+            "id": 229,
+            "phrase": "*good as done",
+            "definition": "the same as being done; almost done. (*Also: as ~. Many different words can replace done in this phrase, according to context: cooked, dead, finished, painted, typed, etc.) _ This job is as good as done. It’ll just take another second.  Yes, sir, if you hire me to paint your house, it’s as good as painted.  When I hand my secretary a package to be shipped, I know that it’s as good as delivered right then and there."
+        },
+        {
+            "id": 230,
+            "phrase": "*good as gold",
+            "definition": "Cliché very good. (Usually used to describe children. *Also: as ~.) _ Mother: Thank you for taking care of Gretchen; I hope she hasn’t been too much trouble. Grandmother: Not at all; she’s been as good as gold.  We knew that Daddy would not read us a bedtime story unless we behaved, so we tried to be good as gold."
+        },
+        {
+            "id": 231,
+            "phrase": "*good as new",
+            "definition": "Cliché as good as when it was new; as well or as healthy as normal. (*Also: as ~.) _A little rest and I’ll be as good as new."
+        },
+        {
+            "id": 232,
+            "phrase": "a good bet",
+            "definition": "a great likelihood. It’s a good bet that he will be late because of the rain."
+        },
+        {
+            "id": 233,
+            "phrase": "the Good Book",
+            "definition": "the Bible. I read some in the Good Book every day.  Sally’s always quoting from the Good Book."
+        },
+        {
+            "id": 234,
+            "phrase": "The good die young.",
+            "definition": "Prov. Good people tend to die at an early age. Marshall’s twenty-year-old son died in a car crash; it did not comfort Marshall to think that the good die young.  Jill: It doesn’t seem fair that Laurie is dead. She was such a wonderful person. Jane: They always say that the good die young."
+        },
+        {
+            "id": 235,
+            "phrase": "a good egg",
+            "definition": "a good and dependable person.  He seems like a good egg. I’ll take a chance on him."
+        },
+        {
+            "id": 236,
+            "phrase": "Good enough.",
+            "definition": "That’s good.; That’s adequate. Bill: Well, now. How’s that? Bob: Good enough.  Bob: I’ll be there about noon. Tom: Good enough. I’ll see you then."
+        },
+        {
+            "id": 237,
+            "phrase": "good enough for someone or something",
+            "definition": "adequate for someone or something. This seat is good enough for me. I don’t want to move. I’m happy. It’s good enough for me.  That table is good enough for my office."
+        },
+        {
+            "id": 238,
+            "phrase": "Good fences make good neighbors.",
+            "definition": "Prov. It is easier to be friendly with your neighbor if neither of you trespasses upon the other’s property or privacy.  Jane: The guy next door is letting his party guests wander across our lawn again. Alan: I guess we’ll have to build a fence there. Good fences make good neighbors, like they say."
+        },
+        {
+            "id": 239,
+            "phrase": "good for what ails you",
+            "definition": "Rur. able to cure any problem or illness. (Usually used to describe food or liquor.) _ Have a sip of this whiskey. It’s good for what ails you.  Sally’s beef broth is good for what ails you."
+        },
+        {
+            "id": 240,
+            "phrase": "Good for you!",
+            "definition": "a complimentary expression of encouragement for something that someone has done or received. Sue: I just got a raise. Bill: Good for you! _Jane: I really told him what I thought of his rotten behavior. Sue: Good for you! He needs it."
+        },
+        {
+            "id": 241,
+            "phrase": "Good golly, Miss Molly!",
+            "definition": "Inf. Good grief !; Wow! _Good golly, Miss Molly! This place is a mess! _ Good golly, Miss Molly, that’s awful!"
+        },
+        {
+            "id": 242,
+            "phrase": "Good grief!",
+            "definition": "Inf. an exclamation of surprise, shock, or amazement.  Alice: Good grief! I’m late! Mary: That clock’s fast. You’re probably okay on time.  Bill: There are seven newborn kittens under the sofa! Jane: Good grief!"
+        },
+        {
+            "id": 243,
+            "phrase": "(Good) heavens!",
+            "definition": "Inf. an exclamation of surprise, shock, or amazement. heavens!) _ John: Good heavens! Look at that diamond ring she has! Bill: I bet it’s not real.  Jane: Ouch! John: Good heavens! What happened? Jane: I just stubbed my toe."
+        },
+        {
+            "id": 244,
+            "phrase": "The good is the enemy of the best.",
+            "definition": "Prov. Instead of making things the best that they can, people often settle for making them merely good. Mother: Aren’t you going to rewrite your paper? Child: Why? It’s good enough. Mother: The good is the enemy of the best."
+        },
+        {
+            "id": 245,
+            "phrase": "Good luck!",
+            "definition": "1. a wish of good luck to someone.  Mary: I have my recital tonight. Jane: I know you’ll do well. Good luck! _ Sally: I hear you’re leaving for your new job tomorrow morning. Bob: That’s right. Sally: Well, good luck! 2. You will certainly need luck, but it probably will not work. (Sarcastic.) _ Bill: I’m going to try to get this tax bill lowered. Sue: Good luck! _ Bill: I’m sure I can get this cheaper at another store. Clerk: Good luck!"
+        },
+        {
+            "id": 246,
+            "phrase": "a good many",
+            "definition": "quite a few.  I have a good many kinfolk in Texas.  Mary owns a good many acres of land."
+        },
+        {
+            "id": 247,
+            "phrase": "the good old days",
+            "definition": "back in an earlier time which everyone remembers as a better time, even if it really wasn’t.  Back in the good old days, during World War I, they used real cactus needles in record players.  The good old days didn’t start until they had indoor bathrooms."
+        },
+        {
+            "id": 248,
+            "phrase": "good riddance (to bad rubbish)",
+            "definition": "Cliché [It is] good to be rid (of worthless persons or things). She slammed the door behind me and said, “Good riddance to bad rubbish!” _“Good riddance to you, madam,” thought I."
+        },
+        {
+            "id": 249,
+            "phrase": "Good seed makes a good crop.",
+            "definition": "Prov. Starting with good materials will help you get good results.  Jill: Elsie and Jim are going to have a baby. Jane: I’m sure it will be a good child, since they’re both such good people. Good seed makes a good crop. I am sure Robert’s business will f lourish. He’s capable and honest, and good seed makes a good crop."
+        }
+    ]
+}

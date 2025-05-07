@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "a good sport",
+            "definition": "someone who can accept a loss in a competition or can accept being the butt of a joke. Bob is usually a good sport, but this time he didn’t seem to appreciate your joke."
+        },
+        {
+            "id": 1,
+            "phrase": "A good time was had by all.",
+            "definition": "Cliché Everyone had a good time.  Jill: How was the party? Jane: A good time was had by all. After seeing the movie, the ten of us went out for ice cream, and a good time was had by all."
+        },
+        {
+            "id": 2,
+            "phrase": "good to go",
+            "definition": "Inf. all ready to go; all checked and pronounced ready to go. I’ve checked everything and we are good to go.  Everything’s good to go and we will start immediately."
+        },
+        {
+            "id": 3,
+            "phrase": "*a (good) working over",
+            "definition": "a good scolding. (*Typically: get ~; have ~; give someone ~.) _The boss gave me a good working over before firing me.  She got a working over about her performance on the project."
+        },
+        {
+            "id": 4,
+            "phrase": "Good-bye and good riddance.",
+            "definition": "Cliché a phrase marking the departure of someone or something unwanted.  Fred: Supposing I was to just walk out of here, just like that? Mary: I’d say good-bye and good riddance.  As the garbage truck drove away, carrying the drab old chair that Mary hated so much, she said, “Good-bye and good riddance.”"
+        },
+        {
+            "id": 5,
+            "phrase": "*the goods on someone",
+            "definition": "something potentially damaging or embarrassing about someone. (*Typically: get ~; have ~; give someone ~.) _ John beat me unfairly in tennis, but I’ll get even. I’ll get the goods on him and his cheating.  The authorities are going to get the goods on Mr. Smith. He has been selling worthless land again."
+        },
+        {
+            "id": 6,
+            "phrase": "goof around",
+            "definition": "to act silly.  The kids were all goofing around, waiting for the bus.  Stop goofing around!"
+        },
+        {
+            "id": 7,
+            "phrase": "goof off",
+            "definition": "to waste time. John is always goofing off. Quit goofing off and get to work!"
+        },
+        {
+            "id": 8,
+            "phrase": "goof on someone",
+            "definition": "Inf. to tease or kid someone.  I don’t believe you. I think you’re just goofing on me."
+        },
+        {
+            "id": 9,
+            "phrase": "goof someone or something up†",
+            "definition": "Inf. to mess someone or something up; to ruin someone’s plans; to make something nonfunctional.  Who goofed this machine up? _ Who goofed up the machine?"
+        },
+        {
+            "id": 10,
+            "phrase": "goof up (on something)",
+            "definition": "Inf. to make an error with something; to blunder while doing something.  Please don’t goof up on this job.  If you goof up one more time, you’re finished."
+        },
+        {
+            "id": 11,
+            "phrase": "goofed (up)",
+            "definition": "1. Inf. messed up; out of order.  All my papers are goofed up.  Everything on my desk is goofed. Who’s been here? 2. Inf. confused; distraught.  I’m sort of goofed up today. I think I’m coming down with something. I was up too late last night, and now I’m all goofed up."
+        },
+        {
+            "id": 12,
+            "phrase": "goose egg",
+            "definition": "1. Fig. a raised bump on the skull as when one’s head has been struck.  I walked into the edge of the door and got a terrible goose egg. 2. Fig. in a sports score, zero.  At the end of the game there was nothing but goose eggs next to our name."
+        },
+        {
+            "id": 13,
+            "phrase": "gorge someone or something with something",
+            "definition": "to fill someone or something by eating something.  She gorged the dog with canned food.  The puppy gorged itself with all the hamburger Paul had set out to thaw."
+        },
+        {
+            "id": 14,
+            "phrase": "gorked (out)",
+            "definition": "Sl. heavily sedated; knocked out. Once the patient was gorked, he was more cooperative.  The guy in Room 226 is totally gorked out now."
+        },
+        {
+            "id": 15,
+            "phrase": "the gospel truth",
+            "definition": "the undeniable truth.  The witness swore he was telling the gospel truth.  I told my parents the gospel truth about how the vase broke."
+        },
+        {
+            "id": 16,
+            "phrase": "gossip about someone or something",
+            "definition": "to talk maliciously about someone or something.  Who are you gossiping about now? _They are gossiping about what happened last weekend."
+        },
+        {
+            "id": 17,
+            "phrase": "gotta get up pretty early in the morning to do something",
+            "definition": "Rur. it would be difficult to do something (specified) because of the ability or quality involved.  You gotta get up pretty early in the morning to cheat Bill Johnson. He’s a sharp businessman for sure. You gotta get up pretty early in the morning to know your Bible better than Preacher Harris."
+        },
+        {
+            "id": 18,
+            "phrase": "gouge something out of someone",
+            "definition": "to cheat someone out of something. (Compare this with chisel something out of someone.) _ They gouged the money out of the old man.  The crooks gouged the life savings out of the old lady."
+        },
+        {
+            "id": 19,
+            "phrase": "grab on(to someone or something)",
+            "definition": "to grasp someone or something; to hold onto someone or something.  Here, grab onto this rope! _ Grab on and hold tight."
+        },
+        {
+            "id": 20,
+            "phrase": "grab someone or something away† (from someone or something)",
+            "definition": "to snatch someone or something away from someone or something. Harry’s aunt grabbed the dirty candy away from him before he got it in his mouth.  I grabbed away the meat from the dog."
+        },
+        {
+            "id": 21,
+            "phrase": "grace someone or something with one’s presence",
+            "definition": "to honor someone or something with one’s presence.  “How nice of you to grace us with your presence,” Mr. Wilson told Mary sarcastically as she entered the classroom late.  The banquet was graced with the presence of the governor."
+        },
+        {
+            "id": 22,
+            "phrase": "grace something with something",
+            "definition": "to adorn something or some place with something, especially a person’s presence. The lovely lady graced our home with her presence.  The stage was graced with f lowers and a few palm trees."
+        },
+        {
+            "id": 23,
+            "phrase": "graced with something",
+            "definition": "made elegant by means of some ornament or decoration.  The altar was graced with lovely white f lowers.  The end of the beautiful day was graced with a beautiful sunset."
+        },
+        {
+            "id": 24,
+            "phrase": "*graceful as a swan",
+            "definition": "very graceful. (*Also: as ~.) _ The boat glided out onto the lake as graceful as a swan.  Jane is graceful as a swan."
+        },
+        {
+            "id": 25,
+            "phrase": "grade someone down (on something)",
+            "definition": "to give someone a low ranking, rating, or score on some performance.  I had to grade you down on your essay because of your spelling. Please don’t grade me down for a minor mistake."
+        },
+        {
+            "id": 26,
+            "phrase": "graduate (from something)",
+            "definition": "to earn and receive a degree from an educational institution. I graduated from a large midwestern university.  Bill intends to graduate in the spring."
+        },
+        {
+            "id": 27,
+            "phrase": "graduate (in something) (with something)",
+            "definition": "to earn a degree in some subject with honors, etc.  I graduated in math with highest honors.  Sharon graduated with honors in medicine."
+        },
+        {
+            "id": 28,
+            "phrase": "a grain of truth",
+            "definition": "even the smallest amount of truth. The attorney was unable to find a grain of truth in the defendant’s testimony.  If there were a grain of truth to your statement, I would trust you."
+        },
+        {
+            "id": 29,
+            "phrase": "a grandfather clause",
+            "definition": "a clause in an agreement that protects certain rights granted in the past even when conditions change in the future.  The contract contained a grandfather clause that protected my pension payments against claims such as might arise from a future lawsuit."
+        },
+        {
+            "id": 30,
+            "phrase": "grandfather someone or something in†",
+            "definition": "to protect someone or a right through the use of a grandfather clause.  My payments were grandfathered in years ago."
+        },
+        {
+            "id": 31,
+            "phrase": "grant something to someone",
+            "definition": "to give or award something to someone. The foundation granted a large sum of money to Jane for her research.  They granted an award to Kelly."
+        },
+        {
+            "id": 32,
+            "phrase": "graph something out†",
+            "definition": "to draw a graph of something.  Please take this data and graph it out. Graph out this data, please."
+        },
+        {
+            "id": 33,
+            "phrase": "grapple (with someone) (for something)",
+            "definition": "to fight or scuffle with someone to get hold of something.  The cop grappled with the thief for the gun.  He grappled for the gun with Max."
+        },
+        {
+            "id": 34,
+            "phrase": "grapple with something",
+            "definition": "to deal with a problem; to get a “good hold” on a problem.  I have enough to grapple with now. No more problems, please.  I cannot grapple with any additional problems."
+        },
+        {
+            "id": 35,
+            "phrase": "grasp at someone or something",
+            "definition": "to try to seize someone or something.  He grasped at the bar and held on tight.  The beggar grasped at the pedestrian and lost his grip."
+        },
+        {
+            "id": 36,
+            "phrase": "grasp someone or something by something",
+            "definition": "to hold onto someone or something by something.  He grasped his friend by the hand and pulled him to safety.  Sharon grasped the dog by its collar and held on tight."
+        },
+        {
+            "id": 37,
+            "phrase": "grasping at straws",
+            "definition": "to depend on something that is useless; to make a futile attempt at something.  John couldn’t answer the teacher’s question. He was just grasping at straws. There I was, grasping at straws, with no one to help me."
+        },
+        {
+            "id": 38,
+            "phrase": "The grass is always greener on the other side (of the fence).",
+            "definition": "Prov. People always think they would be happier in a different set of circumstances. (Usually implies that the other circumstances really are not any better.) _ Jill: My job is so tedious. I wish I had my own business, like Beatrice does. Jane: Beatrice probably wishes she had the security of her old job. The grass is always greener on the other side of the fence."
+        },
+        {
+            "id": 39,
+            "phrase": "grass widow",
+            "definition": "a woman abandoned by her husband. (The origin of this is not clear.) _ Jane’s husband isn’t dead, but she’s a widow just the same—a grass widow.  Bill ran off and left Mary a grass widow."
+        },
+        {
+            "id": 40,
+            "phrase": "grate on someone",
+            "definition": "to annoy someone; to rub someone the wrong way. Your negative attitude really grates on me.  Everything you say grates on me."
+        },
+        {
+            "id": 41,
+            "phrase": "grate on someone(‘s nerves)",
+            "definition": "to annoy someone; to bother someone. My obnoxious brother is grating on my nerves.  Your whining really grates on me."
+        },
+        {
+            "id": 42,
+            "phrase": "grate on something",
+            "definition": "to rub, scrape, or abrade something.  The tree branch is grating on the side of the house.  The bottom of the door is grating on the threshold. Please fix it."
+        },
+        {
+            "id": 43,
+            "phrase": "gratify someone’s desires",
+            "definition": "Euph. to have sex with someone.  The prostitute promised to gratify her customer’s desires.  That night, he gratified her desires."
+        },
+        {
+            "id": 44,
+            "phrase": "gravitate to(ward) someone or something",
+            "definition": "to move slowly toward someone or something, as if being pulled by gravity. People tend to gravitate toward the kitchen at parties.  Unless you correct their manners, the children will gravitate toward rude behavior."
+        },
+        {
+            "id": 45,
+            "phrase": "a gray area",
+            "definition": "an area of a subject or question that is difficult to put into a particular category because it is not clearly defined and may have connections or associations with more than one category.  The responsibility for social studies in the college is a gray area. Several departments are involved.  Publicity is a gray area in that firm. It is shared between the marketing and design divisions."
+        },
+        {
+            "id": 46,
+            "phrase": "*gray hair(s)",
+            "definition": "a lightening of the hair caused by aging or hereditary factors. (*Typically: get ~; have ~; give someone ~.) _ I get more gray hair the older I get.  I guess my genes give me gray hair."
+        },
+        {
+            "id": 47,
+            "phrase": "gray matter",
+            "definition": "intelligence; brains; power of thought.  Use your gray matter and think what will happen if the committee resigns. Surely they’ll come up with an acceptable solution if they use some gray matter."
+        },
+        {
+            "id": 48,
+            "phrase": "graze against someone or something",
+            "definition": "to brush or scrape against someone or something.  The car grazed against the side of the truck.  I grazed against an old man as I was jogging this morning."
+        },
+        {
+            "id": 49,
+            "phrase": "graze on something",
+            "definition": "1. [for animals] to browse or forage in a particular location.  The cattle are grazing on the neighbor’s land. I wish they wouldn’t graze on other people’s land. 2. [for animals] to browse or forage, eating something in particular. The deer are grazing on my carrots! _ The cows were grazing on the meadow grasses for weeks."
+        },
+        {
+            "id": 50,
+            "phrase": "grease the skids",
+            "definition": "to help prepare for or ease the way for the success or failure of someone or something. Ray set out to grease the skids for the right things to happen.  We need someone to grease the skids for the Wilson contract."
+        },
+        {
+            "id": 51,
+            "phrase": "a greasy spoon",
+            "definition": "a cheap diner, where the silverware might not be too clean. The corner greasy spoon is always busy at lunchtime."
+        },
+        {
+            "id": 52,
+            "phrase": "Great balls of fire!",
+            "definition": "Inf. Good heavens!; Wow! _ Mary got up to play the fiddle, and great balls of fire! That girl can play! _Tom: Will you marry me? Jane: Yes, I will. Tom: Great balls of fire! I’m the happiest man on earth."
+        },
+        {
+            "id": 53,
+            "phrase": "the great beyond",
+            "definition": "Euph. life after death.  The fortuneteller claimed to get messages from the great beyond.  I often think of my loved ones in the great beyond, and long for the day I will see them again."
+        },
+        {
+            "id": 54,
+            "phrase": "Great day (in the morning)!",
+            "definition": "Rur. My goodness! (An exclamation of surprise.) _ Great day in the morning! I didn’t expect to see you here.  Great day! That thunder sure is loud!"
+        },
+        {
+            "id": 55,
+            "phrase": "a great deal",
+            "definition": "much; a lot. You can learn a great deal about nature by watching television.  This is a serious problem and it worries me a great deal."
+        },
+        {
+            "id": 56,
+            "phrase": "Great minds think alike.",
+            "definition": "Prov. Very intelligent people tend to come up with the same ideas at the same time. (Used playfully, to commend someone for expressing the same thing you were thinking of; implies that you are congratulating that person for being as smart as you are. Also Great minds run in the same gutters, a casual and jocular variant.) _ Jill: Let’s ride our bikes to the store instead of walking. Jane: I was just thinking we should do that, too. Jill: Great minds think alike."
+        },
+        {
+            "id": 57,
+            "phrase": "Great Scott!",
+            "definition": "Inf. an exclamation of shock or surprise.  “Great Scott! You bought a truck!” shrieked Mary.  Fred: The water heater just exploded! Bill: Great Scott! What do we do now? Fred: Looks like cold showers for a while."
+        },
+        {
+            "id": 58,
+            "phrase": "the great unwashed",
+            "definition": "the general public; the lower middle class.  The Simpsons had a tall iron fence around their mansion—put there to discourage the great unwashed from wandering up to the door by mistake, I suppose.  Maw says the great unwashed don’t know enough to come in out of the rain."
+        },
+        {
+            "id": 59,
+            "phrase": "The greater the truth, the greater the libel.",
+            "definition": "Prov. It is more offensive to say something damaging and true about someone than it is to tell a damaging lie.  Jill: Fred’s really upset. Someone’s started a rumor that he’s unfaithful to his wife. Jane: But it’s true. Jill: Yeah, but the greater the truth, the greater the libel."
+        },
+        {
+            "id": 60,
+            "phrase": "Greek to someone",
+            "definition": "incomprehensible to someone; as mysterious as Greek writing.  I don’t understand this. It’s all Greek to me. She said it was Greek to her, and that it made no sense at all."
+        },
+        {
+            "id": 61,
+            "phrase": "*green as grass",
+            "definition": "very green. (*Also: as ~.) _ His face turned as green as grass just before he vomited."
+        },
+        {
+            "id": 62,
+            "phrase": "green stuff",
+            "definition": "money; U.S. paper money. I’ve run out of green stuff. Can you loan me a few bucks?"
+        },
+        {
+            "id": 63,
+            "phrase": "*green with envy",
+            "definition": "appearing jealous; appearing envious. (*Typically: be ~; become ~.) _ My new car made my neighbor green with envy.  Bill was green with envy that I won first place."
+        },
+        {
+            "id": 64,
+            "phrase": "greet someone or something with something",
+            "definition": "to welcome someone or something with something; to accost someone or something with something upon arrival.  I greeted her with a large bouquet of roses. The sun greeted the day with bright rays of light."
+        },
+        {
+            "id": 65,
+            "phrase": "grieve for someone or something",
+            "definition": "to mourn for someone or something. Don’t grieve for me. I’m okay. She grieved for her lost chances."
+        },
+        {
+            "id": 66,
+            "phrase": "grieve over someone or something",
+            "definition": "to lament and pine for someone or something. Now, don’t grieve over a lost cat.  There is no reason to continue grieving over him."
+        },
+        {
+            "id": 67,
+            "phrase": "the grim reaper",
+            "definition": "death.  I think I have a few years to go yet before the grim reaper pays me a call."
+        },
+        {
+            "id": 68,
+            "phrase": "grin and bear it",
+            "definition": "to endure something unpleasant in good humor.  There is nothing you can do but grin and bear it.  I hate having to work for rude people. I guess I have to grin and bear it."
+        },
+        {
+            "id": 69,
+            "phrase": "grin at someone or something",
+            "definition": "1. to smile a beaming smile at someone or something. The entire class grinned at the camera.  I grinned at her and she turned away quickly. 2. to smile a beaming smile at the thought of, or mental picture of, someone or something.  He grinned at the thought of his coming home to his family.  He grinned at her as she gazed upon the diamond ring he had given her."
+        },
+        {
+            "id": 70,
+            "phrase": "grin from ear to ear",
+            "definition": "to smile a very wide, beaming smile.  She was grinning from ear to ear as she accepted the prize.  We knew Timmy was happy because he was grinning from ear to ear."
+        },
+        {
+            "id": 71,
+            "phrase": "grind away (at someone)",
+            "definition": "to needle, criticize, and nag someone continually. Why are you always grinding away at me? _ Leave me alone. Stop grinding away!"
+        },
+        {
+            "id": 72,
+            "phrase": "grind away (at something)",
+            "definition": "to crush something into particles continually. The machine ground away at the rocks, making tons of gravel.  It ground away, making a terrible noise in the process."
+        },
+        {
+            "id": 73,
+            "phrase": "grind on",
+            "definition": "[for something] to drag on endlessly.  The hours ground on without anything happening. I was so tired of waiting.  The lecture ground on, minute after minute."
+        },
+        {
+            "id": 74,
+            "phrase": "grind someone down†",
+            "definition": "to wear someone down by constant requests; to wear someone down by constant nagging.  If you think you can grind me down by bothering me all the time, you are wrong.  The constant nagging ground down the employees at last."
+        },
+        {
+            "id": 75,
+            "phrase": "grind something away†",
+            "definition": "to remove something by grinding.  Grind the bumps away and make the wall smooth.  Please grind away the bumps."
+        },
+        {
+            "id": 76,
+            "phrase": "grind something down†",
+            "definition": "to make something smooth or even by grinding.  Grind this down to make it smooth.  Please grind down this rough spot."
+        },
+        {
+            "id": 77,
+            "phrase": "grind something out†",
+            "definition": "to produce something by grinding. Working hard, he ground the powder out, a cup at a time.  He ground out the powder, a cup at a time."
+        },
+        {
+            "id": 78,
+            "phrase": "grind something to something",
+            "definition": "to keep grinding something until it is something. I ground the fennel seeds to a powder and threw them in the simmering sauce.  The wheels of the cars, trucks, and buses had ground the football to a broken mass."
+        },
+        {
+            "id": 79,
+            "phrase": "grind something together",
+            "definition": "to rub things together.  Stop grinding your teeth together.  The stones ground together as we drove over them."
+        },
+        {
+            "id": 80,
+            "phrase": "grind something up†",
+            "definition": "to pulverize or crush something by crushing, rubbing, or abrasion.  Please grind the fennel seeds up. Grind up the fennel seeds and sprinkle them on the top."
+        },
+        {
+            "id": 81,
+            "phrase": "grind to a halt",
+            "definition": "to slow down and stop.  Every day about noon, traffic in town grinds to a halt.  The bus ground to a halt at the corner and someone got off."
+        },
+        {
+            "id": 82,
+            "phrase": "*a grip on oneself",
+            "definition": "control of one’s emotions. (*Typically: get ~; have ~.) _ Calm down, man! Get a grip on yourself! _ I encouraged him to get a grip on himself."
+        },
+        {
+            "id": 83,
+            "phrase": "gripe at someone",
+            "definition": "to complain to someone.  Stop griping at me! _ There is no need to gripe at your little brother."
+        },
+        {
+            "id": 84,
+            "phrase": "gripe one’s soul",
+            "definition": "Inf. to annoy someone.  That kind of thing really gripes my soul! _John, have I ever told you that you gripe my soul?"
+        },
+        {
+            "id": 85,
+            "phrase": "gripe (to someone or something) (about someone or something)",
+            "definition": "to make specific complaints to someone about someone or something.  Don’t gripe to me about what she said to you! _There is no need to gripe about the job to everyone."
+        },
+        {
+            "id": 86,
+            "phrase": "grit one’s teeth",
+            "definition": "to grind or clench one’s teeth together in anger or determination.  I was so mad, all I could do was stand there and grit my teeth.  All through the race, Sally was gritting her teeth. She was really determined."
+        },
+        {
+            "id": 87,
+            "phrase": "groan about someone or something",
+            "definition": "to complain about someone or something.  What are you groaning about? _ She is groaning about her work."
+        },
+        {
+            "id": 88,
+            "phrase": "groan something out†",
+            "definition": "to say something with a groan. He groaned the name out.  He groaned out the name of his assailant before he passed out."
+        },
+        {
+            "id": 89,
+            "phrase": "groan under something",
+            "definition": "to groan while bearing a heavy burden. He groaned under the weight of the trunk. The rafters groaned under the heavy weight of the pianos."
+        },
+        {
+            "id": 90,
+            "phrase": "groan with something",
+            "definition": "to groan because of something, such as pain.  She groaned with pain, but no one helped her.  I think the old man was groaning with boredom more than anything else."
+        },
+        {
+            "id": 91,
+            "phrase": "gronk (out)",
+            "definition": "Sl. to conk out; to crash, as with a car or a computer.  My car gronked out on the way to work this morning.  The program gronks every time I start to run it."
+        },
+        {
+            "id": 92,
+            "phrase": "groom someone as something",
+            "definition": "to prepare someone for a job or position.  He was grooming his son as his successor.  They groomed Charles as the next treasurer."
+        },
+        {
+            "id": 93,
+            "phrase": "groom someone for something",
+            "definition": "to prepare someone for something; to prepare someone to be someone. The boss is grooming his son for the presidency of the company.  They are grooming the vice president for the top position."
+        },
+        {
+            "id": 94,
+            "phrase": "groove on someone or something",
+            "definition": "to show interest in someone or something; to relate to someone or something.  Fred was beginning to groove on new age music when he met Phil.  Sam is really grooving on Mary."
+        },
+        {
+            "id": 95,
+            "phrase": "grope after someone or something",
+            "definition": "to reach for a departing or fleeing person or thing awkwardly or ineffectually.  The feeble hand groped after the departing form. I groped after the cat as it ran under the bed."
+        },
+        {
+            "id": 96,
+            "phrase": "grope at someone or something",
+            "definition": "to reach for someone or something blindly.  She groped feebly at the form she could hardly see.  Sharon groped at Frank as he ran out to get the doctor."
+        },
+        {
+            "id": 97,
+            "phrase": "gross someone out†",
+            "definition": "to disgust someone.  Those horrible pictures just gross me out.  Jim’s story totally grossed out Sally."
+        },
+        {
+            "id": 98,
+            "phrase": "ground someone in something",
+            "definition": "to instruct someone in an area of knowledge.  We grounded all our children in the basics of home cooking. We were all grounded in basic cooking by the time we were six."
+        },
+        {
+            "id": 99,
+            "phrase": "ground something on something",
+            "definition": "to build a firm basis for something on something else.  He grounded his thinking on his detailed research.  His thinking was grounded on years of reading."
+        },
+        {
+            "id": 100,
+            "phrase": "grounded in (actual) fact",
+            "definition": "based on facts.  This movie is grounded in fact.  The stories in this book are all grounded in actual fact."
+        },
+        {
+            "id": 101,
+            "phrase": "*grounds for something",
+            "definition": "the basis or cause for legal action such as a lawsuit. (*Typically: be ~; become ~.) _ Your negligence is grounds for a lawsuit.  Is infidelity grounds for divorce in this state?"
+        },
+        {
+            "id": 102,
+            "phrase": "group someone or something around someone or something",
+            "definition": "to gather people or things around people or things. The photographer grouped the wedding party around the bride for the picture.  The photographer then grouped them around the cake."
+        },
+        {
+            "id": 103,
+            "phrase": "group someone or something together",
+            "definition": "to gather people or things together.  Try to group all the smokers together at one table.  Steve grouped all the dictionaries together."
+        },
+        {
+            "id": 104,
+            "phrase": "group something under something",
+            "definition": "to classify something under some category.  They have now grouped the fungi under their own families.  We should group all the older ones under a separate category."
+        },
+        {
+            "id": 105,
+            "phrase": "grouse about someone or something",
+            "definition": "to complain about someone or something.  What are you grousing about now? _ I am grousing about your carelessness!"
+        },
+        {
+            "id": 106,
+            "phrase": "grouse at someone or an animal",
+            "definition": "to criticize someone or an animal directly to the person or animal.  Stop grousing at me! _ Sharon is grousing at the cat again."
+        },
+        {
+            "id": 107,
+            "phrase": "grovel (about) in something",
+            "definition": "to wallow around in the dirt, etc., while prostrating oneself.  The poor fellow groveled about in the mud, trying to keep from being beaten. Why are you there, groveling in the dust?"
+        },
+        {
+            "id": 108,
+            "phrase": "grovel before someone or something",
+            "definition": "to prostrate oneself before someone or something.  The prisoner groveled before his accusers.  The peasant groveled before the lord of the manor."
+        },
+        {
+            "id": 109,
+            "phrase": "grovel to someone",
+            "definition": "to kneel in deference to someone; to kowtow to someone.  You don’t have to grovel to me! _ I refuse to grovel to anyone."
+        },
+        {
+            "id": 110,
+            "phrase": "grow apart (from someone or something)",
+            "definition": "[for things] to separate as they grow. These trees tend to grow apart from each other as they get bigger.  They need to grow apart so they won’t be too crowded."
+        },
+        {
+            "id": 111,
+            "phrase": "grow away from someone",
+            "definition": "[for someone] to become less intimate with someone; [for someone] to become independent of someone gradually.  She has grown away from her husband over the years. We expect our children to grow away from us."
+        },
+        {
+            "id": 112,
+            "phrase": "grow away from something",
+            "definition": "[for something] to move away from something as it grows.  The tree grew away from the house—thank heavens.  See if you can train the vine to grow away from the fence."
+        },
+        {
+            "id": 113,
+            "phrase": "grow back",
+            "definition": "[for something that has come off] to grow back again. (Includes parts of plants and some animals, fingernails, toenails, etc.) _ The lizard’s tail grew back in a few months.  The leaves will grow back in a month or so."
+        },
+        {
+            "id": 114,
+            "phrase": "grow down (into something)",
+            "definition": "[for roots] to penetrate downward as they grow. The young roots grew down into the rich soil.  The roots grew down and drew up the precious water."
+        },
+        {
+            "id": 115,
+            "phrase": "grow from something",
+            "definition": "to develop and grow from a seed, bulb, corm, etc. This huge tree grew from a little seed.  What kind of plant grows from this bulb?"
+        },
+        {
+            "id": 116,
+            "phrase": "grow in something",
+            "definition": "1. [for someone] to increase in some quality, such as wisdom, strength, stature, etc.  As I got older, I was supposed to grow in wisdom and other good things.  Sam grew in strength as he got over the disease. 2. [for a plant] to develop or flourish in something or some place.  These plants grow in rich soil with moderate moisture.  They will grow well in this soil."
+        },
+        {
+            "id": 117,
+            "phrase": "grow into something",
+            "definition": "[for a child] to develop into a particular type of person.  The child grew into a tall, powerful athlete.  I hope I have grown into a person my parents can be proud of."
+        },
+        {
+            "id": 118,
+            "phrase": "grow on someone",
+            "definition": "[for a fungus, tumor, parasite, etc.] to live and grow on someone’s skin.  I’ve got this stuff growing on me and I want to get rid of it.  Is that an ink stain or is something growing on you?"
+        },
+        {
+            "id": 119,
+            "phrase": "grow out",
+            "definition": "[for something that has been cut back] to regrow.  Don’t worry, your hair will grow out again.  Will the grass grow out again, do you think?"
+        },
+        {
+            "id": 120,
+            "phrase": "grow out of something",
+            "definition": "to develop and grow outward from something.  Soft green shoots grew out of the trunk of the tree. A bush grew out of the gutter and hung down the front of the house."
+        },
+        {
+            "id": 121,
+            "phrase": "grow over something",
+            "definition": "[for vegetation] to cover over something as it grows. The vines grew over the shed and almost hid it from view."
+        },
+        {
+            "id": 122,
+            "phrase": "grow something from something",
+            "definition": "to propagate a plant from a seed, bulb, corm, etc. I grew these tomatoes from seeds.  Can you grow a mango tree from a seed?"
+        },
+        {
+            "id": 123,
+            "phrase": "grow to do something",
+            "definition": "to gradually begin to do certain things, using verbs such as feel, know, like, need, respect, sense, suspect, think, want, wonder, etc.  I grew to hate Bob over a period of years. As I grew to know Bob, I began to like him."
+        },
+        {
+            "id": 124,
+            "phrase": "grow together",
+            "definition": "[for things] to join together as they grow and develop.  Two of these trees grew together when they were much smaller.  The broken ends of the bone grew together far more rapidly than Chuck had thought."
+        },
+        {
+            "id": 125,
+            "phrase": "grow up",
+            "definition": "to become mature; to become adult.  All the children have grown up and the parents are left with a lot of debts."
+        },
+        {
+            "id": 126,
+            "phrase": "grow up into someone or something",
+            "definition": "to mature into a type of person or a person who does a particular job.  She grew up into a fine young lady.  I want to grow up into a strong and healthy person."
+        },
+        {
+            "id": 127,
+            "phrase": "A growing youth has a wolf in his belly.",
+            "definition": "Prov. Young people who are growing fast are hungry all the time.  If you doubt that a growing youth has a wolf in his belly, you should see how much my fourteen-year-old cousin eats."
+        },
+        {
+            "id": 128,
+            "phrase": "growl at someone or something",
+            "definition": "to snarl at someone or something.  Don’t growl at me like that.  The dog growled at the cat."
+        },
+        {
+            "id": 129,
+            "phrase": "growl something out†",
+            "definition": "to say something with a sound like growling or snarling.  Jane growled a few words out.  She growled out a few words and the gates opened for us."
+        },
+        {
+            "id": 130,
+            "phrase": "grub around (for someone or something)",
+            "definition": "to search around for someone or something.  I went to the attic and grubbed around for my old uniform.  The guys went out and grubbed around for another soccer player."
+        },
+        {
+            "id": 131,
+            "phrase": "grub around (in something)",
+            "definition": "to wear old or “grubby” clothes around. I was grubbing around in my jeans when Alice showed up.  I was wearing my jeans and just sort of grubbing around when she came."
+        },
+        {
+            "id": 132,
+            "phrase": "*gruff as a bear",
+            "definition": "gruff; curt and unsociable. (*Also: as ~.) _ I hate to ask Erica questions; she’s always gruff as a bear. I’m always as gruff as a bear before I’ve had my first cup of coffee."
+        },
+        {
+            "id": 133,
+            "phrase": "grumble about someone or something",
+            "definition": "to complain about someone or something.  What are you grumbling about now? _ The students were grumbling about the teacher."
+        },
+        {
+            "id": 134,
+            "phrase": "grumble at someone",
+            "definition": "to complain to someone. Go grumble at someone else. I’m tired of listening. Stop grumbling at me!"
+        },
+        {
+            "id": 135,
+            "phrase": "grunt something out†",
+            "definition": "to say something with a snort or grunt.  Jane grunted a command out to someone.  She grunted out a curt command and the gate opened."
+        },
+        {
+            "id": 136,
+            "phrase": "grunt work",
+            "definition": "work that is menial and thankless. During the summer, I earned money doing grunt work.  I did all of the grunt work on the project, but my boss got all of the credit."
+        },
+        {
+            "id": 137,
+            "phrase": "guarantee against something",
+            "definition": "to certify that something bad will not happen.  No one can guarantee against that happening.  I can’t guarantee against something going wrong."
+        },
+        {
+            "id": 138,
+            "phrase": "guarantee something against something (for something)",
+            "definition": "to certify that something will not fail, break, or wear out, usually for a period of time.  We guarantee this radio against defects for one year.  I bought a service contract to guarantee my car against defects."
+        },
+        {
+            "id": 139,
+            "phrase": "guard against someone or something",
+            "definition": "to take care to avoid someone or something.  Try to guard against getting a cold.  You should guard against pickpockets."
+        },
+        {
+            "id": 140,
+            "phrase": "guard someone or something from someone or something",
+            "definition": "to protect someone or something from someone or something.  The assistant manager will guard your valuables from thieves.  She guarded the kitten from the angry dog."
+        },
+        {
+            "id": 141,
+            "phrase": "guess at something",
+            "definition": "to estimate something; to give an opinion about what something might be.  I hate to just guess at it, but if you insist: ten feet long.  Go ahead, guess at the number of pennies in this jar."
+        },
+        {
+            "id": 142,
+            "phrase": "Guess what!",
+            "definition": "Inf. a way of starting a conversation; a way of forcing someone into a conversation.  Alice: Guess what! Bob: I don’t know. What? Alice: I’m going to Europe this summer. Bob: That’s very nice.  John: Guess what! Jane: What? John: Mary is going to have a baby. Jane: Oh, that’s great!"
+        },
+        {
+            "id": 143,
+            "phrase": "guest of honor",
+            "definition": "a guest who gets special attention from everyone; the person for whom a party, celebration, or ceremony is given.  Bob is the guest of honor, and many people will make speeches about him.  The guest of honor sits at the front of the room on the dais."
+        },
+        {
+            "id": 144,
+            "phrase": "guffaw at someone or something",
+            "definition": "to laugh at someone or something very hard and raucously.  The audience guffawed at the clown’s antics.  The old man guffawed at the clown."
+        },
+        {
+            "id": 145,
+            "phrase": "guide someone or something across (something)",
+            "definition": "to lead or escort someone or something across something.  I had to guide him across the desert.  The bridge was very narrow and Jill got out to guide the truck across.  We had to guide it across."
+        },
+        {
+            "id": 146,
+            "phrase": "guide something away† (from someone or something)",
+            "definition": "1. to lead something away from someone or something.  I guided the lawn mower away from the children.  Please stand there and guide away the cars. 2. to channel or route something away from someone or something.  The farmer guided the creek water away from the main channel through a narrow ditch. We had to guide away the sheep from the road."
+        },
+        {
+            "id": 147,
+            "phrase": "A guilty conscience needs no accuser.",
+            "definition": "Prov. If you have done something wrong and feel guilty about it, you will be uncomfortable and want to confess even if no one accuses you of wrongdoing. Even though no one noticed him eating most of the cookies, Peter felt so bad about it that he told us what he had done. A guilty conscience needs no accuser."
+        },
+        {
+            "id": 148,
+            "phrase": "gulp for air",
+            "definition": "to eagerly or desperately try to get air or a breath. Tom gulped for air after trying to hold his breath for three minutes.  Mary came up out of the water, gulping for air."
+        },
+        {
+            "id": 149,
+            "phrase": "gulp something back†",
+            "definition": "to force or hold back tears, sobs, etc.  He gulped his sobs back and clutched at his wound.  He gulped back his sobs."
+        },
+        {
+            "id": 150,
+            "phrase": "gulp something down†",
+            "definition": "to drink all of something, usually quickly. He gulped his coffee down and left. He gulped down his coffee."
+        },
+        {
+            "id": 151,
+            "phrase": "gun for someone",
+            "definition": "to seek one out to shoot one.  They say that Tex is gunning for the sheriff."
+        },
+        {
+            "id": 152,
+            "phrase": "gun someone or an animal down†",
+            "definition": "to shoot someone or an animal.  Max tried to gun a policeman down.  The cop tried to gun down the rabid dog."
+        },
+        {
+            "id": 153,
+            "phrase": "gung ho",
+            "definition": "Inf. enthusiastically in favor of something.  Bobby is really gung ho on his plan to start his own company."
+        },
+        {
+            "id": 154,
+            "phrase": "gush over someone or something",
+            "definition": "[for liquid] to flood over someone or something.  The f loodwaters gushed over the farmland.  The hot soup gushed over the cook as the huge pot tipped over."
+        },
+        {
+            "id": 155,
+            "phrase": "gush with something",
+            "definition": "[for something] to flow with something.  The stream gushed with the sudden runoff of the storm. The faucet gushed with brownish water, so I turned it off."
+        },
+        {
+            "id": 156,
+            "phrase": "gussied up",
+            "definition": "Rur. dressed up fancy. All the girls got gussied up for the dance, but the guys wore their regular clothes.  Mary really got gussied up. She even curled her hair."
+        },
+        {
+            "id": 157,
+            "phrase": "gussy someone or something up†",
+            "definition": "Rur. to dress someone or something up; to make someone or something fancy.  She gussied the kids up for the wedding.  See if you can gussy up this room a little before folks get here."
+        },
+        {
+            "id": 158,
+            "phrase": "guzzle something down†",
+            "definition": "to drink something rapidly and eagerly. He guzzled the beer down and called for another.  He guzzled down the beer and called for another."
+        },
+        {
+            "id": 159,
+            "phrase": "gyp someone out of something",
+            "definition": "to deceive someone in order to get something of value. The salesclerk gypped me out of a dollar.  The taxi driver tried to gyp me out of a fortune by driving all over the place."
+        },
+        {
+            "id": 160,
+            "phrase": "habituate someone to someone or something",
+            "definition": "to accustom someone to someone or something. Soon she will habituate the baby to the new feeding schedule. The office staff worked hard to habituate the new employee to the schedule."
+        },
+        {
+            "id": 161,
+            "phrase": "hack around",
+            "definition": "Inf. to waste time. I’m just hacking around and doing nothing. Stop hacking around and get to work."
+        },
+        {
+            "id": 162,
+            "phrase": "hack (away) at someone or something",
+            "definition": "to chop at someone or something continuously. The brutal murderer hacked away at his victim.  The woodchopper hacked at the tree and finally got it down."
+        },
+        {
+            "id": 163,
+            "phrase": "hack one’s way through something",
+            "definition": "to cut one’s way through something. We had to hack our way through the jungle.  The surveyors hacked a pathway through the undergrowth."
+        },
+        {
+            "id": 164,
+            "phrase": "hack someone (off )",
+            "definition": "Inf. to annoy someone; to embarrass someone.  It really hacks me when you drum your fingers like that.  You really hack me off!"
+        },
+        {
+            "id": 165,
+            "phrase": "hack someone or something apart†",
+            "definition": "to chop up someone or something.  The murderer hacked the victim apart. He hacked apart the victim. The butcher hacked the chicken apart."
+        },
+        {
+            "id": 166,
+            "phrase": "hack something",
+            "definition": "Inf. to endure something; to deal with something. (The something is usually it.) _ I don’t know if I can hack it.  John works very hard, but he can’t seem to hack it."
+        },
+        {
+            "id": 167,
+            "phrase": "hack something down†",
+            "definition": "to chop something down.  Who hacked this cherry tree down? _ Who hacked down this cherry tree?"
+        },
+        {
+            "id": 168,
+            "phrase": "hack something off†",
+            "definition": "to chop something off. I need to get up that tree and hack that big branch off before it bangs on the house.  Please hack off that big branch."
+        },
+        {
+            "id": 169,
+            "phrase": "hack something to something",
+            "definition": "to cut something up into something roughly or crudely, such as pieces, bits, smithereens. The editor hacked my story to smithereens.  Don’t hack the turkey to pieces!"
+        },
+        {
+            "id": 170,
+            "phrase": "hack something up†",
+            "definition": "to chop something up into pieces. (Refers often to wood.) _ Hack all this old furniture up, and we’ll burn it in the fireplace.  Hack up this stuff, and we’ll burn it."
+        },
+        {
+            "id": 171,
+            "phrase": "hacked (off )",
+            "definition": "Inf. angry; annoyed.  Wally was really hacked off about the accident. Oh, Wally is always hacked about something."
+        },
+        {
+            "id": 172,
+            "phrase": "hadn’t oughta",
+            "definition": "Inf. should not have.  You hadn’t oughta teased me like that.  I know I hadn’t oughta stolen that candy."
+        },
+        {
+            "id": 173,
+            "phrase": "haggle about something",
+            "definition": "to bargain or negotiate about something.  They are always willing to haggle about the price, so don’t take the first price you’re given. I wish you wouldn’t try to haggle about everything when we shop."
+        },
+        {
+            "id": 174,
+            "phrase": "hail from some place",
+            "definition": "to come from some place as one’s hometown or birthplace; to originate in some place. He hails from a small town in the Midwest.  Where do you hail from?"
+        },
+        {
+            "id": 175,
+            "phrase": "hail someone as something",
+            "definition": "to praise someone for being something. The active members hailed him as fraternity brother of the year. Sally was hailed as an effective leader."
+        },
+        {
+            "id": 176,
+            "phrase": "hair and hide(, horns and tallow)",
+            "definition": "Rur. every last thing; every part. (Refers orginally to using every part of slaughtered cattle for something.) _They took everything Mary had, hair and hide, horns and tallow.  Joe never threw anything away. He found a use for everything, hair and hide."
+        },
+        {
+            "id": 177,
+            "phrase": "the hair of the dog that bit one",
+            "definition": "a drink of liquor taken when one has a hangover; a drink of liquor taken when one is recovering from drinking too much liquor. (Often the same type of liquor as one got drunk on.) _ Oh, I’m miserable. I need some of the hair of the dog that bit me. That’s some hangover you’ve got there, Bob. Here, drink this. It’s some of the hair of the dog that bit you."
+        },
+        {
+            "id": 178,
+            "phrase": "hale and hearty",
+            "definition": "Cliché healthy.  The young infant was hale and hearty. The calf—hale and hearty—ran around the barnyard."
+        },
+        {
+            "id": 179,
+            "phrase": "hale-fellow-well-met",
+            "definition": "friendly to everyone; falsely friendly to everyone. (Usually said of males.) _ Yes, he’s friendly, sort of hale-fellow-well-met. He’s not a very sincere person. Hail-fellow-well-met—you know the type.  What a pain he is. Good old Mr. Hail-fellow-well-met. What a phony!"
+        },
+        {
+            "id": 180,
+            "phrase": "half a bubble off plumb",
+            "definition": "giddy; crazy. She is acting about half a bubble off plumb. What is wrong with her? _ Tom is just half a bubble off plumb, but he is all heart."
+        },
+        {
+            "id": 181,
+            "phrase": "Half a loaf is better than none.",
+            "definition": "Prov. Getting only part of what you want is better than not getting anything.  Fred: How did your court case go? Alan: Not good. I asked for $500, and the judge only awarded me $200. Fred: Half a loaf is better than none."
+        },
+        {
+            "id": 182,
+            "phrase": "half in the bag",
+            "definition": "intoxicated.  Jerry was half in the bag when we found him. They were all half in the bag by midnight."
+        },
+        {
+            "id": 183,
+            "phrase": "half the battle",
+            "definition": "a significant part of an effort. Getting through traffic to the airport was half the battle. The f light was nothing at all."
+        },
+        {
+            "id": 184,
+            "phrase": "half the time",
+            "definition": "sometimes.  I like that TV show, but half the time I forget to watch it when it’s on.  She says she’s my friend, but she can’t remember my name, half the time."
+        },
+        {
+            "id": 185,
+            "phrase": "Half the truth is often a whole lie.",
+            "definition": "Prov. If you do not tell the whole truth, you can mislead people just as if you tell them an outright lie.  Jill: You lied to me. Jane: I did not. Everything I said was true. Jill: But you didn’t tell me the whole story. And half the truth is often a whole lie."
+        },
+        {
+            "id": 186,
+            "phrase": "Half the world knows not how the other half lives.",
+            "definition": "Prov. You cannot understand what life is like for people who are different from you.; Often, rich people do not know what it is like to be poor, and poor people do not know what it is like to be rich.  Until he spent school vacation at his friend Richard’s country home, Jim was never aware that some people do not have to work for a living. He discovered that half the world knows not how the other half lives.  Bill decided to dress in secondhand clothes and spend the weekend among the homeless men in the warehouse district, to see how the other half lives."
+        },
+        {
+            "id": 187,
+            "phrase": "half under",
+            "definition": "semiconscious.  I was half under and could hear what the doctor was saying.  I was afraid they would start cutting while I was only half under."
+        },
+        {
+            "id": 188,
+            "phrase": "halfhearted (about someone or something)",
+            "definition": "unenthusiastic about someone or something.  Ann was halfhearted about the choice of Sally for president.  She didn’t look halfhearted to me. She looked angry."
+        },
+        {
+            "id": 189,
+            "phrase": "ham something up†",
+            "definition": "to make a performance seem silly by showing off or exaggerating one’s part. (A show-off actor is known as a ham.) _ Come on, Bob. Don’t ham it up! _ The play was going fine until Bob got out there and hammed up his part."
+        },
+        {
+            "id": 190,
+            "phrase": "hammer (away) at someone",
+            "definition": "to interrogate someone; to ask questions endlessly of someone.  The cops kept hammering away at the suspect until he told them everything they wanted to know.  They hammered at him for hours."
+        },
+        {
+            "id": 191,
+            "phrase": "hammer (away) at something",
+            "definition": "to continue to do a task that requires much hammering.  The roofers are hammering away at the job, trying to finish before night."
+        },
+        {
+            "id": 192,
+            "phrase": "hammer on someone or something",
+            "definition": "to pound on someone or something.  The cop hammered on the poor man over and over.  Sharon hammered on the door for a long time."
+        },
+        {
+            "id": 193,
+            "phrase": "hammer something down†",
+            "definition": "to pound something down even with the surrounding surface. Hammer all the nails down so that none of them will catch on someone’s shoe.  Hammer down all these nails!"
+        },
+        {
+            "id": 194,
+            "phrase": "hammer something home†",
+            "definition": "to try extremely hard to make someone understand or realize something.  The boss hopes to hammer the firm’s poor financial position home to the staff.  I tried to hammer home to Anne the fact that she would have to get a job."
+        },
+        {
+            "id": 195,
+            "phrase": "hammer something out†",
+            "definition": "to hammer a dent away; to make a dent even with the surrounding surface.  I’m going to have to have someone hammer this dent in my fender out.  It will take a while to hammer out the dent."
+        },
+        {
+            "id": 196,
+            "phrase": "hand in glove (with someone)",
+            "definition": "very close to someone. John is really hand in glove with Sally. The teacher and the principal work hand in glove."
+        },
+        {
+            "id": 197,
+            "phrase": "*hand in hand",
+            "definition": "holding hands. (*Typically: do something ~; sit ~; walk ~.) _ They walked down the street hand in hand. Bob and Mary sat there quietly, hand in hand."
+        },
+        {
+            "id": 198,
+            "phrase": "Hand it over.",
+            "definition": "Give it to me. (Fixed order.) _ It’s mine. Hand it over! _ Come on. Give me the box of jewels. Hand it over!"
+        },
+        {
+            "id": 199,
+            "phrase": "hand over fist",
+            "definition": "[for money and merchandise to be exchanged] very rapidly.  What a busy day. We took in money hand over fist. They were buying things hand over fist."
+        },
+        {
+            "id": 200,
+            "phrase": "hand over hand",
+            "definition": "[moving] one hand after the other (again and again).  Sally pulled in the rope hand over hand.  The man climbed up the rope hand over hand."
+        },
+        {
+            "id": 201,
+            "phrase": "hand someone or something over† (to someone or something)",
+            "definition": "to deliver someone or something to someone or a group; to relinquish someone or something to someone or a group.  The kidnappers handed the child over to the gobetween.  All right, hand over the hostage!"
+        },
+        {
+            "id": 202,
+            "phrase": "hand something around†",
+            "definition": "to pass something around.  Hand this around and let everyone look at it.  Hand around each of these pictures so everyone gets to see them."
+        },
+        {
+            "id": 203,
+            "phrase": "hand something back† (to someone)",
+            "definition": "to return something to someone by hand.  Would you please hand this paper back to Scott? _Hand back this book to Fred, if you please."
+        },
+        {
+            "id": 204,
+            "phrase": "hand something down† from someone to someone",
+            "definition": "to pass something down through many generations.  I hope we can make it a tradition to hand this down from generation to generation. My descendants will hand down this watch from generation to generation."
+        },
+        {
+            "id": 205,
+            "phrase": "hand something down† (to someone)",
+            "definition": "to pass something to a person on a lower level.  Hand this wrench down to the man under the sink.  Please hand down this wrench."
+        },
+        {
+            "id": 206,
+            "phrase": "hand something in†",
+            "definition": "to submit something by hand.  Did you hand your application form in? _ I forgot to hand in my test paper."
+        },
+        {
+            "id": 207,
+            "phrase": "hand something off† (to someone)",
+            "definition": "to give a football directly to another player.  Roger handed the ball off to Jeff.  He handed off the ball.  Tim handed it off."
+        },
+        {
+            "id": 208,
+            "phrase": "hand something on (to someone or something)",
+            "definition": "to pass something on to someone or a group.  Please hand this on to Walter after you’ve read it.  Please read this and hand it on."
+        },
+        {
+            "id": 209,
+            "phrase": "hand something out† (to someone)",
+            "definition": "1. to give something out to someone. The judge was known for handing heavy fines out.  She handed out large fines to everyone. 2. to pass something, usually papers, out to people.  The teacher handed the tests out to the students.  Please hand out these papers."
+        },
+        {
+            "id": 210,
+            "phrase": "hand something over",
+            "definition": "to give something (to someone); to relinquish something (to someone); to turn something over (to someone).  Come on, John! Hand over my wallet.  Please hand this over to the guard."
+        },
+        {
+            "id": 211,
+            "phrase": "hand something to someone",
+            "definition": "to give something to someone by hand.  The clerk handed her a message when she stopped at the desk. This message was just handed to me."
+        },
+        {
+            "id": 212,
+            "phrase": "hand something up† (to someone)",
+            "definition": "to pass something to someone who is on a higher level.  Please hand this cup of coffee up to Carl.  Please hand up this coffee to Carl."
+        },
+        {
+            "id": 213,
+            "phrase": "The hand that rocks the cradle rules the world.",
+            "definition": "Prov.Mothers are the most powerful people, because they shape their children’s personalities. When Lena got pregnant, Lena’s mother told her to take her responsibility seriously, because the hand that rocks the cradle rules the world."
+        },
+        {
+            "id": 214,
+            "phrase": "*a hand with something",
+            "definition": "assistance with something, especially using the hands. (*Typically: get ~; have ~; give someone ~.) _ Mary would really like to get a hand with that. It’s too much for one person.  I’d like to have a hand with this."
+        },
+        {
+            "id": 215,
+            "phrase": "*a handful",
+            "definition": "someone, often a child, who is difficult to deal with. (*Typically: be ~; become ~.) _Bobby can be a real handful when he needs a nap."
+        },
+        {
+            "id": 216,
+            "phrase": "*a handle on something",
+            "definition": "a means of understanding something; an aid to understanding something. (*Typically: get ~; have ~; give someone ~.) _ Let me try to get a handle on this.  Now that I have a handle on the concept, I can begin to understand it."
+        },
+        {
+            "id": 217,
+            "phrase": "handle someone with kid gloves",
+            "definition": "to be very careful with a touchy person.  Bill has become so sensitive. You really have to handle him with kid gloves. You don’t have to handle me with kid gloves. I can take it."
+        },
+        {
+            "id": 218,
+            "phrase": "hands down",
+            "definition": "easily; unquestionably.  She won the contest hands down.  They declared her the winner hands down."
+        },
+        {
+            "id": 219,
+            "phrase": "Hands off!",
+            "definition": "Do not touch someone or something. Careful! Don’t touch that wire. Hands off! _ The sign says, “Hands off!” and you had better do what it says."
+        },
+        {
+            "id": 220,
+            "phrase": "Handsome is as handsome does.",
+            "definition": "Prov. It is more important to treat people well than to be good-looking.; Just because you are good-looking does not mean you are a good person.  Jill: I’d like to get to know George better. Jane: Why? Jill: He’s so handsome. Jane: Handsome is as handsome does. He’s a very unpleasant person."
+        },
+        {
+            "id": 221,
+            "phrase": "hang a few on†",
+            "definition": "to take a few drinks; to have a few beers.  They went out to hang a few on.  Let’s hang on a few and then go on to the meeting."
+        },
+        {
+            "id": 222,
+            "phrase": "hang a huey",
+            "definition": "Sl. to make a U-turn.  Hang a huey in the middle of the block.  Right here! Hang a huey!"
+        },
+        {
+            "id": 223,
+            "phrase": "hang a left",
+            "definition": "Inf. to turn left.  He hung a left at the wrong corner.  Hey, here! Hang a left here!"
+        },
+        {
+            "id": 224,
+            "phrase": "hang a louie",
+            "definition": "Sl. to turn left.  You have to hang a louie at the stop sign.  Go another block and hang a louie."
+        },
+        {
+            "id": 225,
+            "phrase": "hang a ralph",
+            "definition": "Sl. to turn right.  He skied down the easy slope and hung a ralph near a fir tree. Don’t hang a ralph until you get past the traffic light."
+        },
+        {
+            "id": 226,
+            "phrase": "hang a right",
+            "definition": "Inf. to turn right. Hang a right about here.  I told him to hang a right at the next corner, but he went on."
+        },
+        {
+            "id": 227,
+            "phrase": "hang around (some place)",
+            "definition": "to loiter some place; to be in a place or in an area, doing nothing in particular.  Why are you hanging around my office? _ It’s comfortable here. I think I’ll hang around here for a while."
+        },
+        {
+            "id": 228,
+            "phrase": "hang back (from someone or something)",
+            "definition": "to lag back behind someone or something; to stay back from someone or something, perhaps in avoidance.  Why are you hanging back from the rest of the group? _Come on! Don’t hang back!"
+        },
+        {
+            "id": 229,
+            "phrase": "hang behind (someone or something)",
+            "definition": "to stay behind someone or something.  Don’t hang behind us, please. Come on up here and walk with us. Fred is hanging behind and may get lost at the next turn."
+        },
+        {
+            "id": 230,
+            "phrase": "hang by something",
+            "definition": "1. to be suspended at the end of something, such as a rope, chain, string, etc.  The bag is only hanging by a string.  The food hung by a rope from a tree to protect it from the bears that wandered into camp now and then. 2. to dangle, suspended by some body part, such as thumbs, legs, etc. I was hanging by my legs on the exercise bar when the rain started. I can hang by just my middle fingers!"
+        },
+        {
+            "id": 231,
+            "phrase": "hang down (from someone or something)",
+            "definition": "to be suspended from someone or something. Grasping vines hung down from the towering trees.  Thousands of vines hung down."
+        },
+        {
+            "id": 232,
+            "phrase": "hang fire",
+            "definition": "to delay or wait; to be delayed.  I think we should hang fire and wait for other information.  Our plans have to hang fire until we get planning permission."
+        },
+        {
+            "id": 233,
+            "phrase": "hang from something",
+            "definition": "to be suspended from something.  Colorful decorations hung from the branches of the tree.  What is that hanging from the side of the building?"
+        },
+        {
+            "id": 234,
+            "phrase": "Hang in there.",
+            "definition": "Be patient, things will work out.  Bob: Everything is in such a mess. I can’t seem to get things done right. Jane: Hang in there, Bob. Things will work out.  Mary: Sometimes I just don’t think I can go on. Sue: Hang in there, Mary. Things will work out."
+        },
+        {
+            "id": 235,
+            "phrase": "Hang it all!",
+            "definition": "Inf. Damn it all! _ Oh, hang it all! I’m late.  He’s late again! Hang it all!"
+        },
+        {
+            "id": 236,
+            "phrase": "hang it up",
+            "definition": "Sl. to quit something. (Fixed order. See also hang something up.) _ I’ve had it with this job. It’s time to hang it up.  Just hang it up. Don’t bother with it."
+        },
+        {
+            "id": 237,
+            "phrase": "*the hang of something",
+            "definition": "the knowledge or knack of doing something correctly. (*Typically: get ~; have ~; teach someone ~.) _As soon as I get the hang of this computer, I’ll be able to work faster. Now that I have the hang of starting the car in cold weather, I won’t have to get up so early."
+        },
+        {
+            "id": 238,
+            "phrase": "hang off",
+            "definition": "to wait quietly to one side.  The boys hung off a little, waiting to see what would happen next. Hang off awhile and don’t do anything."
+        },
+        {
+            "id": 239,
+            "phrase": "hang on",
+            "definition": "1. to wait awhile.  Hang on a minute. I need to talk to you. Hang on. Let me catch up with you. 2. to survive for awhile.  I think we can hang on without electricity for a little while longer. 3. [for an illness] to linger or persist.  This cold has been hanging on for a month.  This is the kind of f lu that hangs on for weeks. 4. be prepared for fast or rough movement. (Usually a command.) _ Hang on! The train is going very fast.  Hang on! We’re going to crash! 5. to pause in a telephone conversation.  Please hang on until I get a pen. If you’ll hang on, I’ll get her."
+        },
+        {
+            "id": 240,
+            "phrase": "hang on for dear life",
+            "definition": "Cliché to hang on tight.  As the little plane bounced around over the mountains, we hung on for dear life."
+        },
+        {
+            "id": 241,
+            "phrase": "hang on (someone’s) every word",
+            "definition": "Cliché to listen closely or with awe to what someone says. I am hanging on your every word. Please go on. The audience hung on her every word throughout the speech."
+        },
+        {
+            "id": 242,
+            "phrase": "hang one’s hat (up) somewhere",
+            "definition": "to take up residence somewhere.  George loves Dallas. He’s decided to buy a house and hang his hat up there.  Bill moves from place to place and never hangs his hat up anywhere."
+        },
+        {
+            "id": 243,
+            "phrase": "hang out (of something)",
+            "definition": "to be visibly coming out of something.  Your shirttail is hanging out of your pants.  My shirttail was hanging out."
+        },
+        {
+            "id": 244,
+            "phrase": "hang out (some place)",
+            "definition": "1. to spend time in a place habitually.  Is this where you guys hang out all the time? 2. to spend time aimlessly; to waste time.  Bill: What are you doing this afternoon? Tom: Oh, I’ll just hang out.  Kids hang out too much these days."
+        },
+        {
+            "id": 245,
+            "phrase": "hang out (with someone or something)",
+            "definition": "to associate with someone or a group on a regular basis.  She hangs out with Alice too much.  I wish you would stop hanging out with that crowd of boys."
+        },
+        {
+            "id": 246,
+            "phrase": "hang over someone or something",
+            "definition": "1. to be suspended over someone or something. A fancy crystal chandelier hung over us. An ornate ceiling fan hung over the table. 2. [for some pervading quality] to seem to hover over someone or something. An aura of gloom hung over Joe. A dismal pall hung over the gathering."
+        },
+        {
+            "id": 247,
+            "phrase": "hang over someone(‘s head)",
+            "definition": "[for something unpleasant] to worry someone.  I have a horrible exam hanging over my head.  I hate to have medical problems hanging over me."
+        },
+        {
+            "id": 248,
+            "phrase": "hang someone by the neck",
+            "definition": "to execute someone or kill oneself by tying a noose around the neck and dropping the victim in order to break the neck or strangle the victim.  The executioner hanged him by the neck until he died.  He hanged himself by the neck."
+        },
+        {
+            "id": 249,
+            "phrase": "hang someone for something",
+            "definition": "to execute someone by hanging for doing something.  The state prosecutor will try to hang you for this crime. The sheriff wanted to hang Jed for murder."
+        }
+    ]
+}

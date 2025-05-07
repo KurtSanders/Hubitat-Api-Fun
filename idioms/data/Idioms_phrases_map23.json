@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "An army marches on its stomach.",
+            "definition": "Prov. An army needs a regular supply of food in order to keep on fighting.  The invading army will soon have to pull back. An army marches on its stomach, and they’re out of food."
+        },
+        {
+            "id": 1,
+            "phrase": "*(a)round the bend",
+            "definition": "1. Fig. crazy; having lost sanity. (*Typically: be ~; go ~.) _ I think this job is sending me around the bend. She sounds like she’s round the bend already. 2. intoxicated from alcohol or drugs. (*Typically: be ~; go ~.) _One more of those, and you’ll be around the bend.  From the glassy look in her eyes, I’d say she is completely round the bend now."
+        },
+        {
+            "id": 2,
+            "phrase": "(a)round the clock",
+            "definition": "continuously for twenty-four hours at a time. The priceless jewels were guarded around the clock.  Grandfather was so sick that he had to have nurses round the clock."
+        },
+        {
+            "id": 3,
+            "phrase": "arouse someone from something",
+            "definition": "to activate a person out of a state of rest, sleep, or inaction.  I could not arouse her from her sleep. She aroused herself from a deep sleep."
+        },
+        {
+            "id": 4,
+            "phrase": "arrange for someone to do something",
+            "definition": "to make plans for someone to do something.  I will arrange for Charles to fix what he broke.  I arranged for the plumber to install a new water heater."
+        },
+        {
+            "id": 5,
+            "phrase": "arrange for something",
+            "definition": "to prepare or plan for something.  We will arrange for a celebration.  John arranged for it."
+        },
+        {
+            "id": 6,
+            "phrase": "arrange some music for something",
+            "definition": "to prepare or adapt music for particular instruments or for a particular musical key.  Paul arranged the piece for piano.  This piece was arranged for the guitar by Frank’s brother."
+        },
+        {
+            "id": 7,
+            "phrase": "arrange something for some time",
+            "definition": "to plan something for a particular time.  We will arrange a picnic for the afternoon.  I will arrange an appointment for the noon hour."
+        },
+        {
+            "id": 8,
+            "phrase": "arrange something for someone or something",
+            "definition": "to prepare or plan something for someone or something.  They arranged a reception for Frank. We arranged a dance for the holiday."
+        },
+        {
+            "id": 9,
+            "phrase": "arrange something with someone or something",
+            "definition": "to prepare or plan something that will include someone or something.  We arranged entertainment with clowns and a musician.  I will arrange a fancy dinner with wine and cloth napkins.  Paul arranged a meeting with the opposition."
+        },
+        {
+            "id": 10,
+            "phrase": "arrive (some place) at some time",
+            "definition": "to reach some place at a particular time. We will arrive at the border at noon.  They arrived at seven o’clock in the evening."
+        },
+        {
+            "id": 11,
+            "phrase": "arrive (some place) from some other place",
+            "definition": "to reach or come to a place from another place. (If the first some place is missing, the place is either here or must be inferred.) _ They arrived here from New York yesterday. They arrived from Charleston last week."
+        },
+        {
+            "id": 12,
+            "phrase": "arrive (some place) in something",
+            "definition": "to reach or come to a place in a particular kind of vehicle. They arrived here in their car.  We arrived at the museum in a bus."
+        },
+        {
+            "id": 13,
+            "phrase": "Art is long and life is short.",
+            "definition": "Prov. Works of art last much longer than human lives.; Life is too short to learn everything you need to know about a particular discipline.  Alan: You ought to do something besides paint pictures in your spare time. Come out with us, have some fun. Bob: Having fun will not win me immortality. Only my paintings can do that. Art is long and life is short. I always feel a sense of awe when I look at the Babylonian statues in the art museum. They were made thousands of years ago. Art is long and life is short."
+        },
+        {
+            "id": 14,
+            "phrase": "as a duck takes to water",
+            "definition": "Cliché easily and naturally.  She took to singing just as a duck takes to water. The baby adapted to the bottle as a duck takes to water."
+        },
+        {
+            "id": 15,
+            "phrase": "as a (general) rule",
+            "definition": "usually; almost always.  He can be found in his office as a general rule.  As a general rule, Jane plays golf on Wednesdays.  As a rule, things tend to get less busy after supper time."
+        },
+        {
+            "id": 16,
+            "phrase": "as a last resort",
+            "definition": "as the last choice; if everything else fails.  Call me at home only as a last resort.  As a last resort, the doctor will perform surgery."
+        },
+        {
+            "id": 17,
+            "phrase": "as a matter of course",
+            "definition": "normally; as a normal procedure.  The nurse takes your temperature as a matter of course.  You are expected to make your own bed as a matter of course."
+        },
+        {
+            "id": 18,
+            "phrase": "as a matter of fact",
+            "definition": "actually; in addition to what has been said; in reference to what has been said.  As a matter of fact, John came into the room while you were talking about him.  I’m not a poor worker. As a matter of fact, I’m very efficient."
+        },
+        {
+            "id": 19,
+            "phrase": "as a result (of something)",
+            "definition": "because of something that has happened. As a result of the accident, Tom couldn’t walk for six months.  We couldn’t afford to borrow money for a house as a result of the rise in interest rates."
+        },
+        {
+            "id": 20,
+            "phrase": "as a rule",
+            "definition": "in general; usually. As a rule, men should wear tuxedos at formal dinners.  As a rule, the bus picks me up at 7:30 every morning."
+        },
+        {
+            "id": 21,
+            "phrase": "as a token (of something)",
+            "definition": "symbolic of something, especially of gratitude; as a memento of something. He gave me a rose as a token of his esteem.  Here, take this gift as a token of my appreciation."
+        },
+        {
+            "id": 22,
+            "phrase": "as all get out",
+            "definition": "Rur. very much; as much as can be.  I’m tired as all get out."
+        },
+        {
+            "id": 23,
+            "phrase": "as an aside",
+            "definition": "[said] as a comment that is not supposed to be heard by everyone.  At the wedding, Tom said as an aside, “The bride doesn’t look well.” _ At the ballet, Billy said as an aside to his mother, “I hope the dancers fall off the stage!”"
+        },
+        {
+            "id": 24,
+            "phrase": "as bad as all that",
+            "definition": "as bad as reported; as bad as it seems. (Usually expressed in the negative.) _ Come on! Nothing could be as bad as all that.  Stop crying. It can’t be as bad as all that."
+        },
+        {
+            "id": 25,
+            "phrase": "as far as it goes",
+            "definition": "as much as something does, covers, or accomplishes. (Usually said of something that is inadequate.) _ Your plan is fine as far as it goes. It doesn’t seem to take care of everything, though.  As far as it goes, this law is a good one. It should set stiffer penalties, however."
+        },
+        {
+            "id": 26,
+            "phrase": "as good as one’s word",
+            "definition": "obedient to one’s promise; dependable in keeping one’s promises.  He was as good as his word. He lent me the books as he said he would.  She said she would babysit and she was as good as her word."
+        },
+        {
+            "id": 27,
+            "phrase": "As I live and breathe!",
+            "definition": "How amazing! (Said on seeing or experiencing something surprising.) _As I live and breathe, here we are again! _ Well, as I live and breathe, it’s Harry Smith!"
+        },
+        {
+            "id": 28,
+            "phrase": "as it is",
+            "definition": "the way things are; the way it is now.  “I wish I could get a better job,” remarked Tom. “I’m just getting by as it is.” _ Mary: Can we afford a new refrigerator? Fred: As it is, it would have to be a very small one."
+        },
+        {
+            "id": 29,
+            "phrase": "as it were",
+            "definition": "as one might say; as could be said. (Sometimes used to qualify an assertion that may not sound reasonable.) _ He carefully constructed, as it were, a huge submarine sandwich.  The Franklins live in a small and, as it were, exquisite house."
+        },
+        {
+            "id": 30,
+            "phrase": "as luck would have it",
+            "definition": "by good or bad luck; as it turned out; by chance.  As luck would have it, we had a f lat tire.  As luck would have it, the check came in the mail today."
+        },
+        {
+            "id": 31,
+            "phrase": "as such",
+            "definition": "in the way something is; as someone or something is. I cannot accept your manuscript as such. It needs revisions.  You are new to this job, and as such, I will have to train you."
+        },
+        {
+            "id": 32,
+            "phrase": "As the twig is bent, so is the tree inclined.",
+            "definition": "Prov. A grown person will act the way he or she was taught to act as a child.  Alice’s parents thought it was cute when she threw tantrums, and you’ll notice that she still throws tantrums now that she’s grown up. As the twig is bent, so is the tree inclined. Don’t encourage your son to be so greedy. As the twig is bent, so is the tree inclined."
+        },
+        {
+            "id": 33,
+            "phrase": "as usual",
+            "definition": "as is the normal or typical situation.  John ordered eggs for breakfast, as usual.  He stood quietly as usual, waiting for the bus to come."
+        },
+        {
+            "id": 34,
+            "phrase": "as well",
+            "definition": "also; in addition.  Could I have a second helping of potatoes as well? _ I’m feeling tired, and dizzy as well."
+        },
+        {
+            "id": 35,
+            "phrase": "as well as someone or something",
+            "definition": "1. in addition to someone or something.  Mary and Jane are coming to the party, as well as Tom.  I’m studying biology and chemistry, as well as history. 2. to the same high degree as someone or something; as much as someone or something else.  Mary’s parents treated me as well as they treat her.  I did as well as you on the test."
+        },
+        {
+            "id": 36,
+            "phrase": "ascertain something from someone or something",
+            "definition": "to find out or learn with certainty information from someone or something. I need to ascertain some facts from you. A few facts have been ascertained from the interview."
+        },
+        {
+            "id": 37,
+            "phrase": "ascribe something to someone or something",
+            "definition": "to attribute something to someone or something; to assert that something has been caused by someone or something. Please do not ascribe that attitude to my friends.  We ascribed the offensive action to Jill and only Jill."
+        },
+        {
+            "id": 38,
+            "phrase": "aside from someone or something",
+            "definition": "not including someone or something.  Aside from a small bank account, I have no money at all.  Aside from Mary, Nancy, Craig, and Phil, I have no friends on campus."
+        },
+        {
+            "id": 39,
+            "phrase": "ask after someone",
+            "definition": "to inquire about the health and wellbeing of someone. Hermione asked after you when I saw her today.  I asked after Molly and her family."
+        },
+        {
+            "id": 40,
+            "phrase": "ask for someone or something",
+            "definition": "to request someone or something; to ask that someone come forth.  The police are at the door asking for Henry.  The child asked for a glass of water."
+        },
+        {
+            "id": 41,
+            "phrase": "ask for something bad or dire",
+            "definition": "to act badly, such that one will bring on bad consequences.  If you keep misbehaving, you’ll be asking for punishment.  You’re really asking for it!"
+        },
+        {
+            "id": 42,
+            "phrase": "ask for the moon",
+            "definition": "to make outlandish requests or demands for something, such as a lot of money or special privileges.  She’s asking for the moon, and she’s not going to get it.  Don’t ask for the moon. Be reasonable!"
+        },
+        {
+            "id": 43,
+            "phrase": "ask someone back",
+            "definition": "1. [for a host or hostess] to invite someone to come again (at a later time or to another similar event).  After the way you behaved, they’ll never ask us back.  They had been asked back a number of times, but they never came. 2. [for someone who has been a guest] to invite a previous host or hostess to come to an event. We’ve had the Smiths to dinner five times. I think it’s time they asked us back. I don’t care if they ask us back or not."
+        },
+        {
+            "id": 44,
+            "phrase": "ask someone down†",
+            "definition": "to invite someone to come to one’s home [for a visit]. (Usually said when someone must go to a lower level, travel south, down a hill, or into the country for the visit.) _Sam asked us down for Friday evening. Shall we go? _We asked down some old friends for the evening."
+        },
+        {
+            "id": 45,
+            "phrase": "ask someone over",
+            "definition": "to invite someone who lives close by to come to one’s home [for a visit]. (Either to a house or apartment.) _Can we ask Tom over? _He has been asked over a number of times."
+        },
+        {
+            "id": 46,
+            "phrase": "ask someone up†",
+            "definition": "to ask someone to come to one’s home for a visit. (Usually said when someone must travel north, up a hill, or to an apartment on a higher floor for the visit.) _ Let’s ask Judy up for the weekend.  We asked up a few old friends."
+        },
+        {
+            "id": 47,
+            "phrase": "ask something of someone or something",
+            "definition": "to request or demand something from someone, something, or a group.  I want to ask something of you.  We will ask that of the board of directors.  You should ask that of your database."
+        },
+        {
+            "id": 48,
+            "phrase": "asking price",
+            "definition": "the price that someone puts on an item being offered for sale.  I think your asking price is a little high."
+        },
+        {
+            "id": 49,
+            "phrase": "*asleep at the switch",
+            "definition": "not attending to one’s job; failing to do one’s duty at the proper time. (Alludes to a technician or engineer on a train sleeping instead of turning whatever switches are required. *Typically: be ~; fall ~.) _The security guard fell asleep at the switch and a robber broke in. If I hadn’t been asleep at the switch, I’d have noticed the car being stolen."
+        },
+        {
+            "id": 50,
+            "phrase": "aspire to something",
+            "definition": "to seek or aim for something better.  She aspires to a job more challenging than her current position.  I aspire to far greater things."
+        },
+        {
+            "id": 51,
+            "phrase": "assail someone with something",
+            "definition": "to attack someone with something, such as a weapon.  The crook assailed the officer with the officer’s own club. The riot police were assailed with stones and bottles."
+        },
+        {
+            "id": 52,
+            "phrase": "assault and battery",
+            "definition": "a violent attack [upon someone] followed by a beating. (A technical legal charge.) _ Richard was charged with two counts of assault and battery.  Dave does not go out at night because he does not want to be a victim of assault and battery."
+        },
+        {
+            "id": 53,
+            "phrase": "assault the ear",
+            "definition": "[for sound or speech] to be very loud or persistent. That loud music assaults the ears! _I can’t hear you with all that traffic noise assaulting my ears."
+        },
+        {
+            "id": 54,
+            "phrase": "assent to something",
+            "definition": "to agree to something.  I assent to what you suggest.  She will not assent to our request."
+        },
+        {
+            "id": 55,
+            "phrase": "assess something at something",
+            "definition": "to estimate or value something at some figure.  They assess the value of our house at half what it would sell for.  The house was assessed at far more than its true worth."
+        },
+        {
+            "id": 56,
+            "phrase": "assign someone or something to someone or something",
+            "definition": "to designate someone or something as belonging to someone or something else.  They assigned the new car to Roger.  They assigned the new worker to the mail room."
+        },
+        {
+            "id": 57,
+            "phrase": "assign something to someone",
+            "definition": "to attribute something to someone; to blame something on someone.  We were forced to assign the blame to Robert.  They assigned the responsibility for the accident to the driver of the car."
+        },
+        {
+            "id": 58,
+            "phrase": "assimilate someone or something into something",
+            "definition": "to cause someone or something to be absorbed into something. (As when a person or thing joins a group.) _ We sought to assimilate Arnold into the community. The manager had to assimilate the new policies into the list of current ones. They assimilated themselves into the general population."
+        },
+        {
+            "id": 59,
+            "phrase": "assimilate with some people",
+            "definition": "to join or mix in with people and become accepted by them.  It’s easy for Karen to assimilate with new people.  I want to assimilate rapidly with the other people in my class."
+        },
+        {
+            "id": 60,
+            "phrase": "assist in something",
+            "definition": "to help with something. May I assist in this? _ Please assist in this task."
+        },
+        {
+            "id": 61,
+            "phrase": "assist (someone) at something",
+            "definition": "to serve as a helper or assistant in some procedure. (This usually refers to a surgical procedure.) _Will you assist at surgery this morning? _ I would be happy to assist you at the procedure."
+        },
+        {
+            "id": 62,
+            "phrase": "assist someone in something",
+            "definition": "to help a particular person working on a task.  Please assist Greg in the committee’s assignment.  We assisted him in the whole procedure."
+        },
+        {
+            "id": 63,
+            "phrase": "assist someone with someone or something",
+            "definition": "to help someone manage someone or something, especially with lifting or physical management. Assist me with Jane, won’t you? _ Will you assist me with this heavy box? _ Sally assisted herself with the math problem. She did it on her own."
+        },
+        {
+            "id": 64,
+            "phrase": "associate oneself with someone or something",
+            "definition": "to join someone or something as a partner or friend.  I wanted to associate myself with a prestigious law firm.  She associated herself with people of low repute."
+        },
+        {
+            "id": 65,
+            "phrase": "associate someone or something with someone or something",
+            "definition": "to link someone or something [in one’s mind] to someone or something else. (Something and someone can occur in all possible combinations.) _ I always associate Walter with pizza for some reason. I associate pizza with stringy cheese."
+        },
+        {
+            "id": 66,
+            "phrase": "associate with someone",
+            "definition": "to be friendly with someone; to be acquainted with someone socially in a work setting.  We seek to associate with persons like ourselves.  I like to associate with interesting people."
+        },
+        {
+            "id": 67,
+            "phrase": "assume liability for something",
+            "definition": "to accept the responsibility for paying a cost.  Mr. Smith assumed liability for his son’s student loans.  The store assumed liability for the injured customer’s hospital bills."
+        },
+        {
+            "id": 68,
+            "phrase": "assure someone of something",
+            "definition": "to guarantee something to someone; to promise someone that something will happen or that a particular state exists. I want to assure you of our good intentions. Frequently, she had to assure herself of her basic worth."
+        },
+        {
+            "id": 69,
+            "phrase": "astound someone with something",
+            "definition": "to shock or amaze someone with something.  She astounded us with her skill.  He astounded himself with his sudden burst of strength."
+        },
+        {
+            "id": 70,
+            "phrase": "at a dead end",
+            "definition": "having reached an impasse; able to go no further forward.  I can’t go on. I’m at a dead end.  We are at a dead end; the project is hopelessly stalled."
+        },
+        {
+            "id": 71,
+            "phrase": "at a loss (for words)",
+            "definition": "unable to speak; speechless or befuddled.  I was so surprised that I was at a loss for words.  Tom was terribly confused—really at a loss."
+        },
+        {
+            "id": 72,
+            "phrase": "at a premium",
+            "definition": "at a high price; priced high because of something special.  Sally bought the shoes at a premium because they were of very high quality.  This new sports car sells at a premium because so many people want to buy it."
+        },
+        {
+            "id": 73,
+            "phrase": "at a set time",
+            "definition": "at a particular time; at an assigned time.  Each person has to show up at a set time.  Do I have to be there at a set time, or can I come whenever I want?"
+        },
+        {
+            "id": 74,
+            "phrase": "at a sitting",
+            "definition": "at one time; during one period. (Usually refers to an activity that takes place while a person is seated.) _ The restaurant could feed only sixty people at a sitting.  I can read about three hundred pages at a sitting."
+        },
+        {
+            "id": 75,
+            "phrase": "at a stretch",
+            "definition": "continuously; without stopping. We all had to do eight hours of duty at a stretch.  The baby doesn’t sleep for more than three hours at a stretch."
+        },
+        {
+            "id": 76,
+            "phrase": "at all times",
+            "definition": "constantly; continuously.  You must keep your passport handy at all times when you are traveling in a foreign country.  When you’re in a crowd, you must watch your child at all times."
+        },
+        {
+            "id": 77,
+            "phrase": "at an early date",
+            "definition": "soon; some day soon.  The note said, “Please call me at an early date.” _ You are expected to return the form to the office at an early date."
+        },
+        {
+            "id": 78,
+            "phrase": "at an end",
+            "definition": "having come to a stop; having reached the end.  Things are now at an end.  It’s over between us. It’s at an end. Good-bye."
+        },
+        {
+            "id": 79,
+            "phrase": "at any rate",
+            "definition": "in any case; anyway.  At any rate, what were we talking about? _ At any rate, I don’t think you should quit your job."
+        },
+        {
+            "id": 80,
+            "phrase": "*at bay",
+            "definition": "at a distance. (*Typically: be ~; keep someone or something ~; remain ~.) _I have to keep the bill collectors at bay until I get my paycheck. The mosquitoes will not remain at bay for very long."
+        },
+        {
+            "id": 81,
+            "phrase": "at close range",
+            "definition": "very near; in close proximity. (Usually used in regard to shooting.) _The hunter fired at the deer at close range.  The powder burns tell us that the gun was fired at close range."
+        },
+        {
+            "id": 82,
+            "phrase": "at cross-purposes",
+            "definition": "with opposing viewpoints; with goals that interfere with each other.  We are arguing at crosspurposes. We aren’t even discussing the same thing.  Bill and Tom are working at cross-purposes. They’ll never get the job done right."
+        },
+        {
+            "id": 83,
+            "phrase": "at death’s door",
+            "definition": "very near the end of one’s life. (Often an exaggeration.) _ I was so ill that I was at death’s door for three days.  The family dog was at death’s door for three days, and then it finally died."
+        },
+        {
+            "id": 84,
+            "phrase": "at ease",
+            "definition": "without worry or anxiety.  The performer is at ease on the stage.  After she had met a few people, Mary felt at ease with the group."
+        },
+        {
+            "id": 85,
+            "phrase": "at every turn",
+            "definition": "everywhere; everywhere one looks. There is a new problem at every turn. Life holds exciting adventures at every turn."
+        },
+        {
+            "id": 86,
+            "phrase": "at face value",
+            "definition": "from outward appearance; from what something first appears to be. (From the value printed on the “face” of a coin or bank note.) _Don’t just accept her offer at face value. Think of the implications. Joan tends to take people at face value and so she is always getting hurt."
+        },
+        {
+            "id": 87,
+            "phrase": "at fault",
+            "definition": "to blame [for something]; serving as the cause of something bad.  I was not at fault in the accident. You cannot blame me."
+        },
+        {
+            "id": 88,
+            "phrase": "at first",
+            "definition": "initially; at the very beginning.  He was shy at first. Then he became more friendly. At first we chose the red one. Later we switched to the blue one."
+        },
+        {
+            "id": 89,
+            "phrase": "at first light",
+            "definition": "at dawn; when the first light of dawn appears.  We will be ready to leave at first light."
+        },
+        {
+            "id": 90,
+            "phrase": "*at full blast",
+            "definition": "using full power; as loudly as possible. (*Typically: be on ~; play ~; play something ~; run ~; run something ~.) _ The neighbors had their televisions on at full blast.  The car radio was on at full blast. We couldn’t hear what the driver was saying."
+        },
+        {
+            "id": 91,
+            "phrase": "at full strength",
+            "definition": "at the strongest amount, dilution, power, loudness, etc.  You should use this medicine at full strength, even if it tastes bad."
+        },
+        {
+            "id": 92,
+            "phrase": "*at great length",
+            "definition": "for a long period of time. (*Typically: explain ~; question someone ~; speak ~.) _ The lawyer questioned the witness at great length."
+        },
+        {
+            "id": 93,
+            "phrase": "at hand",
+            "definition": "close by in time or space. I don’t happen to have your application at hand at the moment.  With the holiday season at hand, everyone is very excited."
+        },
+        {
+            "id": 94,
+            "phrase": "at hazard",
+            "definition": "in danger; at risk.  He is not willing to have much of his money at hazard in the stock market.  Your life is at hazard unless you wear a helmet when you ride your motorcycle."
+        },
+        {
+            "id": 95,
+            "phrase": "at home",
+            "definition": "at or in one’s dwelling.  Is Mary at home, or is she still at work? _ What time will she be at home?"
+        },
+        {
+            "id": 96,
+            "phrase": "at home with someone or something",
+            "definition": "in one’s home with someone or something.  She’s at home with her mother.  Bob’s not alone. He’s at home with the cats."
+        },
+        {
+            "id": 97,
+            "phrase": "at it again",
+            "definition": "doing something again.  I asked Tom to stop playing his trumpet, but he’s at it again.  They are at it again. Why are they always fighting?"
+        },
+        {
+            "id": 98,
+            "phrase": "at large",
+            "definition": "1. free; uncaptured. (Usually said of criminals not in custody.) _At noon, the day after the robbery, the thieves were still at large. There is a murderer at large in the city! 2. in general; according to a general sample. Truck drivers at large don’t like the new speed restriction on the highway.  Students at large felt that discipline was too strict. 3. representing the whole group rather than its subsections. (Always refers to a special kind of elective office.) _ He ran for representative at large.  She represented shareholders at large on the governing board."
+        },
+        {
+            "id": 99,
+            "phrase": "at last",
+            "definition": "finally; after a long wait.  The train has come at last.  At last, we have gotten something to eat."
+        },
+        {
+            "id": 100,
+            "phrase": "at least",
+            "definition": "anyway; in spite of difficulties.  At least we had a good evening, even though the afternoon was rainy.  At least we came away with some of our money left."
+        },
+        {
+            "id": 101,
+            "phrase": "at least so many",
+            "definition": "no less than; no fewer than. There were at least four people there that I knew.  I want to spend at least three weeks in Mexico."
+        },
+        {
+            "id": 102,
+            "phrase": "at liberty",
+            "definition": "free; unrestrained. The criminal was set at liberty by the judge.  You’re at liberty to go anywhere you wish.  I’m not at liberty to discuss the matter."
+        },
+        {
+            "id": 103,
+            "phrase": "at (long) last",
+            "definition": "after a long wait; finally.  At last the hostages were released.  Sally earned her diploma at long last after six years in college."
+        },
+        {
+            "id": 104,
+            "phrase": "*at loose ends",
+            "definition": "restless and unsettled; unemployed. (*Typically: be ~; leave someone ~.) _ Just before school starts, all the children are at loose ends.  Jane has been at loose ends ever since she lost her job."
+        },
+        {
+            "id": 105,
+            "phrase": "at night",
+            "definition": "during the night.  Most people sleep at night.  Mary studies at night."
+        },
+        {
+            "id": 106,
+            "phrase": "at once",
+            "definition": "immediately; right now. We must leave at once! _ You must come here at once; it is an emergency."
+        },
+        {
+            "id": 107,
+            "phrase": "at one’s wit ’s end",
+            "definition": "at the limits of one’s mental resources.  I’m at my wit’s end with this problem. I cannot figure it out.  Tom could do no more. He was at his wit’s end."
+        },
+        {
+            "id": 108,
+            "phrase": "at peace",
+            "definition": "1. relaxed and happy.  I am always at peace when I sit in my rocking chair.  When the warm breeze is blowing, I am at peace. 2. Euph. dead.  It was a long illness, but she is at peace now.  At last, Uncle George is at peace."
+        },
+        {
+            "id": 109,
+            "phrase": "at play",
+            "definition": "[at this moment] involved in playing.  The children are at play, and I am doing household chores.  Whether I am at work or at play, I try to be pleasant to people."
+        },
+        {
+            "id": 110,
+            "phrase": "at present",
+            "definition": "now; at this point in time.  We are not able to do any more at present.  We may be able to lend you money next week, but not at present."
+        },
+        {
+            "id": 111,
+            "phrase": "at random",
+            "definition": "by chance; haphazard.  The lottery numbers are chosen at random.  As a prank, the children dialed phone numbers at random."
+        },
+        {
+            "id": 112,
+            "phrase": "at regular intervals",
+            "definition": "[of things in a series] at points that are equally distant from each other.  You will find service stations at regular intervals along the highway. There are street lights at regular intervals on the main street of town."
+        },
+        {
+            "id": 113,
+            "phrase": "at rest",
+            "definition": "1. not moving; not active.  After the hectic day, the office was finally at rest at 8:00 p.m.  When the car is at rest, you can get into the backseat. 2. Euph. dead. After a long, weary life, Emily is at rest.  There he is, at rest in his coffin."
+        },
+        {
+            "id": 114,
+            "phrase": "*at risk",
+            "definition": "in a situation where there is risk or hazard; in danger. (*Typically: be ~; put someone or something ~.) _ I refuse to put my family’s welfare at risk by quitting my job.  Your whole future is at risk if you don’t stop smoking."
+        },
+        {
+            "id": 115,
+            "phrase": "at sea",
+            "definition": "on the sea; away on a voyage on the ocean. The ship is at sea now, and you can’t disembark. I spent many happy days at sea on my cruise."
+        },
+        {
+            "id": 116,
+            "phrase": "at sea level",
+            "definition": "at the level of the surface of the ocean.  It is easier to breathe at sea level than in the mountains.  Boats on the ocean are at sea level, but those on rivers are not."
+        },
+        {
+            "id": 117,
+            "phrase": "at sixes and sevens",
+            "definition": "lost in bewilderment; at loose ends.  Mrs. Smith is at sixes and sevens since the death of her husband. Bill is always at sixes and sevens when he’s home by himself."
+        },
+        {
+            "id": 118,
+            "phrase": "at some time sharp",
+            "definition": "exactly at the time named.  You must be here at noon sharp.  The plane is expected to arrive at seven forty-five sharp."
+        },
+        {
+            "id": 119,
+            "phrase": "at someone’s beck and call",
+            "definition": "ready to obey someone.  What makes you think I wait around here at your beck and call? I have to leave for work, you know! _ It was a fine hotel. There were dozens of maids and waiters at our beck and call."
+        },
+        {
+            "id": 120,
+            "phrase": "at someone’s earliest convenience",
+            "definition": "as soon as it is possible for someone to do something. (This is also a polite way of saying immediately.) _ Please stop by my office at your earliest convenience. Bill, please have the oil changed at your earliest convenience."
+        },
+        {
+            "id": 121,
+            "phrase": "at someone’s request",
+            "definition": "due to someone’s request; on being asked by someone. At his mother’s request, Tom stopped playing the saxophone.  At the request of the police officer, Bill pulled his car over to the side of the road."
+        },
+        {
+            "id": 122,
+            "phrase": "at someone’s service",
+            "definition": "ready to help someone in any way.  The count greeted me warmly and said, “Welcome to my home. Just let me know what you need. I’m at your service.” _ The desk clerk said, “Good morning, madam. I’m at your service.”"
+        },
+        {
+            "id": 123,
+            "phrase": "at stake",
+            "definition": "ready to be won or lost; at risk; hanging in the balance.  That’s a very risky investment. How much money is at stake? _I have everything at stake on this wager."
+        },
+        {
+            "id": 124,
+            "phrase": "at that rate",
+            "definition": "in that manner; at that speed. If things keep progressing at that rate, we’ll be rich by next year. At that rate we’ll never get the money that is owed us."
+        },
+        {
+            "id": 125,
+            "phrase": "at the appointed time",
+            "definition": "at the expected or assigned time. The cab pulled up in the driveway at the appointed time.  We all met at the hotel at the appointed time."
+        },
+        {
+            "id": 126,
+            "phrase": "at the bottom of the hour",
+            "definition": "on the half hour; the opposite of at the top of the hour. (Alludes to the big hand of a clock pointing to the 6. Typically heard on television or the radio.) _Hear the news headlines at the bottom of the hour.  We will have an interview with Harry Kravitz at the bottom of the hour."
+        },
+        {
+            "id": 127,
+            "phrase": "at the drop of a hat",
+            "definition": "immediately; instantly; on the slightest signal or urging. (Alludes to the dropping of a hat as a signal.) _ John was always ready to go fishing at the drop of a hat.  If you need help, just call on me. I can come at the drop of a hat."
+        },
+        {
+            "id": 128,
+            "phrase": "at the eleventh hour",
+            "definition": "at the last possible moment. (Just before the last clock hour, 12) _ She always turned her term papers in at the eleventh hour.  We don’t worry about death until the eleventh hour."
+        },
+        {
+            "id": 129,
+            "phrase": "at the end of nowhere",
+            "definition": "at a remote place; at some distance from civilization. (An exaggeration.) _They live way out in the country at the end of nowhere.  The police will never find us here, at the end of nowhere."
+        },
+        {
+            "id": 130,
+            "phrase": "at the end of the day",
+            "definition": "at the time when work or one’s waking hours end.  I will have an answer at the end of the day.  Will this be finished at the end of the day or before?"
+        },
+        {
+            "id": 131,
+            "phrase": "at the expense of someone or something",
+            "definition": "to the detriment of someone or something; to the harm of someone or something.  He had a good laugh at the expense of his brother.  He took a job in a better place at the expense of a larger income."
+        },
+        {
+            "id": 132,
+            "phrase": "at the height of something",
+            "definition": "at the most intense or forceful aspect of something. At the height of his career, Tom was known around the world.  At the height of the party, there were 50 people present."
+        },
+        {
+            "id": 133,
+            "phrase": "at the helm (of something)",
+            "definition": "in the position of being in control of something.  The president is at the helm of the company.  Things will go well with Anne at the helm."
+        },
+        {
+            "id": 134,
+            "phrase": "at the last gasp",
+            "definition": "at the very last; at the last chance; at the last minute. (Refers to someone’s last breath before death.) _ She finally showed up at the last gasp, bringing the papers that were needed. We got there at the last gasp, just before our names were called."
+        },
+        {
+            "id": 135,
+            "phrase": "at the last minute",
+            "definition": "at the last possible chance; in the last few minutes, hours, or days. (Often an exaggeration.) _Please don’t make reservations at the last minute. Why do you ask all your questions at the last minute?"
+        },
+        {
+            "id": 136,
+            "phrase": "at the latest",
+            "definition": "not beyond the time mentioned.  Please pay this bill in ten days at the latest. I’ll be home by midnight at the latest."
+        },
+        {
+            "id": 137,
+            "phrase": "at (the) most",
+            "definition": "no more than the amount mentioned.  A: How far away is the beach? B: Ten miles at most.  At the most, there were only 15 people in the audience."
+        },
+        {
+            "id": 138,
+            "phrase": "at the outset",
+            "definition": "at the very beginning.  At the outset, we were told everything we had to do. I learned at the outset of the project that I was to lead it."
+        },
+        {
+            "id": 139,
+            "phrase": "at the rear of something",
+            "definition": "located at the back part of something. I keep my tools at the rear of my garage. There’s a stream at the rear of my property."
+        },
+        {
+            "id": 140,
+            "phrase": "at the same time",
+            "definition": "during the same moment; simultaneously.  We arrived at the same time.  Too many things are happening at the same time, and I am confused."
+        },
+        {
+            "id": 141,
+            "phrase": "at the top of one’s game",
+            "definition": "good and as good as one is likely to get. (Usually of sports.) _ I guess I was at the top of my game last year. This year, I stink."
+        },
+        {
+            "id": 142,
+            "phrase": "at the top of the hour",
+            "definition": "at the exact beginning of an hour. (Alludes to the big hand on a clock pointing to the 12. Often heard on television or the radio. See also at the bottom of the hour.) _ Every class in my school starts at the top of the hour.  Our next newscast will be at the top of the hour."
+        },
+        {
+            "id": 143,
+            "phrase": "at the (very) outside",
+            "definition": "at the very most. The car repairs will cost $300 at the very outside. I’m now on my way and I’ll be there in three hours at the outside."
+        },
+        {
+            "id": 144,
+            "phrase": "at the wheel",
+            "definition": "1. operating the wheel that turns a ship’s rudder; at the helm. The cabin boy was at the wheel with the captain close by. 2. operating the steering wheel of a car.  Bobby was at the wheel when the car went off the road."
+        },
+        {
+            "id": 145,
+            "phrase": "at (the) worst",
+            "definition": "in the most negative or pessimistic view.  At worst, Tom can be seen as greedy.  Ann will receive a ticket for careless driving, at the worst."
+        },
+        {
+            "id": 146,
+            "phrase": "at the zenith of something",
+            "definition": "at the highest point of something; at the pinnacle of something.  Tragically, at the zenith of his career, the teacher died suddenly.  The scientist was at the zenith of her career when she made her discovery. avenge at this juncture at this point; at this pause.  There is little more that I can say at this juncture.  We can, if you wish, at this juncture, request a change in venue."
+        },
+        {
+            "id": 147,
+            "phrase": "at this rate",
+            "definition": "at this speed; if things continue in the same way. (Usually of a pessimistic view.) _ Hurry up! We’ll never get there at this rate.  At this rate, all the food will be gone before we get there."
+        },
+        {
+            "id": 148,
+            "phrase": "at this stage (of the game)",
+            "definition": "at the current point in some event or situation; currently.  We’ll have to wait and see. There isn’t much we can do at this stage of the game.  At this stage, we are better off not calling the doctor."
+        },
+        {
+            "id": 149,
+            "phrase": "at will",
+            "definition": "whenever one wants; freely.  You’re free to come and go at will.  The soldiers were told to fire their guns at will.  You can eat anything you want at will."
+        },
+        {
+            "id": 150,
+            "phrase": "at work",
+            "definition": "1. at one’s place of work.  I’m sorry to call you at work, but this is important.  She’s at work now. She’ll be home at supper time. 2. working [at something]; busy [with something].  Tom is presently at work on his project. He’ll be finished in a half hour.  Don’t disturb me when I’m busy at work."
+        },
+        {
+            "id": 151,
+            "phrase": "atone for something",
+            "definition": "to make amends for an error.  You must atone for the bad things you have done."
+        },
+        {
+            "id": 152,
+            "phrase": "attach oneself to someone",
+            "definition": "1. Fig. to become emotionally involved with someone.  Fred seems to have attached himself to a much older woman, who has captured his attention.  Somehow, Susan has attached herself emotionally to Tom, and she is distraught over his being away. 2. Fig. to follow after someone; to become a constant companion to someone.  Andy’s little brother attached himself to Andy and his friends—much to Andy’s distress.  John attached himself to his older brother and drove him crazy."
+        },
+        {
+            "id": 153,
+            "phrase": "attach oneself to something",
+            "definition": "to connect or secure oneself to something.  During the storm, Tony attached himself to the helm and proceeded to steer the boat.  The caterpillar attached itself to a branch and began to spin its cocoon."
+        },
+        {
+            "id": 154,
+            "phrase": "attach to someone",
+            "definition": "[for blame, importance, guilt, fault, etc.] to become “fixed” onto someone or an organization. A lot of guilt attaches to Henry for his part in the plot.  Most of the blame for the accident attaches to Roger."
+        },
+        {
+            "id": 155,
+            "phrase": "attach to something",
+            "definition": "[for something] to be meant to fit onto or into something.  This one attaches to this other one right at this point.  This part should have attached to the back of the desk, but it didn’t fit."
+        },
+        {
+            "id": 156,
+            "phrase": "attached to someone or something",
+            "definition": "connected to someone or something. The patient has a tube attached to his arm.  A little shelf is attached to the wall."
+        },
+        {
+            "id": 157,
+            "phrase": "*an attack (of an illness)",
+            "definition": "a bout of some sickness; an instance or acute case of some disease. (*Typically: have ~; produce ~; suffer ~.) _ Mr. Hodder had an attack of stomach upset that forced him to stay at home."
+        },
+        {
+            "id": 158,
+            "phrase": "attend to someone",
+            "definition": "to listen to someone.  Please attend to your teacher’s instructions.  Attend to the announcement of the new f light departure time."
+        },
+        {
+            "id": 159,
+            "phrase": "attend to someone or something",
+            "definition": "to take care of the needs of someone or something; to respond to a request or demand from someone or something.  Please attend to your wounded friend.  Would you please attend to the action points of this memo?"
+        },
+        {
+            "id": 160,
+            "phrase": "attest to something",
+            "definition": "to certify or bear witness to a fact.  I cannot attest to what you have reported.  The witness attested to the suspect’s presence at the scene of the crime."
+        },
+        {
+            "id": 161,
+            "phrase": "attire someone in something",
+            "definition": "to dress someone in something.  The mother attired her children in new, clean clothes.  She attired herself in her finest garments."
+        },
+        {
+            "id": 162,
+            "phrase": "attract someone or something to someone or something else",
+            "definition": "to draw or pull someone or something to someone or something else.  The poster attracted a large number of people to the concert.  The shouting attracted a lot of attention from the people who were nearby."
+        },
+        {
+            "id": 163,
+            "phrase": "attribute something to someone or something",
+            "definition": "to ascribe something to someone or something; to believe that someone or something is the source of something.  We attribute our success to your good advice.  I attribute all these ill-mannered memos to Andrew."
+        },
+        {
+            "id": 164,
+            "phrase": "attune someone or something to someone or something else",
+            "definition": "to bring someone or something into accord with someone or something else; to adjust someone or something to someone or something else. (Usually metaphorical. Not used for musical tuning.) _ You should try to attune yourself to our needs and direction.  Try to attune your comments to the level of your audience."
+        },
+        {
+            "id": 165,
+            "phrase": "auction something off†",
+            "definition": "to sell something [to the highest bidder] at an auction.  He auctioned his home off.  He auctioned off his home.  The duke was forced to auction off his ancestral home to pay his taxes."
+        },
+        {
+            "id": 166,
+            "phrase": "audition for something",
+            "definition": "to try out for a part in something. (In a setting in which one’s singing, speaking, or playing is heard and judged.) _ I plan to audition for the lead role in the school play.  Liz auditioned for The Mikado."
+        },
+        {
+            "id": 167,
+            "phrase": "audition someone for something",
+            "definition": "to allow someone to try out for a part in a performance; to judge someone’s singing, speaking, or playing potential for a part in a performance. Will you audition anyone else for the part? _ Have you been auditioned for a part in the school play?"
+        },
+        {
+            "id": 168,
+            "phrase": "augur well for someone or something",
+            "definition": "to indicate or predict good things for someone or something. (Usually in the negative.) _ This latest economic message does not augur well for the stock market.  I am afraid that this poll data does not augur well for the incumbent in the election."
+        },
+        {
+            "id": 169,
+            "phrase": "avail oneself of something",
+            "definition": "to help oneself by making use of something that is available. We availed ourselves of Tom’s goodwill and let him repair the fence.  The campers availed themselves of the first chance in a week to take a shower."
+        },
+        {
+            "id": 170,
+            "phrase": "avenue of escape",
+            "definition": "the pathway or route along which someone or something escapes.  The open window was the bird’s only avenue of escape from the house.  Bill saw that his one avenue of escape was through the back door."
+        },
+        {
+            "id": 171,
+            "phrase": "average something up†",
+            "definition": "to calculate the average of a set of figures.  Please add these figures and average them up.  Please average up all the monthly expenses for the previous year.  Will you please average these figures up on the calculator?"
+        },
+        {
+            "id": 172,
+            "phrase": "avert something (away) from someone or something",
+            "definition": "to turn or divert something away from someone or something.  We will attempt to avert attention from the problems. She averted her eyes from Bill when he walked by."
+        },
+        {
+            "id": 173,
+            "phrase": "avoid someone or something like the plague",
+            "definition": "to ignore or keep away from someone or something totally.  What’s wrong with Bob? Everyone avoids him like the plague.  I don’t like opera. I avoid it like the plague."
+        },
+        {
+            "id": 174,
+            "phrase": "(Aw) shucks!",
+            "definition": "Rur. Gosh!; a mild oath.  Shucks, ma’am. It wasn’t anything at all.  Aw shucks, I ain’t never been this close to a woman before."
+        },
+        {
+            "id": 175,
+            "phrase": "awake(n) from something",
+            "definition": "to wake up from something, such as a dream or a deep sleep.  Tom awakened from a deep sleep at the sound of the phone ringing.  At dawn, she awoke from her slumbers."
+        },
+        {
+            "id": 176,
+            "phrase": "awake(n) someone from something",
+            "definition": "to cause someone to wake up from something.  The crowing of the rooster awakened Sally from her slumbers.  She awakened herself from a deep sleep when she fell out of bed."
+        },
+        {
+            "id": 177,
+            "phrase": "awake(n) someone to something",
+            "definition": "to make someone alert to something, such as a problem or a need.  We need to awaken the voters to the need for more taxes. They awakened themselves to their callousness and began to treat other people better."
+        },
+        {
+            "id": 178,
+            "phrase": "awake(n) to something",
+            "definition": "to wake up while experiencing something.  Mary awoke to the smell of freshly brewed coffee.  I love to awaken to music."
+        },
+        {
+            "id": 179,
+            "phrase": "award something to someone or something",
+            "definition": "[for a judge or other legal entity] to decide in favor of a person or group.  The judge awarded the judgment to the plaintiff.  The jury awarded a large sum to the smaller company."
+        },
+        {
+            "id": 180,
+            "phrase": "*away from it all",
+            "definition": "at a place where one can avoid completely what one is leaving behind. (*Typically: be ~; get ~.) _I need a few days off to get away from it all. Everyone needs to get away from it all every now and then."
+        },
+        {
+            "id": 181,
+            "phrase": "*away from one’s desk",
+            "definition": "not available for a telephone conversation; not available to be seen or spoken to. (Sometimes said by the person who answers a telephone in an office. It means that the person whom the caller wants is not immediately available due to personal or business reasons. *Typically: be ~; step ~.) _ I’m sorry, but Ann is away from her desk just now. Can you come back later? _Tom has stepped away from his desk, but if you leave your number, he will call you right back."
+        },
+        {
+            "id": 182,
+            "phrase": "a babe in arms",
+            "definition": "a very young baby that is carried by an adult. I have known that since I was a babe in arms! _ A young mother with a babe in arms stood in line with the rest of the students."
+        },
+        {
+            "id": 183,
+            "phrase": "A babe in the woods",
+            "definition": "a naive or innocent person; an inexperienced person. (Like a child lost in the woods.) _ Bill is a babe in the woods when it comes to dealing with plumbers.  As a painter, Mary is fine, but she’s a babe in the woods as a musician."
+        },
+        {
+            "id": 184,
+            "phrase": "back and fill",
+            "definition": "to act indecisively; to change one’s direction repeatedly; to reverse one’s course. (Originally nautical, referring to trimming the sails so as to alternately fill them with wind and release the wind, in order to maneuver in a narrow space.) _ The president spent most of his speech backing and filling on the question of taxation.  The other candidate was backing and filling on every issue, depending on whom she was addressing."
+        },
+        {
+            "id": 185,
+            "phrase": "back and forth",
+            "definition": "in one direction and then the other repeatedly; from one place to another repeatedly.  We tossed the ball back and forth between us. The tiger paced back and forth in its cage."
+        },
+        {
+            "id": 186,
+            "phrase": "back at it (again)",
+            "definition": "doing something again. (Usually said in criticism.) _ I thought you stopped smoking, but I see you are back at it again."
+        },
+        {
+            "id": 187,
+            "phrase": "back down (from someone or something)",
+            "definition": "to yield to a person or a thing; to fail to carry through on a threat. Jane backed down from her position on the budget.  It’s probably better to back down from this situation; looks like you are at a disadvantage."
+        },
+        {
+            "id": 188,
+            "phrase": "back down (on something)",
+            "definition": "to lessen or drop an earlier rigid position on something; to yield something in an argument.  She backed down on her demands.  In the end, she backed down."
+        },
+        {
+            "id": 189,
+            "phrase": "back down (something)",
+            "definition": "to go down something backwards, such as a ladder or inclined driveway.  Harry backed down the ladder safely.  Looking behind him, he backed down slowly."
+        },
+        {
+            "id": 190,
+            "phrase": "back East",
+            "definition": "to or from the eastern United States, especially the northeastern or New England states. (Used even by people who have never been in the East.) _ Sally felt that she had to get back East for a few days. Tom went to school back East, but his brother attended college in the Midwest."
+        },
+        {
+            "id": 191,
+            "phrase": "*back in(to) (the) harness",
+            "definition": "back doing one’s job. (*Typically: be ~; get ~.) _I don’t look forward to getting back into the harness next Monday. When my vacation is over, I have to get back into harness the very next day.  I’m not looking forward to having to get back in harness after my trip abroad."
+        },
+        {
+            "id": 192,
+            "phrase": "*back in(to) circulation",
+            "definition": "1. Fig. back enjoying one’s social contacts; back continuing to make new friends and develop a social life. (*Typically: be ~; get ~.) _After her illness, Kristine looked forward to getting back into circulation. I want to get back in circulation and have some fun. 2. Fig. becoming available for dating again. (*Typically: be ~; get ~.) _ Now that Fred and Amy are through, Amy is getting back into circulation.  Now that you’re divorced, are you going to get back into circulation?"
+        },
+        {
+            "id": 193,
+            "phrase": "back into someone or something",
+            "definition": "to move backwards, bumping into someone or something; to move a car backwards into something, such as a garage or a parking space.  I’m sorry. I didn’t mean to back into you.  I backed into the potted plant."
+        },
+        {
+            "id": 194,
+            "phrase": "the back of the beyond",
+            "definition": "the most remote place; somewhere very remote.  John hardly ever comes to the city. He lives at the back of the beyond. Mary likes city life, but her husband likes to live in the back of the beyond."
+        },
+        {
+            "id": 195,
+            "phrase": "*back on one’s feet",
+            "definition": "standing up again after a fall. (*Typically: be ~; get ~.) _ She struggled to get back on her feet after she fell."
+        },
+        {
+            "id": 196,
+            "phrase": "*back on track",
+            "definition": "running according to schedule again. (*Typically: get ~; get something ~; have something ~; put something ~.) _ I hope we can have this project back on track by the end of the week."
+        },
+        {
+            "id": 197,
+            "phrase": "back oneself into a corner",
+            "definition": "to manage to get oneself into a position where there is limited escape. (Ranging from literal to figurative.) _He tells different stories to different people. Finally he backed himself into a corner and had to admit his lies."
+        },
+        {
+            "id": 198,
+            "phrase": "back onto someone or something",
+            "definition": "to go backwards, moving or rolling onto someone or something.  The motorcycle backed onto my toe.  Don’t back onto anything as you go down the driveway!"
+        },
+        {
+            "id": 199,
+            "phrase": "back-order something",
+            "definition": "[for a merchant] to order something that is not in stock and make delivery to the customer when the goods become available. The store didn’t have the replacement part for my vacuum cleaner, so the manager back-ordered it for me.  The shop had to back-order some of the items on my list."
+        },
+        {
+            "id": 200,
+            "phrase": "back out (of something)",
+            "definition": "[for someone or something] to move out of something backwards.  The rabbit tried to back out of its burrow. The rabbit backed out."
+        },
+        {
+            "id": 201,
+            "phrase": "back over someone or something",
+            "definition": "[for a car or other vehicle] to roll backwards over someone or something.  Sandy backed over her brother’s bicycle.  She almost backed over her brother."
+        },
+        {
+            "id": 202,
+            "phrase": "back someone for something",
+            "definition": "to support or endorse someone for something, such as a public office.  We all back Tom for president.  I am backing Jane for treasurer."
+        },
+        {
+            "id": 203,
+            "phrase": "back someone or something into someone or something",
+            "definition": "to guide or move someone or something backwards into someone or something.  Don’t back your car into anyone. Using hand signals, the attendant backed all the cars into the parking spaces."
+        },
+        {
+            "id": 204,
+            "phrase": "back someone or something off (from something)",
+            "definition": "to guide or move someone or something a short distance from something.  I backed the car off from the curb a tiny bit. Using signals, I backed the car off from the crushed bicycle."
+        },
+        {
+            "id": 205,
+            "phrase": "back someone or something onto someone or something",
+            "definition": "to guide or move someone or something backwards onto someone or something.  I backed the car onto the flowers accidentally. Using hand signals, the mechanic helped the driver back the car onto the ramp."
+        },
+        {
+            "id": 206,
+            "phrase": "back someone or something out† (from something)",
+            "definition": "to back someone or something out of something.  Judy backed out the car from the parking place.  She backed it out from its space."
+        },
+        {
+            "id": 207,
+            "phrase": "back someone up†",
+            "definition": "to provide someone with help in reserve; to support someone.  Don’t worry. I will back you up when you need me.  Will you please back up Nancy over the weekend?"
+        },
+        {
+            "id": 208,
+            "phrase": "back something up†",
+            "definition": "to drive a car backwards. Will you back your car up a little? _I will back up the car."
+        },
+        {
+            "id": 209,
+            "phrase": "back the wrong horse",
+            "definition": "to support someone or something that cannot win or succeed.  I don’t want to back the wrong horse, but it seems to me that Jed is the better candidate.  Fred backed the wrong horse in the budget hearings."
+        },
+        {
+            "id": 210,
+            "phrase": "back to basics",
+            "definition": "return to basic instruction; start the learning process over again.  Class, you seem to have forgotten the simplest of facts, so it’s back to basics for the first week of classes."
+        },
+        {
+            "id": 211,
+            "phrase": "back to square one",
+            "definition": "back to the beginning. (As with a board game.) _ Negotiations have broken down, and it’s back to square one. We lost our appeal of the lower court decision, so back to square one."
+        },
+        {
+            "id": 212,
+            "phrase": "back to the drawing board",
+            "definition": "time to start from the start; it is time to plan something over again. (Plans or schematics are drawn on a drawing board. Note the variations shown in the examples.) _ It didn’t work. Back to the drawing board. I flunked English this semester. Well, back to the old drawing board."
+        },
+        {
+            "id": 213,
+            "phrase": "back to the salt mines",
+            "definition": "Cliché time to return to work, school, or something else that might be unpleasant. (The phrase implies that the speaker is a slave who works in the salt mines.) _It’s one o’clock and lunch break is over. Back to the salt mines. School starts in the fall, so then it’s back to the salt mines again."
+        },
+        {
+            "id": 214,
+            "phrase": "back up",
+            "definition": "[for objects] to obstruct and accumulate in a pathway or channel.  Something clogged the sewer and it backed up."
+        },
+        {
+            "id": 215,
+            "phrase": "back up (to someone or something)",
+            "definition": "to move backwards to someone or something.  The bus backed up to the end of the parking space."
+        },
+        {
+            "id": 216,
+            "phrase": "back up (to something)",
+            "definition": "to go back to something said in a conversation.  Wait—back up a little. What did you say that phone number was? _ Let’s back up to what you just said and go over that point again."
+        },
+        {
+            "id": 217,
+            "phrase": "backfire on someone",
+            "definition": "[for something, such as a plot] to fail unexpectedly; to fail with an undesired result.  Your plot backfired on you.  I was afraid that my scheme would backfire on me."
+        },
+        {
+            "id": 218,
+            "phrase": "backseat driver",
+            "definition": "an annoying passenger who tells the driver how to drive; someone who tells others how to do things.  I don’t need any backseat driver on this project.  Stop pestering me with all your advice. Nobody likes a backseat driver!"
+        },
+        {
+            "id": 219,
+            "phrase": "back-to-back",
+            "definition": "adjacent and touching backs. They started the duel by standing back-to-back.  Two people who stand back-to-back can manage to see in all directions."
+        },
+        {
+            "id": 220,
+            "phrase": "*bad blood (between people)",
+            "definition": "unpleasant feelings or animosity between people. (*Typically: be ~; have ~.) _ There is bad blood between Fred and Jim. They cannot be civil to one another.  There is no bad blood between us. I don’t know why we should quarrel."
+        },
+        {
+            "id": 221,
+            "phrase": "A bad excuse is better than none.",
+            "definition": "Prov. If you offer some explanation for an unwanted action, there is a slight chance that it will be accepted and you will therefore not be in trouble, but if you have no explanation at all, you do not even have that slight chance. Fred: I can’t believe we played cards till midnight! What will I tell my wife when she asks why I’m so late getting home? Bill: Tell her something came up at the office. Fred: But that’s a lousy excuse. She’ll never believe it. Bill: A bad excuse is better than none."
+        },
+        {
+            "id": 222,
+            "phrase": "a bad hair day",
+            "definition": "a bad day in general. (As when one’s inability to groom one’s hair in the morning seems to color the events of the day.) _I’m sorry I am so glum. This has been a real bad hair day.  It’s just one bad hair day after another."
+        },
+        {
+            "id": 223,
+            "phrase": "Bad money drives out good.",
+            "definition": "Prov. If there is counterfeit or inflated currency in circulation, people will hoard their genuine currency; worthless things will drive valuable things out of circulation. (This principle is also known as Gresham’s Law.) _ When the government reduced the amount of copper in the pennies it produced, we saw that bad money drives out good; everyone saved copper pennies and only spent the less pure ones.  Ever since cheap, f limsy furniture began to be manufactured in large quantities, it has been very difficult to find solid, well-made furniture. Bad craftsmanship, like bad money, drives out good."
+        },
+        {
+            "id": 224,
+            "phrase": "Bad news travels fast.",
+            "definition": "Prov. Information about trouble or misfortune disseminates quickly (more quickly than good news).  John: Hi, Andy. I’m sorry to hear you got fired. Andy: How did you know about that already? It only happened this morning. John: Bad news travels fast.  I called my mother to tell her about my car accident, but my aunt had already told her. Bad news travels fast."
+        },
+        {
+            "id": 225,
+            "phrase": "a bad penny",
+            "definition": "a worthless person.  Wally is a bad penny. Someday he’ll end up in jail.  My little brother is a real bad penny. Every time he shows up, he wants to borrow money."
+        },
+        {
+            "id": 226,
+            "phrase": "A bad penny always turns up.",
+            "definition": "Prov. A worthless person always comes back to the place he or she started out.  Jill: I just found out that Tom left town after we fought last Saturday. What if I never see him again? Jane: Don’t worry. A bad penny always turns up."
+        },
+        {
+            "id": 227,
+            "phrase": "badger someone into something",
+            "definition": "to pester someone into doing something. Don’t try to badger us into doing it.  My brother and I were badgered into cleaning out the garage."
+        },
+        {
+            "id": 228,
+            "phrase": "badger someone or something to death",
+            "definition": "to bother and annoy someone or some group.  If you don’t tell him what he wants to know, he will badger you to death until he finds out."
+        },
+        {
+            "id": 229,
+            "phrase": "bad-mouth someone or something",
+            "definition": "to say negative things about someone or something.  Mr. Smith was always bad-mouthing Mrs. Smith. They just didn’t get along.  John bad-mouths his car constantly because it is too small for him."
+        },
+        {
+            "id": 230,
+            "phrase": "bag of bones",
+            "definition": "an extremely skinny person or animal with bones showing. (The skin is the figurative bag.) _I’ve lost so much weight that I’m just turning into a bag of bones.  Get that old bag of bones off the racetrack!"
+        },
+        {
+            "id": 231,
+            "phrase": "bag of tricks",
+            "definition": "a collection of special techniques or methods.  What have you got in your bag of tricks that could help me with this problem? _Here comes Mother with her bag of tricks. I’m sure she can help us."
+        },
+        {
+            "id": 232,
+            "phrase": "bag on someone",
+            "definition": "Sl. to criticize someone.  Stop bagging on me! I’m tired of all your complaining. If you are going to bag on everyone all the time, I don’t want to hear about it."
+        },
+        {
+            "id": 233,
+            "phrase": "Bag that!",
+            "definition": "Sl. Forget that! _ Bag that! The number I gave you was wrong. There are four—no, bag that!—six of the red ones and three blue ones."
+        },
+        {
+            "id": 234,
+            "phrase": "bail out (of something)",
+            "definition": "to jump out of an airplane with a parachute.  John still remembers the first time he bailed out of a plane.  When we get to 8,000 feet, we’ll all bail out and drift down together. We’ll open our parachutes at 2,000 feet."
+        },
+        {
+            "id": 235,
+            "phrase": "bail someone or something out†",
+            "definition": "to rescue someone or something from trouble or difficulty. (Based on bail someone out of jail.) _ The proposed law was in trouble, but Senator Todd bailed out the bill at the last minute.  I was going to be late with my report, but my roommate lent a hand and bailed me out at the last minute."
+        },
+        {
+            "id": 236,
+            "phrase": "bail something out†",
+            "definition": "1. to remove water from the bottom of a boat by dipping or scooping.  Tom has to bail the boat out before we get in.  You should always bail out a boat before using it. 2. to empty a boat of accumulated water. Would you bail this boat out? _I will bail out the boat."
+        },
+        {
+            "id": 237,
+            "phrase": "bait and switch",
+            "definition": "a deceptive merchandising practice where one product is advertised at a low price to get people’s attention [the bait], but pressure is applied to get the customer to purchase a more expensive item.  Walter described how the store used bait and switch, since they never seemed to have in stock the bargains that they advertised.  Wilbur accused the merchant of bait and switch practices and stalked out of the store."
+        },
+        {
+            "id": 238,
+            "phrase": "a baker’s dozen",
+            "definition": "thirteen. (Bakers often added an extra item to an order for a dozen.) _ We ended up with a baker’s dozen each of socks and undershirts on our shopping trip."
+        },
+        {
+            "id": 239,
+            "phrase": "the balance of power",
+            "definition": "the situation where the power held by one governing body or adversary is balanced by the power of another.  The balance of power was threatened when China captured our airplane."
+        },
+        {
+            "id": 240,
+            "phrase": "balance out",
+            "definition": "to equal out; to become even or fair. These things all balance out in the end. Don’t worry. Things will balance out."
+        },
+        {
+            "id": 241,
+            "phrase": "balance something against something else",
+            "definition": "to consider one thing in reference to another; to weigh one possibility against another possibility.  We will have to balance all the good he did against all the bad. The good will be balanced against the bad in the final reckoning."
+        },
+        {
+            "id": 242,
+            "phrase": "balance something with something else",
+            "definition": "to offset something with something else; to balance something against something else.  The teacher tends to balance a harsh grading scheme with a strong sense of fair play. Roger balanced the spicy soup with a bland first course. They balanced his bad behavior with the good, but still felt he was much too rude."
+        },
+        {
+            "id": 243,
+            "phrase": "*baleful as death",
+            "definition": "promising evil; very threatening. (*Also: as ~.) _The wind’s moan was as baleful as death.  His voice sounded baleful as death."
+        },
+        {
+            "id": 244,
+            "phrase": "balk at something",
+            "definition": "to resist and object to something; to shy away from doing something.  I hope they don’t balk at finishing their work.  They will probably balk at it."
+        },
+        {
+            "id": 245,
+            "phrase": "ball and chain",
+            "definition": "1. a wife. (Mostly jocular.) _ I’ve got to get home to my ball and chain. My ball and chain is mad at me. 2. a person’s special burden; a job. (Prisoners sometimes were fettered with a chain attached to a leg on one end and to a heavy metal ball on the other.) _Tom wanted to quit his job. He said he was tired of that old ball and chain. Mr. Franklin always referred to his wife as his ball and chain."
+        },
+        {
+            "id": 246,
+            "phrase": "the ball is in someone’s court",
+            "definition": "to be someone else’s move, play, or turn. (From tennis.) _ The ball’s in your court now. You do something.  I can’t do anything as long as the ball is in John’s court."
+        },
+        {
+            "id": 247,
+            "phrase": "ball someone or something up†",
+            "definition": "to interfere with someone or something; to mess someone or something up.  Who balled this television up? _ Someone balled up the television."
+        },
+        {
+            "id": 248,
+            "phrase": "ball something up†",
+            "definition": "to roll something up into a ball. (Alluding to something, such as rope, being tangled up and so useless.) _She balled the clay up and stuck it to the clown’s face as a nose.  Why are you balling up the paper?"
+        },
+        {
+            "id": 249,
+            "phrase": "a ballpark figure",
+            "definition": "an estimate; an off-the-cuff guess.  I don’t need an exact number. A ballpark figure will do."
+        }
+    ]
+}

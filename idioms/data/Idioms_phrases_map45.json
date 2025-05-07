@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "have something on the ball",
+            "definition": "to have a particular amount of smartness or cleverness.  Both John and Mary have a lot on the ball. They should go far.  I think I’d do better in school if I had more on the ball. I learn slowly."
+        },
+        {
+            "id": 1,
+            "phrase": "have something stick in one’s craw",
+            "definition": "to have something irritate or displease someone.  I don’t like to have someone’s words stick in my craw. He meant to have the problem stick in my craw and upset me."
+        },
+        {
+            "id": 2,
+            "phrase": "have something to burn",
+            "definition": "to have lots of something, such as money, power, food, space, cars, etc.; to have more of something than one needs. Look at the way Tom buys things. You’d think he had money to burn. If I had all that acting talent to burn as he does, I’d have won an Oscar by now."
+        },
+        {
+            "id": 3,
+            "phrase": "have something to spare",
+            "definition": "to have more than enough of something.  Ask John for some firewood. He has firewood to spare.  Do you have any candy to spare?"
+        },
+        {
+            "id": 4,
+            "phrase": "have sticky fingers",
+            "definition": "to have a tendency to steal.  The clerk—who had sticky fingers—got fired.  The little boy had sticky fingers and was always taking his father’s small change."
+        },
+        {
+            "id": 5,
+            "phrase": "have the ball in one’s court",
+            "definition": "to have a ball belonging to a game played on a court on one’s side of the court. You have the ball in your court, so hit it back to me!"
+        },
+        {
+            "id": 6,
+            "phrase": "have the best of someone or something",
+            "definition": "to defeat someone or something. I’m afraid you have the best of me.  We had the best of the opposite team by the end of the first half."
+        },
+        {
+            "id": 7,
+            "phrase": "have the courage of one’s convictions",
+            "definition": "to have enough courage and determination to carry out one’s goals. It’s fine to have noble goals in life and to believe in great things. If you don’t have the courage of your convictions, you’ll never reach your goals.  Jane was successful because she had the courage of her convictions."
+        },
+        {
+            "id": 8,
+            "phrase": "have the gall to do something",
+            "definition": "to have sufficient arrogance to do something.  I bet you don’t have the gall to argue with the mayor.  Only Jane has the gall to ask the boss for a second raise this month."
+        },
+        {
+            "id": 9,
+            "phrase": "have the hots for someone",
+            "definition": "Sl. to be sexually aroused by someone.  Perry has the hots for Earline."
+        },
+        {
+            "id": 10,
+            "phrase": "have the makings of something",
+            "definition": "to possess the qualities that are needed for something.  The young boy had the makings of a fine baseball player. My boss has all the makings of a prison warden."
+        },
+        {
+            "id": 11,
+            "phrase": "have the Midas touch",
+            "definition": "to have the ability to be successful, especially the ability to make money easily. (From the name of a legendary king whose touch turned everything to gold.) _ Bob is a merchant banker and really has the Midas touch.  The poverty-stricken boy turned out to have the Midas touch and was a millionaire by the time he was twenty-five."
+        },
+        {
+            "id": 12,
+            "phrase": "have the mullygrubs",
+            "definition": "Rur. to feel depressed.  She had the mullygrubs because her husband was out of town.  Joe had the mullygrubs. We tried to cheer him up."
+        },
+        {
+            "id": 13,
+            "phrase": "have the presence of mind to do something",
+            "definition": "to have the calmness and ability to act sensibly in an emergency or difficult situation.  Jane had the presence of mind to phone the police when the child disappeared.  The child had the presence of mind to write down the car’s licenseplate number."
+        },
+        {
+            "id": 14,
+            "phrase": "have the shoe on the other foot",
+            "definition": "to experience the opposite situation (from a previous situation). (See the proverb The shoe is on the other foot.  I used to be a student, and now I’m the teacher. Now I have the shoe on the other foot."
+        },
+        {
+            "id": 15,
+            "phrase": "have the stomach for something",
+            "definition": "1. Fig. to be able to tolerate certain foods. Do you have the stomach for Tex- Mex cooking? _ We just don’t have the stomach for onions anymore. 2. Fig. to have the courage or resolution to do something.  I don’t have the stomach for watching those horror movies. Ken doesn’t have the stomach for fighting."
+        },
+        {
+            "id": 16,
+            "phrase": "have the time of one’s life",
+            "definition": "to have a very good time; to have the most exciting time in one’s life.  What a great party! I had the time of my life.  We went to Florida last winter and had the time of our lives."
+        },
+        {
+            "id": 17,
+            "phrase": "have to do with something",
+            "definition": "to be associated with or related to something. Sally’s unhappiness has to do with the way you insulted her.  My illness has to do with my stomach."
+        },
+        {
+            "id": 18,
+            "phrase": "have to get married",
+            "definition": "Euph. [for a couple] to get married because the woman is pregnant. They didn’t have a long engagement. They had to get married, you see. They had to get married, and their first baby was born seven months later."
+        },
+        {
+            "id": 19,
+            "phrase": "have to go some (to do something)",
+            "definition": "to need to try very hard to accomplish something. That’s really great, Jean! I have to go some to do better than that!"
+        },
+        {
+            "id": 20,
+            "phrase": "have to hand it to someone",
+            "definition": "to give someone credit [for something]. (Includes an expression of obligation, such as must, got to, have to, etc.) _ You’ve really got to hand it to Jane. She has done a fine job.  We have to hand it to Fred. That wine he brought was great."
+        },
+        {
+            "id": 21,
+            "phrase": "have to live with something",
+            "definition": "to have to endure something.  I have a slight limp in the leg that I broke last year. The doctor says I’ll have to live with it. We don’t like the carpeting in the living room, but since money is so tight we’ll have to live with it."
+        },
+        {
+            "id": 22,
+            "phrase": "have too many irons in the fire",
+            "definition": "to be doing too many things at once. Tom had too many irons in the fire and missed some important deadlines.  It’s better if you don’t have too many irons in the fire."
+        },
+        {
+            "id": 23,
+            "phrase": "have too much of a good thing",
+            "definition": "Prov. To hurt yourself by overindulging in something good.  I’ve gained five pounds from all the holiday dinners I’ve eaten this month. I think I had too much of a good thing.  Alan: We’re having such a good time at this resort, why don’t we stay another week? Jane: I think we’d get bored with it if we stayed that long. You can have too much of a good thing, you know."
+        },
+        {
+            "id": 24,
+            "phrase": "have (too much) time on one’s hands",
+            "definition": "to have extra time; to have time to spare.  Your problem is that you have too much time on your hands. I don’t have time on my hands. I am busy all the time."
+        },
+        {
+            "id": 25,
+            "phrase": "have two left feet",
+            "definition": "to be very awkward with one’s feet. (Often refers to awkwardness at dancing.) _ I’m sorry, I can’t dance better. I have two left feet."
+        },
+        {
+            "id": 26,
+            "phrase": "have words",
+            "definition": "Euph. to argue.  From the sound of things, Bill and his father had words last night.  We had words on the subject of money."
+        },
+        {
+            "id": 27,
+            "phrase": "have words with someone (over someone or something)",
+            "definition": "to quarrel with someone over someone or something.  I had words with John over Mary and her friends.  Elaine had words with Tony over his driving habits."
+        },
+        {
+            "id": 28,
+            "phrase": "Have you met someone?",
+            "definition": "a question asked when introducing someone to someone else. (The question need not be answered. The someone is usually a person’s name.) _ Tom: Hello, Mary. Have you met Fred? Mary: Hello, Fred. Glad to meet you. Fred: Glad to meet you, Mary.  Tom: Hey, Mary! Good to see you. Have you met Fred? Mary: No, I don’t believe I have. Hello, Fred. Glad to meet you. Fred: Hello, Mary."
+        },
+        {
+            "id": 29,
+            "phrase": "hazard an opinion",
+            "definition": "to give an opinion. Anne asked the attorney to hazard an opinion about the strength of her lawsuit.  Don’t feel like you have to hazard an opinion on something you know nothing about."
+        },
+        {
+            "id": 30,
+            "phrase": "He gives twice who gives quickly.",
+            "definition": "Prov. When someone asks you for something, it is more helpful to give something right away than to wait, even if you might be able to give more if you waited.  Morris didn’t have all the money his sister asked for, but he sent what he had immediately, knowing that he gives twice who gives quickly."
+        },
+        {
+            "id": 31,
+            "phrase": "He lives long who lives well.",
+            "definition": "Prov. If you live virtuously, you will have a long life; a person who does not live virtuously is wasting his life.  The pastor, exhorting his congregation to live moral lives, said, “He lives long who lives well.”"
+        },
+        {
+            "id": 32,
+            "phrase": "He puts his pants on one leg at a time.",
+            "definition": "Prov. The person referred to is only human.; The person referred to is an ordinary person.  Sue: That man is my favorite movie star. Don’t you think he’s just divine? Jane: Oh, I don’t know. I imagine he puts his pants on one leg at a time."
+        },
+        {
+            "id": 33,
+            "phrase": "He that cannot obey cannot command.",
+            "definition": "Prov. If you want to become a leader, you should first learn how to follow someone else.  Jones can’t seem to do anything I ask him to. He’ll never get anywhere; he that cannot obey cannot command."
+        },
+        {
+            "id": 34,
+            "phrase": "He that hath a full purse never wanted a friend.",
+            "definition": "Prov. A rich person always has plenty of friends.  Jill: Ever since Joe won the lottery, he’s been getting congratulations from friends and relatives he hasn’t heard from in years. Jane: You know how it is. He that hath a full purse never wanted a friend."
+        },
+        {
+            "id": 35,
+            "phrase": "He that is down need fear no fall.",
+            "definition": "Prov. If you have nothing, you cannot lose anything by taking a risk. Jim spent his last ten dollars on lottery tickets, figuring that he who is down need fear no fall."
+        },
+        {
+            "id": 36,
+            "phrase": "He that would eat the kernel must crack the nut.",
+            "definition": "Prov. You have to work if you want to get anything good.  If you want to be a good pianist, you have to practice every day. He that would eat the kernel must crack the nut."
+        },
+        {
+            "id": 37,
+            "phrase": "He that would go to sea for pleasure, would go to hell for a pastime.",
+            "definition": "Prov. Being a sailor is so unpleasant that anyone who would do it for fun must be crazy.  Old Sailor: Why did you decide to go to sea? Young Sailor: I thought it would be fun. Old Sailor: He that would go to sea for pleasure, would go to hell for a pastime."
+        },
+        {
+            "id": 38,
+            "phrase": "He that would have eggs must endure the cackling of hens.",
+            "definition": "Prov. You must be willing to endure unpleasant, irritating things in order to get what you want.  Sue: I’m tired of working after school. All the customers at the store are so rude. Mother: But you wanted money to buy a car. He that would have eggs must endure the cackling of hens, dear."
+        },
+        {
+            "id": 39,
+            "phrase": "He that would the daughter win, must with the mother first begin.",
+            "definition": "Prov. If you want to marry a woman, you should find a way to impress her mother, so that the mother will favor her marrying you.  Harry: I think I want to marry Gina. Bill: Don’t propose to her until you’re sure her mother is on your side. He that would the daughter win, must with the mother first begin."
+        },
+        {
+            "id": 40,
+            "phrase": "He travels fastest who travels alone.",
+            "definition": "Prov. It is easier to achieve your goals if you do not have a spouse, children, or other connections to consider. Jill: Don’t go yet! Wait for me to get ready. Jane: But you always take at least half an hour. No wonder they always say that he travels fastest who travels alone."
+        },
+        {
+            "id": 41,
+            "phrase": "He wears a ten-dollar hat on a five-cent head.",
+            "definition": "Rur. He is stupid but rich. He got the job because he’s the boss’s son, not because he’s smart. He wears a ten-dollar hat on a five-cent head."
+        },
+        {
+            "id": 42,
+            "phrase": "He who begins many things, finishes but few.",
+            "definition": "Prov. If you start a lot of projects, you will not have time and energy to complete them all. (Can be used to warn someone against starting too many projects.) _ Sarah’s room is littered with sweaters and mittens she started to knit but never finished, a testament to the fact that she who begins many things, finishes but few."
+        },
+        {
+            "id": 43,
+            "phrase": "He who excuses himself accuses himself.",
+            "definition": "Prov. By apologizing for something, you admit that you did it.  Maybe I should tell my boss I’m sorry for breaking the copy machine. On the other hand, he who excuses himself accuses himself."
+        },
+        {
+            "id": 44,
+            "phrase": "He who fights and runs away, may live to fight another day.",
+            "definition": "Prov. It may be cowardly to run away from a fight, but running away gives you a better chance of surviving.  The school bully told Phillip to meet him in the playground after school, but Phillip didn’t keep the appointment. When his friends called him a coward, Phillip shrugged and said, “He who fights and runs away, may live to fight another day.”"
+        },
+        {
+            "id": 45,
+            "phrase": "He who hesitates is lost.",
+            "definition": "Prov. People should act decisively.  Jill: Should I apply for that job? At first I thought I definitely should, but now I don’t know. . . . Jane: She who hesitates is lost.  Call that girl and ask her out. Call her right now. He who hesitates is lost."
+        },
+        {
+            "id": 46,
+            "phrase": "He who pays the piper calls the tune.",
+            "definition": "Prov. If you are paying for someone’s services, you can dictate exactly what you want that person to do.  When Mrs. Dalton told the artist what she wanted her portrait to look like, the artist cringed to think that anyone could have such bad taste. Still, he who pays the piper calls the tune, and Mrs. Dalton got what she wanted."
+        },
+        {
+            "id": 47,
+            "phrase": "He who rides a tiger is afraid to dismount.",
+            "definition": "Prov. Sometimes it is more dangerous to stop doing a dangerous thing than it is to continue doing it.  Jill: You shouldn’t take out another loan. You’re already too far in debt. Jane: If I don’t take out a loan, I can’t make the payments on the loans I already have. You know how it is—she who rides a tiger is afraid to dismount."
+        },
+        {
+            "id": 48,
+            "phrase": "He who sups with the devil should have a long spoon.",
+            "definition": "Prov. If you have dealings with dangerous people, you must be careful that they do not harm you.  If you’re going to hang out with that disreputable bunch of people, keep in mind that he who sups with the devil should have a long spoon."
+        },
+        {
+            "id": 49,
+            "phrase": "He who would climb the ladder must begin at the bottom.",
+            "definition": "Prov. If you want to gain high status, you must start with low status and slowly work upwards.  Although Thomas hoped to become a famous journalist, he didn’t mind working for a small-town newspaper at first. “He who would climb the ladder must begin at the bottom,” he said."
+        },
+        {
+            "id": 50,
+            "phrase": "head and shoulders above someone or something",
+            "definition": "clearly superior to someone or something. (Often with stand, as in the example.) _ This wine is head and shoulders above that one.  John stands head and shoulders above Bob."
+        },
+        {
+            "id": 51,
+            "phrase": "head away from someone or something",
+            "definition": "to turn and move away from someone or something. The car headed away from Andrew and he knew he was stranded for at least an hour.  We headed away from the store, not knowing that my purse was riding on the roof of the car."
+        },
+        {
+            "id": 52,
+            "phrase": "head back (some place)",
+            "definition": "to start moving back to some place.  I walked to the end of the street and then headed back home.  This is far enough. Let’s head back."
+        },
+        {
+            "id": 53,
+            "phrase": "head for someone or something",
+            "definition": "to aim for or move toward someone or something.  She waved good-bye as she headed for the door.  Ann came in and headed for her mother."
+        },
+        {
+            "id": 54,
+            "phrase": "head for the last roundup",
+            "definition": "Euph. to reach the end of usefulness or of life. (Originally said of a dying cowboy.) _ This ballpoint pen is headed for the last roundup. I have to get another one.  I am so weak. I think I’m headed for the last roundup."
+        },
+        {
+            "id": 55,
+            "phrase": "head for (the) tall timber",
+            "definition": "Rur. to run away and hide.  When we heard Pa’s angry bellow, we headed for the tall timber. The bank robbers headed for tall timber with their loot."
+        },
+        {
+            "id": 56,
+            "phrase": "head in(to something)",
+            "definition": "to move into something head or front end first.  Head into that parking space slowly. It is quite narrow. I turned the boat toward shore and headed in."
+        },
+        {
+            "id": 57,
+            "phrase": "head on",
+            "definition": "directly; head to head.  I think we need to face this threat head on. Let’s be proactive not reactive!"
+        },
+        {
+            "id": 58,
+            "phrase": "head out after someone, something, or an animal",
+            "definition": "to start pursuing someone, something, or an animal. The sheriff and his men headed out after the bank robbers.  We headed out after the runaway boat."
+        },
+        {
+            "id": 59,
+            "phrase": "head out (for something)",
+            "definition": "to set out for something or some place; to begin a journey to something or some place.  We headed out for Denver very early in the morning.  What time do we head out tomorrow morning?"
+        },
+        {
+            "id": 60,
+            "phrase": "head over heels in debt",
+            "definition": "deeply in debt.  Finally, when she was head over heels in debt, she cut up her credit cards.  I couldn’t stand being head over heels in debt, so I always pay off my bills immediately."
+        },
+        {
+            "id": 61,
+            "phrase": "head over heels in love (with someone)",
+            "definition": "very much in love with someone. John is head over heels in love with Mary.  They are head over heels in love with each other."
+        },
+        {
+            "id": 62,
+            "phrase": "head someone off at the pass",
+            "definition": "to intercept someone. (From Old West movies. Fixed order.) _ I need to talk to John before he gets into the boss’s office. I’ll head him off at the pass.  The sheriff set out in a hurry to head Jed off at the pass."
+        },
+        {
+            "id": 63,
+            "phrase": "head someone or something at someone or something",
+            "definition": "to point or aim someone or something toward someone or something.  He headed the boat at the island and sped off.  I headed Rachel at her brother, whom she hadn’t seen for thirty years."
+        },
+        {
+            "id": 64,
+            "phrase": "head someone or something into someone or something",
+            "definition": "to direct someone or something into someone or something.  Jill headed the car into the parking place.  I headed Rachel into the ice cream store and left her on her own."
+        },
+        {
+            "id": 65,
+            "phrase": "head someone or something off†",
+            "definition": "to intercept and divert someone or something.  I think I can head her off before she reaches the police station. I hope we can head off trouble.  We can head it off. Have no fear."
+        },
+        {
+            "id": 66,
+            "phrase": "head something out†",
+            "definition": "to aim something outward; to move something on its way, head or front first. Head the boat out and pull out the throttle. I headed out the car and we were on our way."
+        },
+        {
+            "id": 67,
+            "phrase": "head something up†",
+            "definition": "to get something pointed in the right direction. (Especially a herd of cattle or a group of covered wagons.) _Head those wagons up—we’re moving out.  Head up the wagons!"
+        },
+        {
+            "id": 68,
+            "phrase": "*a head start (on someone)",
+            "definition": "an early start [at something], before someone else starts. (*Typically: get ~; have ~; give someone ~.) _Bill always gets there first because he gets a head start on everybody else.  I’m doing well in my class because I have a head start; I learned some of this last year."
+        },
+        {
+            "id": 69,
+            "phrase": "*a head start (on something)",
+            "definition": "an early start on something, [before someone else starts]. (*Typically: get ~; have ~; give someone ~.) _ I was able to get a head start on my reading during the holidays.  If I hadn’t had a head start, I’d be behind in my reading."
+        },
+        {
+            "id": 70,
+            "phrase": "head toward someone or something",
+            "definition": "to point at and move toward someone, something, or some place. Head toward Mary and don’t stop to talk to anyone else. Sharon headed toward the parking lot, hoping to get home soon."
+        },
+        {
+            "id": 71,
+            "phrase": "headed for something",
+            "definition": "destined for something. Harry is headed for real trouble.  She is headed for a breakdown."
+        },
+        {
+            "id": 72,
+            "phrase": "heads or tails",
+            "definition": "the face of a coin or the other side of a coin. (Often used in an act of coin tossing, where one circumstance is valid if the front of a coin appears and another circumstance is valid if the other side appears.) _ Jim looked at Jane as he f lipped the coin into the air. “Heads or tails?” he asked.  It doesn’t matter whether the result of the toss is heads or tails. I won’t like the outcome in any case."
+        },
+        {
+            "id": 73,
+            "phrase": "Heads up!",
+            "definition": "Raise your head and look around you carefully for information or something that you need to see or avoid.  Heads up! Watch out for that door! _ Heads up! There is a car coming."
+        },
+        {
+            "id": 74,
+            "phrase": "heads will roll",
+            "definition": "people will get into severe trouble.  When the company’s year-end results are known, heads will roll.  Heads will roll when the principal sees the damaged classroom."
+        },
+        {
+            "id": 75,
+            "phrase": "heal over",
+            "definition": "[for the surface of a wound] to heal.  The wound healed over very quickly, and there was very little scarring.  I hope it will heal over without having to be stitched."
+        },
+        {
+            "id": 76,
+            "phrase": "heal someone of something",
+            "definition": "to cure someone’s ailments.  Are you the doctor who healed me of my wounds? _ Can any doctor heal us of a common cold?"
+        },
+        {
+            "id": 77,
+            "phrase": "heal up",
+            "definition": "[for an injury] to heal.  The cut healed up in no time at all."
+        },
+        {
+            "id": 78,
+            "phrase": "a heap of something",
+            "definition": "a great deal of something.  Tom’s got a heap of money, but no one to spend it on. A teacher has to have a heap of patience as well as a lot of smarts."
+        },
+        {
+            "id": 79,
+            "phrase": "a heap sight",
+            "definition": "Rur. a lot; very much.  This chair is a heap sight better than that one. You got a heap sight more taters than I did."
+        },
+        {
+            "id": 80,
+            "phrase": "heap something up†",
+            "definition": "to make something into a pile.  He heaped the mashed potatoes up on my plate, because he thought I wanted lots.  Heap up the leaves in the corner of the yard."
+        },
+        {
+            "id": 81,
+            "phrase": "heap something (up)on someone or something",
+            "definition": "to pile something up on someone or something. (Upon is formal and less commonly used than on.) _Please don’t heap so much trouble upon me! _ Wally heaped leaves on the f lower bed."
+        },
+        {
+            "id": 82,
+            "phrase": "heap something with something",
+            "definition": "to pile something onto something. Karen heaped Jeff ’s plate with way too much food.  We heaped the driveway with leaves and then put them into bags."
+        },
+        {
+            "id": 83,
+            "phrase": "hear a peep out of someone",
+            "definition": "to get some sort of a response from someone; to hear the smallest word from someone. (Usually in the negative.) _I don’t want to hear another peep out of you.  I didn’t know they were there. I didn’t hear a peep out of them."
+        },
+        {
+            "id": 84,
+            "phrase": "hear about someone or something",
+            "definition": "to learn about someone or something. (Not necessarily by hearing.) _ Have you heard about Tom and what happened to him? _ I heard about the accident."
+        },
+        {
+            "id": 85,
+            "phrase": "hear from someone or something",
+            "definition": "to get a message from someone or a group.  I want to hear from you every now and then.  We hear from the court every year or so about jury duty."
+        },
+        {
+            "id": 86,
+            "phrase": "hear of someone or something",
+            "definition": "to learn of the existence of someone or something.  Did you ever hear of such a thing? _ I have heard of Sharon Wallace and I would like to meet her."
+        },
+        {
+            "id": 87,
+            "phrase": "hear someone out†",
+            "definition": "to hear all of what someone has to say. (Fixed order.) _ Please hear me out. I have more to say.  Hear out the witness. Don’t jump to conclusions."
+        },
+        {
+            "id": 88,
+            "phrase": "hear something through",
+            "definition": "to listen to all of something.  I would like you to hear this explanation through before making your decision.  I won’t have an opinion until I hear this through."
+        },
+        {
+            "id": 89,
+            "phrase": "hearing impaired",
+            "definition": "Euph. deaf or nearly deaf. This program is closed-captioned for our hearing-impaired viewers.  His mother happens to be hearing impaired, so he learned to sign at an early age."
+        },
+        {
+            "id": 90,
+            "phrase": "hearken to someone or something",
+            "definition": "Formal or stilted to listen to someone or something; to pay attention to someone or something.  Please hearken to me. I speak the truth.  Hearken to the call of the nightingale."
+        },
+        {
+            "id": 91,
+            "phrase": "heart and soul",
+            "definition": "the central core [of someone or something].  Now we are getting to the heart and soul of the matter.  This feature is the heart and soul of my invention."
+        },
+        {
+            "id": 92,
+            "phrase": "a heartbeat away from being something",
+            "definition": "Cliché set to be the next ruler upon the final heartbeat of the current ruler. (The decisive heartbeat would be the current ruler’s last heartbeat.) _ The vice president is just a heartbeat away from being president.  The prince was only a heartbeat away from being king."
+        },
+        {
+            "id": 93,
+            "phrase": "heat someone up†",
+            "definition": "to make someone angry. (One old [now folksy] past tense is het.) _ This kind of nonsense really heats me up.  Mean talk heats up the kids."
+        },
+        {
+            "id": 94,
+            "phrase": "heat something up† (to something)",
+            "definition": "to raise the temperature of something to a certain level.  Please heat this room up to about seventy degrees.  Can you heat up the room a little more?"
+        },
+        {
+            "id": 95,
+            "phrase": "heat up",
+            "definition": "to get warmer or hot.  It really heats up in the afternoon around here.  How soon will dinner be heated up?"
+        },
+        {
+            "id": 96,
+            "phrase": "heave in(to) sight",
+            "definition": "to move into sight in the distance.  As the fog cleared, a huge ship heaved into sight.  After many days of sailing, land finally heaved in sight."
+        },
+        {
+            "id": 97,
+            "phrase": "heave something at someone or something",
+            "definition": "to throw something at someone or something.  Fred heaved a huge snowball at Roger.  The thug heaved the rock at the window and broke it to pieces."
+        },
+        {
+            "id": 98,
+            "phrase": "heave something up†",
+            "definition": "to lift something up.  With a lot of effort, they heaved the heavy lid up.  The workers heaved up the huge boulder."
+        },
+        {
+            "id": 99,
+            "phrase": "heave to",
+            "definition": "to stop a sailing ship by facing it directly into the wind.  The captain gave the order to heave to.  The ship hove to and everyone had a swim."
+        },
+        {
+            "id": 100,
+            "phrase": "Heaven help us!",
+            "definition": "Good grief !; That’s awful.  He fell and broke his hip! Heaven help us! What’s next?"
+        },
+        {
+            "id": 101,
+            "phrase": "Heaven protects children(, sailors,) and drunken men.",
+            "definition": "Prov. Children(, sailors,) and drunk(ard)s often escape being injured in dangerous situations. (Often used to express amazement that a child, sailor, or drunk person has escaped injury.) _ Jill: Did you hear? A little girl fell out of a second-f loor window in our apartment building. Jane: Was she killed? Jill: She wasn’t even hurt. Jane: Heaven protects children, sailors, and drunken men. Mike was so drunk he shouldn’t even have been conscious, but he managed to drive home without hurting himself or anyone else; heaven protects children and drunkards."
+        },
+        {
+            "id": 102,
+            "phrase": "Heavens to Betsy!",
+            "definition": "Inf. My goodness! (A mild oath.) _ Heavens to Betsy! What was that noise? _Heavens to Betsy! It’s good to hear your voice!"
+        },
+        {
+            "id": 103,
+            "phrase": "heavy going",
+            "definition": "difficult to do, understand, or make progress with.  Jim finds math heavy going.  Talking to Mary is heavy going. She has nothing interesting to say."
+        },
+        {
+            "id": 104,
+            "phrase": "heavy into someone or something",
+            "definition": "Inf.much concerned with someone or something; obsessed with someone or something.  Freddie was heavy into auto racing and always went to the races.  Sam is heavy into Mary. He’s been out with her every night this week."
+        },
+        {
+            "id": 105,
+            "phrase": "A heavy purse makes a light heart.",
+            "definition": "Prov. If you have plenty of money, you will feel happy and secure. Everyone in the office is especially cheerful on payday, since a heavy purse makes a light heart."
+        },
+        {
+            "id": 106,
+            "phrase": "hedge against something",
+            "definition": "to do something to lessen the risk of something happening; to bet against something bad happening. I want to hedge against something going wrong in the stock market, so I have bonds in my portfolio, too.  We will hedge against any risk we can detect."
+        },
+        {
+            "id": 107,
+            "phrase": "A hedge between keeps friendship green.",
+            "definition": "Prov. Your friendship will flourish if you and your friend respect each other’s privacy.  Lynne and I are the best of friends, but we often like to spend time apart. A hedge between keeps friendship green."
+        },
+        {
+            "id": 108,
+            "phrase": "hedge one’s bets",
+            "definition": "to reduce one’s loss on a bet or on an investment by counterbalancing the loss in some way.  Bob bet Ann that the plane would be late. He usually hedges his bets. This time he called the airline and asked about the plane before he made the bet. John bought some stock and then bet Mary that the stock would go down in value in one year. He has hedged his bets perfectly. If the stock goes up, he sells it, pays off Mary, and still makes a profit. If it goes down, he reduces his loss by winning the bet he made with Mary."
+        },
+        {
+            "id": 109,
+            "phrase": "hedge someone in†",
+            "definition": "to restrict someone.  Our decision hedged in the children so they could not have any f lexibility.  She hedged herself in by her own behavior."
+        },
+        {
+            "id": 110,
+            "phrase": "hedge someone or something in†",
+            "definition": "to enclose someone or something in a hedge.  Their overgrown yard has almost hedged us in.  Their bushes hedged in our yard."
+        },
+        {
+            "id": 111,
+            "phrase": "hedge something against something",
+            "definition": "to protect investments against a decline in value by making counterbalancing bets or investments. The investor hedged his portfolio against a drop in stock prices by buying some bonds.  I have to hedge my bets against losing."
+        },
+        {
+            "id": 112,
+            "phrase": "heist someone or something (up†)",
+            "definition": "Rur. to lift someone or something. See if you can heist that box onto the top shelf.  Dad heisted me up so I could see over the fence.  John groaned and heisted up the bale of hay."
+        },
+        {
+            "id": 113,
+            "phrase": "hell around",
+            "definition": "Sl. to go around making trouble or noise.  Who are those kids who are out there helling around every night? _ They hell around because it’s fun."
+        },
+        {
+            "id": 114,
+            "phrase": "Hell hath no fury like a woman scorned.",
+            "definition": "Prov. There is nothing as unpleasant as a woman who has been offended or whose love has not been returned.  When Mary Ann discovered that George was not in love with her, George discovered that hell hath no fury like a woman scorned.  Bill: I’m getting tired of going out with Mary; I think I’ll tell her we’re through. Fred: Be careful. Hell hath no fury like a woman scorned, you know."
+        },
+        {
+            "id": 115,
+            "phrase": "a hell of a mess",
+            "definition": "Inf. a terrible mess. (Use caution with hell.) _ This is really a hell of a mess you’ve gotten us into.  I never dreamed I’d come back to such a hell of a mess."
+        },
+        {
+            "id": 116,
+            "phrase": "a hell of a note",
+            "definition": "Inf. a surprising or amazing piece of news. (Use caution with hell.) _ So you’re just going to leave me like that? Well, that’s a hell of a note! _ You forgot what I asked you to bring? That’s a hell of a note."
+        },
+        {
+            "id": 117,
+            "phrase": "hell on a holiday",
+            "definition": "Rur. a big commotion. (Use caution with hell.) _ It was hell on a holiday outside the stadium when the team won the big game.  What’s going on down on Main Street? Sounds like hell on a holiday!"
+        },
+        {
+            "id": 118,
+            "phrase": "hell on earth",
+            "definition": "a very unpleasant situation, as if one were in hell. That man made my life hell on earth! _The whole time I was there was just hell on earth."
+        },
+        {
+            "id": 119,
+            "phrase": "hell-bent for leather",
+            "definition": "Inf.moving or behaving recklessly; riding a horse fast and recklessly. They took off after the horse thief, riding hell-bent for leather.  Here comes the boss. She’s not just angry; she’s hell-bent for leather."
+        },
+        {
+            "id": 120,
+            "phrase": "hell-bent for somewhere or something",
+            "definition": "riding or drive somewhere very fast or recklessly. Fred sped along, hellbent for home, barely missing another car."
+        },
+        {
+            "id": 121,
+            "phrase": "Hellfire and damnation!",
+            "definition": "Inf. Damn it! (An oath used to express anger or irritation.) _Hellfire and damnation! Turn that radio down! _ Hellfire and damnation! This is the second time our picnic’s been rained out."
+        },
+        {
+            "id": 122,
+            "phrase": "Hell’s bells (and buckets of blood)!",
+            "definition": "Inf. an exclamation of anger or surprise. (Use caution with hell.) _Alice: Your pants are torn in back. John: Oh, hell’s bells! What will happen next? _ Bill: Well, Jane, looks like you just flunked calculus. Jane: Hell’s bells and buckets of blood! What do I do now?"
+        },
+        {
+            "id": 123,
+            "phrase": "help out some place",
+            "definition": "to help [with the chores] in a particular place. Would you be able to help out in the kitchen? _ Sally is downtown, helping out at the shop."
+        },
+        {
+            "id": 124,
+            "phrase": "help out (with something)",
+            "definition": "to help with a particular chore.  Would you please help out with the dishes? _ I have to help out at home on the weekends."
+        },
+        {
+            "id": 125,
+            "phrase": "help someone along",
+            "definition": "1. to help someone move along.  I helped the old man along.  Please help her along. She has a hurt leg. 2. to help someone advance. I am more than pleased to help you along with your math. She helped herself along by studying hard."
+        },
+        {
+            "id": 126,
+            "phrase": "help someone back (to something)",
+            "definition": "to help someone return to something or some place. The ushers helped him back to his seat.  When she returned, I helped her back."
+        },
+        {
+            "id": 127,
+            "phrase": "help someone down (from something)",
+            "definition": "to help someone climb down from something.  Sharon helped the boy down from the horse.  Elaine helped the children down."
+        },
+        {
+            "id": 128,
+            "phrase": "help someone in something",
+            "definition": "to help someone with some task; to help someone in the doing of something. Please help me in my efforts to win the contest.  Will you help me in my reelection?"
+        },
+        {
+            "id": 129,
+            "phrase": "help someone in(to something)",
+            "definition": "to help someone get into something. I will help my grandfather into the car. We all had to help him in."
+        },
+        {
+            "id": 130,
+            "phrase": "help someone off with something",
+            "definition": "to help someone take off an article of clothing. Would you please help me off with my coat? _We helped the children off with their boots and put their coats in the hall."
+        },
+        {
+            "id": 131,
+            "phrase": "help someone on with something",
+            "definition": "to help someone put on an article of clothing.  Would you help me on with my coat? _ Please help her on with her coat."
+        },
+        {
+            "id": 132,
+            "phrase": "help someone or an animal (get) over something",
+            "definition": "to aid someone or an animal climb over something.  I helped him get over the wall.  I helped the puppy over the barrier."
+        },
+        {
+            "id": 133,
+            "phrase": "help someone or an animal out (of something)",
+            "definition": "1. to help someone or an animal get out of something or some place.  Please help your grandmother out of the car.  Please help the cat out of the carton. 2. to help someone or an animal get out of a garment.  She helped the dog out of its sweater.  I helped her out of her coat when we got inside. 3. to help someone or an animal get out of trouble. Can you please help me out of this mess that I got myself into? _ You are in a real mess. We will help you out."
+        },
+        {
+            "id": 134,
+            "phrase": "help someone or something out† with someone or something",
+            "definition": "to assist someone or something with a person or a thing. Can you help me out with my geometry? _Please help out my son with his geometry."
+        },
+        {
+            "id": 135,
+            "phrase": "help someone or something with someone or something",
+            "definition": "to give aid to someone or something in dealing with someone or something.  Please help your father with your little sister.  I helped the committee with the problem."
+        },
+        {
+            "id": 136,
+            "phrase": "help (someone) out†",
+            "definition": "to help someone do something; to help someone with a problem.  I am trying to raise this window. Can you help me out? _ I’m always happy to help out a friend."
+        },
+        {
+            "id": 137,
+            "phrase": "help someone up† (from something)",
+            "definition": "to help someone rise up from something; to help someone get up from something. She offered to help him up from the chair. Elaine helped up her grandmother who was stuck in the chair."
+        },
+        {
+            "id": 138,
+            "phrase": "Help yourself.",
+            "definition": "Please take what you want without asking permission.  Sally: Can I have one of these doughnuts? Bill: Help yourself.  Mother led the little troop of my friends to the kitchen table, which was covered with cups of juice and plates of cookies. “Help yourself,” she said."
+        },
+        {
+            "id": 139,
+            "phrase": "*a helping hand",
+            "definition": "help; physical help, especially with the hands. (*Typically: get ~; need ~; give someone ~; offer ~; offer someone ~.) _ When you feel like you need a helping hand making dinner, just let me know."
+        },
+        {
+            "id": 140,
+            "phrase": "hem and haw (around)",
+            "definition": "Inf. to be uncertain about something; to be evasive; to say “ah” and “eh” when speaking— avoiding saying something meaningful.  Stop hemming and hawing around. I want an answer.  Don’t just hem and haw around. Speak up. We want to hear what you think."
+        },
+        {
+            "id": 141,
+            "phrase": "hem someone or something in†",
+            "definition": "to trap or enclose someone or something.  The large city buildings hem me in.  Don’t hem in the bird. Let it have a way to escape."
+        },
+        {
+            "id": 142,
+            "phrase": "*hepped (up)",
+            "definition": "Sl. to be intoxicated. (*Typically: be ~; get ~.) _Wally is a little too hepped up to drive home.  Harry’s too hepped to stand up."
+        },
+        {
+            "id": 143,
+            "phrase": "herd someone or something together",
+            "definition": "to bunch people or animals together. Let’s herd all the kids together and take them in the house for ice cream and cake. I herded all the puppies together and put them in a box while I cleaned their play area."
+        },
+        {
+            "id": 144,
+            "phrase": "the here and now",
+            "definition": "the present, as opposed to the past or the future.  I don’t care what’s happening tomorrow or next week! I care about the here and now.  The past is dead. Let’s worry about the here and now."
+        },
+        {
+            "id": 145,
+            "phrase": "here and there",
+            "definition": "at this place and that; from place to place. We find rare books in used-book stores here and there.  She didn’t make a systematic search. She just looked here and there."
+        },
+        {
+            "id": 146,
+            "phrase": "Here goes nothing.",
+            "definition": "Inf. I am beginning to do something that will fail or be poorly done.  Sally stood on the diving board and said, “Here goes nothing.” _ As Ann walked onto the stage, she whispered, “Here goes nothing.”"
+        },
+        {
+            "id": 147,
+            "phrase": "Here (it) goes.",
+            "definition": "Something is going to start.; I will start now.; I will do it now. I’m ready to start now. Here goes.  Okay, it’s my turn to kick the ball. Here it goes!"
+        },
+        {
+            "id": 148,
+            "phrase": "Here’s to someone or something.",
+            "definition": "an expression used as a toast to someone or something to wish someone or something well.  Here’s to Jim and Mary! May they be very happy! _ Here’s to your new job!"
+        },
+        {
+            "id": 149,
+            "phrase": "Here’s your hat, what’s your hurry?",
+            "definition": "Rur. It is time for you to go. (Jocular.) _ I hate to rush you out the door, but here’s your hat, what’s your hurry? _Jane: I suppose I’d better be on my way. Charlie: Here’s your hat, what’s your hurry?"
+        },
+        {
+            "id": 150,
+            "phrase": "here, there, and everywhere",
+            "definition": "everywhere; at all points.  Fred searched here, there, and everywhere, frantically looking for the lost check.  She did not rest until she had been here, there, and everywhere, shopping for just the right gift."
+        },
+        {
+            "id": 151,
+            "phrase": "Here today, (and) gone tomorrow.",
+            "definition": "Prov. Available now, but soon to be gone. (Used to describe something that does not last—often an opportunity).  The stores near my house don’t stay in business very long—here today, and gone tomorrow.  If you want this carpet, buy it now. This sale price is here today, gone tomorrow."
+        },
+        {
+            "id": 152,
+            "phrase": "Here we go again.",
+            "definition": "We are going to experience the same thing again.; We are going to hear about or discuss the same thing again. John: Now, I would like to discuss your behavior in class yesterday. Bill (to himself): Here we go again. Fred: We must continue our discussion of the Wilson project. Sue: Here we go again. Fred: What’s that? Sue: Nothing."
+        },
+        {
+            "id": 153,
+            "phrase": "Here you go.",
+            "definition": "Inf. Here is what you asked for.  “Here you go,” said the waiter as he put the plate on the table.  Here you go. Here is your hamburger and your drink."
+        },
+        {
+            "id": 154,
+            "phrase": "hesitate over something",
+            "definition": "to pause before acting on something; to suspend action about someone or something.  We are hesitating over the final decision because we have some doubts about the competitors.  Do not hesitate too long over this matter."
+        },
+        {
+            "id": 155,
+            "phrase": "hew something down†",
+            "definition": "to fell something wooden, usually a tree.  We will have to hew most of this forest down.  They hewed down the tree."
+        },
+        {
+            "id": 156,
+            "phrase": "hew to something",
+            "definition": "to conform to a rule or principle.  I wish you would hew to the rules a little better.  Sarah refuses to hew to the company policies."
+        },
+        {
+            "id": 157,
+            "phrase": "a hidden agenda",
+            "definition": "a secret plan; a concealed plan; a plan disguised as a plan with another purpose. I am sure that the chairman has a hidden agenda. I never did trust him anyway."
+        },
+        {
+            "id": 158,
+            "phrase": "hide behind someone or something",
+            "definition": "to conceal oneself behind someone or something. The child hid behind his father.  Rachel hid behind a tree."
+        },
+        {
+            "id": 159,
+            "phrase": "hide from someone or an animal",
+            "definition": "to conceal oneself from someone or an animal.  Are you hiding from me? _ The rabbit was trying to hide from the fox."
+        },
+        {
+            "id": 160,
+            "phrase": "hide one’s face in shame",
+            "definition": "to cover one’s face because of shame or embarrassment. Mary was so embarrassed. She could only hide her face in shame.  When Tom broke Ann’s crystal vase, he wanted to hide his face in shame."
+        },
+        {
+            "id": 161,
+            "phrase": "hide one’s light under a bushel",
+            "definition": "to conceal one’s good ideas or talents. (A biblical theme.) _Jane has some good ideas, but she doesn’t speak very often. She hides her light under a bushel. Don’t hide your light under a bushel. Share your thoughts with other people."
+        },
+        {
+            "id": 162,
+            "phrase": "hide out (from someone or something)",
+            "definition": "to hide oneself so that one cannot be found by someone or something.  Max was hiding out from the police in Detroit.  Lefty is hiding out too."
+        },
+        {
+            "id": 163,
+            "phrase": "hide someone or something away† (some place)",
+            "definition": "to conceal someone or something somewhere.  Please hide Randy away where no one can find him.  Rachel hid the cake away, hoping to save it for dessert.  Mary hid away the candy so the kids wouldn’t eat it all."
+        },
+        {
+            "id": 164,
+            "phrase": "hide someone or something behind something",
+            "definition": "to use something to conceal someone or something.  We hid the guests for the surprise party behind a large Oriental screen.  I will hide the cake behind the screen too."
+        },
+        {
+            "id": 165,
+            "phrase": "hide something in something",
+            "definition": "to conceal something inside something. She hid her money in a book. Let’s hide the cake in this closet."
+        },
+        {
+            "id": 166,
+            "phrase": "high and dry",
+            "definition": "safe; unbothered by difficulties; unscathed. (As if someone or something were safe from a flood. See also leave someone high and dry.) _ While the riot was going on down on the streets, I was high and dry in my apartment. Liz came out of the argument high and dry."
+        },
+        {
+            "id": 167,
+            "phrase": "high man on the totem pole",
+            "definition": "the person at the top of the hierarchy; the person in charge of an organization.  I don’t want to talk to a vice president. I demand to talk to the high man on the totem pole.  Who’s in charge around here? Who’s high man on the totem pole?"
+        },
+        {
+            "id": 168,
+            "phrase": "high on something",
+            "definition": "Sl. 1. excited or enthusiastic about something. Tom is really high on the idea of going to Yellowstone this summer.  I’m not high on going, but I will. 2. intoxicated.  John is acting as if he is high on something. Has he been doing drugs again?"
+        },
+        {
+            "id": 169,
+            "phrase": "a high roller",
+            "definition": "a gambler who bets heavily. They welcomed me at the casino because I had the same name as one of their high rollers."
+        },
+        {
+            "id": 170,
+            "phrase": "*the high sign",
+            "definition": "a prearranged signal for going ahead with something. (Often refers to a hand signal or some other visual signal. *Typically: get ~; give someone ~.) _ When I got the high sign, I pulled cautiously out into the roadway. The train’s engineer got the high sign and began to move the train out of the station."
+        },
+        {
+            "id": 171,
+            "phrase": "high-and-mighty",
+            "definition": "self-important and arrogant.  I don’t know why William is so high-and-mighty. He’s no better than the rest of us.  The boss acts high-and-mighty because he can fire us all."
+        },
+        {
+            "id": 172,
+            "phrase": "high-pressure someone into something",
+            "definition": "to urge someone forcefully to do something.  Here comes Jill. Watch out. She will try to high-pressure you into working on her committee.  You can’t high-pressure me into doing anything! I’m too busy!"
+        },
+        {
+            "id": 173,
+            "phrase": "hightail it out of somewhere",
+            "definition": "Rur. to run or ride a horse away from somewhere fast; to leave in a hurry. (Typically heard in western movies.) _ Here comes the sheriff. We’d better hightail it out of here. Look at that guy go. He really hightailed it out of town."
+        },
+        {
+            "id": 174,
+            "phrase": "highway robbery",
+            "definition": "outrageous overpricing; a bill that is much higher than normally acceptable but must be paid. (As if one had been accosted and robbed on the open road or in broad daylight.) _ Four thousand dollars! That’s highway robbery for one piece of furniture! _ I won’t pay it! It’s highway robbery!"
+        },
+        {
+            "id": 175,
+            "phrase": "highways and byways",
+            "definition": "1. major and minor roads.  The city council voted to plant new trees along all the highways and byways of the town. 2. Cliché routes and pathways, both major and minor.  I hope I meet you again some day on life’s highways and byways."
+        },
+        {
+            "id": 176,
+            "phrase": "hike something up†",
+            "definition": "to raise something, such as prices, interest rates, a skirt, pants legs, etc.  The grocery store is always hiking prices up.  She hiked up her skirt so she could wade across the creek."
+        },
+        {
+            "id": 177,
+            "phrase": "hind end",
+            "definition": "Rur. the rump of someone or an animal.  If you say that again, I’ll swat you right across the hind end.  The mule slipped and came down right on her hind end."
+        },
+        {
+            "id": 178,
+            "phrase": "the hind end of creation",
+            "definition": "Rur. a very remote place.  I wish I lived in the city. I’m tired of living here in the hind end of creation. Joe moved out to a little shack at the hind end of creation."
+        },
+        {
+            "id": 179,
+            "phrase": "hinder someone from something",
+            "definition": "to prevent someone from doing something.  Please don’t hinder me from my appointed tasks.  You can’t hinder me from doing what I want!"
+        },
+        {
+            "id": 180,
+            "phrase": "hindside first",
+            "definition": "Rur. backwards.  You’ve got your shirt on hindside first.  The horse came out of the trailer hindside first."
+        },
+        {
+            "id": 181,
+            "phrase": "hinge (up)on someone or something",
+            "definition": "to depend on someone or something; to depend on what someone or something does. (Upon is formal and less commonly used than on.) _ The success of the project hinges upon you and how well you do your job.  How well the corn crop does all hinges on the weather."
+        },
+        {
+            "id": 182,
+            "phrase": "hint at something",
+            "definition": "to refer to something; to insinuate something.  What are you hinting at? _ I am not hinting at anything. I am telling you to do it!"
+        },
+        {
+            "id": 183,
+            "phrase": "hint for something",
+            "definition": "to give a hint that something is wanted.  I could tell she was hinting for an invitation.  Are you hinting for a second helping of fried chicken?"
+        },
+        {
+            "id": 184,
+            "phrase": "hint something to someone",
+            "definition": "to give a hint or clue to someone.  I thought she was leaving. She hinted that to me.  She wasn’t hinting anything to you! You made it all up!"
+        },
+        {
+            "id": 185,
+            "phrase": "*hip to someone or something",
+            "definition": "Inf. knowing about someone or something; adapting to someone or something. (*Typically: be ~; get ~; become ~.) _The boss began to get hip to Mary and her deviousness.  She finally began to get hip to what was going on."
+        },
+        {
+            "id": 186,
+            "phrase": "hire someone away† (from someone or something)",
+            "definition": "[for one] to get someone to quit working for some other employer and begin working for one.  We hired Elaine away from her previous employer, and now she wants to go back.  The new bank hired away all the tellers from the old bank."
+        },
+        {
+            "id": 187,
+            "phrase": "hire someone or something out†",
+            "definition": "to grant someone the use or efforts of someone or something for pay.  I hired my son out as a lawn-care specialist. I hire out my son to mow lawns."
+        },
+        {
+            "id": 188,
+            "phrase": "hiss at someone or something",
+            "definition": "1. [for a reptile] to make a hissing sound as a warning. The snake hissed at me. Otherwise I wouldn’t have known it was there.  The lizard hissed at the snake. 2. [for someone] to make a hissing sound at someone to show disapproval.  The audience hissed at the performer, who was not all that bad.  They hissed at all three acts."
+        },
+        {
+            "id": 189,
+            "phrase": "hiss someone off ((of ) the stage)",
+            "definition": "[for the audience] to hiss and drive a performer off the stage.  The boys in the front row tried to hiss her off the stage.  The audience, angry with the quality of the singers, tried to hiss them all off."
+        },
+        {
+            "id": 190,
+            "phrase": "hiss something out†",
+            "definition": "to say something with a hissing voice, usually in anger or disgust.  The disgusted manager hissed his appraisal out.  He hissed out his criticism."
+        },
+        {
+            "id": 191,
+            "phrase": "hissy (fit)",
+            "definition": "Rur. a tantrum. (Often with throw. Probably refers to an angry, hissing cat.) _ Jane practically has a hissy fit every time she gets a run in her nylons.  The boss is really mad today. It’s just one hissy fit after another."
+        },
+        {
+            "id": 192,
+            "phrase": "History repeats itself.",
+            "definition": "Prov. The same kinds of events seem to happen over and over.  It seems that history is about to repeat itself for that poor country; it is about to be invaded again.  Alan: The country is headed for an economic depression. Jane: How do you know? Alan: History repeats itself. The conditions now are just like the conditions before the last major depression."
+        },
+        {
+            "id": 193,
+            "phrase": "hit a plateau",
+            "definition": "to reach a higher level of activity, sales, production, output, etc., and then stop and remain unchanged for a time.  When my sales hit a plateau, my boss gave me a pep talk.  When production hit a plateau, the company built a new factory."
+        },
+        {
+            "id": 194,
+            "phrase": "hit a snag",
+            "definition": "to run into an unexpected problem.  We’ve hit a snag with the building project. I stopped working on the roof when I hit a snag."
+        },
+        {
+            "id": 195,
+            "phrase": "hit against someone or something",
+            "definition": "to strike against someone or something.  The door hit against me as I went through.  The door hit against my foot as I went out."
+        },
+        {
+            "id": 196,
+            "phrase": "hit at someone or something",
+            "definition": "to strike at someone or something.  The injured man hit at the nurses who were trying to help him.  I hit at the wall to see how solid it was."
+        },
+        {
+            "id": 197,
+            "phrase": "hit back (at someone or something)",
+            "definition": "to strike someone or something back. Tom hit Fred, and Fred hit back at Tom.  I have to hit back when someone hits me."
+        },
+        {
+            "id": 198,
+            "phrase": "hit bottom",
+            "definition": "to reach the lowest or worst point. Our profits have hit bottom. This is our worst year ever. When my life hit bottom, I began to feel much better. I knew that if there was going to be any change, it would be for the better."
+        },
+        {
+            "id": 199,
+            "phrase": "hit it off (with someone)",
+            "definition": "to quickly become good friends with someone.  Look how John hit it off with Mary.  Yes, they really hit it off."
+        },
+        {
+            "id": 200,
+            "phrase": "hit on someone",
+            "definition": "Inf. to flirt with someone; to make a pass at someone.  The women were all hitting on George, but he didn’t complain. I thought he was going to hit on me— but he didn’t."
+        },
+        {
+            "id": 201,
+            "phrase": "hit on something",
+            "definition": "to discover something. She hit on a new scheme for removing the impurities from drinking water.  I hit on it when I wasn’t able to sleep one night."
+        },
+        {
+            "id": 202,
+            "phrase": "hit out (at someone or something) (in something)",
+            "definition": "to strike at someone or something in some state, such as anger, revenge, etc.  The frightened child hit out at the teacher in sheer terror. He hit out in terror. Andy hit out at the threat."
+        },
+        {
+            "id": 203,
+            "phrase": "hit out (for something or some place)",
+            "definition": "Rur. to start out for something or some place.  We hit out for the top of the hill early in the morning, and it was noon before we got there.  We’ll hit out about noon."
+        },
+        {
+            "id": 204,
+            "phrase": "hit pay dirt",
+            "definition": "1. Fig. to discover something of value. (Alludes to discovering valuable ore.) _Sally tried a number of different jobs until she hit pay dirt.  I tried to borrow money from a lot of different people. They all said no. Then when I went to the bank, I hit pay dirt. 2. Fig. to get great riches. After years of poverty, the writer hit pay dirt with his third novel.  Jane’s doing well. She really hit pay dirt with her new business."
+        },
+        {
+            "id": 205,
+            "phrase": "hit someone below the belt",
+            "definition": "[for a boxer] to strike an opponent below the belt. (An unfair blow.) _ The champ hit the contender below the belt and the crowd began to boo like fury.  Fred was hit below the belt and suffered considerably."
+        },
+        {
+            "id": 206,
+            "phrase": "hit someone hard",
+            "definition": "to affect someone’s emotions strongly.  The death of his friend hit John hard.  The investor was hit hard by the falling stock prices."
+        },
+        {
+            "id": 207,
+            "phrase": "hit someone in something",
+            "definition": "to strike someone on a particular part of the body.  She hit him in the face by accident.  Watch out or you’ll hit yourself in the arm with the hammer."
+        },
+        {
+            "id": 208,
+            "phrase": "hit someone or an animal on something",
+            "definition": "to strike someone or an animal in a particular place.  The stone hit me on the leg.  I hit the beaver on its side and it didn’t seem to feel it.  She hit herself on her left cheek."
+        },
+        {
+            "id": 209,
+            "phrase": "hit someone (right) between the eyes",
+            "definition": "to strike someone between the eyes.  The baseball hit her right between the eyes."
+        },
+        {
+            "id": 210,
+            "phrase": "hit someone up† (for something)",
+            "definition": "to ask someone for a loan of money or for some other favor. The tramp hit up each tourist for a dollar. My brother hit up Harry for a couple of hundred bucks."
+        },
+        {
+            "id": 211,
+            "phrase": "hit someone with something",
+            "definition": "1. Fig. to charge someone with an amount of money.  The government hit us with a big fine. The tax people hit us with a huge tax bill. 2. Fig. to present someone with shocking or surprising news. He was shocked when she hit him with the news that she was leaving.  Don’t hit me with another piece of bad news!"
+        },
+        {
+            "id": 212,
+            "phrase": "hit something off†",
+            "definition": "to begin something; to launch an event.  She hit off the fair with a speech.  The mayor hit the fair off by giving a brief address."
+        },
+        {
+            "id": 213,
+            "phrase": "hit the brakes",
+            "definition": "to step on a vehicle’s brakes hard and fast.  I came around the curve too fast and had to hit the brakes immediately."
+        },
+        {
+            "id": 214,
+            "phrase": "hit the (broad) side of a barn",
+            "definition": "to hit an easy target. (Usually negative.) _ He can’t park that car! He can’t hit the broad side of a barn, let alone that parking place.  He’s a lousy shot. He can’t hit the side of a barn."
+        },
+        {
+            "id": 215,
+            "phrase": "hit the bull’s-eye",
+            "definition": "to hit the very center of a circular target.  The archer hit the bull’s-eye three times in a row.  I didn’t hit the bull’s-eye even once."
+        },
+        {
+            "id": 216,
+            "phrase": "hit the deck",
+            "definition": "1. Fig. to fall down; to drop down to the floor or ground.  Hit the deck. Don’t let them see you.  I hit the deck the minute I heard the shots. 2. Fig. to get out of bed. Come on, hit the deck! It’s morning. Hit the deck! Time to rise and shine!"
+        },
+        {
+            "id": 217,
+            "phrase": "hit the fan",
+            "definition": "Inf. Fig. to become publicly known; to become a scandal. (From the phrase when the shit hit the fan.) _ I wasn’t even in the country when it hit the fan. It hit the fan, and within ten minutes the press had spread it all over the world."
+        },
+        {
+            "id": 218,
+            "phrase": "hit the ground running",
+            "definition": "to start the day very energetically.  A decade ago I had a lot more energy. I would wake up, hit the ground running, and never stop until I went to bed again."
+        },
+        {
+            "id": 219,
+            "phrase": "hit the high spots",
+            "definition": "to do only the important, obvious, or good things. I won’t discuss the entire report. I’ll just hit the high spots. First, let me hit the high spots; then I’ll tell you the details."
+        },
+        {
+            "id": 220,
+            "phrase": "hit the jackpot",
+            "definition": "to win a large amount of money gambling or in a lottery.  I hit the jackpot in the big contest.  Sally hit the jackpot in the lottery."
+        },
+        {
+            "id": 221,
+            "phrase": "hit the nail (right) on the head",
+            "definition": "to strike a nail precisely on the head with a hammer.  If you expect to drive a nail straight, you have to hit the nail on the head."
+        },
+        {
+            "id": 222,
+            "phrase": "hit the road",
+            "definition": "to depart; to begin one’s journey, especially on a road trip; to leave for home.  It’s time to hit the road. I’ll see you.  We have to hit the road very early in the morning."
+        },
+        {
+            "id": 223,
+            "phrase": "hit the skids",
+            "definition": "to decline; to decrease in value or status.  Jed hit the skids when he started drinking.  The firm hit the skids when the dollar collapsed."
+        },
+        {
+            "id": 224,
+            "phrase": "hit the spot",
+            "definition": "Inf. to be exactly right; to be refreshing.  This cool drink really hits the spot.  That was a delicious meal, dear. It hit the spot."
+        },
+        {
+            "id": 225,
+            "phrase": "hit the trail",
+            "definition": "Inf. to leave. (As if one were hiking or riding a horse.) _ I have to hit the trail before sunset.  Let’s hit the trail. It’s late."
+        },
+        {
+            "id": 226,
+            "phrase": "hit town",
+            "definition": "to arrive in town. The minute he hit town, he checked into a hotel and took a long nap."
+        },
+        {
+            "id": 227,
+            "phrase": "hit (up)on someone or something",
+            "definition": "to strike or pound on someone or something. (Upon is formal and less commonly used than on.) _ Jeff hit upon the mugger over and over.  I hit on the radio until it started working again."
+        },
+        {
+            "id": 228,
+            "phrase": "hitch someone or something (up†) (to something)",
+            "definition": "to attach someone or something to something.  Please hitch the horse up to the wagon, and let’s get going.  Please hitch up the horse."
+        },
+        {
+            "id": 229,
+            "phrase": "Hitch your wagon to a star.",
+            "definition": "Prov. Always aspire to do great things.; Do not set pessimistic goals. (From Ralph Waldo Emerson’s essay, “Civilization.”) _The speaker who delivered the high school commencement address challenged the graduating students to hitch their wagons to a star.  Bob: What do you want to be when you grow up? Child: I used to want to be a great actor, but my dad told me hardly anybody gets to be an actor, so now I have to pick something else. Bob: Nonsense. If you want to be an actor, then do your best to be an actor. Hitch your wagon to a star!"
+        },
+        {
+            "id": 230,
+            "phrase": "a hive of activity",
+            "definition": "a location where things are very busy.  The hotel lobby was a hive of activity each morning.  During the holidays, the shopping center is a hive of activity."
+        },
+        {
+            "id": 231,
+            "phrase": "hoard something up†",
+            "definition": "to accumulate a large store of something against bad times.  Scott was hoarding canned goods up for the hard times ahead.  He hoarded up many pounds of canned tuna."
+        },
+        {
+            "id": 232,
+            "phrase": "*hoarse as a crow",
+            "definition": "very hoarse. (*Also: as ~.) _ After shouting at the team all afternoon, the coach was as hoarse as a crow.  Jill: Has Bob got a cold? Jane: No, he’s always hoarse as a crow."
+        },
+        {
+            "id": 233,
+            "phrase": "hobnob with someone or something",
+            "definition": "to associate with someone or a group, especially with those more wealthy, famous, etc. I’m not used to hobnobbing with such luminaries. Walter is spending a lot of time hobnobbing with the very rich."
+        },
+        {
+            "id": 234,
+            "phrase": "Hobson’s choice",
+            "definition": "the choice between taking what is offered and getting nothing at all. (From the name of a stable owner in the seventeenth century who always hired out the horse nearest the door.) _ We didn’t really want that particular hotel, but it was a case of Hobson’s choice. We booked very late and there was nothing else left. If you want a yellow car, it’s Hobson’s choice. The garage has only one."
+        },
+        {
+            "id": 235,
+            "phrase": "hoe one’s own row",
+            "definition": "Rur. to mind one’s own business.  Tom: You’re cutting up those carrots awful small. Jane: Hoe your own row! _ He didn’t get involved in other people’s fights. He just hoed his own row."
+        },
+        {
+            "id": 236,
+            "phrase": "hog wild",
+            "definition": "wild; out of control. I went hog wild at the sale and bought six new pairs of shoes.  There were a dozen different desserts at the picnic. A person who liked sweets could go hog wild."
+        },
+        {
+            "id": 237,
+            "phrase": "hoist with one’s own petard",
+            "definition": "to be harmed or disadvantaged by an action of one’s own which was meant to harm someone else. (From a line in Shakespeare’s Hamlet.) _ She intended to murder her brother but was hoist with her own petard when she ate the poisoned food intended for him.  The vandals were hoist with their own petard when they tried to make an emergency call from the pay phone they had broken."
+        },
+        {
+            "id": 238,
+            "phrase": "Hoist your sail when the wind is fair.",
+            "definition": "Prov. Begin a project when circumstances are the most favorable.  Don’t ask your mother for permission now; she’s in a bad mood. Hoist your sail when the wind is fair.  Wait until the economy has stabilized before trying to start your own business. Hoist your sail when the wind is fair."
+        },
+        {
+            "id": 239,
+            "phrase": "hold a meeting",
+            "definition": "to meet; to have a meeting (of an organization).  We’ll have to hold a meeting to make a decision.  Our club held a meeting to talk about future projects."
+        },
+        {
+            "id": 240,
+            "phrase": "hold back (on something)",
+            "definition": "to withhold something; to give or take only a limited amount.  Hold back on the gravy. I’m on a diet.  That’s enough. Hold back. Save some for the others."
+        },
+        {
+            "id": 241,
+            "phrase": "hold by something",
+            "definition": "to stick by a promise.  I hope that you will hold by our agreement.  I will hold by everything I said."
+        },
+        {
+            "id": 242,
+            "phrase": "Hold everything!",
+            "definition": "Inf. Stop everything!; Everyone, stop! _ “Hold everything!” cried Mary. “There’s a squirrel loose in the kitchen!” _ Bill: Hold everything! Let’s try this part again. Bob: But we’ve already rehearsed it four times."
+        },
+        {
+            "id": 243,
+            "phrase": "hold forth (on someone or something)",
+            "definition": "to speak at great length about someone or something.  Sadie held forth on the virtues of home cooking.  Sharon is holding forth, and everyone is paying close attention."
+        },
+        {
+            "id": 244,
+            "phrase": "hold good for someone or something",
+            "definition": "[for an offer] to remain open to someone or a group.  Does your offer of help still hold good for us? _Does it hold good for the entire membership?"
+        },
+        {
+            "id": 245,
+            "phrase": "Hold it!",
+            "definition": "Inf. Stop right there. Tom: Hold it! Mary: What’s wrong? Tom: You almost stepped on my contact lens. Bill: Hold it! Bob: What is it? Bill: Sorry. For a minute, that stick looked like a snake."
+        },
+        {
+            "id": 246,
+            "phrase": "hold no brief for someone or something",
+            "definition": "not to tolerate someone or something; to be opposed to someone or something.  I hold no brief for Wally and his friends.  Rachel holds no brief for that kind of thing."
+        },
+        {
+            "id": 247,
+            "phrase": "hold off (from) doing something",
+            "definition": "to avoid doing something; to postpone doing something.  Can you hold off from buying a new car for another few months? _ I will hold off firing him until next week."
+        },
+        {
+            "id": 248,
+            "phrase": "hold off (on someone or something)",
+            "definition": "to delay doing something concerning someone or something.  Please hold off on Tom until we interview the other candidates. I will hold off on this job for a while."
+        },
+        {
+            "id": 249,
+            "phrase": "hold on",
+            "definition": "to be patient.  Just hold on. Everything will work out in good time.  If you will just hold on, everything will probably be all right."
+        }
+    ]
+}

@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "by a hair(‘s breadth)",
+            "definition": "just barely; by a very small distance.  I just missed getting on the plane by a hair’s breadth.  I made it onto the last f light by a hair!"
+        },
+        {
+            "id": 1,
+            "phrase": "by a whisker",
+            "definition": "just barely; by a very small distance.  I just missed getting on the plane by a hair’s breadth.  I made it onto the last f light by a hair!"
+        },
+        {
+            "id": 2,
+            "phrase": "by day",
+            "definition": "during the day; during the night. (Often used in simultaneous clauses for contrast.) _ By day, Mary worked in an office; by night, she took classes.  Dave slept by day and worked by night."
+        },
+        {
+            "id": 3,
+            "phrase": "by night",
+            "definition": "during the day; during the night. (Often used in simultaneous clauses for contrast.) _ By day, Mary worked in an office; by night, she took classes.  Dave slept by day and worked by night."
+        },
+        {
+            "id": 4,
+            "phrase": "by guess and by gosh",
+            "definition": "Rur. by estimating; without careful planning. Jane: Did you have a plan for putting up that toolshed? Tom: Nope, we just sort of did it by guess and by gosh.  Grandma always made dresses by guess and by golly, without using a pattern, and they always turned out just fine."
+        },
+        {
+            "id": 5,
+            "phrase": "by guess and by golly",
+            "definition": "Rur. by estimating; without careful planning. Jane: Did you have a plan for putting up that toolshed? Tom: Nope, we just sort of did it by guess and by gosh.  Grandma always made dresses by guess and by golly, without using a pattern, and they always turned out just fine."
+        },
+        {
+            "id": 6,
+            "phrase": "by herself",
+            "definition": "1. with no one else present; alone.  She hates to go to strange places by herself.  He sat by himself at a table big enough for six people. 2. with the help of no one else.  The two-year-old boy can get dressed by himself.  Susan is unable to get there by herself."
+        },
+        {
+            "id": 7,
+            "phrase": "by himself",
+            "definition": "1. with no one else present; alone.  She hates to go to strange places by herself.  He sat by himself at a table big enough for six people. 2. with the help of no one else.  The two-year-old boy can get dressed by himself.  Susan is unable to get there by herself."
+        },
+        {
+            "id": 8,
+            "phrase": "by return mail",
+            "definition": "by a subsequent mailing (back to the sender). (A phrase indicating that an answer is expected very soon, by mail.) _ Since this bill is overdue, would you kindly send us your check by return mail? _ I answered your request by return post over a year ago. Please check your records."
+        },
+        {
+            "id": 9,
+            "phrase": "by return post",
+            "definition": "by a subsequent mailing (back to the sender). (A phrase indicating that an answer is expected very soon, by mail.) _ Since this bill is overdue, would you kindly send us your check by return mail? _ I answered your request by return post over a year ago. Please check your records."
+        },
+        {
+            "id": 10,
+            "phrase": "*by the book",
+            "definition": "following the rules exactly. (Alludes to a (numbered) book of rules. *Typically: go ~; do something ~; play ~; run something ~.) _ The judge of the contest ran things strictly by the rules and disqualified us on a small technicality.  Everyone insisted that we go by the numbers and not accept the proposal."
+        },
+        {
+            "id": 11,
+            "phrase": "*by the numbers",
+            "definition": "following the rules exactly. (Alludes to a (numbered) book of rules. *Typically: go ~; do something ~; play ~; run something ~.) _ The judge of the contest ran things strictly by the rules and disqualified us on a small technicality.  Everyone insisted that we go by the numbers and not accept the proposal."
+        },
+        {
+            "id": 12,
+            "phrase": "by the way",
+            "definition": "1. a phrase indicating that the speaker is adding information. (By the by is not as frequent.) _ Tom: Is this one any good? Clerk: This is the largest and, by the way, the most expensive one we have in stock.  Bill: I’m a realtor. Is your house for sale? Alice: My house is not for sale, and, by the way, I too am a realtor. 2. a phrase indicating that the speaker is casually opening a new subject.  Bill: Oh, by the way, Fred, do you still have that hammer you borrowed from me? Fred: I’ll check. I thought I gave it back.  Jane: By the by, don’t you owe me some money? Sue: Who, me?"
+        },
+        {
+            "id": 13,
+            "phrase": "by the by",
+            "definition": "1. a phrase indicating that the speaker is adding information. (By the by is not as frequent.) _ Tom: Is this one any good? Clerk: This is the largest and, by the way, the most expensive one we have in stock.  Bill: I’m a realtor. Is your house for sale? Alice: My house is not for sale, and, by the way, I too am a realtor. 2. a phrase indicating that the speaker is casually opening a new subject.  Bill: Oh, by the way, Fred, do you still have that hammer you borrowed from me? Fred: I’ll check. I thought I gave it back.  Jane: By the by, don’t you owe me some money? Sue: Who, me?"
+        },
+        {
+            "id": 14,
+            "phrase": "cadge something from someone",
+            "definition": "Sl. to beg or borrow something from someone. Go cadge some sugar from the lady next door. I cadged this jacket off a friendly guy I met."
+        },
+        {
+            "id": 15,
+            "phrase": "cadge something off someone",
+            "definition": "Sl. to beg or borrow something from someone. Go cadge some sugar from the lady next door. I cadged this jacket off a friendly guy I met."
+        },
+        {
+            "id": 16,
+            "phrase": "calculate something into something",
+            "definition": "to include something in one’s calculations. Did you calculate the cost of the cake into the total? _Yes, I calculated in all the costs."
+        },
+        {
+            "id": 17,
+            "phrase": "calculate something in†",
+            "definition": "to include something in one’s calculations. Did you calculate the cost of the cake into the total? _Yes, I calculated in all the costs."
+        },
+        {
+            "id": 18,
+            "phrase": "call a meeting to order",
+            "definition": "to announce that a meeting is about to begin.  The chair called the meeting to order.  The meeting will be called to order at noon."
+        },
+        {
+            "id": 19,
+            "phrase": "call the meeting to order",
+            "definition": "to announce that a meeting is about to begin.  The chair called the meeting to order.  The meeting will be called to order at noon."
+        },
+        {
+            "id": 20,
+            "phrase": "Call no man happy till he dies.",
+            "definition": "Prov. You cannot tell if a person’s life has been happy on the whole until that person’s life is over; no matter how happy someone is now, something bad may happen to destroy his or her happiness.  Alan: You must be very happy with your new wife. Bill: Call no man happy till he dies.  Jill: That movie star must be the happiest person in the world. He’s rich, people love him, and he likes his work. Jane: Count no man happy till he dies."
+        },
+        {
+            "id": 21,
+            "phrase": "Count no man happy till he dies.",
+            "definition": "Prov. You cannot tell if a person’s life has been happy on the whole until that person’s life is over; no matter how happy someone is now, something bad may happen to destroy his or her happiness.  Alan: You must be very happy with your new wife. Bill: Call no man happy till he dies.  Jill: That movie star must be the happiest person in the world. He’s rich, people love him, and he likes his work. Jane: Count no man happy till he dies."
+        },
+        {
+            "id": 22,
+            "phrase": "call someone on the carpet",
+            "definition": "to reprimand a person. (When done by someone of clear superiority. Haul is stronger than call.) _One more error like that and the big boss will call you on the carpet. I’m sorry it went wrong. I really hope the regional manager doesn’t call me on the carpet again."
+        },
+        {
+            "id": 23,
+            "phrase": "haul someone on the carpet",
+            "definition": "to reprimand a person. (When done by someone of clear superiority. Haul is stronger than call.) _One more error like that and the big boss will call you on the carpet. I’m sorry it went wrong. I really hope the regional manager doesn’t call me on the carpet again."
+        },
+        {
+            "id": 24,
+            "phrase": "call someone or an animal off someone or something",
+            "definition": "to request that someone or an animal stop bothering or pursuing someone or something; to call a halt to an attack by someone or an animal.  Please call your dogs off my brother.  Call off your spying on me, or else!"
+        },
+        {
+            "id": 25,
+            "phrase": "call someone or an animal off†",
+            "definition": "to request that someone or an animal stop bothering or pursuing someone or something; to call a halt to an attack by someone or an animal.  Please call your dogs off my brother.  Call off your spying on me, or else!"
+        },
+        {
+            "id": 26,
+            "phrase": "call someone or something into something",
+            "definition": "to call to a person or a pet to come into something or some place. Would you please call Jeff into the house? _ Please call in Jeff."
+        },
+        {
+            "id": 27,
+            "phrase": "call someone or something in†",
+            "definition": "to call to a person or a pet to come into something or some place. Would you please call Jeff into the house? _ Please call in Jeff."
+        },
+        {
+            "id": 28,
+            "phrase": "call someone’s attention to something",
+            "definition": "to bring something to someone’s notice; to make someone recognize some fact.  May I call your attention to the sign on the door? _ He called to our attention the notice on the wall."
+        },
+        {
+            "id": 29,
+            "phrase": "call something to someone’s attention",
+            "definition": "to bring something to someone’s notice; to make someone recognize some fact.  May I call your attention to the sign on the door? _ He called to our attention the notice on the wall."
+        },
+        {
+            "id": 30,
+            "phrase": "call something (back) in",
+            "definition": "to formally request (usually by mail) that something be returned.  The car company called many cars back in for repairs.  They called in a lot of cars."
+        },
+        {
+            "id": 31,
+            "phrase": "call something in†",
+            "definition": "to formally request (usually by mail) that something be returned.  The car company called many cars back in for repairs.  They called in a lot of cars."
+        },
+        {
+            "id": 32,
+            "phrase": "call something to mind",
+            "definition": "to bring something into someone’s mind; to cause something to be remembered.  Your comment calls something unpleasant to mind.  This photo album calls our vacation to mind."
+        },
+        {
+            "id": 33,
+            "phrase": "bring something to mind",
+            "definition": "to bring something into someone’s mind; to cause something to be remembered.  Your comment calls something unpleasant to mind.  This photo album calls our vacation to mind."
+        },
+        {
+            "id": 34,
+            "phrase": "call (the) roll",
+            "definition": "to call the names of people from a list of those enrolled, expecting them to reply if they are present. After I call the roll, please open your books to page 12.  I will take roll, and then we will do arithmetic."
+        },
+        {
+            "id": 35,
+            "phrase": "take (the) roll",
+            "definition": "to call the names of people from a list of those enrolled, expecting them to reply if they are present. After I call the roll, please open your books to page 12.  I will take roll, and then we will do arithmetic."
+        },
+        {
+            "id": 36,
+            "phrase": "call the shots",
+            "definition": "to make the decisions; to decide what is to be done.  Sally always wants to call the shots, and Mary doesn’t like to be bossed around. They don’t get along well.  Sally always wants to call the tune."
+        },
+        {
+            "id": 37,
+            "phrase": "call the tune",
+            "definition": "to make the decisions; to decide what is to be done.  Sally always wants to call the shots, and Mary doesn’t like to be bossed around. They don’t get along well.  Sally always wants to call the tune."
+        },
+        {
+            "id": 38,
+            "phrase": "cancel someone out of something",
+            "definition": "1. to eliminate someone from something (as from a list of names).  We had to cancel them out.  We canceled out all the people who did not show up. 2. Sl. to eliminate someone; to kill someone.  The drug lord threatened to cancel out his former partner for testifying against him."
+        },
+        {
+            "id": 39,
+            "phrase": "cancel someone out†",
+            "definition": "1. to eliminate someone from something (as from a list of names).  We had to cancel them out.  We canceled out all the people who did not show up. 2. Sl. to eliminate someone; to kill someone.  The drug lord threatened to cancel out his former partner for testifying against him."
+        },
+        {
+            "id": 40,
+            "phrase": "cannot see the wood for the trees",
+            "definition": "Prov. Cannot perceive the overview or important things because of concentrating too much on details.  The information presented in this textbook is so disorganized that I can’t see the wood for the trees. The politician’s opponents claimed that she couldn’t see the forest for the trees, because she spent so much time trying to solve minor problems."
+        },
+        {
+            "id": 41,
+            "phrase": "cannot see the forest for the trees",
+            "definition": "Prov. Cannot perceive the overview or important things because of concentrating too much on details.  The information presented in this textbook is so disorganized that I can’t see the wood for the trees. The politician’s opponents claimed that she couldn’t see the forest for the trees, because she spent so much time trying to solve minor problems."
+        },
+        {
+            "id": 42,
+            "phrase": "can’t carry a tune",
+            "definition": "[to be] unable to sing a simple melody; lacking musical ability.  I wish that Tom wouldn’t try to sing. He can’t carry a tune.  I don’t know why Mary’s in the choir. She can’t carry a tune in a bushel basket.  Joe likes to sing in the shower, though he can’t carry a tune in a bucket.  I’d try to hum the song for you, but I can’t carry a tune in a paper sack."
+        },
+        {
+            "id": 43,
+            "phrase": "cannot carry a tune",
+            "definition": "[to be] unable to sing a simple melody; lacking musical ability.  I wish that Tom wouldn’t try to sing. He can’t carry a tune.  I don’t know why Mary’s in the choir. She can’t carry a tune in a bushel basket.  Joe likes to sing in the shower, though he can’t carry a tune in a bucket.  I’d try to hum the song for you, but I can’t carry a tune in a paper sack."
+        },
+        {
+            "id": 44,
+            "phrase": "can’t carry a tune in a bushel basket",
+            "definition": "[to be] unable to sing a simple melody; lacking musical ability.  I wish that Tom wouldn’t try to sing. He can’t carry a tune.  I don’t know why Mary’s in the choir. She can’t carry a tune in a bushel basket.  Joe likes to sing in the shower, though he can’t carry a tune in a bucket.  I’d try to hum the song for you, but I can’t carry a tune in a paper sack."
+        },
+        {
+            "id": 45,
+            "phrase": "can’t carry a tune in a bucket",
+            "definition": "[to be] unable to sing a simple melody; lacking musical ability.  I wish that Tom wouldn’t try to sing. He can’t carry a tune.  I don’t know why Mary’s in the choir. She can’t carry a tune in a bushel basket.  Joe likes to sing in the shower, though he can’t carry a tune in a bucket.  I’d try to hum the song for you, but I can’t carry a tune in a paper sack."
+        },
+        {
+            "id": 46,
+            "phrase": "can’t carry a tune in a paper sack",
+            "definition": "[to be] unable to sing a simple melody; lacking musical ability.  I wish that Tom wouldn’t try to sing. He can’t carry a tune.  I don’t know why Mary’s in the choir. She can’t carry a tune in a bushel basket.  Joe likes to sing in the shower, though he can’t carry a tune in a bucket.  I’d try to hum the song for you, but I can’t carry a tune in a paper sack."
+        },
+        {
+            "id": 47,
+            "phrase": "can’t stand (the sight of) someone or something",
+            "definition": "[to be] unable to tolerate someone or something; disliking someone or something extremely. (Also with cannot.) _ I can’t stand the sight of cooked carrots.  Mr. Jones can’t stomach the sight of blood. None of us can stand this place. Nobody can stand Tom when he smokes a cigar."
+        },
+        {
+            "id": 48,
+            "phrase": "can’t stomach someone or something",
+            "definition": "[to be] unable to tolerate someone or something; disliking someone or something extremely. (Also with cannot.) _ I can’t stand the sight of cooked carrots.  Mr. Jones can’t stomach the sight of blood. None of us can stand this place. Nobody can stand Tom when he smokes a cigar."
+        },
+        {
+            "id": 49,
+            "phrase": "carry a secret to the grave",
+            "definition": "to never reveal a secret, even to the day of one’s death.  John carried our secret to his grave.  Trust me, I will carry your secret to the grave!"
+        },
+        {
+            "id": 50,
+            "phrase": "carry a secret to one’s grave",
+            "definition": "to never reveal a secret, even to the day of one’s death.  John carried our secret to his grave.  Trust me, I will carry your secret to the grave!"
+        },
+        {
+            "id": 51,
+            "phrase": "carry a torch (for someone)",
+            "definition": "to be in love with someone who is not in love with you; to brood over a hopeless love affair.  John is carrying a torch for Jane.  Is John still carrying a torch after all this time?"
+        },
+        {
+            "id": 52,
+            "phrase": "carry the torch (for someone)",
+            "definition": "to be in love with someone who is not in love with you; to brood over a hopeless love affair.  John is carrying a torch for Jane.  Is John still carrying a torch after all this time?"
+        },
+        {
+            "id": 53,
+            "phrase": "carry one’s (own) weight",
+            "definition": "to do one’s share; to earn one’s keep. (The weight is the burden that is the responsibility of someone.) _Tom, you must be more helpful around the house. We each have to carry our own weight.  Bill, I’m afraid that you can’t work here anymore. You just haven’t been carrying your weight."
+        },
+        {
+            "id": 54,
+            "phrase": "pull one’s (own) weight",
+            "definition": "to do one’s share; to earn one’s keep. (The weight is the burden that is the responsibility of someone.) _Tom, you must be more helpful around the house. We each have to carry our own weight.  Bill, I’m afraid that you can’t work here anymore. You just haven’t been carrying your weight."
+        },
+        {
+            "id": 55,
+            "phrase": "carry someone or something about",
+            "definition": "to carry someone or something with one; to carry someone or something from place to place.  Do I have to carry these books about all over campus? _ You are too heavy, sweetie. I don’t want to carry you around all day."
+        },
+        {
+            "id": 56,
+            "phrase": "carry someone or something around",
+            "definition": "to carry someone or something with one; to carry someone or something from place to place.  Do I have to carry these books about all over campus? _ You are too heavy, sweetie. I don’t want to carry you around all day."
+        },
+        {
+            "id": 57,
+            "phrase": "carry someone or something into some place",
+            "definition": "to lift and move someone or something to some place. Will you carry the baby into the bedroom? _ Let me carry in the packages."
+        },
+        {
+            "id": 58,
+            "phrase": "carry someone or something in†",
+            "definition": "to lift and move someone or something to some place. Will you carry the baby into the bedroom? _ Let me carry in the packages."
+        },
+        {
+            "id": 59,
+            "phrase": "carry something onto something",
+            "definition": "to take something onto a vehicle.  Do you plan to carry this bag onto the plane? _ I’d like to carry on two bags.  Can I carry them both on?"
+        },
+        {
+            "id": 60,
+            "phrase": "carry something on†",
+            "definition": "to take something onto a vehicle.  Do you plan to carry this bag onto the plane? _ I’d like to carry on two bags.  Can I carry them both on?"
+        },
+        {
+            "id": 61,
+            "phrase": "carry something over† (until some time)",
+            "definition": "to defer something until a particular time. Can we carry this discussion over until later? _ We will carry over our discussion to tomorrow."
+        },
+        {
+            "id": 62,
+            "phrase": "carry something over† (to some time)",
+            "definition": "to defer something until a particular time. Can we carry this discussion over until later? _ We will carry over our discussion to tomorrow."
+        },
+        {
+            "id": 63,
+            "phrase": "carry something with one",
+            "definition": "to have something with one or on one’s person. (*The second form is informal.) _ Do you always carry that bag with you? _ I always carry a pen with."
+        },
+        {
+            "id": 64,
+            "phrase": "carry something with*",
+            "definition": "to have something with one or on one’s person. (*The second form is informal.) _ Do you always carry that bag with you? _ I always carry a pen with."
+        },
+        {
+            "id": 65,
+            "phrase": "carry the day",
+            "definition": "to be successful; to win a competition, argument, etc. (Originally meaning to win a battle.) _ Our team didn’t play well at first, but we won the day in the end.  Preparation won the day and James passed his exams."
+        },
+        {
+            "id": 66,
+            "phrase": "win the day",
+            "definition": "to be successful; to win a competition, argument, etc. (Originally meaning to win a battle.) _ Our team didn’t play well at first, but we won the day in the end.  Preparation won the day and James passed his exams."
+        },
+        {
+            "id": 67,
+            "phrase": "carved in stone",
+            "definition": "permanent or not subject to change. (Often in the negative.) _Now, this isn’t carved in stone yet, but this looks like the way it’s going to be.  Is this policy carved in stone, or can it still be modified?"
+        },
+        {
+            "id": 68,
+            "phrase": "engraved in stone",
+            "definition": "permanent or not subject to change. (Often in the negative.) _Now, this isn’t carved in stone yet, but this looks like the way it’s going to be.  Is this policy carved in stone, or can it still be modified?"
+        },
+        {
+            "id": 69,
+            "phrase": "written in stone",
+            "definition": "permanent or not subject to change. (Often in the negative.) _Now, this isn’t carved in stone yet, but this looks like the way it’s going to be.  Is this policy carved in stone, or can it still be modified?"
+        },
+        {
+            "id": 70,
+            "phrase": "cash on the barrelhead",
+            "definition": "Rur. cash at the time of purchase.  Jonson’s store doesn’t give credit. Everything is cash on the barrelhead. They offered me fifty thousand dollars cash on the line for Aunt Nancy’s old house."
+        },
+        {
+            "id": 71,
+            "phrase": "cash on the line",
+            "definition": "Rur. cash at the time of purchase.  Jonson’s store doesn’t give credit. Everything is cash on the barrelhead. They offered me fifty thousand dollars cash on the line for Aunt Nancy’s old house."
+        },
+        {
+            "id": 72,
+            "phrase": "cast around for someone or something",
+            "definition": "to seek someone or something; to seek a thought or an idea. (Alludes to a type of person or thing rather than a specific one.) _ John is casting around for a new cook. The old one quit.  Bob is casting about for a new car."
+        },
+        {
+            "id": 73,
+            "phrase": "cast about for someone or something",
+            "definition": "to seek someone or something; to seek a thought or an idea. (Alludes to a type of person or thing rather than a specific one.) _ John is casting around for a new cook. The old one quit.  Bob is casting about for a new car."
+        },
+        {
+            "id": 74,
+            "phrase": "cast someone aside†",
+            "definition": "to dispose of someone; to reject or discard someone.  He simply cast his wife aside, and that was it."
+        },
+        {
+            "id": 75,
+            "phrase": "cast someone off†",
+            "definition": "to dispose of someone; to reject or discard someone.  He simply cast his wife aside, and that was it."
+        },
+        {
+            "id": 76,
+            "phrase": "cast someone away†",
+            "definition": "to dispose of someone; to reject or discard someone.  He simply cast his wife aside, and that was it."
+        },
+        {
+            "id": 77,
+            "phrase": "cast something aside†",
+            "definition": "to throw something away.  You can’t just cast aside a new coat that you’ve only worn once."
+        },
+        {
+            "id": 78,
+            "phrase": "cast something off†",
+            "definition": "to throw something away.  You can’t just cast aside a new coat that you’ve only worn once."
+        },
+        {
+            "id": 79,
+            "phrase": "cast something away†",
+            "definition": "to throw something away.  You can’t just cast aside a new coat that you’ve only worn once."
+        },
+        {
+            "id": 80,
+            "phrase": "catch cold",
+            "definition": "to contract a cold (a common respiratory infection.) (Use with catch is more frequent.) _ Please close the window, or we’ll all catch cold.  I take cold every year at this time."
+        },
+        {
+            "id": 81,
+            "phrase": "take cold",
+            "definition": "to contract a cold (a common respiratory infection.) (Use with catch is more frequent.) _ Please close the window, or we’ll all catch cold.  I take cold every year at this time."
+        },
+        {
+            "id": 82,
+            "phrase": "catch forty winks",
+            "definition": "to take a nap; to get some sleep. I’ll just catch forty winks before getting ready for the party.  I think I’ll go to bed and take forty winks. See you in the morning."
+        },
+        {
+            "id": 83,
+            "phrase": "take forty winks",
+            "definition": "to take a nap; to get some sleep. I’ll just catch forty winks before getting ready for the party.  I think I’ll go to bed and take forty winks. See you in the morning."
+        },
+        {
+            "id": 84,
+            "phrase": "have forty winks",
+            "definition": "to take a nap; to get some sleep. I’ll just catch forty winks before getting ready for the party.  I think I’ll go to bed and take forty winks. See you in the morning."
+        },
+        {
+            "id": 85,
+            "phrase": "catch hell (about someone or something)",
+            "definition": "to be scolded (about someone or something). This isn’t the first time Bill’s caught hell about his drinking.  We knew we were gonna catch hell when Ma saw how we’d ruined her garden.  Somebody is going to catch hell for this!"
+        },
+        {
+            "id": 86,
+            "phrase": "get hell (about someone or something)",
+            "definition": "to be scolded (about someone or something). This isn’t the first time Bill’s caught hell about his drinking.  We knew we were gonna catch hell when Ma saw how we’d ruined her garden.  Somebody is going to catch hell for this!"
+        },
+        {
+            "id": 87,
+            "phrase": "catch hell (for something)",
+            "definition": "to be scolded (about someone or something). This isn’t the first time Bill’s caught hell about his drinking.  We knew we were gonna catch hell when Ma saw how we’d ruined her garden.  Somebody is going to catch hell for this!"
+        },
+        {
+            "id": 88,
+            "phrase": "Catch me later.",
+            "definition": "Please try to talk to me later.  Bill (angry): Tom, look at this phone bill! Tom: Catch me later.  “Catch me some other time,” hollered Mr. Franklin over his shoulder. “I’ve got to go to the airport.”"
+        },
+        {
+            "id": 89,
+            "phrase": "Catch me some other time.",
+            "definition": "Please try to talk to me later.  Bill (angry): Tom, look at this phone bill! Tom: Catch me later.  “Catch me some other time,” hollered Mr. Franklin over his shoulder. “I’ve got to go to the airport.”"
+        },
+        {
+            "id": 90,
+            "phrase": "catch one’s death (of cold)",
+            "definition": "to contract a cold, a common respiratory infection; to catch a serious cold.  If I go out in this weather, I’ll catch my death of cold.  Dress up warm or you’ll take your death."
+        },
+        {
+            "id": 91,
+            "phrase": "take one’s death (of cold)",
+            "definition": "to contract a cold, a common respiratory infection; to catch a serious cold.  If I go out in this weather, I’ll catch my death of cold.  Dress up warm or you’ll take your death."
+        },
+        {
+            "id": 92,
+            "phrase": "catch sight of someone or something",
+            "definition": "to see someone or something briefly; to get a quick look at someone or something.  I caught sight of the plane just before it f lew out of sight.  Ann caught a glimpse of the robber as he ran out of the bank."
+        },
+        {
+            "id": 93,
+            "phrase": "catch a glimpse of someone or something",
+            "definition": "to see someone or something briefly; to get a quick look at someone or something.  I caught sight of the plane just before it f lew out of sight.  Ann caught a glimpse of the robber as he ran out of the bank."
+        },
+        {
+            "id": 94,
+            "phrase": "catch some rays",
+            "definition": "to get some sunshine; to tan in the sun.  We wanted to catch some rays, but the sun never came out the whole time we were there.  I went to Hawaii to bag some rays."
+        },
+        {
+            "id": 95,
+            "phrase": "bag some rays",
+            "definition": "to get some sunshine; to tan in the sun.  We wanted to catch some rays, but the sun never came out the whole time we were there.  I went to Hawaii to bag some rays."
+        },
+        {
+            "id": 96,
+            "phrase": "catch some Zs",
+            "definition": "to get some sleep. (In comic strips, Zs are used to show that someone is sleeping or snoring.) _ I gotta catch some Zs before I drop.  Why don’t you stop a little bit and try to cop some Zs?"
+        },
+        {
+            "id": 97,
+            "phrase": "cop some Zs",
+            "definition": "to get some sleep. (In comic strips, Zs are used to show that someone is sleeping or snoring.) _ I gotta catch some Zs before I drop.  Why don’t you stop a little bit and try to cop some Zs?"
+        },
+        {
+            "id": 98,
+            "phrase": "cut some Zs",
+            "definition": "to get some sleep. (In comic strips, Zs are used to show that someone is sleeping or snoring.) _ I gotta catch some Zs before I drop.  Why don’t you stop a little bit and try to cop some Zs?"
+        },
+        {
+            "id": 99,
+            "phrase": "catch someone napping",
+            "definition": "to come upon someone who is unprepared; to surprise someone.  The enemy soldiers caught our army napping.  The thieves caught the security guard napping.  I didn’t expect you so soon. You caught me off balance.  The teacher asked a trick question and caught me up short.  The robbers caught Ann off balance and stole her purse."
+        },
+        {
+            "id": 100,
+            "phrase": "catch someone off balance",
+            "definition": "to come upon someone who is unprepared; to surprise someone.  The enemy soldiers caught our army napping.  The thieves caught the security guard napping.  I didn’t expect you so soon. You caught me off balance.  The teacher asked a trick question and caught me up short.  The robbers caught Ann off balance and stole her purse."
+        },
+        {
+            "id": 101,
+            "phrase": "catch someone up short",
+            "definition": "to come upon someone who is unprepared; to surprise someone.  The enemy soldiers caught our army napping.  The thieves caught the security guard napping.  I didn’t expect you so soon. You caught me off balance.  The teacher asked a trick question and caught me up short.  The robbers caught Ann off balance and stole her purse."
+        },
+        {
+            "id": 102,
+            "phrase": "catch someone off guard",
+            "definition": "to catch a person at a time of carelessness.  Tom caught Ann off guard and frightened her. She caught me off my guard, and my hesitation told her I was lying."
+        },
+        {
+            "id": 103,
+            "phrase": "catch one off (one’s) guard",
+            "definition": "to catch a person at a time of carelessness.  Tom caught Ann off guard and frightened her. She caught me off my guard, and my hesitation told her I was lying."
+        },
+        {
+            "id": 104,
+            "phrase": "catch someone red-handed",
+            "definition": "to catch a person in the act of doing something wrong.  Tom was stealing the car when the police drove by and caught him redhanded.  Mary tried to cash a forged check at the bank, and the teller caught her red-handed."
+        },
+        {
+            "id": 105,
+            "phrase": "catch someone flatfooted",
+            "definition": "to catch a person in the act of doing something wrong.  Tom was stealing the car when the police drove by and caught him redhanded.  Mary tried to cash a forged check at the bank, and the teller caught her red-handed."
+        },
+        {
+            "id": 106,
+            "phrase": "catch someone’s eye",
+            "definition": "1. Fig. to establish eye contact with someone; to attract someone’s attention. The shiny red car caught Mary’s eye. When Tom had her eye, he smiled at her. 2. Fig. to appear and attract someone’s interest.  A small red car passing by caught my eye.  One of the books on the top shelf caught my eye, and I took it down to look at it."
+        },
+        {
+            "id": 107,
+            "phrase": "get someone’s eye",
+            "definition": "1. Fig. to establish eye contact with someone; to attract someone’s attention. The shiny red car caught Mary’s eye. When Tom had her eye, he smiled at her. 2. Fig. to appear and attract someone’s interest.  A small red car passing by caught my eye.  One of the books on the top shelf caught my eye, and I took it down to look at it."
+        },
+        {
+            "id": 108,
+            "phrase": "catch the next wave",
+            "definition": "to follow the next fad.  He has no purpose in life. He sits around strumming his guitar and waiting to catch the next wave."
+        },
+        {
+            "id": 109,
+            "phrase": "wait for the next wave",
+            "definition": "to follow the next fad.  He has no purpose in life. He sits around strumming his guitar and waiting to catch the next wave."
+        },
+        {
+            "id": 110,
+            "phrase": "catch up (to someone or something)",
+            "definition": "to move faster in order to reach someone or something who is moving in the same direction.  The red car caught up with the blue one.  Bill caught up with Ann, and they walked to the bank together."
+        },
+        {
+            "id": 111,
+            "phrase": "catch up (with someone or something)",
+            "definition": "to move faster in order to reach someone or something who is moving in the same direction.  The red car caught up with the blue one.  Bill caught up with Ann, and they walked to the bank together."
+        },
+        {
+            "id": 112,
+            "phrase": "caught in the act",
+            "definition": "seen doing something illegal or private. and catch someone redhanded.) _ Tom was caught in the act and cannot deny what he did.  Many car thieves are caught red-handed."
+        },
+        {
+            "id": 113,
+            "phrase": "caught red-handed",
+            "definition": "seen doing something illegal or private. and catch someone redhanded.) _ Tom was caught in the act and cannot deny what he did.  Many car thieves are caught red-handed."
+        },
+        {
+            "id": 114,
+            "phrase": "caught up in something",
+            "definition": "deeply involved with something; participating actively or closely in something.  Wallace is caught up in his work and has little time for his son, Buxton."
+        },
+        {
+            "id": 115,
+            "phrase": "caught up with something",
+            "definition": "deeply involved with something; participating actively or closely in something.  Wallace is caught up in his work and has little time for his son, Buxton."
+        },
+        {
+            "id": 116,
+            "phrase": "cause (quite) a stir",
+            "definition": "to cause people to become agitated; to cause trouble in a group of people; to shock or alarm people.  When Bob appeared without jacket and tie, it caused a stir at the state dinner.  The dog ran through the church and caused quite a commotion."
+        },
+        {
+            "id": 117,
+            "phrase": "cause a commotion",
+            "definition": "to cause people to become agitated; to cause trouble in a group of people; to shock or alarm people.  When Bob appeared without jacket and tie, it caused a stir at the state dinner.  The dog ran through the church and caused quite a commotion."
+        },
+        {
+            "id": 118,
+            "phrase": "cause (some) eyebrows to raise",
+            "definition": "to shock people; to surprise and dismay people. (The same as raise some eyebrows.) _ John caused eyebrows to raise when he married a woman half his age. If you want to cause some eyebrows to raise, just start singing as you walk down the street."
+        },
+        {
+            "id": 119,
+            "phrase": "cause some raised eyebrows",
+            "definition": "to shock people; to surprise and dismay people. (The same as raise some eyebrows.) _ John caused eyebrows to raise when he married a woman half his age. If you want to cause some eyebrows to raise, just start singing as you walk down the street."
+        },
+        {
+            "id": 120,
+            "phrase": "caution someone about someone or something",
+            "definition": "to warn someone against someone or something. Haven’t I cautioned you about that before? _ Hasn’t someone cautioned you about Daniel?"
+        },
+        {
+            "id": 121,
+            "phrase": "caution someone against someone or something",
+            "definition": "to warn someone against someone or something. Haven’t I cautioned you about that before? _ Hasn’t someone cautioned you about Daniel?"
+        },
+        {
+            "id": 122,
+            "phrase": "cement something on(to) something",
+            "definition": "to fasten something onto something with glue or household cement. Cement this handle back onto the cup.  Now, cement on the other handle.  I will cement it on for you."
+        },
+        {
+            "id": 123,
+            "phrase": "cement something on†",
+            "definition": "to fasten something onto something with glue or household cement. Cement this handle back onto the cup.  Now, cement on the other handle.  I will cement it on for you."
+        },
+        {
+            "id": 124,
+            "phrase": "champ at the bit",
+            "definition": "[for a horse] to bite at its bit, eager to move along. Dobbin was champing at the bit, eager to go."
+        },
+        {
+            "id": 125,
+            "phrase": "chomp at the bit",
+            "definition": "[for a horse] to bite at its bit, eager to move along. Dobbin was champing at the bit, eager to go."
+        },
+        {
+            "id": 126,
+            "phrase": "change horses in midstream",
+            "definition": "to make major changes in an activity that has already begun; to choose someone or something else after it is too late. (Alludes to someone trying to move from one horse to another while crossing a stream.) _ I’m already baking a cherry pie. I can’t bake an apple pie. It’s too late to change horses in the middle of the stream.  The house is half-built. It’s too late to hire a different architect. You can’t change horses in midstream.  Jane: I’ve written a rough draft of my research paper, but the topic doesn’t interest me as much as I thought. Maybe I ought to pick a different one. Jill: Don’t change horses in midstream."
+        },
+        {
+            "id": 127,
+            "phrase": "change horses in the middle of the stream",
+            "definition": "to make major changes in an activity that has already begun; to choose someone or something else after it is too late. (Alludes to someone trying to move from one horse to another while crossing a stream.) _ I’m already baking a cherry pie. I can’t bake an apple pie. It’s too late to change horses in the middle of the stream.  The house is half-built. It’s too late to hire a different architect. You can’t change horses in midstream.  Jane: I’ve written a rough draft of my research paper, but the topic doesn’t interest me as much as I thought. Maybe I ought to pick a different one. Jill: Don’t change horses in midstream."
+        },
+        {
+            "id": 128,
+            "phrase": "charge something up to someone or something",
+            "definition": "to place the cost of something on the account of someone or a group. (Also without up.) _ I will have to charge this up to your account.  Do you have to charge this to my account? _ Are you ready to charge up the total to my bill?"
+        },
+        {
+            "id": 129,
+            "phrase": "charge something up†",
+            "definition": "to place the cost of something on the account of someone or a group. (Also without up.) _ I will have to charge this up to your account.  Do you have to charge this to my account? _ Are you ready to charge up the total to my bill?"
+        },
+        {
+            "id": 130,
+            "phrase": "chase someone or an animal in(to) some place",
+            "definition": "to drive someone or an animal into a place of confinement.  They chased all the cattle into the corral.  The cowboys chased in the cattle."
+        },
+        {
+            "id": 131,
+            "phrase": "chase someone or an animal in†",
+            "definition": "to drive someone or an animal into a place of confinement.  They chased all the cattle into the corral.  The cowboys chased in the cattle."
+        },
+        {
+            "id": 132,
+            "phrase": "chase someone or something (away†) from some place",
+            "definition": "to drive someone or something away from or out of a place. The police sirens chased the thief from the building. We chased away all the children from the pond."
+        },
+        {
+            "id": 133,
+            "phrase": "chase someone or something out of some place",
+            "definition": "to drive someone or something away from or out of a place. The police sirens chased the thief from the building. We chased away all the children from the pond."
+        },
+        {
+            "id": 134,
+            "phrase": "Cheats never prosper.",
+            "definition": "Prov. If you cheat people, they will not continue to do business with you, and so your business will fail.  Customer: You charged me for ten artichokes, but you only gave me nine. Grocer: Too bad. You should have counted them before you paid for them. Customer: Cheats never prosper, you know."
+        },
+        {
+            "id": 135,
+            "phrase": "Cheaters never prosper.",
+            "definition": "Prov. If you cheat people, they will not continue to do business with you, and so your business will fail.  Customer: You charged me for ten artichokes, but you only gave me nine. Grocer: Too bad. You should have counted them before you paid for them. Customer: Cheats never prosper, you know."
+        },
+        {
+            "id": 136,
+            "phrase": "check out (of something)",
+            "definition": "to do whatever is necessary to leave a place and then depart. (check out (of something) is more frequent.) _ I will check out of the hotel at about noon.  I will check out from the office and come right to where you are."
+        },
+        {
+            "id": 137,
+            "phrase": "check out (from something)",
+            "definition": "to do whatever is necessary to leave a place and then depart. (check out (of something) is more frequent.) _ I will check out of the hotel at about noon.  I will check out from the office and come right to where you are."
+        },
+        {
+            "id": 138,
+            "phrase": "Check, please.",
+            "definition": "Could you give me the check or the bill for this food or drink? _When they both had finished their dessert and coffee, Tom said, “Check, please.” _ Bill: That meal was really good. Waiter! Could I have the check, please. Waiter: Right away, sir."
+        },
+        {
+            "id": 139,
+            "phrase": "Could I have the bill?",
+            "definition": "Could you give me the check or the bill for this food or drink? _When they both had finished their dessert and coffee, Tom said, “Check, please.” _ Bill: That meal was really good. Waiter! Could I have the check, please. Waiter: Right away, sir."
+        },
+        {
+            "id": 140,
+            "phrase": "Could I have the check?",
+            "definition": "Could you give me the check or the bill for this food or drink? _When they both had finished their dessert and coffee, Tom said, “Check, please.” _ Bill: That meal was really good. Waiter! Could I have the check, please. Waiter: Right away, sir."
+        },
+        {
+            "id": 141,
+            "phrase": "check someone’s bags through (to some place)",
+            "definition": "to have one’s luggage sent directly to one’s final destination.  Please check these bags through London to Madrid."
+        },
+        {
+            "id": 142,
+            "phrase": "check someone’s luggage through (to some place)",
+            "definition": "to have one’s luggage sent directly to one’s final destination.  Please check these bags through London to Madrid."
+        },
+        {
+            "id": 143,
+            "phrase": "chew someone out†",
+            "definition": "to scold someone. The sergeant chewed the corporal out; then the corporal chewed the private out. The boss is always chewing out somebody."
+        },
+        {
+            "id": 144,
+            "phrase": "eat someone out†",
+            "definition": "to scold someone. The sergeant chewed the corporal out; then the corporal chewed the private out. The boss is always chewing out somebody."
+        },
+        {
+            "id": 145,
+            "phrase": "chew something off something",
+            "definition": "to bite or gnaw something off something.  The puppy chewed the heel off my shoe.  The puppy chewed off the heel and mangled the tongue."
+        },
+        {
+            "id": 146,
+            "phrase": "chew something off†",
+            "definition": "to bite or gnaw something off something.  The puppy chewed the heel off my shoe.  The puppy chewed off the heel and mangled the tongue."
+        },
+        {
+            "id": 147,
+            "phrase": "chew the fat",
+            "definition": "to chat or gossip.  Sit yourself down and let’s chew the fat for a while.  We were just chewing the rag. Nothing important."
+        },
+        {
+            "id": 148,
+            "phrase": "chew the rag",
+            "definition": "to chat or gossip.  Sit yourself down and let’s chew the fat for a while.  We were just chewing the rag. Nothing important."
+        },
+        {
+            "id": 149,
+            "phrase": "The child is father of the man.",
+            "definition": "Prov. People’s personalities form when they are children; A person will have the same qualities as an adult that he or she had as a child. (From William Wordsworth’s poem, “My Heart Leaps Up.”) _ In Bill’s case, the child was father of the man; he never lost his childhood delight in observing nature."
+        },
+        {
+            "id": 150,
+            "phrase": "The child is father to the man.",
+            "definition": "Prov. People’s personalities form when they are children; A person will have the same qualities as an adult that he or she had as a child. (From William Wordsworth’s poem, “My Heart Leaps Up.”) _ In Bill’s case, the child was father of the man; he never lost his childhood delight in observing nature."
+        },
+        {
+            "id": 151,
+            "phrase": "chill out",
+            "definition": "Sl. to calm down.  Before we can debate this matter, you’re all gonna have to chill out. So sit down and stop bickering.  Everybody cooled out after the emergency, and everything was fine."
+        },
+        {
+            "id": 152,
+            "phrase": "cool out",
+            "definition": "Sl. to calm down.  Before we can debate this matter, you’re all gonna have to chill out. So sit down and stop bickering.  Everybody cooled out after the emergency, and everything was fine."
+        },
+        {
+            "id": 153,
+            "phrase": "chip in (on something)",
+            "definition": "1. to contribute a small amount of money to a fund that will be used to buy something.  Could you chip in a dollar on the gift, please? 2. chip in (on something) (for someone) to contribute money toward a gift for someone.  Would you please chip in on the present for Richard? _ Will you chip in for Randy?"
+        },
+        {
+            "id": 154,
+            "phrase": "chip something in† (on something)",
+            "definition": "1. to contribute a small amount of money to a fund that will be used to buy something.  Could you chip in a dollar on the gift, please? 2. chip in (on something) (for someone) to contribute money toward a gift for someone.  Would you please chip in on the present for Richard? _ Will you chip in for Randy?"
+        },
+        {
+            "id": 155,
+            "phrase": "chip in (with something) (on something) (for someone)",
+            "definition": "to contribute money for a gift for someone. Would you like to chip in with a little cash on a gift for Carol? _ I will chip in a little with you on a gift for Carol.  Would you chip in with a few bucks for a gift for Carol? _ Would you chip a few bucks in on a gift for Carol? _ Would you care to chip in on a gift for the teacher? _ Yes, I’d be happy to chip in."
+        },
+        {
+            "id": 156,
+            "phrase": "chip in (with something) (for something) (for someone)",
+            "definition": "to contribute money for a gift for someone. Would you like to chip in with a little cash on a gift for Carol? _ I will chip in a little with you on a gift for Carol.  Would you chip in with a few bucks for a gift for Carol? _ Would you chip a few bucks in on a gift for Carol? _ Would you care to chip in on a gift for the teacher? _ Yes, I’d be happy to chip in."
+        },
+        {
+            "id": 157,
+            "phrase": "chip something in† (on something) (for someone)",
+            "definition": "to contribute money for a gift for someone. Would you like to chip in with a little cash on a gift for Carol? _ I will chip in a little with you on a gift for Carol.  Would you chip in with a few bucks for a gift for Carol? _ Would you chip a few bucks in on a gift for Carol? _ Would you care to chip in on a gift for the teacher? _ Yes, I’d be happy to chip in."
+        },
+        {
+            "id": 158,
+            "phrase": "chisel someone out of something",
+            "definition": "to get something away from someone by cheating.  The scam tried to chisel pension money out of retired people."
+        },
+        {
+            "id": 159,
+            "phrase": "chisel something out of someone",
+            "definition": "to get something away from someone by cheating.  The scam tried to chisel pension money out of retired people."
+        },
+        {
+            "id": 160,
+            "phrase": "chisel something from someone",
+            "definition": "to get something away from someone by cheating.  The scam tried to chisel pension money out of retired people."
+        },
+        {
+            "id": 161,
+            "phrase": "chop something off (of) something",
+            "definition": "to cut something off something, as with an axe or saw. (Of is usually retained before pronouns.) _ We chopped the dead branches off the tree.  You should chop off the other branch."
+        },
+        {
+            "id": 162,
+            "phrase": "chop something off†",
+            "definition": "to cut something off something, as with an axe or saw. (Of is usually retained before pronouns.) _ We chopped the dead branches off the tree.  You should chop off the other branch."
+        },
+        {
+            "id": 163,
+            "phrase": "chortle about someone or something",
+            "definition": "to chuckle or giggle about someone or something funny.  I was chortling about Elaine’s silly puppy for a long time.  Elaine chortled about me and my dislike for cats."
+        },
+        {
+            "id": 164,
+            "phrase": "chortle over someone or something",
+            "definition": "to chuckle or giggle about someone or something funny.  I was chortling about Elaine’s silly puppy for a long time.  Elaine chortled about me and my dislike for cats."
+        },
+        {
+            "id": 165,
+            "phrase": "chuck someone out of some place",
+            "definition": "to throw someone out of some place.  The bouncer chucked the drunks out of the tavern. He chucks out about three drunks a night."
+        },
+        {
+            "id": 166,
+            "phrase": "chuck someone out†",
+            "definition": "to throw someone out of some place.  The bouncer chucked the drunks out of the tavern. He chucks out about three drunks a night."
+        },
+        {
+            "id": 167,
+            "phrase": "chuck something into something",
+            "definition": "to pack something into something.  She chucked her clothes into the suitcase and left.  Just chuck in all your clothes and let’s go."
+        },
+        {
+            "id": 168,
+            "phrase": "chuck something in†",
+            "definition": "to pack something into something.  She chucked her clothes into the suitcase and left.  Just chuck in all your clothes and let’s go."
+        },
+        {
+            "id": 169,
+            "phrase": "chuckle about someone or something",
+            "definition": "to giggle about someone or something.  I had to chuckle about Wally and his story about that broken-down old car.  We chuckled over how angry Jed was."
+        },
+        {
+            "id": 170,
+            "phrase": "chuckle over someone or something",
+            "definition": "to giggle about someone or something.  I had to chuckle about Wally and his story about that broken-down old car.  We chuckled over how angry Jed was."
+        },
+        {
+            "id": 171,
+            "phrase": "chuckle with something",
+            "definition": "to giggle in some manner because one is gleeful or happy.  He chuckled with unsuppressed mirth at the antics of the strangely dressed people.  Sally chortled with glee at the thought of Ken slipping on the ice."
+        },
+        {
+            "id": 172,
+            "phrase": "chortle with something",
+            "definition": "to giggle in some manner because one is gleeful or happy.  He chuckled with unsuppressed mirth at the antics of the strangely dressed people.  Sally chortled with glee at the thought of Ken slipping on the ice."
+        },
+        {
+            "id": 173,
+            "phrase": "Civility costs nothing.",
+            "definition": "Prov. It never hurts you to be polite.  Always greet people politely, no matter what you think of them. Civility costs nothing. Why not write Mildred a thank-you note? Courtesy costs nothing."
+        },
+        {
+            "id": 174,
+            "phrase": "Courtesy costs nothing.",
+            "definition": "Prov. It never hurts you to be polite.  Always greet people politely, no matter what you think of them. Civility costs nothing. Why not write Mildred a thank-you note? Courtesy costs nothing."
+        },
+        {
+            "id": 175,
+            "phrase": "clamber onto something",
+            "definition": "to climb onto something clumsily.  The kids clambered onto the tractor and tried to start it.  The wagon stopped and the kids clambered on. All the campers clambered into the bus."
+        },
+        {
+            "id": 176,
+            "phrase": "clamber in(to something)",
+            "definition": "to climb onto something clumsily.  The kids clambered onto the tractor and tried to start it.  The wagon stopped and the kids clambered on. All the campers clambered into the bus."
+        },
+        {
+            "id": 177,
+            "phrase": "clamber on",
+            "definition": "to climb onto something clumsily.  The kids clambered onto the tractor and tried to start it.  The wagon stopped and the kids clambered on. All the campers clambered into the bus."
+        },
+        {
+            "id": 178,
+            "phrase": "clamp something on(to) something",
+            "definition": "to press or squeeze something onto something else.  Clamp this board onto the workbench.  Clear a place near the edge of the table, and then clamp on the meat grinder."
+        },
+        {
+            "id": 179,
+            "phrase": "clamp something on†",
+            "definition": "to press or squeeze something onto something else.  Clamp this board onto the workbench.  Clear a place near the edge of the table, and then clamp on the meat grinder."
+        },
+        {
+            "id": 180,
+            "phrase": "clatter around",
+            "definition": "to move around among things, making noise.  Stop clattering around! It’s late. I wish you would not clatter those dishes around."
+        },
+        {
+            "id": 181,
+            "phrase": "clatter something around",
+            "definition": "to move around among things, making noise.  Stop clattering around! It’s late. I wish you would not clatter those dishes around."
+        },
+        {
+            "id": 182,
+            "phrase": "claw something off someone or something",
+            "definition": "to rip or tear something off from someone or something. We saw a guy clawing his burning clothes off himself.  He clawed off his burning clothes."
+        },
+        {
+            "id": 183,
+            "phrase": "claw something off†",
+            "definition": "to rip or tear something off from someone or something. We saw a guy clawing his burning clothes off himself.  He clawed off his burning clothes."
+        },
+        {
+            "id": 184,
+            "phrase": "*clean as a hound’s tooth",
+            "definition": "1. Rur. Cliché very clean. (*Also: as ~.) _ After his mother scrubbed him thoroughly, the baby was as clean as a hound’s tooth.  The car was as clean as a whistle after the Girl Scouts washed it. 2. Rur. Cliché innocent and free from sin or wrong. (*Also: as ~.) _ Jane’s record was clean as a whistle; she had never committed even the smallest infraction."
+        },
+        {
+            "id": 185,
+            "phrase": "*clean as a whistle",
+            "definition": "1. Rur. Cliché very clean. (*Also: as ~.) _ After his mother scrubbed him thoroughly, the baby was as clean as a hound’s tooth.  The car was as clean as a whistle after the Girl Scouts washed it. 2. Rur. Cliché innocent and free from sin or wrong. (*Also: as ~.) _ Jane’s record was clean as a whistle; she had never committed even the smallest infraction."
+        },
+        {
+            "id": 186,
+            "phrase": "clean someone or something out of something",
+            "definition": "to remove people or things from something or some place.  Someone should clean those bums out of political office.  Let’s clean out the garage this weekend; I can’t get the car in."
+        },
+        {
+            "id": 187,
+            "phrase": "clean someone or something out†",
+            "definition": "to remove people or things from something or some place.  Someone should clean those bums out of political office.  Let’s clean out the garage this weekend; I can’t get the car in."
+        },
+        {
+            "id": 188,
+            "phrase": "clean something off†",
+            "definition": "to take something off something; to remove something such as dirt or dirty dishes. Please clean the table off and put the dishes in the kitchen.  I’ll clean off the table.  Judy cleaned the writing off the wall."
+        },
+        {
+            "id": 189,
+            "phrase": "clean something off something",
+            "definition": "to take something off something; to remove something such as dirt or dirty dishes. Please clean the table off and put the dishes in the kitchen.  I’ll clean off the table.  Judy cleaned the writing off the wall."
+        },
+        {
+            "id": 190,
+            "phrase": "*clear sailing",
+            "definition": "a situation where progress is made without any difficulty. (*Typically: be ~; have ~.) _ Once you’ve passed that exam, it will be clear sailing to graduation. Working there was not all smooth sailing. The boss had a very bad temper."
+        },
+        {
+            "id": 191,
+            "phrase": "*smooth sailing",
+            "definition": "a situation where progress is made without any difficulty. (*Typically: be ~; have ~.) _ Once you’ve passed that exam, it will be clear sailing to graduation. Working there was not all smooth sailing. The boss had a very bad temper."
+        },
+        {
+            "id": 192,
+            "phrase": "clear someone or something out of some place",
+            "definition": "to make someone or something leave a place.  Please clear all the people out of here.  Clear out the people quickly, please."
+        },
+        {
+            "id": 193,
+            "phrase": "clear someone or something out†",
+            "definition": "to make someone or something leave a place.  Please clear all the people out of here.  Clear out the people quickly, please."
+        },
+        {
+            "id": 194,
+            "phrase": "clear something off something",
+            "definition": "to take something off something. Please clear the dishes off the table.  I’ll clear off the dishes."
+        },
+        {
+            "id": 195,
+            "phrase": "clear something off†",
+            "definition": "to take something off something. Please clear the dishes off the table.  I’ll clear off the dishes."
+        },
+        {
+            "id": 196,
+            "phrase": "climb on(to) something",
+            "definition": "to ascend to or mount something.  I climbed onto the side of the truck.  Tommy climbed on the truck."
+        },
+        {
+            "id": 197,
+            "phrase": "climb on",
+            "definition": "to ascend to or mount something.  I climbed onto the side of the truck.  Tommy climbed on the truck."
+        },
+        {
+            "id": 198,
+            "phrase": "clip something on(to) someone or something",
+            "definition": "to attach something to someone or something with a clip.  I clipped a little name tag onto him before I put him on the plane.  I clipped on a name tag."
+        },
+        {
+            "id": 199,
+            "phrase": "clip something on†",
+            "definition": "to attach something to someone or something with a clip.  I clipped a little name tag onto him before I put him on the plane.  I clipped on a name tag."
+        },
+        {
+            "id": 200,
+            "phrase": "clip something out of something",
+            "definition": "to remove something from something by clipping or cut- ting. Please clip the article out of the magazine. Could you clip out the picture, too?"
+        },
+        {
+            "id": 201,
+            "phrase": "clip something out†",
+            "definition": "to remove something from something by clipping or cut- ting. Please clip the article out of the magazine. Could you clip out the picture, too?"
+        },
+        {
+            "id": 202,
+            "phrase": "close a deal",
+            "definition": "to formally conclude bargaining; to bring negotiating to an end by reaching an agreement.  We negotiated the terms of the agreement, and this afternoon we will close the deal."
+        },
+        {
+            "id": 203,
+            "phrase": "close the deal",
+            "definition": "to formally conclude bargaining; to bring negotiating to an end by reaching an agreement.  We negotiated the terms of the agreement, and this afternoon we will close the deal."
+        },
+        {
+            "id": 204,
+            "phrase": "close a sale",
+            "definition": "to complete the sale of something; to seal a bargain in the sale of something.  The salesman closed the sale and the customer drove off in a brand new car."
+        },
+        {
+            "id": 205,
+            "phrase": "close the sale",
+            "definition": "to complete the sale of something; to seal a bargain in the sale of something.  The salesman closed the sale and the customer drove off in a brand new car."
+        },
+        {
+            "id": 206,
+            "phrase": "close down",
+            "definition": "[for someone] to close a business, office, shop, etc., permanently or temporarily.  This shop will have to close down if they raise taxes.  The fire department closed down all the stores on the block because of the gas leak."
+        },
+        {
+            "id": 207,
+            "phrase": "shut down",
+            "definition": "[for someone] to close a business, office, shop, etc., permanently or temporarily.  This shop will have to close down if they raise taxes.  The fire department closed down all the stores on the block because of the gas leak."
+        },
+        {
+            "id": 208,
+            "phrase": "close enough for government work",
+            "definition": "sufficiently close; done just well enough. (Alludes to the notion that work for the government is not done with care or pride.) _ I didn’t do the best job of mending your shirt, but it’s close enough for government work."
+        },
+        {
+            "id": 209,
+            "phrase": "good enough for government work",
+            "definition": "sufficiently close; done just well enough. (Alludes to the notion that work for the government is not done with care or pride.) _ I didn’t do the best job of mending your shirt, but it’s close enough for government work."
+        },
+        {
+            "id": 210,
+            "phrase": "close in for the kill",
+            "definition": "to move in on someone or something for the purpose of killing. The wolves closed in for the kill. When the lions closed in for the kill, the zebras began to stampede."
+        },
+        {
+            "id": 211,
+            "phrase": "move in for the kill",
+            "definition": "to move in on someone or something for the purpose of killing. The wolves closed in for the kill. When the lions closed in for the kill, the zebras began to stampede."
+        },
+        {
+            "id": 212,
+            "phrase": "close one’s eyes to something",
+            "definition": "to close one’s eyes to avoid seeing something unpleasant.  I had to close my eyes to the carnage about me. I couldn’t bear to look."
+        },
+        {
+            "id": 213,
+            "phrase": "shut one’s eyes to something",
+            "definition": "to close one’s eyes to avoid seeing something unpleasant.  I had to close my eyes to the carnage about me. I couldn’t bear to look."
+        },
+        {
+            "id": 214,
+            "phrase": "a close shave",
+            "definition": "a narrow escape.  Wow, that was a close shave. I thought the guard would spot us. The speeding car passed only a few inches from us—a real close call."
+        },
+        {
+            "id": 215,
+            "phrase": "a close call",
+            "definition": "a narrow escape.  Wow, that was a close shave. I thought the guard would spot us. The speeding car passed only a few inches from us—a real close call."
+        },
+        {
+            "id": 216,
+            "phrase": "close someone out of something",
+            "definition": "to prevent someone from getting into something, such as a class, a room, a waiting list, etc.  They closed me out of the class I wanted.  I got in, but they closed out everyone after me in line."
+        },
+        {
+            "id": 217,
+            "phrase": "close someone out†",
+            "definition": "to prevent someone from getting into something, such as a class, a room, a waiting list, etc.  They closed me out of the class I wanted.  I got in, but they closed out everyone after me in line."
+        },
+        {
+            "id": 218,
+            "phrase": "close something down†",
+            "definition": "to make something stop operating; to put something out of business. The police closed the illegal casino down. The manager shut down the factory for the holidays."
+        },
+        {
+            "id": 219,
+            "phrase": "shut something down†",
+            "definition": "to make something stop operating; to put something out of business. The police closed the illegal casino down. The manager shut down the factory for the holidays."
+        },
+        {
+            "id": 220,
+            "phrase": "cobble something up†",
+            "definition": "to make something or put something together hastily or carelessly.  Who cobbled this thing up? Take it apart and start over.  The kids cobbled up their model planes badly.  It looks like you cobbled together that report just last night."
+        },
+        {
+            "id": 221,
+            "phrase": "cobble something together",
+            "definition": "to make something or put something together hastily or carelessly.  Who cobbled this thing up? Take it apart and start over.  The kids cobbled up their model planes badly.  It looks like you cobbled together that report just last night."
+        },
+        {
+            "id": 222,
+            "phrase": "*cold as a welldigger’s ass (in January)",
+            "definition": "very, very cold; chilling. (Use caution with ass. *Also: as ~.) _ Bill: How’s the weather where you are? Tom: Cold as a welldigger’s ass in January.  By the time I got in from the storm, I was as cold as a welldigger’s feet.  The car’s heater broke, so it’s as cold as a welldigger’s ears to ride around in it. She gave me a look as cold as a witch’s caress."
+        },
+        {
+            "id": 223,
+            "phrase": "*cold as a welldigger’s feet (in January)",
+            "definition": "very, very cold; chilling. (Use caution with ass. *Also: as ~.) _ Bill: How’s the weather where you are? Tom: Cold as a welldigger’s ass in January.  By the time I got in from the storm, I was as cold as a welldigger’s feet.  The car’s heater broke, so it’s as cold as a welldigger’s ears to ride around in it. She gave me a look as cold as a witch’s caress."
+        },
+        {
+            "id": 224,
+            "phrase": "*cold as a witch’s caress",
+            "definition": "very, very cold; chilling. (Use caution with ass. *Also: as ~.) _ Bill: How’s the weather where you are? Tom: Cold as a welldigger’s ass in January.  By the time I got in from the storm, I was as cold as a welldigger’s feet.  The car’s heater broke, so it’s as cold as a welldigger’s ears to ride around in it. She gave me a look as cold as a witch’s caress."
+        },
+        {
+            "id": 225,
+            "phrase": "*cold as marble",
+            "definition": "very, very cold; chilling. (Use caution with ass. *Also: as ~.) _ Bill: How’s the weather where you are? Tom: Cold as a welldigger’s ass in January.  By the time I got in from the storm, I was as cold as a welldigger’s feet.  The car’s heater broke, so it’s as cold as a welldigger’s ears to ride around in it. She gave me a look as cold as a witch’s caress."
+        },
+        {
+            "id": 226,
+            "phrase": "*cold as a witch’s tit",
+            "definition": "very, very cold; chilling. (Use caution with ass. *Also: as ~.) _ Bill: How’s the weather where you are? Tom: Cold as a welldigger’s ass in January.  By the time I got in from the storm, I was as cold as a welldigger’s feet.  The car’s heater broke, so it’s as cold as a welldigger’s ears to ride around in it. She gave me a look as cold as a witch’s caress."
+        },
+        {
+            "id": 227,
+            "phrase": "*cold as a welldigger’s ears (in January)",
+            "definition": "very, very cold; chilling. (Use caution with ass. *Also: as ~.) _ Bill: How’s the weather where you are? Tom: Cold as a welldigger’s ass in January.  By the time I got in from the storm, I was as cold as a welldigger’s feet.  The car’s heater broke, so it’s as cold as a welldigger’s ears to ride around in it. She gave me a look as cold as a witch’s caress."
+        },
+        {
+            "id": 228,
+            "phrase": "comb something out of something",
+            "definition": "to remove substances or knots and snarls from something by combing. I had to comb the gum out of her hair.  It took me over an hour to comb out the gum."
+        },
+        {
+            "id": 229,
+            "phrase": "comb something out†",
+            "definition": "to remove substances or knots and snarls from something by combing. I had to comb the gum out of her hair.  It took me over an hour to comb out the gum."
+        },
+        {
+            "id": 230,
+            "phrase": "come aboard",
+            "definition": "to get onto a boat or ship.  Please come aboard. We are shoving off now.  Please ask everyone to go aboard."
+        },
+        {
+            "id": 231,
+            "phrase": "go aboard",
+            "definition": "to get onto a boat or ship.  Please come aboard. We are shoving off now.  Please ask everyone to go aboard."
+        },
+        {
+            "id": 232,
+            "phrase": "come across like someone or something (to someone)",
+            "definition": "to appear or seem like someone or something to other people.  You always come across like a madman to people.  She comes across like the Queen of the Nile to most people who meet her."
+        },
+        {
+            "id": 233,
+            "phrase": "come across as someone or something (to someone)",
+            "definition": "to appear or seem like someone or something to other people.  You always come across like a madman to people.  She comes across like the Queen of the Nile to most people who meet her."
+        },
+        {
+            "id": 234,
+            "phrase": "come across someone or something",
+            "definition": "to find someone or something; to discover someone or something.  John came across a book he had been looking for.  Where did you run across that lovely skirt?"
+        },
+        {
+            "id": 235,
+            "phrase": "run across someone or something",
+            "definition": "to find someone or something; to discover someone or something.  John came across a book he had been looking for.  Where did you run across that lovely skirt?"
+        },
+        {
+            "id": 236,
+            "phrase": "Come and get it!",
+            "definition": "Dinner’s ready. Come eat! _ The camp cook shouted, “Time to eat! Come and get it!”"
+        },
+        {
+            "id": 237,
+            "phrase": "Come ’n’ get it!",
+            "definition": "Dinner’s ready. Come eat! _ The camp cook shouted, “Time to eat! Come and get it!”"
+        },
+        {
+            "id": 238,
+            "phrase": "Come back and see us.",
+            "definition": "Come visit us [or me] again. (Often said by a host or hostess to departing guests.) _ Bill: Good night. Thanks for having me. Sally: Oh, you’re quite welcome. Come back and see us.  Bob: I enjoyed my visit. Good-bye. Mary: It was very nice of you to pay me a visit. Come back and see me."
+        },
+        {
+            "id": 239,
+            "phrase": "Come back and see me.",
+            "definition": "Come visit us [or me] again. (Often said by a host or hostess to departing guests.) _ Bill: Good night. Thanks for having me. Sally: Oh, you’re quite welcome. Come back and see us.  Bob: I enjoyed my visit. Good-bye. Mary: It was very nice of you to pay me a visit. Come back and see me."
+        },
+        {
+            "id": 240,
+            "phrase": "come back to haunt one",
+            "definition": "[for a bad memory] to recur; for the consequences of a bad decision to affect one negatively later.  I never dreamed that a little thing like a traffic ticket could come back to haunt me years later."
+        },
+        {
+            "id": 241,
+            "phrase": "return to haunt one",
+            "definition": "[for a bad memory] to recur; for the consequences of a bad decision to affect one negatively later.  I never dreamed that a little thing like a traffic ticket could come back to haunt me years later."
+        },
+        {
+            "id": 242,
+            "phrase": "Come in and sit a spell.",
+            "definition": "Rur. Please come in and have a seat and a visit. (The variant with set informal or folksy.) _ “Hi, Fred,” smiled Tom, “Come in and sit a spell.” _ Tom: I hope I’m not intruding. Bill: Not at all. Come in and set a spell."
+        },
+        {
+            "id": 243,
+            "phrase": "Come in and set a spell.",
+            "definition": "Rur. Please come in and have a seat and a visit. (The variant with set informal or folksy.) _ “Hi, Fred,” smiled Tom, “Come in and sit a spell.” _ Tom: I hope I’m not intruding. Bill: Not at all. Come in and set a spell."
+        },
+        {
+            "id": 244,
+            "phrase": "Come in and sit down.",
+            "definition": "Rur. Please come in and have a seat and a visit. (The variant with set informal or folksy.) _ “Hi, Fred,” smiled Tom, “Come in and sit a spell.” _ Tom: I hope I’m not intruding. Bill: Not at all. Come in and set a spell."
+        },
+        {
+            "id": 245,
+            "phrase": "Come in and take a load off your feet.",
+            "definition": "Rur. Please come in and have a seat and a visit. (The variant with set informal or folksy.) _ “Hi, Fred,” smiled Tom, “Come in and sit a spell.” _ Tom: I hope I’m not intruding. Bill: Not at all. Come in and set a spell."
+        },
+        {
+            "id": 246,
+            "phrase": "come into bloom",
+            "definition": "1. [for a flower] to bloom. This rose comes into bloom later in the summer.  When do they normally come into blossom? 2. [for a plant, bush, or tree] to begin to have many blossoms.  When do these bushes come into bloom? _ They come into blossom in June."
+        },
+        {
+            "id": 247,
+            "phrase": "come into blossom",
+            "definition": "1. [for a flower] to bloom. This rose comes into bloom later in the summer.  When do they normally come into blossom? 2. [for a plant, bush, or tree] to begin to have many blossoms.  When do these bushes come into bloom? _ They come into blossom in June."
+        },
+        {
+            "id": 248,
+            "phrase": "come in(to) heat",
+            "definition": "[for a female animal] to enter into the breeding season.  This animal will come into heat in the spring.  When did your dog come in season?"
+        },
+        {
+            "id": 249,
+            "phrase": "come in(to) season",
+            "definition": "[for a female animal] to enter into the breeding season.  This animal will come into heat in the spring.  When did your dog come in season?"
+        }
+    ]
+}

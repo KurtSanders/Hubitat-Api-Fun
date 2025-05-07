@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "drive someone bonkers",
+            "definition": "to annoy or irritate someone.  You are certainly annoying! You’re going to drive me batty.  This cold is driving me bonkers. These tax forms are driving me nuts."
+        },
+        {
+            "id": 1,
+            "phrase": "drive someone nuts",
+            "definition": "to annoy or irritate someone.  You are certainly annoying! You’re going to drive me batty.  This cold is driving me bonkers. These tax forms are driving me nuts."
+        },
+        {
+            "id": 2,
+            "phrase": "drive someone crazy",
+            "definition": "to force someone into a state of insanity or mental instability.  The sound of the wind howling drove me crazy. The dog’s constant barking drove me insane."
+        },
+        {
+            "id": 3,
+            "phrase": "drive someone insane",
+            "definition": "to force someone into a state of insanity or mental instability.  The sound of the wind howling drove me crazy. The dog’s constant barking drove me insane."
+        },
+        {
+            "id": 4,
+            "phrase": "drive someone mad",
+            "definition": "to force someone into a state of insanity or mental instability.  The sound of the wind howling drove me crazy. The dog’s constant barking drove me insane."
+        },
+        {
+            "id": 5,
+            "phrase": "drive someone or an animal out of something",
+            "definition": "to force or chase someone or an animal out of something or some place.  We drove them all out of the country. We drove out the troublesome kids."
+        },
+        {
+            "id": 6,
+            "phrase": "drive someone or an animal out†",
+            "definition": "to force or chase someone or an animal out of something or some place.  We drove them all out of the country. We drove out the troublesome kids."
+        },
+        {
+            "id": 7,
+            "phrase": "drive someone to the edge",
+            "definition": "to drive someone almost insane; to drive someone close to doing something desperate.  Your trouble with the police has driven me to the brink! The next time you are arrested, I will not get you out of jail."
+        },
+        {
+            "id": 8,
+            "phrase": "drive someone to the brink",
+            "definition": "to drive someone almost insane; to drive someone close to doing something desperate.  Your trouble with the police has driven me to the brink! The next time you are arrested, I will not get you out of jail."
+        },
+        {
+            "id": 9,
+            "phrase": "drive something home",
+            "definition": "to emphasize an important point about something (to someone). The teacher repeated the point three times just to drive it home.  I hope this really drives the importance of safety home to you. The accident drove home the importance of wearing seatbelts to everyone concerned."
+        },
+        {
+            "id": 10,
+            "phrase": "drive something home† (to someone)",
+            "definition": "to emphasize an important point about something (to someone). The teacher repeated the point three times just to drive it home.  I hope this really drives the importance of safety home to you. The accident drove home the importance of wearing seatbelts to everyone concerned."
+        },
+        {
+            "id": 11,
+            "phrase": "drive something into something",
+            "definition": "1. to steer or guide a vehicle into something.  Liz drove the car into the garage. She drove in the car. 2. to pound or hammer something into something.  Using a heavy mallet, he drove the stake into the hard earth.  With a mighty hammer blow, she drove in the nail."
+        },
+        {
+            "id": 12,
+            "phrase": "drive something in†",
+            "definition": "1. to steer or guide a vehicle into something.  Liz drove the car into the garage. She drove in the car. 2. to pound or hammer something into something.  Using a heavy mallet, he drove the stake into the hard earth.  With a mighty hammer blow, she drove in the nail."
+        },
+        {
+            "id": 13,
+            "phrase": "drop a bomb(shell)",
+            "definition": "to announce shocking or startling news.  They really dropped a bombshell when they announced that the mayor would resign.  Friday is a good day to drop a bomb like that. It gives the business world the weekend to recover. They must choose their words very carefully when they explode a bombshell like that.  They really dropped a brick when they told her the cause of her illness."
+        },
+        {
+            "id": 14,
+            "phrase": "explode a bombshell",
+            "definition": "to announce shocking or startling news.  They really dropped a bombshell when they announced that the mayor would resign.  Friday is a good day to drop a bomb like that. It gives the business world the weekend to recover. They must choose their words very carefully when they explode a bombshell like that.  They really dropped a brick when they told her the cause of her illness."
+        },
+        {
+            "id": 15,
+            "phrase": "drop a brick",
+            "definition": "to announce shocking or startling news.  They really dropped a bombshell when they announced that the mayor would resign.  Friday is a good day to drop a bomb like that. It gives the business world the weekend to recover. They must choose their words very carefully when they explode a bombshell like that.  They really dropped a brick when they told her the cause of her illness."
+        },
+        {
+            "id": 16,
+            "phrase": "drop a bundle (on someone)",
+            "definition": "Inf. to spend a lot of money pleasing or entertaining someone.  I blew a bundle on the candidate, and it didn’t help me at all.  Over the years, I’ve dropped a bundle on clients at that restaurant."
+        },
+        {
+            "id": 17,
+            "phrase": "blow a bundle (on someone)",
+            "definition": "Inf. to spend a lot of money pleasing or entertaining someone.  I blew a bundle on the candidate, and it didn’t help me at all.  Over the years, I’ve dropped a bundle on clients at that restaurant."
+        },
+        {
+            "id": 18,
+            "phrase": "drop around (sometime)",
+            "definition": "to come and visit (someone) at some future time. (Similar to drop in (on someone).) _ Nice to see you, Mary. You and Bob must drop around sometime. Please do drop around when you’re out driving."
+        },
+        {
+            "id": 19,
+            "phrase": "drop by (sometime)",
+            "definition": "to come and visit (someone) at some future time. (Similar to drop in (on someone).) _ Nice to see you, Mary. You and Bob must drop around sometime. Please do drop around when you’re out driving."
+        },
+        {
+            "id": 20,
+            "phrase": "drop by the wayside",
+            "definition": "to leave a march or procession in exhaustion to recover beside the pathway.  A few of the marchers dropped by the wayside in the intense heat."
+        },
+        {
+            "id": 21,
+            "phrase": "fall by the wayside",
+            "definition": "to leave a march or procession in exhaustion to recover beside the pathway.  A few of the marchers dropped by the wayside in the intense heat."
+        },
+        {
+            "id": 22,
+            "phrase": "drop in (on someone)",
+            "definition": "to pay someone a casual visit, perhaps a surprise visit.  I hate to drop in on people when they aren’t expecting me. You’re welcome to drop in at any time."
+        },
+        {
+            "id": 23,
+            "phrase": "drop in (to say hello)",
+            "definition": "to pay someone a casual visit, perhaps a surprise visit.  I hate to drop in on people when they aren’t expecting me. You’re welcome to drop in at any time."
+        },
+        {
+            "id": 24,
+            "phrase": "a drop in the bucket",
+            "definition": "an insignificant contribution toward solving a large problem.  Jane: We need to stop spending so much. Alan: OK. I’ll buy a cheaper brand of toothpaste. Jane: But that’s just a drop in the bucket.  Many companies donated food and medicine to help the survivors of the earthquake, but it was just a drop in the ocean of what was needed."
+        },
+        {
+            "id": 25,
+            "phrase": "a drop in the ocean",
+            "definition": "an insignificant contribution toward solving a large problem.  Jane: We need to stop spending so much. Alan: OK. I’ll buy a cheaper brand of toothpaste. Jane: But that’s just a drop in the bucket.  Many companies donated food and medicine to help the survivors of the earthquake, but it was just a drop in the ocean of what was needed."
+        },
+        {
+            "id": 26,
+            "phrase": "drop names",
+            "definition": "to mention a name or the names of important or famous people as if they were personal friends. Mary always tries to impress people by dropping the name of some big-time executives she claims to know.  Bill’s such a snob. Leave it to him to drop the names of all the local gentry."
+        },
+        {
+            "id": 27,
+            "phrase": "drop someone’s name",
+            "definition": "to mention a name or the names of important or famous people as if they were personal friends. Mary always tries to impress people by dropping the name of some big-time executives she claims to know.  Bill’s such a snob. Leave it to him to drop the names of all the local gentry."
+        },
+        {
+            "id": 28,
+            "phrase": "drop someone a line",
+            "definition": "to write a letter or a note to someone. (The line refers to lines of writing.) _I dropped Aunt Jane a line last Thanksgiving. She usually drops me a few lines around the first of the year.  Drop me a note when you get a chance."
+        },
+        {
+            "id": 29,
+            "phrase": "drop someone a few lines",
+            "definition": "to write a letter or a note to someone. (The line refers to lines of writing.) _I dropped Aunt Jane a line last Thanksgiving. She usually drops me a few lines around the first of the year.  Drop me a note when you get a chance."
+        },
+        {
+            "id": 30,
+            "phrase": "drop someone a note",
+            "definition": "to write a letter or a note to someone. (The line refers to lines of writing.) _I dropped Aunt Jane a line last Thanksgiving. She usually drops me a few lines around the first of the year.  Drop me a note when you get a chance."
+        },
+        {
+            "id": 31,
+            "phrase": "drop someone or something into something",
+            "definition": "to let someone or something fall into something. He dropped a quarter into the slot and waited for something to happen.  He dropped in a quarter.  Johnny Green dropped a cat into a well.  He went to the well and dropped a coin in."
+        },
+        {
+            "id": 32,
+            "phrase": "drop someone or something in†",
+            "definition": "to let someone or something fall into something. He dropped a quarter into the slot and waited for something to happen.  He dropped in a quarter.  Johnny Green dropped a cat into a well.  He went to the well and dropped a coin in."
+        },
+        {
+            "id": 33,
+            "phrase": "drop someone or something off something",
+            "definition": "to let someone or something fall from something; to make someone or something fall from something.  They dropped the feather off the top of the building.  Jake dropped off a feather and it fell to the ground."
+        },
+        {
+            "id": 34,
+            "phrase": "drop someone or something off†",
+            "definition": "to let someone or something fall from something; to make someone or something fall from something.  They dropped the feather off the top of the building.  Jake dropped off a feather and it fell to the ground."
+        },
+        {
+            "id": 35,
+            "phrase": "drop someone or something out of something",
+            "definition": "to let someone or something fall out of something.  She dropped the paper out of the window.  Max threatened to drop Lefty out of the open door of the plane.  I opened the window and dropped out the caterpillar."
+        },
+        {
+            "id": 36,
+            "phrase": "drop someone or something out†",
+            "definition": "to let someone or something fall out of something.  She dropped the paper out of the window.  Max threatened to drop Lefty out of the open door of the plane.  I opened the window and dropped out the caterpillar."
+        },
+        {
+            "id": 37,
+            "phrase": "Drop the subject!",
+            "definition": "Do not discuss it further! _ Bill: Sally, you’re gaining a little weight. I thought you were on a diet. Sally: That’s enough! Drop the subject! _Bill: That house is a mess. I wonder who lives there. Mary: That’s my aunt’s house. Just what did you want to know about it? Bill: Oh, drop it! Sorry I asked."
+        },
+        {
+            "id": 38,
+            "phrase": "Drop it!",
+            "definition": "Do not discuss it further! _ Bill: Sally, you’re gaining a little weight. I thought you were on a diet. Sally: That’s enough! Drop the subject! _Bill: That house is a mess. I wonder who lives there. Mary: That’s my aunt’s house. Just what did you want to know about it? Bill: Oh, drop it! Sorry I asked."
+        },
+        {
+            "id": 39,
+            "phrase": "drown one’s troubles",
+            "definition": "to try to forget one’s problems by drinking a lot of alcohol. Bill is in the bar, drowning his troubles. Jane is at home, drowning her sorrows."
+        },
+        {
+            "id": 40,
+            "phrase": "drown one’s sorrows",
+            "definition": "to try to forget one’s problems by drinking a lot of alcohol. Bill is in the bar, drowning his troubles. Jane is at home, drowning her sorrows."
+        },
+        {
+            "id": 41,
+            "phrase": "a drug on the market",
+            "definition": "something that is on the market in great abundance.  Right now, small computers are a drug on the market.  Twenty years ago, small transistor radios were a glut on the market."
+        },
+        {
+            "id": 42,
+            "phrase": "a glut on the market",
+            "definition": "something that is on the market in great abundance.  Right now, small computers are a drug on the market.  Twenty years ago, small transistor radios were a glut on the market."
+        },
+        {
+            "id": 43,
+            "phrase": "drum someone out of something",
+            "definition": "to expel or send someone away from something, especially in a formal or public fashion. They drummed Bill out of the bridge club for having a bad attitude. The corps drums out a few cadets each year."
+        },
+        {
+            "id": 44,
+            "phrase": "drum someone out†",
+            "definition": "to expel or send someone away from something, especially in a formal or public fashion. They drummed Bill out of the bridge club for having a bad attitude. The corps drums out a few cadets each year."
+        },
+        {
+            "id": 45,
+            "phrase": "drum something into someone",
+            "definition": "to teach someone something intensely.  Her mother had drummed good manners into her.  She drummed in good manners day after day."
+        },
+        {
+            "id": 46,
+            "phrase": "drum something into someone’s head",
+            "definition": "to teach someone something intensely.  Her mother had drummed good manners into her.  She drummed in good manners day after day."
+        },
+        {
+            "id": 47,
+            "phrase": "drum something in†",
+            "definition": "to teach someone something intensely.  Her mother had drummed good manners into her.  She drummed in good manners day after day."
+        },
+        {
+            "id": 48,
+            "phrase": "*drunk as a lord",
+            "definition": "very drunk. (*Also: as ~.) _ After his fifth cocktail, Michael was as drunk as a lord.  Judy bought herself a case of beer and proceeded to get as drunk as a skunk."
+        },
+        {
+            "id": 49,
+            "phrase": "*drunk as a skunk",
+            "definition": "very drunk. (*Also: as ~.) _ After his fifth cocktail, Michael was as drunk as a lord.  Judy bought herself a case of beer and proceeded to get as drunk as a skunk."
+        },
+        {
+            "id": 50,
+            "phrase": "*dry as dust",
+            "definition": "1. Cliché very dry. (*Also: as ~.) _ The bread is as dry as dust.  When the leaves are dry as a bone, they break into powder easily. 2. Cliché very dull; very boring. (*Also: as ~.) _ This book is as dry as dust. I am going to stop reading it.  Her lecture was dry as dust—just like her subject."
+        },
+        {
+            "id": 51,
+            "phrase": "*dry as a bone",
+            "definition": "1. Cliché very dry. (*Also: as ~.) _ The bread is as dry as dust.  When the leaves are dry as a bone, they break into powder easily. 2. Cliché very dull; very boring. (*Also: as ~.) _ This book is as dry as dust. I am going to stop reading it.  Her lecture was dry as dust—just like her subject."
+        },
+        {
+            "id": 52,
+            "phrase": "*dull as dishwater",
+            "definition": "very uninteresting. (*Also: as ~.) _I’m not surprised that he can’t find a partner. He’s as dull as dishwater.  Mr. Black’s speech was as dull as dishwater."
+        },
+        {
+            "id": 53,
+            "phrase": "*dull as ditchwater",
+            "definition": "very uninteresting. (*Also: as ~.) _I’m not surprised that he can’t find a partner. He’s as dull as dishwater.  Mr. Black’s speech was as dull as dishwater."
+        },
+        {
+            "id": 54,
+            "phrase": "dunk someone or something into something",
+            "definition": "to submerge someone or something in something, fully or partially.  They dunked him into the pool as a way of celebrating. Liz pulled the cup of coffee toward herself and dunked in her doughnut.  She dunked herself into the cold water for just a minute."
+        },
+        {
+            "id": 55,
+            "phrase": "dunk someone or something in†",
+            "definition": "to submerge someone or something in something, fully or partially.  They dunked him into the pool as a way of celebrating. Liz pulled the cup of coffee toward herself and dunked in her doughnut.  She dunked herself into the cold water for just a minute."
+        },
+        {
+            "id": 56,
+            "phrase": "a dust bunny",
+            "definition": "a clump of dust and lint. She swept the dust bunnies out from under the bed. There’s a huge dust kitten behind the chiffarobe. He hasn’t cleaned in weeks. There are turkey’s nests in every corner."
+        },
+        {
+            "id": 57,
+            "phrase": "a dust kitten",
+            "definition": "a clump of dust and lint. She swept the dust bunnies out from under the bed. There’s a huge dust kitten behind the chiffarobe. He hasn’t cleaned in weeks. There are turkey’s nests in every corner."
+        },
+        {
+            "id": 58,
+            "phrase": "a turkey’s nest",
+            "definition": "a clump of dust and lint. She swept the dust bunnies out from under the bed. There’s a huge dust kitten behind the chiffarobe. He hasn’t cleaned in weeks. There are turkey’s nests in every corner."
+        },
+        {
+            "id": 59,
+            "phrase": "dwindle away (to something)",
+            "definition": "to shrink, contract, or diminish to something.  The noise dwindled away to nothing.  It just dwindled down and was gone."
+        },
+        {
+            "id": 60,
+            "phrase": "dwindle down (to something)",
+            "definition": "to shrink, contract, or diminish to something.  The noise dwindled away to nothing.  It just dwindled down and was gone."
+        },
+        {
+            "id": 61,
+            "phrase": "Early ripe, early rotten.",
+            "definition": "Prov. A child with extraordinary talent or intelligence will probably lose those qualities by the time he or she grows up.  Jill: Philip was such a fine young boy; I’m surprised he’s become such a good-for-nothing adult. Jane: Early ripe, early rotten.  Jane: You must be very proud of your little boy. He seems so mature for his age. Ellen: I’m afraid it won’t last. You know what they say: “Soon ripe, soon rotten.”"
+        },
+        {
+            "id": 62,
+            "phrase": "Soon ripe, soon rotten.",
+            "definition": "Prov. A child with extraordinary talent or intelligence will probably lose those qualities by the time he or she grows up.  Jill: Philip was such a fine young boy; I’m surprised he’s become such a good-for-nothing adult. Jane: Early ripe, early rotten.  Jane: You must be very proud of your little boy. He seems so mature for his age. Ellen: I’m afraid it won’t last. You know what they say: “Soon ripe, soon rotten.”"
+        },
+        {
+            "id": 63,
+            "phrase": "ease off (on someone or something)",
+            "definition": "to reduce the urgency with which one deals with someone or something; to put less pressure on someone or something. Ease off on John. He has been yelled at enough today.  Yes, please ease off. I can’t stand any more.  Tell them to ease up on the horses. They are getting tired."
+        },
+        {
+            "id": 64,
+            "phrase": "ease up (on someone or something)",
+            "definition": "to reduce the urgency with which one deals with someone or something; to put less pressure on someone or something. Ease off on John. He has been yelled at enough today.  Yes, please ease off. I can’t stand any more.  Tell them to ease up on the horses. They are getting tired."
+        },
+        {
+            "id": 65,
+            "phrase": "ease someone out of something",
+            "definition": "to get someone out of something carefully.  The paramedics eased the injured man out of the wreckage.  Please ease out the patient carefully."
+        },
+        {
+            "id": 66,
+            "phrase": "ease someone out†",
+            "definition": "to get someone out of something carefully.  The paramedics eased the injured man out of the wreckage.  Please ease out the patient carefully."
+        },
+        {
+            "id": 67,
+            "phrase": "East, west, home’s best.",
+            "definition": "Prov. Home is the best place to be no matter where it is.  You may think that traveling all the time is fun, but eventually you’ll discover that east or west, home is best."
+        },
+        {
+            "id": 68,
+            "phrase": "East or west, home is best.",
+            "definition": "Prov. Home is the best place to be no matter where it is.  You may think that traveling all the time is fun, but eventually you’ll discover that east or west, home is best."
+        },
+        {
+            "id": 69,
+            "phrase": "*easy as A, B, C",
+            "definition": "very easy. (*Also: as ~.) _ If you use a cake mix, baking a cake is easy as A, B, C.  Mountain climbing is as easy as pie.  Finding your way to the shopping center is easy as duck soup.  Getting out of jail was easy as rolling off a log."
+        },
+        {
+            "id": 70,
+            "phrase": "*easy as falling off a log",
+            "definition": "very easy. (*Also: as ~.) _ If you use a cake mix, baking a cake is easy as A, B, C.  Mountain climbing is as easy as pie.  Finding your way to the shopping center is easy as duck soup.  Getting out of jail was easy as rolling off a log."
+        },
+        {
+            "id": 71,
+            "phrase": "*easy as rolling off a log",
+            "definition": "very easy. (*Also: as ~.) _ If you use a cake mix, baking a cake is easy as A, B, C.  Mountain climbing is as easy as pie.  Finding your way to the shopping center is easy as duck soup.  Getting out of jail was easy as rolling off a log."
+        },
+        {
+            "id": 72,
+            "phrase": "*easy as (apple) pie",
+            "definition": "very easy. (*Also: as ~.) _ If you use a cake mix, baking a cake is easy as A, B, C.  Mountain climbing is as easy as pie.  Finding your way to the shopping center is easy as duck soup.  Getting out of jail was easy as rolling off a log."
+        },
+        {
+            "id": 73,
+            "phrase": "*easy as duck soup",
+            "definition": "very easy. (*Also: as ~.) _ If you use a cake mix, baking a cake is easy as A, B, C.  Mountain climbing is as easy as pie.  Finding your way to the shopping center is easy as duck soup.  Getting out of jail was easy as rolling off a log."
+        },
+        {
+            "id": 74,
+            "phrase": "eat (a meal) out",
+            "definition": "to eat a meal at a restaurant.  I like to eat a meal out every now and then.  Yes, it’s good to eat out and try different kinds of food. It costs a lot of money to dine out often."
+        },
+        {
+            "id": 75,
+            "phrase": "dine out",
+            "definition": "to eat a meal at a restaurant.  I like to eat a meal out every now and then.  Yes, it’s good to eat out and try different kinds of food. It costs a lot of money to dine out often."
+        },
+        {
+            "id": 76,
+            "phrase": "Eavesdroppers never hear any good of themselves.",
+            "definition": "Prov. If you eavesdrop on people who are talking about you, chances are that you will hear them say unfavorable things about you. (This implies that you should not eavesdrop.) _Child: Mommy, I heard Suzy and Lisa talking about me, and they said I was a crybaby! Mother: That just goes to show you, dear, that eavesdroppers never hear any good of themselves.  I knew that Mother and Dad had gone into the other room to discuss my situation, and I was tempted to put my ear to the door and listen to them, but I remembered that listeners never hear any good of themselves."
+        },
+        {
+            "id": 77,
+            "phrase": "Listeners never hear any good of themselves.",
+            "definition": "Prov. If you eavesdrop on people who are talking about you, chances are that you will hear them say unfavorable things about you. (This implies that you should not eavesdrop.) _Child: Mommy, I heard Suzy and Lisa talking about me, and they said I was a crybaby! Mother: That just goes to show you, dear, that eavesdroppers never hear any good of themselves.  I knew that Mother and Dad had gone into the other room to discuss my situation, and I was tempted to put my ear to the door and listen to them, but I remembered that listeners never hear any good of themselves."
+        },
+        {
+            "id": 78,
+            "phrase": "edge something out of something",
+            "definition": "to move something out of something very carefully, bit by bit.  Sam edged the control rod out of the reactor, using the remote control device.  Mary edged the car out of the parking place.  Carefully, she edged out the car."
+        },
+        {
+            "id": 79,
+            "phrase": "edge something out†",
+            "definition": "to move something out of something very carefully, bit by bit.  Sam edged the control rod out of the reactor, using the remote control device.  Mary edged the car out of the parking place.  Carefully, she edged out the car."
+        },
+        {
+            "id": 80,
+            "phrase": "edit something out of something",
+            "definition": "to strike out words or sentences from something that is going to be published; to cut out textual material in the editing process.  She edited the foul language out of the essay.  Frank edited out the misspelled words."
+        },
+        {
+            "id": 81,
+            "phrase": "edit something out†",
+            "definition": "to strike out words or sentences from something that is going to be published; to cut out textual material in the editing process.  She edited the foul language out of the essay.  Frank edited out the misspelled words."
+        },
+        {
+            "id": 82,
+            "phrase": "elbow someone out of something",
+            "definition": "to force or pressure someone out of something, such as an office, post, or status. The board managed to elbow out the old head of the company.  They tried to elbow me out, but I held on to what was mine."
+        },
+        {
+            "id": 83,
+            "phrase": "elbow someone out†",
+            "definition": "to force or pressure someone out of something, such as an office, post, or status. The board managed to elbow out the old head of the company.  They tried to elbow me out, but I held on to what was mine."
+        },
+        {
+            "id": 84,
+            "phrase": "empty something into something",
+            "definition": "to pour something into something else. Now, empty the can of soup into the pan.  Open the can and empty in the contents."
+        },
+        {
+            "id": 85,
+            "phrase": "empty something in†",
+            "definition": "to pour something into something else. Now, empty the can of soup into the pan.  Open the can and empty in the contents."
+        },
+        {
+            "id": 86,
+            "phrase": "the end of the road",
+            "definition": "the place where the road stops; the end of the route, such as a bus, train, or subway route.  Our house is at the end of the road. We drove to the end of the road and began our hike into the mountains."
+        },
+        {
+            "id": 87,
+            "phrase": "the end of the line",
+            "definition": "the place where the road stops; the end of the route, such as a bus, train, or subway route.  Our house is at the end of the road. We drove to the end of the road and began our hike into the mountains."
+        },
+        {
+            "id": 88,
+            "phrase": "end up (by) doing something",
+            "definition": "1. to conclude something by doing something. We ended up by going back to my house.  They danced until midnight and wound up by having pizza in the front room. 2. to end by doing something [anyway]. I wound up by going home early."
+        },
+        {
+            "id": 89,
+            "phrase": "wind up (by) doing something",
+            "definition": "1. to conclude something by doing something. We ended up by going back to my house.  They danced until midnight and wound up by having pizza in the front room. 2. to end by doing something [anyway]. I wound up by going home early."
+        },
+        {
+            "id": 90,
+            "phrase": "end up (somewhere)",
+            "definition": "to finish at a certain place. If you don’t get straightened out, you’ll end up in jail.  I fell and hurt myself, and I wound up in the hospital."
+        },
+        {
+            "id": 91,
+            "phrase": "wind up (somewhere)",
+            "definition": "to finish at a certain place. If you don’t get straightened out, you’ll end up in jail.  I fell and hurt myself, and I wound up in the hospital."
+        },
+        {
+            "id": 92,
+            "phrase": "engorge (itself) on someone or something",
+            "definition": "[for an animal] to drink its fill of blood.  The vampire bat engorged itself on a number of creatures last night. Mosquitoes engorge on human victims. The mosquitoes engorged themselves with my blood all night long."
+        },
+        {
+            "id": 93,
+            "phrase": "engorge (itself) with something",
+            "definition": "[for an animal] to drink its fill of blood.  The vampire bat engorged itself on a number of creatures last night. Mosquitoes engorge on human victims. The mosquitoes engorged themselves with my blood all night long."
+        },
+        {
+            "id": 94,
+            "phrase": "enlighten someone (about someone or something)",
+            "definition": "to tell someone the facts about someone or something. Please enlighten me about this trip you are planning. Would you enlighten me on the current state of things? _Enlighten me about Sarah.  She enlightened herself about automobile engines."
+        },
+        {
+            "id": 95,
+            "phrase": "enlighten someone (on someone or something)",
+            "definition": "to tell someone the facts about someone or something. Please enlighten me about this trip you are planning. Would you enlighten me on the current state of things? _Enlighten me about Sarah.  She enlightened herself about automobile engines."
+        },
+        {
+            "id": 96,
+            "phrase": "enough something to plague a saint",
+            "definition": "Rur. enough of something to annoy even a patient person.  That little boy has enough curiosity to plague a saint! _Sally’s a well-meaning woman, but her endless gossiping is enough to plague a saint."
+        },
+        {
+            "id": 97,
+            "phrase": "something is enough to plague a saint",
+            "definition": "Rur. enough of something to annoy even a patient person.  That little boy has enough curiosity to plague a saint! _Sally’s a well-meaning woman, but her endless gossiping is enough to plague a saint."
+        },
+        {
+            "id": 98,
+            "phrase": "enshrine someone in one’s heart",
+            "definition": "to keep the memory of someone in a special place in one’s heart or mind.  Bob enshrined Jill’s memory in his heart."
+        },
+        {
+            "id": 99,
+            "phrase": "enshrine someone’s memory in one’s heart",
+            "definition": "to keep the memory of someone in a special place in one’s heart or mind.  Bob enshrined Jill’s memory in his heart."
+        },
+        {
+            "id": 100,
+            "phrase": "enter (something) by something",
+            "definition": "to enter something or some place by way of a certain entrance.  We entered the building by the west door. You should enter through the revolving door only."
+        },
+        {
+            "id": 101,
+            "phrase": "enter (something) through something",
+            "definition": "to enter something or some place by way of a certain entrance.  We entered the building by the west door. You should enter through the revolving door only."
+        },
+        {
+            "id": 102,
+            "phrase": "envision someone as someone else",
+            "definition": "to imagine or fantasize someone as someone else; to imagine or fantasize something as something else.  I envision her as the next company president.  We envisioned this as larger than it turned out to be."
+        },
+        {
+            "id": 103,
+            "phrase": "envision something as something else",
+            "definition": "to imagine or fantasize someone as someone else; to imagine or fantasize something as something else.  I envision her as the next company president.  We envisioned this as larger than it turned out to be."
+        },
+        {
+            "id": 104,
+            "phrase": "equate someone to someone else",
+            "definition": "to claim that someone is in some manner the same as someone else; to claim that something is in some manner the same as something else.  I would equate Tom to Wally when it comes to native ability. You cannot equate my car to that jalopy you drive!"
+        },
+        {
+            "id": 105,
+            "phrase": "equate something to something else",
+            "definition": "to claim that someone is in some manner the same as someone else; to claim that something is in some manner the same as something else.  I would equate Tom to Wally when it comes to native ability. You cannot equate my car to that jalopy you drive!"
+        },
+        {
+            "id": 106,
+            "phrase": "etch something in(to) something",
+            "definition": "to erode a design or message into something, usually with acid.  They etched their family crest into their good crystal.  He etched in his initials."
+        },
+        {
+            "id": 107,
+            "phrase": "etch something in†",
+            "definition": "to erode a design or message into something, usually with acid.  They etched their family crest into their good crystal.  He etched in his initials."
+        },
+        {
+            "id": 108,
+            "phrase": "Every dog has its day.",
+            "definition": "Prov. Everyone gets a chance eventually.  Don’t worry, you’ll get chosen for the team. Every dog has its day.  You may become famous someday. Every dog has his day."
+        },
+        {
+            "id": 109,
+            "phrase": "Every dog has his day.",
+            "definition": "Prov. Everyone gets a chance eventually.  Don’t worry, you’ll get chosen for the team. Every dog has its day.  You may become famous someday. Every dog has his day."
+        },
+        {
+            "id": 110,
+            "phrase": "every inch a something",
+            "definition": "completely; in every way. (Usually strengthening a following adjective.) _ Mary is every inch the schoolteacher.  Her father is every inch a gentleman."
+        },
+        {
+            "id": 111,
+            "phrase": "every inch the something",
+            "definition": "completely; in every way. (Usually strengthening a following adjective.) _ Mary is every inch the schoolteacher.  Her father is every inch a gentleman."
+        },
+        {
+            "id": 112,
+            "phrase": "Every man for himself (and the devil take the hindmost).",
+            "definition": "Prov. Everyone has to fight for his or her own survival. (You can use this to describe an extremely competitive situation.) _ At first we tried to help each other study for the exam, but soon it was every man for himself, and the devil take the hindmost.  The inventors tried to collaborate, agreeing to share the profits from their invention, but they grew so suspicious of each other that each began to work separately, and devil take the hindmost.  When the ship began to sink, it was every man for himself."
+        },
+        {
+            "id": 113,
+            "phrase": "Devil take the hindmost",
+            "definition": "Prov. Everyone has to fight for his or her own survival. (You can use this to describe an extremely competitive situation.) _ At first we tried to help each other study for the exam, but soon it was every man for himself, and the devil take the hindmost.  The inventors tried to collaborate, agreeing to share the profits from their invention, but they grew so suspicious of each other that each began to work separately, and devil take the hindmost.  When the ship began to sink, it was every man for himself."
+        },
+        {
+            "id": 114,
+            "phrase": "Every minute counts.",
+            "definition": "time is very important. (Used especially in situations where time is very limited.) _Doctor, please try to get here quickly. Every minute counts.  When you take a test, you must work rapidly because every minute counts.  When you’re trying to meet a deadline, every moment counts."
+        },
+        {
+            "id": 115,
+            "phrase": "Every moment counts.",
+            "definition": "time is very important. (Used especially in situations where time is very limited.) _Doctor, please try to get here quickly. Every minute counts.  When you take a test, you must work rapidly because every minute counts.  When you’re trying to meet a deadline, every moment counts."
+        },
+        {
+            "id": 116,
+            "phrase": "(every) now and then",
+            "definition": "occasionally; infrequently.  We eat lamb every now and then.  We eat pork now and then.  I read a novel every now and again."
+        },
+        {
+            "id": 117,
+            "phrase": "(every) now and again",
+            "definition": "occasionally; infrequently.  We eat lamb every now and then.  We eat pork now and then.  I read a novel every now and again."
+        },
+        {
+            "id": 118,
+            "phrase": "(every) once in a while",
+            "definition": "occasionally; infrequently.  We eat lamb every now and then.  We eat pork now and then.  I read a novel every now and again."
+        },
+        {
+            "id": 119,
+            "phrase": "(every) Tom, Dick, and Harry",
+            "definition": "everyone, without discrimination; ordinary people. (Not necessarily males.) _ The golf club is very exclusive. They don’t let any Tom, Dick, or Harry join. Mary’s sending out very few invitations. She doesn’t want every Tom, Dick, and Harry turning up."
+        },
+        {
+            "id": 120,
+            "phrase": "any Tom, Dick, and Harry",
+            "definition": "everyone, without discrimination; ordinary people. (Not necessarily males.) _ The golf club is very exclusive. They don’t let any Tom, Dick, or Harry join. Mary’s sending out very few invitations. She doesn’t want every Tom, Dick, and Harry turning up."
+        },
+        {
+            "id": 121,
+            "phrase": "Every tub must stand on its own bottom.",
+            "definition": "Prov. People should be independent.  Emily did not want to join the other students, who were helping each other study for the exam. “Every tub must stand on its own bottom,” she said. Don’t ask me for help. Let every tub stand on its own bottom."
+        },
+        {
+            "id": 122,
+            "phrase": "Let every tub stand on its own bottom.",
+            "definition": "Prov. People should be independent.  Emily did not want to join the other students, who were helping each other study for the exam. “Every tub must stand on its own bottom,” she said. Don’t ask me for help. Let every tub stand on its own bottom."
+        },
+        {
+            "id": 123,
+            "phrase": "everybody and his brother",
+            "definition": "everybody; lots of people. The state fair was packed. Everybody and his brother was there.  Everybody and his uncle was asking me where you was today."
+        },
+        {
+            "id": 124,
+            "phrase": "everybody and his uncle",
+            "definition": "everybody; lots of people. The state fair was packed. Everybody and his brother was there.  Everybody and his uncle was asking me where you was today."
+        },
+        {
+            "id": 125,
+            "phrase": "everything from soup to nuts",
+            "definition": "Cliché almost everything one can think of.  For dinner we had everything from soup to nuts.  In college I studied everything from soup to nuts."
+        },
+        {
+            "id": 126,
+            "phrase": "everything from A to Z",
+            "definition": "Cliché almost everything one can think of.  For dinner we had everything from soup to nuts.  In college I studied everything from soup to nuts."
+        },
+        {
+            "id": 127,
+            "phrase": "Everything’s going to be all right.",
+            "definition": "Do not worry, everything will be okay.  “Don’t worry, Fred,” comforted Bill. “Everything will be all right.” _ Mary: I just don’t know if I can go on! Bob: Now, now. Everything will be just fine."
+        },
+        {
+            "id": 128,
+            "phrase": "Everything will be all right.",
+            "definition": "Do not worry, everything will be okay.  “Don’t worry, Fred,” comforted Bill. “Everything will be all right.” _ Mary: I just don’t know if I can go on! Bob: Now, now. Everything will be just fine."
+        },
+        {
+            "id": 129,
+            "phrase": "Everything will be okay.",
+            "definition": "Do not worry, everything will be okay.  “Don’t worry, Fred,” comforted Bill. “Everything will be all right.” _ Mary: I just don’t know if I can go on! Bob: Now, now. Everything will be just fine."
+        },
+        {
+            "id": 130,
+            "phrase": "Everything will be just fine.",
+            "definition": "Do not worry, everything will be okay.  “Don’t worry, Fred,” comforted Bill. “Everything will be all right.” _ Mary: I just don’t know if I can go on! Bob: Now, now. Everything will be just fine."
+        },
+        {
+            "id": 131,
+            "phrase": "Everything will be great.",
+            "definition": "Do not worry, everything will be okay.  “Don’t worry, Fred,” comforted Bill. “Everything will be all right.” _ Mary: I just don’t know if I can go on! Bob: Now, now. Everything will be just fine."
+        },
+        {
+            "id": 132,
+            "phrase": "evolve (from something) (into something)",
+            "definition": "to develop from something to something else; to develop from a more primitive form to the present form.  This creature evolved from a smaller, horselike creature into what we know as a horse.  The human brain evolved out of a smaller and less complex form into the brain of today."
+        },
+        {
+            "id": 133,
+            "phrase": "evolve out of something (into something)",
+            "definition": "to develop from something to something else; to develop from a more primitive form to the present form.  This creature evolved from a smaller, horselike creature into what we know as a horse.  The human brain evolved out of a smaller and less complex form into the brain of today."
+        },
+        {
+            "id": 134,
+            "phrase": "excel at something",
+            "definition": "to do something in a superior fashion.  She really excels at running.  Wally does not excel at anything.  Frank always hoped he would excel in math."
+        },
+        {
+            "id": 135,
+            "phrase": "excel in something",
+            "definition": "to do something in a superior fashion.  She really excels at running.  Wally does not excel at anything.  Frank always hoped he would excel in math."
+        },
+        {
+            "id": 136,
+            "phrase": "exchange no more than some number of words with someone",
+            "definition": "to say hardly anything to someone. (Always negative.) _ I know Tom was there, but I am sure that I didn’t exchange more than three words with him before he left.  We hardly exchanged more than two words the whole evening.  Sally and Liz didn’t have enough time to exchange more than five words."
+        },
+        {
+            "id": 137,
+            "phrase": "not exchange more than some number of words with someone",
+            "definition": "to say hardly anything to someone. (Always negative.) _ I know Tom was there, but I am sure that I didn’t exchange more than three words with him before he left.  We hardly exchanged more than two words the whole evening.  Sally and Liz didn’t have enough time to exchange more than five words."
+        },
+        {
+            "id": 138,
+            "phrase": "hardly exchange more than some number of words with someone",
+            "definition": "to say hardly anything to someone. (Always negative.) _ I know Tom was there, but I am sure that I didn’t exchange more than three words with him before he left.  We hardly exchanged more than two words the whole evening.  Sally and Liz didn’t have enough time to exchange more than five words."
+        },
+        {
+            "id": 139,
+            "phrase": "scarcely exchange more than some number of words with someone",
+            "definition": "to say hardly anything to someone. (Always negative.) _ I know Tom was there, but I am sure that I didn’t exchange more than three words with him before he left.  We hardly exchanged more than two words the whole evening.  Sally and Liz didn’t have enough time to exchange more than five words."
+        },
+        {
+            "id": 140,
+            "phrase": "Excuse me.",
+            "definition": "1. an expression asking forgiveness for some minor social violation, such as belching or bumping into someone. (’Scuse is colloquial, and the apostrophe is not always used.) _ John: Ouch! Bob: Excuse me. I didn’t see you there.  Mary: Oh! Ow! Sue: Pardon me. I didn’t mean to bump into you.  Tom: Ouch! Mary: Oh, dear! What happened? Tom: You stepped on my toe. Mary: Excuse me. I’m sorry. 2. Please let me through.; Please let me by.  Tom: Excuse me. I need to get past. Bob: Oh, sorry. I didn’t know I was in the way.  Mary: Pardon me. Sue: What? Mary: Pardon me. I want to get past you."
+        },
+        {
+            "id": 141,
+            "phrase": "Excuse, please.",
+            "definition": "1. an expression asking forgiveness for some minor social violation, such as belching or bumping into someone. (’Scuse is colloquial, and the apostrophe is not always used.) _ John: Ouch! Bob: Excuse me. I didn’t see you there.  Mary: Oh! Ow! Sue: Pardon me. I didn’t mean to bump into you.  Tom: Ouch! Mary: Oh, dear! What happened? Tom: You stepped on my toe. Mary: Excuse me. I’m sorry. 2. Please let me through.; Please let me by.  Tom: Excuse me. I need to get past. Bob: Oh, sorry. I didn’t know I was in the way.  Mary: Pardon me. Sue: What? Mary: Pardon me. I want to get past you."
+        },
+        {
+            "id": 142,
+            "phrase": "Pardon (me).",
+            "definition": "1. an expression asking forgiveness for some minor social violation, such as belching or bumping into someone. (’Scuse is colloquial, and the apostrophe is not always used.) _ John: Ouch! Bob: Excuse me. I didn’t see you there.  Mary: Oh! Ow! Sue: Pardon me. I didn’t mean to bump into you.  Tom: Ouch! Mary: Oh, dear! What happened? Tom: You stepped on my toe. Mary: Excuse me. I’m sorry. 2. Please let me through.; Please let me by.  Tom: Excuse me. I need to get past. Bob: Oh, sorry. I didn’t know I was in the way.  Mary: Pardon me. Sue: What? Mary: Pardon me. I want to get past you."
+        },
+        {
+            "id": 143,
+            "phrase": "’Scuse (me).",
+            "definition": "1. an expression asking forgiveness for some minor social violation, such as belching or bumping into someone. (’Scuse is colloquial, and the apostrophe is not always used.) _ John: Ouch! Bob: Excuse me. I didn’t see you there.  Mary: Oh! Ow! Sue: Pardon me. I didn’t mean to bump into you.  Tom: Ouch! Mary: Oh, dear! What happened? Tom: You stepped on my toe. Mary: Excuse me. I’m sorry. 2. Please let me through.; Please let me by.  Tom: Excuse me. I need to get past. Bob: Oh, sorry. I didn’t know I was in the way.  Mary: Pardon me. Sue: What? Mary: Pardon me. I want to get past you."
+        },
+        {
+            "id": 144,
+            "phrase": "’Scuse, please.",
+            "definition": "1. an expression asking forgiveness for some minor social violation, such as belching or bumping into someone. (’Scuse is colloquial, and the apostrophe is not always used.) _ John: Ouch! Bob: Excuse me. I didn’t see you there.  Mary: Oh! Ow! Sue: Pardon me. I didn’t mean to bump into you.  Tom: Ouch! Mary: Oh, dear! What happened? Tom: You stepped on my toe. Mary: Excuse me. I’m sorry. 2. Please let me through.; Please let me by.  Tom: Excuse me. I need to get past. Bob: Oh, sorry. I didn’t know I was in the way.  Mary: Pardon me. Sue: What? Mary: Pardon me. I want to get past you."
+        },
+        {
+            "id": 145,
+            "phrase": "exercise power over someone or something",
+            "definition": "to have someone or something under one’s control or influence. The dictator exercised power over the island for many years.  See if you can exercise some control over your appetite.  I wish I could exercise some inf luence over the committee."
+        },
+        {
+            "id": 146,
+            "phrase": "exercise control over someone or something",
+            "definition": "to have someone or something under one’s control or influence. The dictator exercised power over the island for many years.  See if you can exercise some control over your appetite.  I wish I could exercise some inf luence over the committee."
+        },
+        {
+            "id": 147,
+            "phrase": "exercise influence over someone or something",
+            "definition": "to have someone or something under one’s control or influence. The dictator exercised power over the island for many years.  See if you can exercise some control over your appetite.  I wish I could exercise some inf luence over the committee."
+        },
+        {
+            "id": 148,
+            "phrase": "exorcise something out of someone",
+            "definition": "to remove or cast out evil from someone.  We saw a movie about a priest who exorcised a demon out of a young girl."
+        },
+        {
+            "id": 149,
+            "phrase": "exorcise something out",
+            "definition": "to remove or cast out evil from someone.  We saw a movie about a priest who exorcised a demon out of a young girl."
+        },
+        {
+            "id": 150,
+            "phrase": "expand (up)on something",
+            "definition": "to add detail to a report about something; to say more about something.  Would you please expand upon that last remark? _ Would you care to enlarge upon your remarks?"
+        },
+        {
+            "id": 151,
+            "phrase": "enlarge (up)on something",
+            "definition": "to add detail to a report about something; to say more about something.  Would you please expand upon that last remark? _ Would you care to enlarge upon your remarks?"
+        },
+        {
+            "id": 152,
+            "phrase": "Experience is the father of wisdom.",
+            "definition": "Prov. The more that happens to you, the more you will learn. I never understood why supervisors got so frustrated with me until I became a supervisor and got frustrated with my subordinates. Experience was definitely the mother of wisdom, in my case."
+        },
+        {
+            "id": 153,
+            "phrase": "Experience is the mother of wisdom.",
+            "definition": "Prov. The more that happens to you, the more you will learn. I never understood why supervisors got so frustrated with me until I became a supervisor and got frustrated with my subordinates. Experience was definitely the mother of wisdom, in my case."
+        },
+        {
+            "id": 154,
+            "phrase": "expostulate about someone or something",
+            "definition": "to comment or argue intensely about someone or something. He always seems to be expostulating on something. Why can’t he simply say “Yes” or “No”? _Sam is expostulating on Bill’s many shortcomings again."
+        },
+        {
+            "id": 155,
+            "phrase": "expostulate on someone or something",
+            "definition": "to comment or argue intensely about someone or something. He always seems to be expostulating on something. Why can’t he simply say “Yes” or “No”? _Sam is expostulating on Bill’s many shortcomings again."
+        },
+        {
+            "id": 156,
+            "phrase": "extend credit (to someone or a company)",
+            "definition": "to allow someone to purchase something on credit.  I’m sorry, Mr. Smith, but because of your poor record of payment, we are no longer able to extend credit to you.  Look at this letter, Jane. The store won’t extend credit anymore. something"
+        },
+        {
+            "id": 157,
+            "phrase": "extend someone or a company credit",
+            "definition": "to allow someone to purchase something on credit.  I’m sorry, Mr. Smith, but because of your poor record of payment, we are no longer able to extend credit to you.  Look at this letter, Jane. The store won’t extend credit anymore. something"
+        },
+        {
+            "id": 158,
+            "phrase": "exult at something",
+            "definition": "to rejoice because of something; to rejoice about something.  We exulted at the end of the hostilities.  The citizens exulted over the downfall of the dictator."
+        },
+        {
+            "id": 159,
+            "phrase": "exult over something",
+            "definition": "to rejoice because of something; to rejoice about something.  We exulted at the end of the hostilities.  The citizens exulted over the downfall of the dictator."
+        },
+        {
+            "id": 160,
+            "phrase": "the eye of the hurricane",
+            "definition": "the area of calm in the center of a tornado, hurricane, or cyclone. It is calm and peaceful in the eye of the storm."
+        },
+        {
+            "id": 161,
+            "phrase": "the eye of the storm",
+            "definition": "the area of calm in the center of a tornado, hurricane, or cyclone. It is calm and peaceful in the eye of the storm."
+        },
+        {
+            "id": 162,
+            "phrase": "a face (that) only a mother could love",
+            "definition": "a very ugly face. (Usually jocular. See also homely enough to stop a clock.) _The poor baby has a face only a mother could love.  Look at that guy. That’s a face that could stop a clock."
+        },
+        {
+            "id": 163,
+            "phrase": "a face that could stop a clock",
+            "definition": "a very ugly face. (Usually jocular. See also homely enough to stop a clock.) _The poor baby has a face only a mother could love.  Look at that guy. That’s a face that could stop a clock."
+        },
+        {
+            "id": 164,
+            "phrase": "Fact is stranger than fiction.",
+            "definition": "Prov. Things that really happen are harder to believe or more amazing than stories that people invent.  Did you see the story in the newspaper about the criminal who attacks people with a toenail clipper? Fact is stranger than fiction! _ Jill: I can’t believe someone’s paying 900 dollars for Tom’s broken-down old car—it doesn’t even run. Jane: Truth is stranger than fiction."
+        },
+        {
+            "id": 165,
+            "phrase": "Truth is stranger than fiction.",
+            "definition": "Prov. Things that really happen are harder to believe or more amazing than stories that people invent.  Did you see the story in the newspaper about the criminal who attacks people with a toenail clipper? Fact is stranger than fiction! _ Jill: I can’t believe someone’s paying 900 dollars for Tom’s broken-down old car—it doesn’t even run. Jane: Truth is stranger than fiction."
+        },
+        {
+            "id": 166,
+            "phrase": "fade out",
+            "definition": "to diminish and go away altogether.  The light in the distance faded out as the sun began to set.  The light faded out as the candles burned themselves out, one by one.  As it got farther into the distance, the car faded away."
+        },
+        {
+            "id": 167,
+            "phrase": "fade away",
+            "definition": "to diminish and go away altogether.  The light in the distance faded out as the sun began to set.  The light faded out as the candles burned themselves out, one by one.  As it got farther into the distance, the car faded away."
+        },
+        {
+            "id": 168,
+            "phrase": "fall (a)foul of someone or something",
+            "definition": "to get into a situation where one is opposed to someone or something; to get into trouble with someone or something.  Dan fell afoul of the law at an early age.  I hope that you will avoid falling afoul of the district manager. She can be a formidable enemy.  I hope I don’t run afoul of your sister. She doesn’t like me."
+        },
+        {
+            "id": 169,
+            "phrase": "run (a)foul of someone or something",
+            "definition": "to get into a situation where one is opposed to someone or something; to get into trouble with someone or something.  Dan fell afoul of the law at an early age.  I hope that you will avoid falling afoul of the district manager. She can be a formidable enemy.  I hope I don’t run afoul of your sister. She doesn’t like me."
+        },
+        {
+            "id": 170,
+            "phrase": "fall apart (at the seams)",
+            "definition": "[for something] to break apart where its parts are joined.  The dress fell apart at the seams.  I wouldn’t have thought that a coat that cost that much money would just come apart at the seams."
+        },
+        {
+            "id": 171,
+            "phrase": "come apart at the seams",
+            "definition": "[for something] to break apart where its parts are joined.  The dress fell apart at the seams.  I wouldn’t have thought that a coat that cost that much money would just come apart at the seams."
+        },
+        {
+            "id": 172,
+            "phrase": "fall behind (in something)",
+            "definition": "to lag behind schedule in some kind of work or some other scheduled activity.  You are falling behind in your car payments. I tried not to get behind on them.  Please don’t fall behind with your payments.  I won’t fall behind again."
+        },
+        {
+            "id": 173,
+            "phrase": "fall behind (on something)",
+            "definition": "to lag behind schedule in some kind of work or some other scheduled activity.  You are falling behind in your car payments. I tried not to get behind on them.  Please don’t fall behind with your payments.  I won’t fall behind again."
+        },
+        {
+            "id": 174,
+            "phrase": "fall behind (with something)",
+            "definition": "to lag behind schedule in some kind of work or some other scheduled activity.  You are falling behind in your car payments. I tried not to get behind on them.  Please don’t fall behind with your payments.  I won’t fall behind again."
+        },
+        {
+            "id": 175,
+            "phrase": "get behind (in something)",
+            "definition": "to lag behind schedule in some kind of work or some other scheduled activity.  You are falling behind in your car payments. I tried not to get behind on them.  Please don’t fall behind with your payments.  I won’t fall behind again."
+        },
+        {
+            "id": 176,
+            "phrase": "get behind (on something)",
+            "definition": "to lag behind schedule in some kind of work or some other scheduled activity.  You are falling behind in your car payments. I tried not to get behind on them.  Please don’t fall behind with your payments.  I won’t fall behind again."
+        },
+        {
+            "id": 177,
+            "phrase": "get behind (with something)",
+            "definition": "to lag behind schedule in some kind of work or some other scheduled activity.  You are falling behind in your car payments. I tried not to get behind on them.  Please don’t fall behind with your payments.  I won’t fall behind again."
+        },
+        {
+            "id": 178,
+            "phrase": "fall on one’s knees",
+            "definition": "to kneel down, usually in respect.  The people fell on their knees and prayed in gratitude for their salvation from the f lood.  They fell to their knees in awe."
+        },
+        {
+            "id": 179,
+            "phrase": "fall to one’s knees",
+            "definition": "to kneel down, usually in respect.  The people fell on their knees and prayed in gratitude for their salvation from the f lood.  They fell to their knees in awe."
+        },
+        {
+            "id": 180,
+            "phrase": "fall out of favor (with someone)",
+            "definition": "to lose someone’s approval or acceptance. This style of house has fallen out of favor with most people lately.  Saving money has lost favor with most people."
+        },
+        {
+            "id": 181,
+            "phrase": "lose favor (with someone)",
+            "definition": "to lose someone’s approval or acceptance. This style of house has fallen out of favor with most people lately.  Saving money has lost favor with most people."
+        },
+        {
+            "id": 182,
+            "phrase": "fall out (with someone) (over something)",
+            "definition": "to quarrel or disagree with someone about something. Tony fell out with Nick about the video game. Bill fell out with Sally over the question of buying a new car.  Bill fell out with John about who would sleep on the bottom bunk."
+        },
+        {
+            "id": 183,
+            "phrase": "fall out (with someone) (about someone or something)",
+            "definition": "to quarrel or disagree with someone about something. Tony fell out with Nick about the video game. Bill fell out with Sally over the question of buying a new car.  Bill fell out with John about who would sleep on the bottom bunk."
+        },
+        {
+            "id": 184,
+            "phrase": "fall over backwards (to do something)",
+            "definition": "to do everything possible to please someone.  The taxi driver fell over backwards to be helpful. The teacher bent over backwards to help the students understand. You don’t have to lean over backwards to get me to help. Just ask."
+        },
+        {
+            "id": 185,
+            "phrase": "bend over backwards (to do something)",
+            "definition": "to do everything possible to please someone.  The taxi driver fell over backwards to be helpful. The teacher bent over backwards to help the students understand. You don’t have to lean over backwards to get me to help. Just ask."
+        },
+        {
+            "id": 186,
+            "phrase": "lean over backwards (to do something)",
+            "definition": "to do everything possible to please someone.  The taxi driver fell over backwards to be helpful. The teacher bent over backwards to help the students understand. You don’t have to lean over backwards to get me to help. Just ask."
+        },
+        {
+            "id": 187,
+            "phrase": "fall short of one’s goal(s)",
+            "definition": "to fail to achieve a goal.  We fell short of our goal of collecting a thousand dollars.  Ann ran a fast race, but fell short of the record."
+        },
+        {
+            "id": 188,
+            "phrase": "fall short of the goal(s)",
+            "definition": "to fail to achieve a goal.  We fell short of our goal of collecting a thousand dollars.  Ann ran a fast race, but fell short of the record."
+        },
+        {
+            "id": 189,
+            "phrase": "fall short of the record",
+            "definition": "to fail to achieve a goal.  We fell short of our goal of collecting a thousand dollars.  Ann ran a fast race, but fell short of the record."
+        },
+        {
+            "id": 190,
+            "phrase": "a false move",
+            "definition": "[even] a single movement that indicates that one is disobeying an order to remain still or in a nonthreatening posture. The robber threatened to shoot us if we made one false move."
+        },
+        {
+            "id": 191,
+            "phrase": "one false move",
+            "definition": "[even] a single movement that indicates that one is disobeying an order to remain still or in a nonthreatening posture. The robber threatened to shoot us if we made one false move."
+        },
+        {
+            "id": 192,
+            "phrase": "Fancy that!",
+            "definition": "I am very surprised to hear that.; That is hard to imagine or believe. Mary: My father was elected president of the board. Sally: Fancy that! _ Sue: This computer is ten times faster than the one we had before. Jane: Imagine that! Is it easy to operate? Sue: Of course not."
+        },
+        {
+            "id": 193,
+            "phrase": "Imagine that!",
+            "definition": "I am very surprised to hear that.; That is hard to imagine or believe. Mary: My father was elected president of the board. Sally: Fancy that! _ Sue: This computer is ten times faster than the one we had before. Jane: Imagine that! Is it easy to operate? Sue: Of course not."
+        },
+        {
+            "id": 194,
+            "phrase": "faraway look",
+            "definition": "an appearance on one’s face of having one’s mind in another place.  Dave had a faraway look in his eyes, so I elbowed him to get his attention.  Lisa’s face had a far-off look indicating that she was daydreaming."
+        },
+        {
+            "id": 195,
+            "phrase": "far-off look",
+            "definition": "an appearance on one’s face of having one’s mind in another place.  Dave had a faraway look in his eyes, so I elbowed him to get his attention.  Lisa’s face had a far-off look indicating that she was daydreaming."
+        },
+        {
+            "id": 196,
+            "phrase": "feel a glow of happiness",
+            "definition": "to have a good feeling of some kind.  Anne felt a glow of happiness as she held her new baby. Sitting by the lake, the lovers felt a warm glow of contentment."
+        },
+        {
+            "id": 197,
+            "phrase": "feel a glow of contentment",
+            "definition": "to have a good feeling of some kind.  Anne felt a glow of happiness as she held her new baby. Sitting by the lake, the lovers felt a warm glow of contentment."
+        },
+        {
+            "id": 198,
+            "phrase": "feel a glow of satisfaction",
+            "definition": "to have a good feeling of some kind.  Anne felt a glow of happiness as she held her new baby. Sitting by the lake, the lovers felt a warm glow of contentment."
+        },
+        {
+            "id": 199,
+            "phrase": "feel a glow of peacefulness",
+            "definition": "to have a good feeling of some kind.  Anne felt a glow of happiness as she held her new baby. Sitting by the lake, the lovers felt a warm glow of contentment."
+        },
+        {
+            "id": 200,
+            "phrase": "feel around (for someone or something)",
+            "definition": "to try to find someone or something by feel [rather than sight]. He felt around for the soap in the bathtub.  She felt about for the dog at the foot of the bed, but it wasn’t there.  Gerald felt about for a pencil."
+        },
+        {
+            "id": 201,
+            "phrase": "feel about (for someone or something)",
+            "definition": "to try to find someone or something by feel [rather than sight]. He felt around for the soap in the bathtub.  She felt about for the dog at the foot of the bed, but it wasn’t there.  Gerald felt about for a pencil."
+        },
+        {
+            "id": 202,
+            "phrase": "feel pinched",
+            "definition": "experiencing hardship because of having too little money. The Smiths used to go abroad every year, but now that he’s retired, they’re really feeling pinched. You’re bound to feel the pinch a little when you’re a student."
+        },
+        {
+            "id": 203,
+            "phrase": "feel the pinch",
+            "definition": "experiencing hardship because of having too little money. The Smiths used to go abroad every year, but now that he’s retired, they’re really feeling pinched. You’re bound to feel the pinch a little when you’re a student."
+        },
+        {
+            "id": 204,
+            "phrase": "feel something in one’s bones",
+            "definition": "to sense something; to have an intuition about something.  The train will be late. I feel it in my bones.  I failed the test. I know it in my bones."
+        },
+        {
+            "id": 205,
+            "phrase": "know something in one’s bones",
+            "definition": "to sense something; to have an intuition about something.  The train will be late. I feel it in my bones.  I failed the test. I know it in my bones."
+        },
+        {
+            "id": 206,
+            "phrase": "ferret something out of someone or something",
+            "definition": "to get, remove, or retrieve something from someone or something, usually with cunning and persistence.  I tried very hard, but I couldn’t ferret the information out of the clerk.  I had to ferret out the answers one by one."
+        },
+        {
+            "id": 207,
+            "phrase": "ferret something out†",
+            "definition": "to get, remove, or retrieve something from someone or something, usually with cunning and persistence.  I tried very hard, but I couldn’t ferret the information out of the clerk.  I had to ferret out the answers one by one."
+        },
+        {
+            "id": 208,
+            "phrase": "ferry someone or something across something",
+            "definition": "to transport someone or something across a river on a ferryboat.  Can we get someone to ferry us across the lake to the island? _ After they ferried across all the cars, they closed the ferryboat down for the night."
+        },
+        {
+            "id": 209,
+            "phrase": "ferry someone or something across†",
+            "definition": "to transport someone or something across a river on a ferryboat.  Can we get someone to ferry us across the lake to the island? _ After they ferried across all the cars, they closed the ferryboat down for the night."
+        },
+        {
+            "id": 210,
+            "phrase": "fetch something out of something",
+            "definition": "to pull something out of something. Could you fetch me another hot dog out of the pot? _ I’ll fetch out a hot dog for you."
+        },
+        {
+            "id": 211,
+            "phrase": "fetch something out†",
+            "definition": "to pull something out of something. Could you fetch me another hot dog out of the pot? _ I’ll fetch out a hot dog for you."
+        },
+        {
+            "id": 212,
+            "phrase": "feud (with someone) (over someone or something)",
+            "definition": "to fight with someone over someone or something; to have an ongoing battle with someone about someone or some- thing. Some of the neighbors are feuding with each other over the parking places on the street.  Don’t feud over her with me!"
+        },
+        {
+            "id": 213,
+            "phrase": "feud (with someone) about (someone or something)",
+            "definition": "to fight with someone over someone or something; to have an ongoing battle with someone about someone or some- thing. Some of the neighbors are feuding with each other over the parking places on the street.  Don’t feud over her with me!"
+        },
+        {
+            "id": 214,
+            "phrase": "a few bricks short of a load",
+            "definition": "lacking in intellectual ability. (Many other variants.) _ Tom: Joe thinks he can build a car out of old milk jugs. Mary: I think Joe’s a few bricks short of a load. Ever since she fell and hit her head, Jane’s been a few bricks short of a load, if you know what I’m saying. Bob’s nice, but he’s not playing with a full deck.  You twit! You’re two bricks shy of a load."
+        },
+        {
+            "id": 215,
+            "phrase": "a few cards shy of a full deck",
+            "definition": "lacking in intellectual ability. (Many other variants.) _ Tom: Joe thinks he can build a car out of old milk jugs. Mary: I think Joe’s a few bricks short of a load. Ever since she fell and hit her head, Jane’s been a few bricks short of a load, if you know what I’m saying. Bob’s nice, but he’s not playing with a full deck.  You twit! You’re two bricks shy of a load."
+        },
+        {
+            "id": 216,
+            "phrase": "a few cards short of a deck",
+            "definition": "lacking in intellectual ability. (Many other variants.) _ Tom: Joe thinks he can build a car out of old milk jugs. Mary: I think Joe’s a few bricks short of a load. Ever since she fell and hit her head, Jane’s been a few bricks short of a load, if you know what I’m saying. Bob’s nice, but he’s not playing with a full deck.  You twit! You’re two bricks shy of a load."
+        },
+        {
+            "id": 217,
+            "phrase": "not playing with a full deck",
+            "definition": "lacking in intellectual ability. (Many other variants.) _ Tom: Joe thinks he can build a car out of old milk jugs. Mary: I think Joe’s a few bricks short of a load. Ever since she fell and hit her head, Jane’s been a few bricks short of a load, if you know what I’m saying. Bob’s nice, but he’s not playing with a full deck.  You twit! You’re two bricks shy of a load."
+        },
+        {
+            "id": 218,
+            "phrase": "two bricks shy of a load",
+            "definition": "lacking in intellectual ability. (Many other variants.) _ Tom: Joe thinks he can build a car out of old milk jugs. Mary: I think Joe’s a few bricks short of a load. Ever since she fell and hit her head, Jane’s been a few bricks short of a load, if you know what I’m saying. Bob’s nice, but he’s not playing with a full deck.  You twit! You’re two bricks shy of a load."
+        },
+        {
+            "id": 219,
+            "phrase": "fiddle around (with someone)",
+            "definition": "to tease, annoy, or play with someone; to waste someone’s time.  All right, stop fiddling around with me and tell me how much you will give me for my car.  Now it’s time for all of you to quit fiddling around and get to work.  Tom, you have to stop spending your time fiddling about with your friends. It’s time to get serious with your studies."
+        },
+        {
+            "id": 220,
+            "phrase": "fiddle about (with someone)",
+            "definition": "to tease, annoy, or play with someone; to waste someone’s time.  All right, stop fiddling around with me and tell me how much you will give me for my car.  Now it’s time for all of you to quit fiddling around and get to work.  Tom, you have to stop spending your time fiddling about with your friends. It’s time to get serious with your studies."
+        },
+        {
+            "id": 221,
+            "phrase": "fiddle around (with something)",
+            "definition": "to play with something; to tinker with something ineptly. My brother is outside fiddling around with his car engine.  He should stop fiddling around and go out and get a job."
+        },
+        {
+            "id": 222,
+            "phrase": "fiddle about (with something)",
+            "definition": "to play with something; to tinker with something ineptly. My brother is outside fiddling around with his car engine.  He should stop fiddling around and go out and get a job."
+        },
+        {
+            "id": 223,
+            "phrase": "field questions",
+            "definition": "to answer a series of questions, especially from reporters. After her speech, Jane fielded questions from reporters.  The president’s press agents field questions from the newspaper."
+        },
+        {
+            "id": 224,
+            "phrase": "field a question",
+            "definition": "to answer a series of questions, especially from reporters. After her speech, Jane fielded questions from reporters.  The president’s press agents field questions from the newspaper."
+        },
+        {
+            "id": 225,
+            "phrase": "fight one’s way out (of something)",
+            "definition": "to struggle to get out of something or some place.  He fought his way out of the crowded room and out through the door.  He couldn’t fight his way out of a paper bag."
+        },
+        {
+            "id": 226,
+            "phrase": "fight one’s way out",
+            "definition": "to struggle to get out of something or some place.  He fought his way out of the crowded room and out through the door.  He couldn’t fight his way out of a paper bag."
+        },
+        {
+            "id": 227,
+            "phrase": "fight someone or something hammer and tongs",
+            "definition": "to fight against someone or something energetically and with great determination.  They fought against the robber tooth and nail.  The dogs were fighting each other hammer and tongs."
+        },
+        {
+            "id": 228,
+            "phrase": "fight someone or something tooth and nail",
+            "definition": "to fight against someone or something energetically and with great determination.  They fought against the robber tooth and nail.  The dogs were fighting each other hammer and tongs."
+        },
+        {
+            "id": 229,
+            "phrase": "go at it hammer and tongs",
+            "definition": "to fight against someone or something energetically and with great determination.  They fought against the robber tooth and nail.  The dogs were fighting each other hammer and tongs."
+        },
+        {
+            "id": 230,
+            "phrase": "go at it tooth and nail",
+            "definition": "to fight against someone or something energetically and with great determination.  They fought against the robber tooth and nail.  The dogs were fighting each other hammer and tongs."
+        },
+        {
+            "id": 231,
+            "phrase": "figure someone or something in((to) something)",
+            "definition": "to reckon someone or something into the total.  I will figure the electric bill into the total.  We can figure in one more person."
+        },
+        {
+            "id": 232,
+            "phrase": "figure someone or something in†",
+            "definition": "to reckon someone or something into the total.  I will figure the electric bill into the total.  We can figure in one more person."
+        },
+        {
+            "id": 233,
+            "phrase": "file something away† (from something)",
+            "definition": "off† to remove something from something else by filing. (Of is usually retained before pronouns.) _The dentist filed the sharp point away from the tooth.  The dentist filed away the sharp point from the tooth.  The dentist filed the point off."
+        },
+        {
+            "id": 234,
+            "phrase": "file something off ((of) something)",
+            "definition": "off† to remove something from something else by filing. (Of is usually retained before pronouns.) _The dentist filed the sharp point away from the tooth.  The dentist filed away the sharp point from the tooth.  The dentist filed the point off."
+        },
+        {
+            "id": 235,
+            "phrase": "file something",
+            "definition": "off† to remove something from something else by filing. (Of is usually retained before pronouns.) _The dentist filed the sharp point away from the tooth.  The dentist filed away the sharp point from the tooth.  The dentist filed the point off."
+        },
+        {
+            "id": 236,
+            "phrase": "fill one’s face",
+            "definition": "Sl. to eat food fast; to stuff food into one’s face.  Everytime I see you, you are stuffing your face. No wonder you’re overweight!"
+        },
+        {
+            "id": 237,
+            "phrase": "stuff one’s face",
+            "definition": "Sl. to eat food fast; to stuff food into one’s face.  Everytime I see you, you are stuffing your face. No wonder you’re overweight!"
+        },
+        {
+            "id": 238,
+            "phrase": "fill the bill",
+            "definition": "to be acceptable. Jane: I need some string. Tom: Here’s some twine. Will it fill the bill? _ I need cloth to make a shirt. This muslin ought to fit the bill."
+        },
+        {
+            "id": 239,
+            "phrase": "fit the bill",
+            "definition": "to be acceptable. Jane: I need some string. Tom: Here’s some twine. Will it fill the bill? _ I need cloth to make a shirt. This muslin ought to fit the bill."
+        },
+        {
+            "id": 240,
+            "phrase": "filter something out of something",
+            "definition": "to remove something from a fluid by running it through a filter.  We filtered the odors out of the water and made it fit to drink.  I’m glad you filtered out the odor."
+        },
+        {
+            "id": 241,
+            "phrase": "filter something out†",
+            "definition": "to remove something from a fluid by running it through a filter.  We filtered the odors out of the water and made it fit to drink.  I’m glad you filtered out the odor."
+        },
+        {
+            "id": 242,
+            "phrase": "find it in one’s heart (to do something)",
+            "definition": "to have the courage or compassion to do something.  She couldn’t find it in herself to refuse to come home to him.  I can’t do it! I can’t find it in my heart."
+        },
+        {
+            "id": 243,
+            "phrase": "find it in oneself (to do something)",
+            "definition": "to have the courage or compassion to do something.  She couldn’t find it in herself to refuse to come home to him.  I can’t do it! I can’t find it in my heart."
+        },
+        {
+            "id": 244,
+            "phrase": "find someone guilty",
+            "definition": "to decide guilt or innocence and deliver a verdict in a court of law.  The judge found the defendant not guilty by reason of insanity. The jury found the defendant innocent."
+        },
+        {
+            "id": 245,
+            "phrase": "find someone innocent",
+            "definition": "to decide guilt or innocence and deliver a verdict in a court of law.  The judge found the defendant not guilty by reason of insanity. The jury found the defendant innocent."
+        },
+        {
+            "id": 246,
+            "phrase": "find someone not guilty",
+            "definition": "to decide guilt or innocence and deliver a verdict in a court of law.  The judge found the defendant not guilty by reason of insanity. The jury found the defendant innocent."
+        },
+        {
+            "id": 247,
+            "phrase": "fire someone with anger",
+            "definition": "[for someone’s words] to fill someone with eagerness or the desire to do something.  The speech fired the audience with enthusiasm for change. We were fired with anger to protest against the government."
+        },
+        {
+            "id": 248,
+            "phrase": "fire someone with enthusiasm",
+            "definition": "[for someone’s words] to fill someone with eagerness or the desire to do something.  The speech fired the audience with enthusiasm for change. We were fired with anger to protest against the government."
+        },
+        {
+            "id": 249,
+            "phrase": "fire someone with hope",
+            "definition": "[for someone’s words] to fill someone with eagerness or the desire to do something.  The speech fired the audience with enthusiasm for change. We were fired with anger to protest against the government."
+        }
+    ]
+}

@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "murmur against someone or something",
+            "definition": "to grumble about someone or something.  Everyone was murmuring against the manager.  The citizens will begin murmuring about the government soon."
+        },
+        {
+            "id": 1,
+            "phrase": "murmur at someone or an animal",
+            "definition": "to say something softly or indistinctly to someone or an animal.  Stop murmuring at me. Speak up! _ Gene sat alone, murmuring at his favorite cat for over an hour."
+        },
+        {
+            "id": 2,
+            "phrase": "muscle in (on someone or something)",
+            "definition": "to try forcefully to displace someone or take over someone’s property, interests, or relationships.  Are you trying to muscle in on my scheme? _ If you try to muscle in, you’ll be facing big trouble."
+        },
+        {
+            "id": 3,
+            "phrase": "muse over someone or something",
+            "definition": "to reflect or meditate on someone or something.  We were just now musing over Sarah and the way she has changed.  Tom is so strange. I was musing over his behavior just yesterday."
+        },
+        {
+            "id": 4,
+            "phrase": "mushroom into something",
+            "definition": "to grow suddenly into something large or important. The question of pay suddenly mushroomed into a major matter.  The unpaid bill mushroomed into a nasty argument and, finally, a court battle."
+        },
+        {
+            "id": 5,
+            "phrase": "music to someone’s ears",
+            "definition": "a welcome sound to someone; news that someone is pleased to hear. A: Here’s your paycheck for this month. B: Ah, that’s music to my ears!"
+        },
+        {
+            "id": 6,
+            "phrase": "muss someone or something up†",
+            "definition": "to put someone or something into disarray. Don’t muss me up! _You mussed up my hair.  I’m afraid I mussed myself up a little."
+        },
+        {
+            "id": 7,
+            "phrase": "muster out of something",
+            "definition": "to be discharged from military service.  He mustered out of the service before his time was up.  I want to know how I can muster out too."
+        },
+        {
+            "id": 8,
+            "phrase": "muster something up†",
+            "definition": "to call up some quality, such as courage.  Do you think you can muster enough courage up to do the job? _ Can you muster up enough strength to do the job?"
+        },
+        {
+            "id": 9,
+            "phrase": "mutiny against someone or something",
+            "definition": "1. to rebel against a ship’s captain or the captain’s authority.  The crew mutinied against the officers.  They know better than to mutiny against an authority as great as that held by Captain Bligh. 2. to rebel against someone or something.  It does no good to mutiny against the professor.  The students mutinied against the school’s administration."
+        },
+        {
+            "id": 10,
+            "phrase": "mutter about someone or something",
+            "definition": "to grumble or complain about someone or something.  Are you muttering about me? What is your complaint? _Why is everyone muttering about the food here? It is excellent."
+        },
+        {
+            "id": 11,
+            "phrase": "mutter something about someone or something",
+            "definition": "to say something softly and indistinctly about someone or something. I heard him mutter something about being late. Sharon is muttering something about Dave. What does she mean?"
+        },
+        {
+            "id": 12,
+            "phrase": "My cup runneth over.",
+            "definition": "Prov. I have received so many benefits that I cannot contain them all. (Said when you feel overcome because many good things have happened to you.) _ This week, I finished paying off my mortgage, my arthritis improved, and my first grandchild was born. My cup runneth over.  Janet was speechless with happiness when she saw how many of her friends and relatives had joined together to give her a surprise party. “My cup runneth over,” she finally said."
+        },
+        {
+            "id": 13,
+            "phrase": "My foot!",
+            "definition": "Inf. I do not believe it!; Like hell! (An exclamation of contradiction.) _ Your prices are the best in town, my foot! I know two places cheaper.  She’s going to marry you? My foot!"
+        },
+        {
+            "id": 14,
+            "phrase": "my gut tells me (that)",
+            "definition": "my instincts tell me that. (This refers to one’s gut reaction or gut response.) _ My gut tells me that her idea is a sound one. This looks good on paper, but my gut tells me that it is all wrong."
+        },
+        {
+            "id": 15,
+            "phrase": "(My) heavens!",
+            "definition": "Inf. a mild exclamation of surprise or amazement.  Bill: Heavens! The clock has stopped. Bob: Don’t you have a watch? _ Sally: The police are parked in our driveway, and one of them is getting out! Mary: My heavens!"
+        },
+        {
+            "id": 16,
+            "phrase": "(My,) how time flies.",
+            "definition": "1. Time has gone by quickly, it is time for me to go.  Bill: Look at the clock! Mary: How time flies! I guess you’ll be going. Bill: Yes, I have to get up early. John: My watch says it’s nearly midnight. How time f lies! Jane: Yes, it’s late. We really must go. 2. Time passes quickly. (Said especially when talking about how children grow and develop.) _ “Look at how big Billy is getting,” said Uncle Michael. “My, how time flies.” _ Tom: It seems it was just yesterday that I graduated from high school. Now I’m a grandfather. Mary: My, how time flies."
+        },
+        {
+            "id": 17,
+            "phrase": "My lips are sealed.",
+            "definition": "I will tell no one this secret or this gossip. Mary: I hope you don’t tell anyone about this. Alice: Don’t worry. My lips are sealed. Bob: Don’t you dare tell her I told you. Bill: My lips are sealed."
+        },
+        {
+            "id": 18,
+            "phrase": "My(, my).",
+            "definition": "an expression of mild surprise or interest.  Fred: My, my! How you’ve grown, Bill. Bill: Of course! I’m a growing boy. Did you think I would shrink? _Doctor: My, my, this is interesting. Jane: What’s wrong? Doctor: Nothing that a little exercise won’t fix."
+        },
+        {
+            "id": 19,
+            "phrase": "my one and only",
+            "definition": "one’s spouse or lover.  Look at the time. I’ve got to get home to my one and only. You’re my one and only. There is no one else for me."
+        },
+        {
+            "id": 20,
+            "phrase": "My pleasure.",
+            "definition": "1. You’re welcome.; It is my pleasure to do so. (From It’s my pleasure. There is a stress on both words.) _Mary: Thank you for bringing this up here. Bill: My pleasure. Jane: Oh, Doctor, you’ve really helped Tom. Thank you so much! Doctor: My pleasure. 2. Happy to meet you.; Happy to see you. Sally: Bill, meet Mary, my cousin. Bill: My pleasure."
+        },
+        {
+            "id": 21,
+            "phrase": "nag at someone (about someone or something)",
+            "definition": "to pester someone about someone or something. Don’t keep nagging at me about her.  Stop nagging at me!"
+        },
+        {
+            "id": 22,
+            "phrase": "nail someone’s ears back†",
+            "definition": "to scold someone severely.  I’m going to nail your ears back for doing that! _ Who’s going to nail back my ears?"
+        },
+        {
+            "id": 23,
+            "phrase": "nail something back†",
+            "definition": "to secure something back out of the way by nailing it.  Please nail the shutters back so they won’t bang against the house.  I’ll nail back the shutters."
+        },
+        {
+            "id": 24,
+            "phrase": "nail something down†",
+            "definition": "to secure something down by nailing it.  Please nail the f loorboard down or someone will trip over it.  I’ll nail down these f loorboards. "
+        },
+        {
+            "id": 25,
+            "phrase": "nail something into something",
+            "definition": "to drive a nail or something similar into something.  She nailed the hanger into the wall to hold the picture up.  Please nail in this tack."
+        },
+        {
+            "id": 26,
+            "phrase": "nail something up†",
+            "definition": "1. to put something up, as on a wall, by nailing.  Please nail this up.  I’ll nail up this picture for you. 2. to nail something closed; to use nails to secure something from intruders. Sam nailed the door up so no one could use it.  Who nailed up the door? I can’t get in!"
+        },
+        {
+            "id": 27,
+            "phrase": "*naked as a jaybird",
+            "definition": "Cliché naked; bare. (*Also: as ~.) _ Two-year-old Matilda escaped from her nurse, who was bathing her, and ran out naked as a jaybird into the dining room.  Uncle John sometimes spends a whole day walking around his house as naked as a jaybird."
+        },
+        {
+            "id": 28,
+            "phrase": "*the naked eye",
+            "definition": "the human eye, unassisted by optics, such as a telescope, microscope, or spectacles. (*Typically: appear to ~; look to ~; see with ~; visible to ~.) _I can’t see the bird’s markings with the naked eye.  The scientist could see nothing in the liquid with the naked eye, but with the aid of a microscope, she identified the bacteria.  That’s how it appears to the naked eye."
+        },
+        {
+            "id": 29,
+            "phrase": "the naked truth",
+            "definition": "the complete, unembellished truth.  Sorry to put it to you like this, but it’s the naked truth.  I can take it. Just tell me the naked truth."
+        },
+        {
+            "id": 30,
+            "phrase": "the name of the game",
+            "definition": "Inf. the way things are; the way things can be expected to be.  The name of the game is money, money, money.  I can’t help it. That’s the name of the game."
+        },
+        {
+            "id": 31,
+            "phrase": "name someone as something",
+            "definition": "to select someone as something.  The mayor named Karen as corporate council.  The president named himself as chairman of the new committee."
+        },
+        {
+            "id": 32,
+            "phrase": "name someone or something for someone or something",
+            "definition": "to name someone or something, using the name of someone or something, in any combination.  I named her for the beauty of the rising sun.  They named the mountain for the first person to see it."
+        },
+        {
+            "id": 33,
+            "phrase": "narrow something down† (to people or things)",
+            "definition": "to reduce a list of possibilities from many to a selected few.  We can narrow the choice down to green or red. We narrowed down the choice to you or Paul."
+        },
+        {
+            "id": 34,
+            "phrase": "narrow squeak",
+            "definition": "a success almost not achieved; a lucky or marginal success; a problem almost not surmounted.  That was a narrow squeak. I don’t know how I survived.  Another narrow squeak like that and I’ll give up."
+        },
+        {
+            "id": 35,
+            "phrase": "Nature abhors a vacuum.",
+            "definition": "Prov. If there is a gap, something will fill it.  Jill: As soon as the beggar who used to work that corner left, another one showed up. Jane: Nature abhors a vacuum."
+        },
+        {
+            "id": 36,
+            "phrase": "a nature stop",
+            "definition": "a stop to use the toilet, especially during road travel. I think I need a nature stop when it’s convenient.  I left my comb back at the last nature stop."
+        },
+        {
+            "id": 37,
+            "phrase": "nause someone out†",
+            "definition": "Sl. to make someone ill; to disgust someone. (From nauseate.) _ That’s awful. I bet it nauses Jennifer out.  This day naused out everybody I know.  He naused himself out just thinking of the accident."
+        },
+        {
+            "id": 38,
+            "phrase": "near at hand",
+            "definition": "close or handy (to someone). Do you have a pencil near at hand? _ My dictionary isn’t near at hand."
+        },
+        {
+            "id": 39,
+            "phrase": "The nearer the church, the farther from God.",
+            "definition": "Prov. Church officials, or people who live near the church, are not truly pious.  Jill: I think our pastor is an evil man. Jane: I didn’t think evil men could be pastors. Jill: Of course they can! The nearer the church, the farther from God."
+        },
+        {
+            "id": 40,
+            "phrase": "*neat as a pin",
+            "definition": "Cliché neat and orderly. (*Also: as ~.) _ Brad is such a good housekeeper; his apartment is always as neat as a pin.  Joanne certainly is well-organized. Her desk is neat as a pin."
+        },
+        {
+            "id": 41,
+            "phrase": "Necessity is the mother of invention.",
+            "definition": "Prov. When people really need to do something, they will figure out a way to do it.  When the fan belt on Linda’s car broke in the middle of the desert, Linda used her stockings as a replacement. Necessity is the mother of invention."
+        },
+        {
+            "id": 42,
+            "phrase": "Necessity knows no law.",
+            "definition": "Prov. If you are desperate, you may have to do illegal things.  I’m an honest person by nature, but I lost my job, and my kids needed food and clothes, and it seemed like the best way to get money was to deal in illegal drugs. Necessity knows no law."
+        },
+        {
+            "id": 43,
+            "phrase": "neck and neck",
+            "definition": "exactly even, especially in a race or a contest.  John and Tom finished the race neck and neck.  Mary and Ann were neck and neck in the spelling contest. Their scores were tied."
+        },
+        {
+            "id": 44,
+            "phrase": "neck with someone",
+            "definition": "to engage in amorous kissing and caressing with someone.  Ted is over there necking with Molly.  Molly is necking with Ted and thinking of Ken."
+        },
+        {
+            "id": 45,
+            "phrase": "Need I say more?",
+            "definition": "Is it necessary for me to say any more? _ Mary: There’s grass to be mowed, weeds to be pulled, dishes to be done, carpets to be vacuumed, and there you sit! Need I say more? Tom: I’ll get right on it.  “This project needs to be finished before anyone leaves tonight,” said Alice, hovering over the office staff. “Need I say more?”"
+        },
+        {
+            "id": 46,
+            "phrase": "need something like a hole in the head",
+            "definition": "not to need something at all.  I need a house cat like I need a hole in the head! _ She needs another car like she needs a hole in the head."
+        },
+        {
+            "id": 47,
+            "phrase": "need something yesterday",
+            "definition": "Inf. to require something in a very big hurry.  Yes, I’m in a hurry! I need it yesterday! _ When do I need it? Now! Now! No, I need it yesterday!"
+        },
+        {
+            "id": 48,
+            "phrase": "needle someone about someone or something",
+            "definition": "to pester or bother someone about someone or something.  Please don’t needle me about Jane.  Stop needling me about eating out."
+        },
+        {
+            "id": 49,
+            "phrase": "needless to say",
+            "definition": "It is so obvious that it doesn’t need to be said, but.... Needless to say, I should have spent more time on the report, but I just didn’t have it."
+        },
+        {
+            "id": 50,
+            "phrase": "Needs must when the devil drives.",
+            "definition": "Prov. When you are desperate, you must do things you ordinarily would not do.  We’re going to have to get an enormous loan to pay for your mother’s surgery. I hate to go into debt, but needs must when the devil drives."
+        },
+        {
+            "id": 51,
+            "phrase": "neglect to do something",
+            "definition": "to fail to do something.  I hope you do not neglect to lock the door. He neglected to water the plants."
+        },
+        {
+            "id": 52,
+            "phrase": "neighbor on something",
+            "definition": "to be directly adjacent to something. Our house neighbors on a park. The park neighbors on a stretch of beach."
+        },
+        {
+            "id": 53,
+            "phrase": "Neither a borrower nor a lender be.",
+            "definition": "Prov. It is difficult to be friends with someone who owes you money or with someone to whom you owe something, so it is better not to borrow or lend in the first place.  After losing several of my favorite books because I didn’t have the nerve to insist that my friends return them, I learned that it is best to neither a borrower nor a lender be."
+        },
+        {
+            "id": 54,
+            "phrase": "Neither can I.",
+            "definition": "I cannot do that either. (Any subject pronoun can be used in place of I.) _ Bill: No matter what they do to them, I just can’t stand sweet potatoes! Bob: Neither can I.  John: Let’s go. I cannot tolerate the smoke in here. Jane: Neither can I."
+        },
+        {
+            "id": 55,
+            "phrase": "neither does someone",
+            "definition": "[does] not either. Susan does not own a cat, and neither does Mary. Bill doesn’t want to see a movie tonight, and neither do I."
+        },
+        {
+            "id": 56,
+            "phrase": "neither fish nor fowl",
+            "definition": "Cliché not any recognizable thing.  The car that they drove up in was neither fish nor fowl. It must have been made out of spare parts. This proposal is neither fish nor fowl. I can’t tell what you’re proposing."
+        },
+        {
+            "id": 57,
+            "phrase": "neither here nor there",
+            "definition": "Cliché of no consequence or meaning; irrelevant and immaterial.  Whether you go to the movie or stay at home is neither here nor there.  Your comment—though interesting—is neither here nor there."
+        },
+        {
+            "id": 58,
+            "phrase": "*(neither) hide nor hair",
+            "definition": "Cliché no sign or indication of someone or something. (*Typically: find ~; see ~.) _We could find neither hide nor hair of him. I don’t know where he is.  There has been no one here. We found neither hide nor hair."
+        },
+        {
+            "id": 59,
+            "phrase": "*neither rhyme nor reason",
+            "definition": "Cliché without logic, order, or planning. (Describes something disorganized. *Typically: be ~; have ~.) _There seems to be neither rhyme nor reason to Gerald’s filing system.  The novel’s plot had neither rhyme nor reason."
+        },
+        {
+            "id": 60,
+            "phrase": "nerves of steel",
+            "definition": "very steady nerves; great patience and courage.  I was scared to death, but Fred, who has nerves of steel, faced the thugs bravely."
+        },
+        {
+            "id": 61,
+            "phrase": "a (nervous) breakdown",
+            "definition": "a physical and mental collapse brought on by great anxiety over a period of time.  After month after month of stress and strain, Sally had a nervous breakdown."
+        },
+        {
+            "id": 62,
+            "phrase": "nest in something",
+            "definition": "to build a nest in something and live in it. Some mice nested in a corner of the garage. The birds nested in the eaves."
+        },
+        {
+            "id": 63,
+            "phrase": "nest together",
+            "definition": "to fit together or within one another compactly.  These mixing bowls nest together.  I want some of those Russian wooden dolls that nest together."
+        },
+        {
+            "id": 64,
+            "phrase": "nestle down (in something)",
+            "definition": "to settle down in something; to snuggle into something, such as a bed.  They nestled down in their warm bed.  Please nestle down and go to sleep."
+        },
+        {
+            "id": 65,
+            "phrase": "never a dull moment",
+            "definition": "[it’s] always exciting around here. (Describes an exciting or hectic situation.) _ Every time I visit Jean, she has dozens of things planned for us to do: parties and theaters to attend, restaurants to try, scenic places to see. Never a dull moment.  Alan: How was work today? Jane: First of all, my boss called me in to yell at me. Then I had to fire one of my subordinates. And then my desk chair broke when I sat down on it. Never a dull moment."
+        },
+        {
+            "id": 66,
+            "phrase": "Never ask pardon before you are accused.",
+            "definition": "Prov. Do not apologize for something if nobody knows that you did it, because by apologizing, you are admitting that you did it.  Alan: Should I apologize to Jane for losing the necktie she gave me? Jane: Wait and see if she asks you what happened to the necktie. Never ask pardon before you are accused."
+        },
+        {
+            "id": 67,
+            "phrase": "never fear",
+            "definition": "do not worry; have confidence.  I’ll be there on time—never fear.  I’ll help you, never fear."
+        },
+        {
+            "id": 68,
+            "phrase": "Never halloo till you are out of the woods.",
+            "definition": "Prov. Do not rejoice until you are certain that your problems are over. Jill: Now that I have a full-time job, I’m certain to be able to pay all my debts. Jane: But it’s just a temporary job; it may not last long. Never halloo till you are out of the woods."
+        },
+        {
+            "id": 69,
+            "phrase": "never in my life",
+            "definition": "an emphatic expression showing the depth of the speaker’s feelings.  Sally: Never in my life have I seen such a mess! John: Well, it’s always this way. Where have you been all this time? Sally: I just never noticed before, I suppose. Sue: Never will I go to that hotel again! Never in my life! Bob: That bad, huh? Sue: Yes! That bad and worse!"
+        },
+        {
+            "id": 70,
+            "phrase": "Never make a threat you cannot carry out.",
+            "definition": "Prov. You should not threaten to do something you cannot do; otherwise, people will not believe you are serious when you threaten. Bill: If you don’t stop being rude to me, I’ll have you fired! Jane: You’re not my boss. Never make a threat you cannot carry out."
+        },
+        {
+            "id": 71,
+            "phrase": "Never mind!",
+            "definition": "Forget it!; It’s not important! _ Sally: What did you say? Jane: Never mind! It wasn’t important. John: I tried to get the book you wanted, but they didn’t have it. Shall I try another store? Mary: No, never mind."
+        },
+        {
+            "id": 72,
+            "phrase": "Never say die.",
+            "definition": "Prov. Do not give up.  Jill: I don’t think I can finish this project in time. Jane: Never say die. Alan: It’s no use. I can’t make my checkbook balance. Jane: Never say die!"
+        },
+        {
+            "id": 73,
+            "phrase": "Never speak ill of the dead.",
+            "definition": "Prov. You should not say bad things about dead people. Your Uncle Phil had a lot of faults, but there’s no reason to talk about them now that he’s gone. Never speak ill of the dead.  I hate to speak ill of the dead, but Amy was a mean woman, God rest her soul."
+        },
+        {
+            "id": 74,
+            "phrase": "Never tell tales out of school.",
+            "definition": "Prov. Do not tell secrets; do not gossip. Fred: I just learned something really scandalous about the president of our company. Ellen: Well, I don’t want to hear it. You shouldn’t tell tales out of school."
+        },
+        {
+            "id": 75,
+            "phrase": "Never trouble trouble till trouble troubles you.",
+            "definition": "Prov. If you think something might cause trouble, leave it alone and wait until it actually causes trouble. Ellen: My daughter’s teacher is going to be troublesome, I can tell. Maybe I should go to the school and talk to her. Jane: Why not wait till she actually does something? Never trouble trouble till trouble troubles you."
+        },
+        {
+            "id": 76,
+            "phrase": "never would have guessed",
+            "definition": "1. never would have thought something to be the case. (Not used in other tenses.) _ He was the one who did it? I never would have guessed.  I never would have guessed that he wanted the job. He kept it a very good secret. 2. knew it all the time because it was so obvious. (Sarcastic. Not used in other tenses.) _ I never would have guessed that he wanted the job. He only begged and begged for it.  Now she wants to go back home? I never would have guessed! She has been homesick for days."
+        },
+        {
+            "id": 77,
+            "phrase": "new kid on the block",
+            "definition": "a child who has just moved to a certain neighborhood.  The new kid on the block turned out to be a really good baseball player."
+        },
+        {
+            "id": 78,
+            "phrase": "a new lease on life",
+            "definition": "Cliché a renewed and revitalized outlook on life. Getting the job offer was a new lease on life. When I got out of the hospital, I felt as if I had a new lease on life."
+        },
+        {
+            "id": 79,
+            "phrase": "new one on someone",
+            "definition": "something that one has not heard before and that one is not ready to believe.  Bob’s talk of poverty is a new one on me. He always seems to have plenty of money.  The firm’s difficulties are a new one on me. I thought that it was doing very well."
+        },
+        {
+            "id": 80,
+            "phrase": "Next question.",
+            "definition": "Inf. That is settled, let’s move on to something else. (Usually a way of evading further discussion.) _Mary: When can I expect this construction noise to stop? Bob: In about a month. Next question.  Bill: When will the board of directors raise the dividend again? Mary: Oh, quite soon. Next question."
+        },
+        {
+            "id": 81,
+            "phrase": "next to nothing",
+            "definition": "hardly anything; almost nothing.  This car’s worth next to nothing. It’s full of rust. I bought this antique chair for next to nothing."
+        },
+        {
+            "id": 82,
+            "phrase": "next to someone or something",
+            "definition": "near to someone or something; adjacent to someone or something.  I live next to a bank.  Please sit next to me."
+        },
+        {
+            "id": 83,
+            "phrase": "the next world",
+            "definition": "Euph. life after death.  We will meet in the next world.  He believed he had made contact with spirits from the next world."
+        },
+        {
+            "id": 84,
+            "phrase": "nibble at something",
+            "definition": "to take tiny bites of some kind of food.  The children nibbled at their dinner because they had eaten too much candy.  Stop nibbling at that candy."
+        },
+        {
+            "id": 85,
+            "phrase": "nibble away at something",
+            "definition": "to eat at something in tiny bits; to erode away tiny bits of something. The waves nibbled away at the base of the cliff, year after year. The mice nibbled away at the huge wheel of cheese."
+        },
+        {
+            "id": 86,
+            "phrase": "nice and some quality",
+            "definition": "[being or having] enough of some quality; adequately; sufficiently.  It is nice and cool this evening.  I think your steak is nice and done now, just the way you like it."
+        },
+        {
+            "id": 87,
+            "phrase": "Nice guys finish last.",
+            "definition": "Prov. You will never be able to get what you want by being kind and considerate.  The unscrupulous salesman advised his trainees, “Don’t worry if you have to lie about the product to get the customer to buy it. Nice guys finish last.”"
+        },
+        {
+            "id": 88,
+            "phrase": "Nice meeting you.",
+            "definition": "It is nice to have met you. (Said when leaving someone whose acquaintance you have just made.) _I must go now, Fred. Nice meeting you. Well, nice meeting you. I must get home now."
+        },
+        {
+            "id": 89,
+            "phrase": "Nice place you have here.",
+            "definition": "Your home is nice. (A compliment paid by a guest. The word place might be replaced with home, house, room, apartment, etc.) _ Jane came in and looked around. “Nice place you have here,” she said.  Bob: Come in. Welcome. Mary: Nice place you have here. Bob: Thanks. We like it."
+        },
+        {
+            "id": 90,
+            "phrase": "Nice weather we’re having.",
+            "definition": "Isn’t the weather nice? (Sometimes used to start a conversation with a stranger.) _Bill: Nice weather we’re having. Bob: Yeah. It’s great. Mary glanced out the window and said to the lady sitting next to her, “Nice weather we’re having.”"
+        },
+        {
+            "id": 91,
+            "phrase": "nick something up†",
+            "definition": "to make little dents or nicks in something, ruining the finish.  Someone nicked the kitchen counter up.  Who nicked up the coffeepot?"
+        },
+        {
+            "id": 92,
+            "phrase": "nickel-and-dime someone (to death)",
+            "definition": "to make numerous small monetary charges that add up to a substantial sum. Those contractors nickel-and-dimed me to death.  Just give me the whole bill at one time. Don’t nickel-and-dime me for days on end."
+        },
+        {
+            "id": 93,
+            "phrase": "niggle about something",
+            "definition": "to make constant petty complaints about something.  Please don’t niggle about little things like this. This is just not important. Let’s not niggle about it."
+        },
+        {
+            "id": 94,
+            "phrase": "niggle (over something) (with someone)",
+            "definition": "to have a petty disagreement over some minor thing. Stop niggling over this with me! _ I don’t want to niggle with you over this."
+        },
+        {
+            "id": 95,
+            "phrase": "a night on the town",
+            "definition": "a night of celebrating (at one or more places in a town). Did you enjoy your night on the town? _After we got the contract signed, we celebrated with a night on the town."
+        },
+        {
+            "id": 96,
+            "phrase": "night owl",
+            "definition": "someone who stays up at night; someone who works at night.  My roommate is a night owl and usually reads until 5:00 a.m.  A few night owls stayed at the café all night long."
+        },
+        {
+            "id": 97,
+            "phrase": "a night person",
+            "definition": "someone who is more alert and active at night than in the daytime. (Compare this with a day person.) _ I’m really not efficient until after supper. I am the quintessential night person."
+        },
+        {
+            "id": 98,
+            "phrase": "a nine days’ wonder",
+            "definition": "something that is of interest to people only for a short time.  Don’t worry about the story about you in the newspaper. It’ll be a nine days’ wonder and then people will forget. The elopement of Bob and Anne was a nine days’ wonder. Now people never mention it."
+        },
+        {
+            "id": 99,
+            "phrase": "nine times out of ten",
+            "definition": "usually; almost always.  Nine times out of ten people will choose coffee rather than tea."
+        },
+        {
+            "id": 100,
+            "phrase": "nineteen to the dozen",
+            "definition": "Prov. very rapidly or energetically. Whenever I get together with my cousins, we always gossip away nineteen to the dozen.  While Alan got the other ingredients, Jane was chopping up potatoes nineteen to the dozen."
+        },
+        {
+            "id": 101,
+            "phrase": "nine-to-five job",
+            "definition": "a job with normal daytime hours.  I wouldn’t want a nine-to-five job. I like the freedom I have as my own boss.  I used to work nights, but now I have a nine-to-five job."
+        },
+        {
+            "id": 102,
+            "phrase": "nip and tuck",
+            "definition": "almost even; almost tied.  The horses ran nip and tuck for the first half of the race. Then my horse pulled ahead.  In the football game last Saturday, both teams were nip and tuck throughout the game."
+        },
+        {
+            "id": 103,
+            "phrase": "nip at someone or something",
+            "definition": "to bite at someone or something. The dog nipped at the visitor, but didn’t cause any real harm.  A small dog nipped at my heels."
+        },
+        {
+            "id": 104,
+            "phrase": "nip something in the bud",
+            "definition": "to put an end to something before it develops into something larger. (Alludes to destroying a flower bud before it blooms.) _ I wanted to nip that little romance in the bud.  The whole idea was nipped in the bud."
+        },
+        {
+            "id": 105,
+            "phrase": "No can do.",
+            "definition": "Inf. It can’t be done.; I can’t do it.  Sorry, John. No can do. I can’t sell you this one. I’ve promised it to Mrs. Smith.  Bill: Please fix this clock today. Bob: No can do. It’ll take a week to get the parts."
+        },
+        {
+            "id": 106,
+            "phrase": "No comment.",
+            "definition": "I have nothing to say on this matter.  Q: When did you stop beating your dog? A: No comment.  Q: Georgie, did you chop down the cherry tree? A: No comment."
+        },
+        {
+            "id": 107,
+            "phrase": "no contest",
+            "definition": "[in games] a situation where one team fails to appear for a competition. It was declared no contest because the opposing team was stuck in traffic out on the expressway."
+        },
+        {
+            "id": 108,
+            "phrase": "no dice",
+            "definition": "Inf. no; not possible. When I asked about a loan, he said, “No dice.” _ No. It can’t be done, no dice."
+        },
+        {
+            "id": 109,
+            "phrase": "no doubt",
+            "definition": "a transitional or interpretative phrase strengthening the rest of a previous sentence.  Sue: Mary is giving this party for herself ? Rachel: Yes. She’ll expect us to bring gifts, no doubt.  Mary: All this talk about war has my cousin very worried. Sue: No doubt. At his age, I don’t wonder."
+        },
+        {
+            "id": 110,
+            "phrase": "no earthly reason",
+            "definition": "no conceivable reason.  There is no earthly reason for your rude behavior.  I can think of no earthly reason why the repairs should cost so much."
+        },
+        {
+            "id": 111,
+            "phrase": "no end of something",
+            "definition": "an endless supply of something.  Have some candy. I have no end of chocolate drops.  I’ve had no end of trouble ever since I bought this car."
+        },
+        {
+            "id": 112,
+            "phrase": "No fair!",
+            "definition": "Inf. That isn’t fair! _Bill: No fair! You cheated! Bob: I did not! _ “No fair,” shouted Tom. “You stepped over the line!”"
+        },
+        {
+            "id": 113,
+            "phrase": "no flies on someone",
+            "definition": "someone is not slow; someone is not wasting time. (On the image of flies not being able to land on someone moving fast.) _ Of course I work fast. I go as fast as I can. There are no f lies on me.  There are no f lies on Robert. He does his work very fast and very well."
+        },
+        {
+            "id": 114,
+            "phrase": "no go",
+            "definition": "Inf. negative; inopportune. (This is hyphenated before a nominal.) _We’re in a no-go situation.  Is it go or no go?"
+        },
+        {
+            "id": 115,
+            "phrase": "no great shakes",
+            "definition": "Inf. someone or something that is not very good. (There is no affirmative version of this.) _ Your idea is no great shakes, but we’ll try it anyway.  Ted is no great shakes when it comes to brains."
+        },
+        {
+            "id": 116,
+            "phrase": "No harm done.",
+            "definition": "It is all right. No one or nothing has been harmed.  It’s okay. No harm done.  A: I am sorry I stepped on your toe. B: No harm done."
+        },
+        {
+            "id": 117,
+            "phrase": "no holds barred",
+            "definition": "with no restraints. (Alludes to a wrestling match in which all holds are legal.) _ I intend to argue it out with Mary, no holds barred.  When Ann negotiates a contract, she goes in with no holds barred and comes out with a good contract."
+        },
+        {
+            "id": 118,
+            "phrase": "no joke",
+            "definition": "a serious matter.  It’s no joke when you miss the last train.  It’s certainly no joke when you have to walk home."
+        },
+        {
+            "id": 119,
+            "phrase": "No kidding!",
+            "definition": "1. Inf. You are not kidding me, are you? (An expression of mild surprise.) _Jane: I got elected vice president. Bill: No kidding! That’s great! 2. Inf. Everyone already knows that! Did you just find that out? (Sarcastic.) _ Sue: It looks like taxes will be increasing. Tom: No kidding! What do you expect? _ Alice: I’m afraid I’m putting on a little weight. Jane: No kidding!"
+        },
+        {
+            "id": 120,
+            "phrase": "no laughing matter",
+            "definition": "a serious issue or problem.  Be serious. This is no laughing matter.  This disease is no laughing matter. It’s quite deadly if not treated immediately."
+        },
+        {
+            "id": 121,
+            "phrase": "No lie?",
+            "definition": "Inf. You are not lying, are you? _ Bill: A plane just landed on the interstate highway outside of town! Tom: No lie? Come on! It didn’t really, did it? Bill: It did too! Tom: Let’s go see it! _ Bob: I’m going to take a trip up the Amazon. Sue: No lie?"
+        },
+        {
+            "id": 122,
+            "phrase": "No man can serve two masters.",
+            "definition": "Prov. You cannot work for two different people, organizations, or purposes in good faith, because you will end up favoring one over the other. (Biblical.) _ Al tried going to school and working, both full-time, but soon discovered that he could not serve two masters."
+        },
+        {
+            "id": 123,
+            "phrase": "no matter how you slice it",
+            "definition": "no matter what your perspective is; no matter how you try to portray something. No matter how you slice it, the results of the meeting present all sorts of problems for the office staff."
+        },
+        {
+            "id": 124,
+            "phrase": "no matter what (happens)",
+            "definition": "in any event; without regard to what happens (in the future). We’ll be there on time, no matter what.  No matter what happens, we’ll still be friends."
+        },
+        {
+            "id": 125,
+            "phrase": "No more than I have to.",
+            "definition": "an answer to the greeting question “What are you doing?” _ Bob: Hey, Fred. What you been doing? Fred: No more than I have to.  Sue: Hi, Bill. How are you? Bill: Okay. What have you been doing? Sue: No more than I have to."
+        },
+        {
+            "id": 126,
+            "phrase": "No news is good news.",
+            "definition": "Not hearing any news signifies that nothing is wrong.  Fred: I wonder if Jill is doing all right in her new job. Jane: No news is good news.  Jane: I’m worried about my sister. She hasn’t called me for months. Alan: No news is good news, right?"
+        },
+        {
+            "id": 127,
+            "phrase": "No, no, a thousand times no!",
+            "definition": "Very definitely, no! (Jocular.) _Bob: Here, have some sweet potatoes. Bill: No, thanks. Bob: Oh, come on! Bill: No, no, a thousand times no! _ Sue: The water is a little cold, but it’s invigorating. Come on in. Bill: How cold? Sue: Well, just above freezing, I guess. Come on in! Bill: No, no, a thousand times no!"
+        },
+        {
+            "id": 128,
+            "phrase": "no nonsense",
+            "definition": "without any tricks, deceit, or wasting of time. (Hyphenated before nominals.) _Let’s have no nonsense while we are rehearsing the presentation! _Elton is a no-nonsense kind of guy."
+        },
+        {
+            "id": 129,
+            "phrase": "No offense meant.",
+            "definition": "I did not mean to offend [you]. Mary: Excuse that last remark. No offense meant. Susan: It’s okay. I was not offended."
+        },
+        {
+            "id": 130,
+            "phrase": "No offense taken.",
+            "definition": "I am not offended [by what you said].  Pete: Excuse that last remark. I did not want to offend you. Tom: It’s okay. No offense taken."
+        },
+        {
+            "id": 131,
+            "phrase": "No one is indispensable.",
+            "definition": "Prov. Anyone may become unnecessary; anyone may lose his or her job.  Fred: You can’t fire me. I’m absolutely necessary to this company. Nancy: No one is indispensable, Fred.  The housekeeper was sure that her employer would always need her, but she discovered when she was let go that no one is indispensable."
+        },
+        {
+            "id": 132,
+            "phrase": "No pain, no gain.",
+            "definition": "If you want to improve, you must work so hard that it hurts. (Associated with sports and physical exercise.) _Player: I can’t do any more push-ups. My muscles hurt. Coach: No pain, no gain.  Come on, everybody! Run one more lap! No pain, no gain!"
+        },
+        {
+            "id": 133,
+            "phrase": "no point in something",
+            "definition": "no purpose in doing something.  There is no point in locking the barn door now that the horse has been stolen.  There’s no point is crying over spilled milk."
+        },
+        {
+            "id": 134,
+            "phrase": "no questions asked",
+            "definition": "no inquiries [to be] made to find out who did something.  Fines at the library will be suspended, no questions asked, for all late books returned during the first week of July."
+        },
+        {
+            "id": 135,
+            "phrase": "No rest for the wicked.",
+            "definition": "It’s because you are wicked that you have to work hard. (Usually jocular.) _A: I can’t seem to ever get all my work done. B: No rest for the wicked."
+        },
+        {
+            "id": 136,
+            "phrase": "no sale",
+            "definition": "no. I wanted to go to Florida for the holidays, but my father said, “No sale.” _ No sale. You can’t do it."
+        },
+        {
+            "id": 137,
+            "phrase": "no salesman will call",
+            "definition": "a phrase indicating that no salesman will visit or contact you if you make an inquiry about a product. All inquiries are confidential and no salesman will call."
+        },
+        {
+            "id": 138,
+            "phrase": "no shortage of something",
+            "definition": "lots of something; plenty of something.  Oh, don’t worry about that. I have no shortage of money! _We’ve no shortage of fried chicken, so help yourself."
+        },
+        {
+            "id": 139,
+            "phrase": "No siree(, Bob)!",
+            "definition": "Inf. Absolutely no! (Not necessarily said to a male, and rarely to any Bob.) _ Bill: Do you want to sell this old rocking chair? Jane: No siree, Bob! _ Bill: You don’t want sweet potatoes, do you? Fred: No siree!"
+        },
+        {
+            "id": 140,
+            "phrase": "no soap",
+            "definition": "Inf. no. I can’t do it. No soap. No soap, I don’t lend anyone money."
+        },
+        {
+            "id": 141,
+            "phrase": "no sooner said than done",
+            "definition": "an expression indicating that something has been done quickly and obediently.  Jill: Can I help you out? Jane: Yes! Put these files in alphabetical order. Jill: No sooner said than done.  The service at the hotel was really remarkable. Everything we asked for was no sooner said than done."
+        },
+        {
+            "id": 142,
+            "phrase": "no spring chicken",
+            "definition": "a person well past youth; an old person.  That actress is no spring chicken, but she does a pretty good job of playing a twenty-year-old girl.  Jane: How old do you think Robert is? Jill: Well, he’s certainly no spring chicken."
+        },
+        {
+            "id": 143,
+            "phrase": "no stress",
+            "definition": "Inf. no problem; no bother. Don’t worry, man, no stress.  Relax. No stress. It doesn’t bother me at all."
+        },
+        {
+            "id": 144,
+            "phrase": "no thanks to you",
+            "definition": "I cannot thank you for what happened, because you did not cause it.; I cannot thank you for your help, because you did not give it.  Bob: Well, despite our previous disagreement, he seemed to agree to all our demands. Alice: Yes, no thanks to you. I wish you’d learn to keep your big mouth shut! _ Jane: It looks like the picnic wasn’t ruined despite the fact that I forgot the potato salad. Mary: Yes, it was okay. No thanks to you, of course."
+        },
+        {
+            "id": 145,
+            "phrase": "no trespassing",
+            "definition": "do not enter. (Usually seen on a sign. Not usually spoken.) _ The sign on the tree said, “No Trespassing.” So we didn’t go in.  The angry farmer chased us out of the field shouting, “Get out! Don’t you see the ‘No Trespassing’ sign?”"
+        },
+        {
+            "id": 146,
+            "phrase": "no two ways about it",
+            "definition": "no choice about it; no other interpretation of it. (Note the form there’s rather than there are.) _ You have to go to the doctor whether you like it or not. There’s no two ways about it. This letter means you’re in trouble with the tax people. There’s no two ways about it."
+        },
+        {
+            "id": 147,
+            "phrase": "No way!",
+            "definition": "Inf. No! _Me join the Army? No way! _She can’t do that. No way!"
+        },
+        {
+            "id": 148,
+            "phrase": "No way, José!",
+            "definition": "Inf. No! (An elaboration of No. José is pronounced with an initial H.) _ Bob: Can I borrow a hundred bucks? Bill: No way, José! _Sally: Can I get you to take this nightgown back to the store for me and get me the same thing in a slightly smaller size? Bob: No way, José!"
+        },
+        {
+            "id": 149,
+            "phrase": "no wonder",
+            "definition": "[something is] not surprising.  No wonder the baby is crying. She’s wet.  It’s no wonder that plant died. You watered it too much."
+        },
+        {
+            "id": 150,
+            "phrase": "nobody’s fool",
+            "definition": "a sensible and wise person who is not easily deceived.  Mary is nobody’s fool. She watches out for people who might try to cheat her.  Anne may seem as though she’s not very bright, but she’s nobody’s fool."
+        },
+        {
+            "id": 151,
+            "phrase": "*the nod",
+            "definition": "someone’s choice for a position or task. (*Typically: get ~; have ~; give someone ~.) _ The manager is going to pick the new sales manager. I think Ann will get the nod.  I had the nod for captain of the team, but I decided not to do it."
+        },
+        {
+            "id": 152,
+            "phrase": "nod at someone",
+            "definition": "to make a motion to someone with one’s head indicating a greeting, agreement, or something else.  I nodded at Fred, but I really didn’t agree. Molly nodded at Fred, and Fred, knowing she wanted to leave the party, went for their coats.  When she offered him some ice cream, he only nodded. She thought he was rude and decided not to give him any."
+        },
+        {
+            "id": 153,
+            "phrase": "A nod is as good as a wink to a blind horse.",
+            "definition": "Prov. You cannot get people to take a hint if they are determined not to. Jill: I keep hinting to the boss that I deserve a raise, but he doesn’t seem to get the point. Jane: I’m not surprised. A nod’s as good as a wink to a blind horse."
+        },
+        {
+            "id": 154,
+            "phrase": "nod off",
+            "definition": "to fall asleep, usually while sitting up. Jack nodded off during the minister’s sermon. Father always nods off after Sunday lunch."
+        },
+        {
+            "id": 155,
+            "phrase": "nominate someone as something",
+            "definition": "to suggest someone to be the candidate to serve as something.  I would like to nominate Karen as our representative.  She nominated herself as the one most likely to do the job."
+        },
+        {
+            "id": 156,
+            "phrase": "nominate someone for something",
+            "definition": "to suggest someone as a candidate for a particular office.  I will nominate Carolyn for president.  You cannot nominate yourself for this office."
+        },
+        {
+            "id": 157,
+            "phrase": "nominate someone to something",
+            "definition": "to suggest someone to become a member of a group.  I am the one who nominated her to the board.  The president nominated herself to the position of chairman of the board."
+        },
+        {
+            "id": 158,
+            "phrase": "None but the brave deserve the fair.",
+            "definition": "Prov. Only a courageous and gallant man deserves a beautiful woman.; Only the best deserves the best. Stop making excuses and just call Gina. None but the brave deserve the fair."
+        },
+        {
+            "id": 159,
+            "phrase": "none of someone’s beeswax",
+            "definition": "Inf. none of someone’s business. (Jocular.) _ It’s none of your beeswax. I’m not telling.  You’ll never know. The answer is none of your beeswax."
+        },
+        {
+            "id": 160,
+            "phrase": "none of someone’s business",
+            "definition": "not of someone’s concern. (A gentle rebuke.) _ Q: When are you going to leave for home? A: None of your business. How I managed to afford all this is none of your business."
+        },
+        {
+            "id": 161,
+            "phrase": "None of your lip!",
+            "definition": "Shut up!; I don’t want to hear anything from you about anything! _ A: You are being a real nuisance about the broken window. B: None of your lip! Just help me clean it up."
+        },
+        {
+            "id": 162,
+            "phrase": "none other than",
+            "definition": "Cliché the very [person]. (Expresses surprise.) _ The new building was opened by none other than the president. Bob’s wife turned out to be none other than my cousin."
+        },
+        {
+            "id": 163,
+            "phrase": "none the wiser",
+            "definition": "not knowing any more in spite of events or exposure to facts.  I was none the wiser about black holes after the lecture. It was a complete waste of time.  Anne tried to explain the situation tactfully to Bob, but in the end, he was none the wiser."
+        },
+        {
+            "id": 164,
+            "phrase": "*none the worse for wear",
+            "definition": "no worse because of use or effort. I lent my car to John. When I got it back, it was none the worse for wear.  I had a hard day today, but I’m none the worse for wear."
+        },
+        {
+            "id": 165,
+            "phrase": "none too something",
+            "definition": "not very something; not at all something.  The towels in the bathroom were none too clean.  It was none too warm in their house."
+        },
+        {
+            "id": 166,
+            "phrase": "noodle around",
+            "definition": "to wander around; to fiddle around with something.  I couldn’t find the instructions so I spent the afternoon noodling around, trying to find out how it worked. I noodled around until I found the right address."
+        },
+        {
+            "id": 167,
+            "phrase": "noodle over something",
+            "definition": "Inf. to think about something.  Let’s noodle over this problem for a bit and discuss it at our next meeting."
+        },
+        {
+            "id": 168,
+            "phrase": "nose around (something)",
+            "definition": "to pry into something; to snoop around something. I caught her nosing around my desk.  Wally is always nosing around."
+        },
+        {
+            "id": 169,
+            "phrase": "nose in(to something)",
+            "definition": "[for a boat or other vehicle] to move or be moved into something or some place carefully, nose first.  The captain nosed into the channel, and our journey had begun.  He nosed in and we sailed on."
+        },
+        {
+            "id": 170,
+            "phrase": "nose out (of something)",
+            "definition": "to move cautiously out of something or some place, nose first.  She nosed out of the little room, hoping she hadn’t been observed. She nosed out quickly and stealthily."
+        },
+        {
+            "id": 171,
+            "phrase": "nose someone or a group out†",
+            "definition": "to defeat someone or something by a narrow margin. (Alludes to a horse winning a race “by a nose.”) _Karen nosed Bobby out in the election for class president by one vote.  Our team nosed out the opposing team in last Friday’s game."
+        },
+        {
+            "id": 172,
+            "phrase": "nosh on something",
+            "definition": "to make a snack of something.  After Thanksgiving, we noshed on turkey for three days. Who’s been noshing on the chocolate cake?"
+        },
+        {
+            "id": 173,
+            "phrase": "not a bit",
+            "definition": "none at all; not at all. Am I unhappy? Not a bit.  I don’t want any mashed potatoes. Not a bit!"
+        },
+        {
+            "id": 174,
+            "phrase": "Not a chance!",
+            "definition": "Inf. There is no chance at all that something will happen. (A variation of (There is) no chance.) _ Sally: Do you think our team will win today? Mary: Not a chance! _ Jane: Can I have this delivered by Saturday? Clerk: Not a chance!"
+        },
+        {
+            "id": 175,
+            "phrase": "not a kid anymore",
+            "definition": "no longer in one’s youth.  You can’t keep partying all weekend, every weekend. You’re not a kid anymore.  Kathy: Bill is just as wild as ever, I hear. Jane: Bill needs to realize that he’s not a kid anymore."
+        },
+        {
+            "id": 176,
+            "phrase": "not a living soul",
+            "definition": "nobody. (See some of the possible variations in the examples.) _I won’t tell anybody—not a living soul.  I won’t tell a living soul."
+        },
+        {
+            "id": 177,
+            "phrase": "not able to call one’s time one’s own",
+            "definition": "too busy; so busy as not to be in charge of one’s own schedule.  It’s been so busy around here that I haven’t been able to call my time my own.  She can’t call her time her own these days."
+        },
+        {
+            "id": 178,
+            "phrase": "not able to get something for love or money",
+            "definition": "not able to get something at any price; completely unable to get something.  Oranges were so scarce last winter that you couldn’t get them for love or money.  I wanted to go to the concert, but I was not able to get a ticket for love or money."
+        },
+        {
+            "id": 179,
+            "phrase": "not able to go on",
+            "definition": "unable to continue (doing something— even living). (Not able to is often expressed as can’t.) _I just can’t go on this way. Before her death, she left a note saying she was not able to go on."
+        },
+        {
+            "id": 180,
+            "phrase": "not able to help something",
+            "definition": "unable to prevent or control something. (Not able to is often expressed as can’t.) _I’m sorry about being late. I wasn’t able to help it.  Bob can’t help being boring."
+        },
+        {
+            "id": 181,
+            "phrase": "not able to make anything out of someone or something",
+            "definition": "unable to understand someone or something. (Not able to is often expressed as can’t. The anything may refer to something specific, as in the first example.) _ I can’t make sense out of what you just said.  We were not able to make anything out of the message."
+        },
+        {
+            "id": 182,
+            "phrase": "not able to make head or tail of something",
+            "definition": "not able to understand something at all.  I couldn’t make head or tail of the professor’s geology lecture this morning. Can you help me fill out my tax forms? I can’t make head or tail of the instructions."
+        },
+        {
+            "id": 183,
+            "phrase": "not able to see the forest for the trees",
+            "definition": "Cliché allowing many details of a situation to obscure the situation as a whole. (Not able to is often expressed as can’t.) _ The solution is obvious. You missed it because you can’t see the forest for the trees.  She suddenly realized that she hadn’t been able to see the forest for the trees."
+        },
+        {
+            "id": 184,
+            "phrase": "not able to wait",
+            "definition": "to have to go to the bathroom urgently. (Also more broadly literal.) _ Mom, I can’t wait.  Driver, stop the bus! My little boy can’t wait."
+        },
+        {
+            "id": 185,
+            "phrase": "Not again!",
+            "definition": "Inf. I cannot believe that it happened again! _ Mary: The sink is leaking again. Sally: Not again! Mary: Yes, again.  Fred: Here comes Tom with a new girlfriend. Sue: Not again!"
+        },
+        {
+            "id": 186,
+            "phrase": "not agree with someone",
+            "definition": "[for food] to make someone ill; [for something that one has eaten] to give one stomach distress.  Fried foods don’t agree with Tom.  I always have onions in my garden, but I never eat them. They just don’t agree with me."
+        },
+        {
+            "id": 187,
+            "phrase": "not all there",
+            "definition": "not mentally adequate; crazy or silly.  Sometimes I think you’re not all there.  Be nice to Sally. She’s not all there."
+        },
+        {
+            "id": 188,
+            "phrase": "Not always.",
+            "definition": "a conditional negative response. (See examples.) _ John: Do you come here every day? Jane: No, not always.  John: Do you find that this condition usually clears up by itself ? Doctor: Not always."
+        },
+        {
+            "id": 189,
+            "phrase": "Not anymore.",
+            "definition": "The facts you mentioned are no longer true.; A previous situation no longer exists. Mary: This cup of coffee you asked me to bring you looks cold. Do you still want it? Sally: Not anymore.  Tom: Do the Wilsons live on Maple Street? Bob: Not anymore."
+        },
+        {
+            "id": 190,
+            "phrase": "not as young as one used to be",
+            "definition": "getting old. Aunt Lila isn’t as young as she used to be. She can’t take a lot of trips anymore.  Don’t walk so fast! I’m not as young as I used to be. It takes me awhile to catch up."
+        },
+        {
+            "id": 191,
+            "phrase": "Not bad (at all).",
+            "definition": "1. [Someone or something is] quite satisfactory.  Bill: How do you like your new teacher? Jane: Not bad.  Bob: Is this pen okay? Bill: I guess. Yeah. Not bad. 2. [Someone or something is] really quite good. (The person or thing can be named, as in the examples.) _ John: How do you like that new car of yours? Mary: Not bad. Not bad at all. Tom: This one looks great to me. What do you think? Sue: It’s not bad."
+        },
+        {
+            "id": 192,
+            "phrase": "not believe one’s ears",
+            "definition": "not believe the news that one has heard.  I couldn’t believe my ears when Mary said I won the first prize."
+        },
+        {
+            "id": 193,
+            "phrase": "not believe one’s eyes",
+            "definition": "not to believe what one is seeing; to be shocked or dumbfounded at what one is seeing.  I walked into the room and I couldn’t believe my eyes. All the furniture had been stolen! _ When Jimmy opened his birthday present, he could hardly believe his eyes. Just what he wanted!"
+        },
+        {
+            "id": 194,
+            "phrase": "not born yesterday",
+            "definition": "experienced; knowledgeable in the ways of the world.  I know what’s going on. I wasn’t born yesterday.  Sally knows the score. She wasn’t born yesterday."
+        },
+        {
+            "id": 195,
+            "phrase": "not buy something",
+            "definition": "not accept something (to be true). You may think so, but I don’t buy it. The police wouldn’t buy his story."
+        },
+        {
+            "id": 196,
+            "phrase": "not by a long shot",
+            "definition": "not by a great amount; not at all.  Did I win the race? Not by a long shot.  Not by a long shot did she complete the assignment."
+        },
+        {
+            "id": 197,
+            "phrase": "not enough room to swing a cat",
+            "definition": "Rur. not very much space.  Their living room was very small. There wasn’t enough room to swing a cat. How can you work in a small room like this? There’s not enough room to swing a cat."
+        },
+        {
+            "id": 198,
+            "phrase": "not for a moment",
+            "definition": "not at all; not even for a short amount of time; never.  I don’t want you to leave. Not for a moment! _ I could not wish such a horrible punishment on anyone. Not for a moment!"
+        },
+        {
+            "id": 199,
+            "phrase": "not for all the tea in China",
+            "definition": "not even if you rewarded me with all the tea in China; not for anything at all.  No I won’t do it—not for all the tea in China."
+        },
+        {
+            "id": 200,
+            "phrase": "not for hire",
+            "definition": "[of a taxi] not available to take new passengers.  The taxi was going to pick someone up at a nearby hotel and was not for hire.  The taxi had a lighted sign that said it was not for hire."
+        },
+        {
+            "id": 201,
+            "phrase": "Not for my money.",
+            "definition": "Not as far as I’m concerned. (Has nothing to do with money or finance.) _ Sue: Do you think it’s a good idea to build all these office buildings in this part of the city? Mary: Not for my money. That’s a real gamble. John: We think that Fred is the best choice for the job. Do you think he is? Mary: Not for my money, he’s not."
+        },
+        {
+            "id": 202,
+            "phrase": "not for publication",
+            "definition": "not to be talked about openly; secret.  Please tell no one about this. It’s not for publication.  This report is not for publication, so keep it to yourself."
+        },
+        {
+            "id": 203,
+            "phrase": "not get one’s hopes up",
+            "definition": "[one] should not expect something to happen; [one] should not start hoping that something will happen. The rain could stop so we can go to the beach, but you should not get your hopes up."
+        },
+        {
+            "id": 204,
+            "phrase": "not give a tinker’s damn",
+            "definition": "not to care at all. (A tinker’s damn or dam may be a worthless curse from a tinker or a small dam or barrier used to contain molten metal.) _ I don’t give a tinker’s damn whether you go or not!"
+        },
+        {
+            "id": 205,
+            "phrase": "not give anyone the time of day",
+            "definition": "to ignore someone (usually out of dislike).  Mary won’t speak to Sally. She won’t give her the time of day.  I couldn’t get an appointment with Mr. Smith. He wouldn’t even give me the time of day."
+        },
+        {
+            "id": 206,
+            "phrase": "not give it another thought",
+            "definition": "not to worry about something anymore. (A polite way of accepting someone’s apology.) _ It’s okay. Please don’t give it another thought.  You should not give it another thought. No one was bothered at all."
+        },
+        {
+            "id": 207,
+            "phrase": "not going to win any beauty contests",
+            "definition": "homely; ugly.  Fred isn’t going to win any beauty contests, but he’s smart and considerate and he does well at his job.  This old truck of mine is not going to win any beauty contests, but I wouldn’t trade it for anything."
+        },
+        {
+            "id": 208,
+            "phrase": "not grow on trees",
+            "definition": "not to be abundant; not to be expendable. (Usually said about money.) _ I can’t afford that. Money doesn’t grow on trees, you know. Don’t waste the glue. That stuff doesn’t grow on trees, you know."
+        },
+        {
+            "id": 209,
+            "phrase": "not have a care in the world",
+            "definition": "free and casual; unworried and carefree.  I really feel good today—as if I didn’t have a care in the world.  Ann always acts as if she doesn’t have a care in the world."
+        },
+        {
+            "id": 210,
+            "phrase": "not have a leg to stand on",
+            "definition": "[for an argument or a case] to have no support.  You may think you’re in the right, but you don’t have a leg to stand on. My lawyer said I didn’t have a leg to stand on, so I shouldn’t sue the company."
+        },
+        {
+            "id": 211,
+            "phrase": "not have a stitch of clothes (on)",
+            "definition": "naked.  He walked through the house and didn’t have a stitch of clothes on."
+        },
+        {
+            "id": 212,
+            "phrase": "not have all one’s marbles",
+            "definition": "not to have all one’s mental capacities.  John acts as if he doesn’t have all his marbles.  I’m afraid that I don’t have all my marbles all the time."
+        },
+        {
+            "id": 213,
+            "phrase": "not have the heart to do something",
+            "definition": "to be too compassionate to do something.  I just don’t have the heart to tell him the bad news."
+        },
+        {
+            "id": 214,
+            "phrase": "not hold water",
+            "definition": "[of a container] not able to contain water without leaking.  This old wading pool won’t hold water any longer."
+        },
+        {
+            "id": 215,
+            "phrase": "not hold with something",
+            "definition": "Rur. to disagree with something; to not tolerate something. I don’t hold with what you are saying. We don’t hold with that kind of thing around here."
+        },
+        {
+            "id": 216,
+            "phrase": "not hurt a flea",
+            "definition": "not to harm anything or anyone, even a tiny insect. (Also with other forms of negation.) _ Ted would not even hurt a f lea. He could not have struck Bill.  Ted would never hurt a f lea, and he would not hit anyone as you claim."
+        },
+        {
+            "id": 217,
+            "phrase": "Not in my book.",
+            "definition": "Not according to my views. (Compare this with Not for my money.) _ John: Is Fred okay for the job, do you think? Mary: No, not in my book. Sue: My meal is great! Is yours good, too? Bob: Not in my book."
+        },
+        {
+            "id": 218,
+            "phrase": "not in the same league with someone or something",
+            "definition": "not nearly as good as someone or something.  John isn’t in the same league with Bob at tennis. This house isn’t in the same league with our old one."
+        },
+        {
+            "id": 219,
+            "phrase": "not just whistling Dixie",
+            "definition": "Rur. not talking nonsense. (Alludes to a song titled “Dixie.”) _ Man, you are right! You’re not just whistling Dixie.  When you say she is wrong, you’re not just whistling Dixie."
+        },
+        {
+            "id": 220,
+            "phrase": "not know beans (about someone or something)",
+            "definition": "Inf. to know nothing about someone or something. Bill doesn’t know beans about f lying an airplane.  When it comes to f lying, I don’t know beans."
+        },
+        {
+            "id": 221,
+            "phrase": "not know enough to come in out of the rain",
+            "definition": "to be very stupid. Bob is so stupid he doesn’t know enough to come in out of the rain.  You can’t expect very much from somebody who doesn’t know enough to come in out of the rain."
+        },
+        {
+            "id": 222,
+            "phrase": "not know from nothing",
+            "definition": "Inf. to be stupid, innocent, and naive. (This nothing is not replaced with something. Usually used with don’t, as in the examples.) _ Old John—he don’t know from nothing. What do you expect from somebody who don’t know from nothing?"
+        },
+        {
+            "id": 223,
+            "phrase": "not know one’s own strength",
+            "definition": "not to realize how destructive or harmful one’s strength can be.  I didn’t mean to hurt you. I guess I don’t know my own strength.  He might break the door down by accident. He doesn’t know his own strength and could end up pushing too hard against the door."
+        },
+        {
+            "id": 224,
+            "phrase": "not know someone from Adam",
+            "definition": "not to know someone by sight at all. I wouldn’t recognize John if I saw him up close. I don’t know him from Adam.  What does she look like? I don’t know her from Adam."
+        },
+        {
+            "id": 225,
+            "phrase": "not know the first thing about someone or something",
+            "definition": "not to know anything about someone or something.  I don’t know the first thing about f lying an airplane.  She doesn’t know the first thing about John."
+        },
+        {
+            "id": 226,
+            "phrase": "not know what to make of someone or something",
+            "definition": "not to understand someone or something; not to be able to interpret something or the actions of someone.  We really don’t know what to make of his request."
+        },
+        {
+            "id": 227,
+            "phrase": "not know which end is up",
+            "definition": "Inf. not to be alert and knowledgeable.  Don’t try to hustle me, sister. You think I don’t know which end is up? _Poor Jed doesn’t even know which end is up."
+        },
+        {
+            "id": 228,
+            "phrase": "not let the grass grow under one’s feet",
+            "definition": "not to stay in one place for a long time; to be always on the move.  He is always doing something. He never lets the grass grow under his feet.  I have always thought that I ought not to let the grass grow under my feet.  Jane: Last night I told Alan that we needed a new bookshelf, and he had built one by the time I got home today. Jill: Boy, he doesn’t let the grass grow under his feet."
+        },
+        {
+            "id": 229,
+            "phrase": "Not likely.",
+            "definition": "Inf. That is probably not so; that probably will not happen.  Mary: Is it possible that you’ll be able to fix this watch? Sue: Not likely, but we can always try.  Sally: Will John show up on time, do you think? Bob: Not likely."
+        },
+        {
+            "id": 230,
+            "phrase": "not long for this world",
+            "definition": "about to die.  Our dog is nearly twelve years old and not long for this world.  I’m so tired. I think I’m not long for this world."
+        },
+        {
+            "id": 231,
+            "phrase": "not made of money",
+            "definition": "[of a person] not having a lot of money; not having an unlimited supply of money.  I can’t afford a car like that. I’m not made of money you know.  There is only so much they can pay. They’re not made of money."
+        },
+        {
+            "id": 232,
+            "phrase": "not move a muscle",
+            "definition": "to remain perfectly motionless.  Be quiet. Sit there and don’t move a muscle. I was so tired I couldn’t move a muscle."
+        },
+        {
+            "id": 233,
+            "phrase": "not one iota",
+            "definition": "not even a tiny bit.  I won’t give you any at all! Not one iota! _I did not get one iota of encouragement from any of those people."
+        },
+        {
+            "id": 234,
+            "phrase": "not one’s cup of tea",
+            "definition": "not one’s choice or preference. (Used to describe an activity you do not enjoy. Can sound somewhat affected.) _ You three visit the museum without me. Looking at fussy old paintings is not my cup of tea.  Going to church, Mary said, was not her cup of tea."
+        },
+        {
+            "id": 235,
+            "phrase": "not one’s place",
+            "definition": "not one’s role to do something.  It was not my place to criticize my boss.  It was not Bill’s place to ask the questions; it’s my project."
+        },
+        {
+            "id": 236,
+            "phrase": "not put it past someone",
+            "definition": "to think that someone would not dare to do something.  He might run away from school. I wouldn’t put it past him. I wouldn’t put it past Roger to arrive unannounced."
+        },
+        {
+            "id": 237,
+            "phrase": "Not right now, thanks.",
+            "definition": "No for the present. (It is hoped that one will be asked again later. Usually used for a [temporary] refusal of a serving of food or drink. There is an implication that more will be wanted later.) _Waiter: Do you want some more coffee? Mary: Not right now, thanks.  John: Can I take your coat? Sue: Not right now, thanks. I’m still a little chilly."
+        },
+        {
+            "id": 238,
+            "phrase": "not set foot somewhere",
+            "definition": "not to go somewhere. I wouldn’t set foot in John’s room. I’m very angry at him.  He never set foot here."
+        },
+        {
+            "id": 239,
+            "phrase": "not shed a tear",
+            "definition": "not to show any emotion even when something is very sad.  At his uncle’s funeral, he didn’t shed a tear. They never got along."
+        },
+        {
+            "id": 240,
+            "phrase": "not show one’s face",
+            "definition": "not to appear somewhere; not to go to some place.  After what she said, she had better not show her face around here again.  If I don’t say I’m sorry, I’ll never be able to show my face again."
+        },
+        {
+            "id": 241,
+            "phrase": "not sleep a wink",
+            "definition": "not to sleep at all.  I couldn’t sleep a wink last night.  Ann hasn’t been able to sleep a wink for a week."
+        },
+        {
+            "id": 242,
+            "phrase": "not so hot",
+            "definition": "Inf. not very good.  The service here is not so hot. This restaurant is highly overrated."
+        },
+        {
+            "id": 243,
+            "phrase": "not take no for an answer",
+            "definition": "not to accept someone’s refusal. (A polite way of being insistent.) _Now, you must drop over and see us tomorrow. We won’t take no for an answer.  I had to go to their party. They just wouldn’t take no for an answer."
+        },
+        {
+            "id": 244,
+            "phrase": "not tell a (living) soul",
+            "definition": "not to reveal something to anyone.  You secret is safe with me. I won’t tell a living soul.  Promise you won’t tell a soul, but I’m engaged."
+        },
+        {
+            "id": 245,
+            "phrase": "not to put too fine a point on it",
+            "definition": "a phrase introducing a fine or important point, apologetically. Rachel: Not to put too fine a point on it, Mary, but you’re still acting a little rude to Tom. Mary: I’m sorry, but that’s the way I feel.  John: I think, not to put too fine a point on it, you ought to do exactly as you are told. Andy: And I think you ought to mind your own business."
+        },
+        {
+            "id": 246,
+            "phrase": "not to touch a drop",
+            "definition": "not to drink any of something, usually alcohol. He pledged not to touch a drop all weekend, but he broke his pledge on Friday night."
+        },
+        {
+            "id": 247,
+            "phrase": "Not to worry.",
+            "definition": "Inf. Please do not worry.  Bill: The rain is going to soak all our clothes. Tom: Not to worry, I put them all in plastic bags.  Sue: I think we’re about to run out of money. Bill: Not to worry. I have some more travelers checks."
+        },
+        {
+            "id": 248,
+            "phrase": "Not (too) much.",
+            "definition": "a response to greeting inquiries into what one has been doing.  John: What have you been doing? Mary: Not much.  Sue: Been keeping busy? What are you up to? Bob: Not too much. Sue: Yeah. Me too."
+        },
+        {
+            "id": 249,
+            "phrase": "not too shabby",
+            "definition": "1. Inf. nice; well done. (With emphasis on shabby.) _Is that your car? Not too shabby! _That play was not too shabby. 2. Inf. very shabby; very poor indeed. (With emphasis on too. Sarcastic.) _Did you see that shot she missed? Not too shabby! _ What a way to treat someone. Not too shabby!"
+        }
+    ]
+}

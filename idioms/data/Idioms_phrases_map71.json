@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "sled down something",
+            "definition": "to ride down something on a sled.  I love to sled down the hill in the winter.  This hill is too steep to sled down safely."
+        },
+        {
+            "id": 1,
+            "phrase": "sled over something",
+            "definition": "to travel over something, such as snow, in a sled.  We sledded rapidly over the fresh snow, scooting down the hill.  We wanted to sled over the new snow, but we had to wait until Uncle Herman had taken a picture of it for his scrapbook."
+        },
+        {
+            "id": 2,
+            "phrase": "sleep around the clock",
+            "definition": "to sleep for a full twenty-four hours; to sleep for a very long time. I was so tired I could have slept around the clock. When I got home, I lay down and slept around the clock."
+        },
+        {
+            "id": 3,
+            "phrase": "sleep around (with someone)",
+            "definition": "Inf. to have sex with several partners over time; to be promiscuous.  They say she sleeps around with just anybody all the time.  Yes, she sleeps around."
+        },
+        {
+            "id": 4,
+            "phrase": "sleep in",
+            "definition": "to oversleep; to sleep late in the morning. If you sleep in again, you’ll get fired.  I really felt like sleeping in this morning."
+        },
+        {
+            "id": 5,
+            "phrase": "sleep on something",
+            "definition": "to recline on something and slumber.  I like to sleep on a firm bed.  Mary had to sleep on the f loor because her sister was visiting."
+        },
+        {
+            "id": 6,
+            "phrase": "sleep out",
+            "definition": "to sleep outside or away from one’s home.  Can I sleep out tonight? _ Didn’t you sleep out last night?"
+        },
+        {
+            "id": 7,
+            "phrase": "sleep over (with someone) (some place)",
+            "definition": "to spend the night sleeping at someone else’s home. (Typically said by teenagers or younger children who spend the night with a friend.) _Mom, can I sleep over with Tony? _Can I sleep over at Tony’s house?"
+        },
+        {
+            "id": 8,
+            "phrase": "sleep something away†",
+            "definition": "to spend or waste a specific period of time sleeping.  You can’t sleep the whole day away! _ Jim slept away his whole vacation."
+        },
+        {
+            "id": 9,
+            "phrase": "sleep something off†",
+            "definition": "to sleep while the effects of liquor or drugs pass away.  John drank too much and went home to sleep it off. Bill is at home sleeping off the effects of the drug they gave him."
+        },
+        {
+            "id": 10,
+            "phrase": "sleep through something",
+            "definition": "to remain sleeping through some event. I didn’t hear the storm. I guess I slept through it.  Wally slept through the entire opera—even the loud part."
+        },
+        {
+            "id": 11,
+            "phrase": "sleep tight",
+            "definition": "to sleep warm and safe. (Usually said with good night to someone going to bed.) _Sleep tight, Bobby. See you in the morning."
+        },
+        {
+            "id": 12,
+            "phrase": "sleep together",
+            "definition": "1. [for two or more people] to share a bed.  Do you mean that Fred and Dave have to sleep together? _My brother and I used to have to sleep together. 2. Euph. [for two people] to copulate. Do you think they slept together? _Ted and Alice slept together a lot when they were in college."
+        },
+        {
+            "id": 13,
+            "phrase": "sleep with someone",
+            "definition": "1. to share a bed with someone.  Do I have to sleep with my little brother? _Many little boys have to sleep with their brothers. 2. Euph. to copulate with someone. I hear Sam’s sleeping with Sally now. Whom did you say he slept with?"
+        },
+        {
+            "id": 14,
+            "phrase": "a sleeping giant",
+            "definition": "a great power that is still and waiting.  The huge country to the south is a sleeping giant, waiting for its chance to become sufficiently industrialized to have real prosperity.  The U.S. was a sleeping giant at the outbreak of both world wars."
+        },
+        {
+            "id": 15,
+            "phrase": "slice in(to something)",
+            "definition": "to cut into something, usually with a knife or something similar.  Betty sliced into the cake and discovered it was chocolate all the way through.  It wasn’t until she sliced in that she found out what kind of cake it was."
+        },
+        {
+            "id": 16,
+            "phrase": "a slice of the cake",
+            "definition": "a share of something.  There’s not much work around and so everyone must be content with a slice of the cake. The company makes huge profits and the workers want a slice of the cake."
+        },
+        {
+            "id": 17,
+            "phrase": "slice someone or something up†",
+            "definition": "to cut someone or something up into slices.  The blades of the lawn mower can slice you up if you get too close.  The sharp blades sliced up Bobby’s rubber ball."
+        },
+        {
+            "id": 18,
+            "phrase": "slice something off†",
+            "definition": "to cut something off with slicing motions. Sue sliced the dead branches off with a tree saw.  Karen sliced off a nice piece of turkey."
+        },
+        {
+            "id": 19,
+            "phrase": "slice through something",
+            "definition": "to cut through something with slicing motions.  The chef sliced through the ham as if it were butter.  The knife was too dull to slice through the tomato."
+        },
+        {
+            "id": 20,
+            "phrase": "*slick as a whistle",
+            "definition": "quickly and cleanly; quickly and skillfully. (*Also: as ~.) _ Tom took a broom and a mop and cleaned the place up as slick as a whistle.  Slick as a whistle, Sally pulled off the bandage."
+        },
+        {
+            "id": 21,
+            "phrase": "slick something down†",
+            "definition": "to brush or comb down hair, usually with some sort of dressing or water. He used something gooey—grease or something—to slick his hair down.  Please slick down your hair. You look a mess."
+        },
+        {
+            "id": 22,
+            "phrase": "slick something up†",
+            "definition": "to tidy up something or some place.  I have to slick this house up a little.  Please slick up this room before company gets here."
+        },
+        {
+            "id": 23,
+            "phrase": "slide along",
+            "definition": "to slip or glide along.  The sled slid along at a good clip down the gently sloping hill. We slid along on the icy roads and had a hard time stopping and turning."
+        },
+        {
+            "id": 24,
+            "phrase": "slide around",
+            "definition": "to slip or skid around.  Many cars slide around on the roads when they are icy.  The pedestrians were sliding around on the icy pavement."
+        },
+        {
+            "id": 25,
+            "phrase": "slide by",
+            "definition": "to get along with a minimum of effort.  She didn’t do a lot of work—she just slid by.  Don’t just slide by. Put in some effort."
+        },
+        {
+            "id": 26,
+            "phrase": "slide down from something",
+            "definition": "to slip down on something from a higher place.  Beth slid down from the top of the mound. The boys slid down from the roof of the shed and got their pants all dirty."
+        },
+        {
+            "id": 27,
+            "phrase": "slide down something",
+            "definition": "to slip down something, such as a pole.  The fire captain slid down the pole and ran to the engine.  Please don’t slide down the stairs. You’ll ruin the carpet."
+        },
+        {
+            "id": 28,
+            "phrase": "slide into something",
+            "definition": "to slip or glide into something, as a car going into a ditch. It was raining hard, and car after car slid into the ditch at the sharp turn near Wagner Road.  Mary’s car slid right into the side of a bus."
+        },
+        {
+            "id": 29,
+            "phrase": "slide out of something",
+            "definition": "to slip or glide out of something without much effort.  Mary slid out of the car and ran to the front door. The CD-ROM slid out of the computer."
+        },
+        {
+            "id": 30,
+            "phrase": "slide over something",
+            "definition": "to slip or glide over something. The car almost slid over the edge of the cliff.  We almost slid over the edge."
+        },
+        {
+            "id": 31,
+            "phrase": "slide something around",
+            "definition": "to push, twist, or turn something around. (The thing must be movable, but not often on wheels.) _ Please slide the carton around and look at the address on the other side.  Can you slide the refrigerator around so I can clean the back of it?"
+        },
+        {
+            "id": 32,
+            "phrase": "slightly rattled",
+            "definition": "1. Inf. upset; confused.  Tom was slightly rattled by the policeman at the door.  I’m slightly rattled. I’ll get over it. 2. Inf. tipsy; intoxicated. He’s only slightly rattled. He’ll recover by morning. She can be really drunk and still seem only slightly rattled."
+        },
+        {
+            "id": 33,
+            "phrase": "a slim chance",
+            "definition": "a slight chance; a small chance.  There is a slim chance that I will arrive on Monday, but Tuesday is more likely."
+        },
+        {
+            "id": 34,
+            "phrase": "slim down",
+            "definition": "to become thinner; to lose weight. You have really slimmed down a lot since I last saw you.  I need to eat less so I can slim down.  He slimmed down quite a bit after he had his health problem."
+        },
+        {
+            "id": 35,
+            "phrase": "slim someone down†",
+            "definition": "to cause someone to lose weight.  They started to slim her down in the hospital, but she gained the weight back as soon as she got out.  The dietitian slimmed down all the patients under his care."
+        },
+        {
+            "id": 36,
+            "phrase": "sling something at someone or something",
+            "definition": "to heave or toss something at someone or something.  The child slung a handful of mud at his playmate.  Who slung this muddy mess at the side of the house?"
+        },
+        {
+            "id": 37,
+            "phrase": "sling something out†",
+            "definition": "1. to toss or heave something outward.  The fishermen slung their nets out into the water.  They slung out their nets. 2. to throw something away.  Just sling all that old junk out, if you will.  Sling out that stuff into the trash!"
+        },
+        {
+            "id": 38,
+            "phrase": "sling the cat",
+            "definition": "Sl. to empty one’s stomach; to vomit. Suddenly Ralph left the room to sling the cat, I guess.  That stuff will make you sling the cat."
+        },
+        {
+            "id": 39,
+            "phrase": "slink around",
+            "definition": "to creep or slither around furtively.  The cat slunk around, waiting for a chance to get at the bird.  Don’t slink around like that. Someone is likely to take you for a robber."
+        },
+        {
+            "id": 40,
+            "phrase": "slink away",
+            "definition": "to creep or slither away furtively.  The fox slunk away, leaving the henhouse as quietly as such a thing is possible.  I hope that the skunk will slink away as quietly as it came."
+        },
+        {
+            "id": 41,
+            "phrase": "slink in(to something)",
+            "definition": "to creep into something.  The cat slunk into the hallway and lay down in the middle of the f loor.  I left the door ajar and a cat slunk in."
+        },
+        {
+            "id": 42,
+            "phrase": "slink off",
+            "definition": "to creep away furtively.  Carl was embarrassed and tried to slink off, but the ushers spotted him. The boys slunk off from the picnic and smoked some cigarettes."
+        },
+        {
+            "id": 43,
+            "phrase": "slink out (of some place)",
+            "definition": "to creep out of some place furtively.  The fox slunk out of the henhouse just as the farmer came out.  It slunk out and got away."
+        },
+        {
+            "id": 44,
+            "phrase": "slip around",
+            "definition": "to slide or skid around.  The pedestrian slipped around and finally fell on the ice. The dog slipped around on the ice and finally made it to shore."
+        },
+        {
+            "id": 45,
+            "phrase": "slip back (to someone or something)",
+            "definition": "to move quietly and cautiously back to someone or something.  Walter slipped back to Sally when her parents weren’t looking.  He slipped back and then Mary’s parents slipped back, and there was quite a scene."
+        },
+        {
+            "id": 46,
+            "phrase": "slip between the cracks",
+            "definition": "[for someone or something] to be forgotten or neglected. (Fig. on something being lost by falling between floorboards.) _ Where is Alice? I guess we neglected her and she slipped between the cracks. This issue seems to have slipped between the cracks and become forgotten."
+        },
+        {
+            "id": 47,
+            "phrase": "slip down",
+            "definition": "to slide or glide downward.  His socks kept slipping down.  He lost so much weight that his pants almost slipped down."
+        },
+        {
+            "id": 48,
+            "phrase": "slip from something",
+            "definition": "to fall away from something; to lose one’s step or grasp and fall from something.  He slipped from the top step and fell down the other three.  Ted slipped from the stool and fell on the f loor."
+        },
+        {
+            "id": 49,
+            "phrase": "slip in (some place)",
+            "definition": "to sneak or go into a place quietly and unnoticed. I think we can slip in the rear door unnoticed.  We slipped in and crept up the stairs."
+        },
+        {
+            "id": 50,
+            "phrase": "slip in(to something)",
+            "definition": "to slide or glide into something, such as clothing, a sleeping bag, a tight place, etc. I don’t want to slip into a cold sleeping bag. How can I warm it up? _ I opened the bag and slipped in."
+        },
+        {
+            "id": 51,
+            "phrase": "a slip of the tongue",
+            "definition": "an error in speaking in which a word is pronounced incorrectly, or in which the speaker says something unintentionally. I didn’t mean to tell her that. It was a slip of the tongue.  I failed to understand the instructions because the speaker made a slip of the tongue at an important point."
+        },
+        {
+            "id": 52,
+            "phrase": "slip off ((of ) someone or something)",
+            "definition": "to fall away from or off someone or something. (Of is usually retained before pronouns.) _The jacket slipped off of Sally, but she grabbed it before it hit the f loor.  She hung the jacket on the back of the chair, but it slipped off."
+        },
+        {
+            "id": 53,
+            "phrase": "slip off (to some place)",
+            "definition": "to sneak away to some place.  Judy and Jeff slipped off to the movies unnoticed.  They slipped off and no one saw them leave."
+        },
+        {
+            "id": 54,
+            "phrase": "slip on something",
+            "definition": "to step on and slide on something.  Valerie slipped on a banana peel and hurt her back. Don’t slip on that wet spot on the f loor!"
+        },
+        {
+            "id": 55,
+            "phrase": "slip one’s mind",
+            "definition": "[for something that was to be remembered] to be forgotten. I meant to go to the grocery store on the way home, but it slipped my mind.  My birthday slipped my mind. I guess I wanted to forget it."
+        },
+        {
+            "id": 56,
+            "phrase": "slip one’s trolley",
+            "definition": "Sl. to become a little crazy; to lose one’s composure.  I was afraid I would slip my trolley.  He slipped his trolley and went totally bonkers."
+        },
+        {
+            "id": 57,
+            "phrase": "slip out",
+            "definition": "1. [for someone] to exit quietly without bothering anyone.  I slipped out during intermission. 2. [for information] to be spoken without realizing that it is secret or privileged. The secret about her divorce slipped out when we were discussing old friends."
+        },
+        {
+            "id": 58,
+            "phrase": "slip out (of something)",
+            "definition": "1. to sneak out of a place unnoticed.  Gloria slipped out of the theater at intermission. She slipped out and went home. 2. to slide out of an article of clothing.  She slipped out of her dress and hung it neatly in the closet. Ted slipped out of his T-shirt and left it on the f loor where it fell."
+        },
+        {
+            "id": 59,
+            "phrase": "slip past someone or something",
+            "definition": "to sneak or move past someone or something unnoticed. It is impossible to slip past the armed guards and metal detectors. Do you think I can slip past the doorway without being seen?"
+        },
+        {
+            "id": 60,
+            "phrase": "slip someone a Mickey",
+            "definition": "to secretly put a Mickey Finn in someone’s alcoholic drink. (This drug either makes the victim ill or causes immediate diarrhea.) _ Somebody slipped Barlowe a Mickey and sent him into action.  For a ten-spot, the bartender slipped Slim a Mickey."
+        },
+        {
+            "id": 61,
+            "phrase": "slip someone five",
+            "definition": "Sl. to shake someone’s hand.  Billy slipped me five, and we sat down to discuss old times.  Come on, man, slip me five!"
+        },
+        {
+            "id": 62,
+            "phrase": "slip someone or something past someone or something",
+            "definition": "to cause someone or something to move past someone or something unnoticed; to manage to get something past the scrutiny of someone.  I slipped another one of my friends past the usher into the theater.  Do you think I can slip this sausage past the customs officers? _I slipped a note past the guard."
+        },
+        {
+            "id": 63,
+            "phrase": "slip something back†",
+            "definition": "1. to pull or place something back. Alice slipped the gearshift lever back and away they went. She slipped back the gearshift and sped away. 2. to return something secretively. Someone took my wallet away and slipped it back later. The thief slipped back my wallet, but the money was gone."
+        },
+        {
+            "id": 64,
+            "phrase": "slip something down†",
+            "definition": "to slide something downward.  I slipped my pants down a little so the doctor could give me a shot in what they call your “hip.” _ He slipped down his pants a little."
+        },
+        {
+            "id": 65,
+            "phrase": "slip something off†",
+            "definition": "to let an item of clothing slide off one’s body; to remove an item of clothing easily or casually.  He slipped his coat off and put it on a chair.  She slipped off her shoes and relaxed."
+        },
+        {
+            "id": 66,
+            "phrase": "slip something on†",
+            "definition": "to put on an article of clothing, possibly in haste or casually.  I will go in and slip my bathing suit on and join you in a minute. She slipped on her shoes and we left."
+        },
+        {
+            "id": 67,
+            "phrase": "slip something over someone or something",
+            "definition": "to cause something to slide or glide over and onto someone or something.  Mother slipped the covers over Timmy and kissed him good night.  Jane slipped the cover over the birdcage for the night."
+        },
+        {
+            "id": 68,
+            "phrase": "slip something through (something)",
+            "definition": "to cause something to slide or glide through something.  The nickel I dropped slipped through the crack in the f loor.  It rolled toward a crack in the f loor and slipped through."
+        },
+        {
+            "id": 69,
+            "phrase": "slip through someone’s fingers",
+            "definition": "to slide through and out of one’s grasp. The glass slipped through his fingers and crashed to the ground. The rope slipped through his fingers and followed the anchor to the bottom of the lake."
+        },
+        {
+            "id": 70,
+            "phrase": "slip through something",
+            "definition": "to slide or slither through something narrow or crowded.  Gerald slipped through the narrow opening and got away.  The dog slipped through the door and ran out into the street."
+        },
+        {
+            "id": 71,
+            "phrase": "slip up",
+            "definition": "to make an error.  I hope you don’t slip up again. Try to be more careful."
+        },
+        {
+            "id": 72,
+            "phrase": "slip up on someone, something, or an animal",
+            "definition": "to sneak up on someone, something, or an animal quietly.  I slipped up on Harry and scared him to death.  The cat slipped up on a mouse and grabbed it."
+        },
+        {
+            "id": 73,
+            "phrase": "slip up on something",
+            "definition": "to make an error in something.  I guess I slipped up on that last job. Fred slipped up on compiling that list—there are a lot of names missing."
+        },
+        {
+            "id": 74,
+            "phrase": "slip up something",
+            "definition": "to climb something, slipping along the way.  The hikers slipped up the wet slope.  Ted slipped up the stairs, tracking mud and water as he went along."
+        },
+        {
+            "id": 75,
+            "phrase": "*slippery as an eel",
+            "definition": "devious and untrustworthy, but impossible to catch. (*Also: as ~.) _ Don’t sign a lease with that landlord; I think he’s as slippery as an eel.  The con artist was slippery as an eel. Although he defrauded many people, he never went to prison."
+        },
+        {
+            "id": 76,
+            "phrase": "a slippery customer",
+            "definition": "1. Fig. a clever and deceitful customer.  Watch out for that guy with the big padded coat. He may snatch something. He’s a real slippery customer. 2. Fig. a slippery creature.  This little fish is a slippery customer. Get me something to scoop it back into its bowl."
+        },
+        {
+            "id": 77,
+            "phrase": "a slippery slope",
+            "definition": "a dangerous pathway or route to follow; a route that leads to trouble.  The matter of euthanasia is a slippery slope with both legal and moral considerations."
+        },
+        {
+            "id": 78,
+            "phrase": "slither along",
+            "definition": "to slink or crawl along.  The snake slithered along, unmindful of our presence.  A pair of otters slithered along playfully."
+        },
+        {
+            "id": 79,
+            "phrase": "slither away",
+            "definition": "to sneak or crawl away, like a snake.  The little lizards slithered away soundlessly.  The snake slithered away while Maggie was still screaming."
+        },
+        {
+            "id": 80,
+            "phrase": "slob up",
+            "definition": "Sl. to eat. What time do you people slob up around here? _Fred stopped slobbing up long enough to change the channel on the TV set."
+        },
+        {
+            "id": 81,
+            "phrase": "slobber (all) over someone or something",
+            "definition": "to drool on someone or something.  The dog slobbered over the child. It was just being friendly.  Jenny has slobbered all over her dress."
+        },
+        {
+            "id": 82,
+            "phrase": "slobber over someone or something",
+            "definition": "to drool with delight or eagerness at the thought of someone or something. (Based on slobber over something. See also slobber (all) over someone or something.) _Fred was slobbering over Donna as she lay sunbathing in a tiny bikini.  Jamie was slobbering over Mary’s new car."
+        },
+        {
+            "id": 83,
+            "phrase": "slobber over something",
+            "definition": "to drool with delight or eagerness before or while eating something.  The dog was slobbering over a chunk of meat when the cat came in and hissed at the dog."
+        },
+        {
+            "id": 84,
+            "phrase": "slog through something",
+            "definition": "to wade or trudge through something, such as mud or snow.  Do I have to slog through the snow to go to school? Can’t you drive me? _ When I was your age, I slogged through snow twice this deep to get to school."
+        },
+        {
+            "id": 85,
+            "phrase": "slop around",
+            "definition": "1. [for someone] to splash around in a body of liquid, such as a bath.  Timmy was in his bath, slopping around and singing.  Bob is out in the pool, slopping around. 2. [for a liquid] to splash or rush around in a container.  The water was slopping around in the bottom of the boat even though the lake we were traveling on was calm.  There is some coffee left. I hear it slopping around in the bottom of the pot."
+        },
+        {
+            "id": 86,
+            "phrase": "slop out (of something)",
+            "definition": "[for a liquid] to spill or splash out of a container.  Some of the orange juice slopped out of the container, making a mess on the table.  Some milk slopped out. Please clean it up."
+        },
+        {
+            "id": 87,
+            "phrase": "slop over",
+            "definition": "[for a liquid] to splash out of or overflow a container.  The milk slopped over and messed up the carpet.  Her cup slopped over and spilled its contents on the kitchen table."
+        },
+        {
+            "id": 88,
+            "phrase": "slop something around†",
+            "definition": "to spill portions of a liquid here and there.  Don’t slop the milk around as you pour it.  Please don’t slop around the paint while you work."
+        },
+        {
+            "id": 89,
+            "phrase": "slop something on(to) someone or something",
+            "definition": "to spill or splash a liquid onto someone or something.  Don’t slop the pancake batter onto yourself.  Who slopped paint on the f loor?"
+        },
+        {
+            "id": 90,
+            "phrase": "slop something over something",
+            "definition": "to spill or splash some liquid onto something.  He slopped the starting f luid over the charcoal and lit it. The artist slopped some grape juice over the canvas and proceeded to spread it around in an artistic fashion."
+        },
+        {
+            "id": 91,
+            "phrase": "slope away from something",
+            "definition": "to slant downward and away from something.  The lawn sloped away from the patio toward the riverbank.  The porch sloped away from the house at a very slight angle."
+        },
+        {
+            "id": 92,
+            "phrase": "slope down (to something or some place)",
+            "definition": "to slant downward toward something or some place from a higher level. The wide white beach sloped down to the azure water.  The yard sloped down, making a lovely view from the living room."
+        },
+        {
+            "id": 93,
+            "phrase": "slope (down) toward something",
+            "definition": "to slant downward toward something. The backyard slopes down toward the river.  It slopes toward the water."
+        },
+        {
+            "id": 94,
+            "phrase": "slope up (to something)",
+            "definition": "to slant upward in the direction of something.  The ramp sloped up to the door, allowing wheelchairs to enter.  It sloped up rather steeply."
+        },
+        {
+            "id": 95,
+            "phrase": "slosh around (in something)",
+            "definition": "1. [for a liquid] to rush or splash around in an enclosure or container.  The milk sloshed around in the pitcher and splashed over a little bit.  The f luid sloshed around, making a splashing sound. 2. to move or splash through a liquid, usually standing on one’s feet. Billy sloshed around in the wading pool. The kids have been sloshing around in puddles again."
+        },
+        {
+            "id": 96,
+            "phrase": "slosh over",
+            "definition": "[for a liquid] to splash over its container.  The water in the wading pool sloshed over and made the grass slippery. Don’t fill the glass too full. It will slosh over."
+        },
+        {
+            "id": 97,
+            "phrase": "slosh something (all) over someone or something",
+            "definition": "to spill or splash a liquid over someone or something.  Laura tripped and sloshed the grape juice all over Martha. Martin sloshed pancake batter over the side of the stove."
+        },
+        {
+            "id": 98,
+            "phrase": "slosh something around†",
+            "definition": "to cause a liquid to rush or splash in a container.  The chef sloshed the dressing around a few times and poured it on the salad.  The chef sloshed around the dressing and poured it on the salad."
+        },
+        {
+            "id": 99,
+            "phrase": "slosh through something",
+            "definition": "[for a person] to wade or splash through something. The little kids sloshed through every puddle on their way home.  We sloshed through the stream, ruining our shoes and soaking our cuffs."
+        },
+        {
+            "id": 100,
+            "phrase": "slouch around",
+            "definition": "to move around with a stooped or bent body. (One may slouch because of age, illness, fatigue, depression, fear, or with the intention of not being observed.) _ She is slouching around because she is tired.  Don’t you slouch around when you are tired?"
+        },
+        {
+            "id": 101,
+            "phrase": "slouch behind something",
+            "definition": "to remain behind something, slouching with depression, fear, or the intent of not being observed. Jim slouched behind a chair where no one could see him. A weary clerk slouched behind the counter, wanting a nap more than anything else."
+        },
+        {
+            "id": 102,
+            "phrase": "slouch down",
+            "definition": "to slump or droop down.  Don’t always slouch down, Timmy! Stand up straight.  I slouch down because I am tired."
+        },
+        {
+            "id": 103,
+            "phrase": "slouch down (in something)",
+            "definition": "to sink or snuggle down into something, trying to become less visible or more comfortable. Please don’t slouch down in your chair, Tim.  He can’t sit in anything without slouching down."
+        },
+        {
+            "id": 104,
+            "phrase": "slouch over",
+            "definition": "to lean or crumple and fall to one side; [for someone] to collapse in a sitting position.  He slouched over and went to sleep in his chair.  When he slouched over, I thought something was wrong."
+        },
+        {
+            "id": 105,
+            "phrase": "slough something off†",
+            "definition": "to brush or rub something off.  The snake sloughed its old skin off.  It sloughed off its skin."
+        },
+        {
+            "id": 106,
+            "phrase": "Slow and steady wins the race.",
+            "definition": "Prov. If you work slowly but constantly, you will succeed better than if you work fast for a short while and do not continue. (Associated with Aesop’s fable of “The Tortoise and the Hare.”) _ Joy only had a little bit of time to spend sewing every day, but she worked steadily and soon had finished a beautiful quilt. Slow and steady wins the race."
+        },
+        {
+            "id": 107,
+            "phrase": "slow down",
+            "definition": "to decrease speed; to go slower. Please slow down. You are going too fast."
+        },
+        {
+            "id": 108,
+            "phrase": "slow going",
+            "definition": "the rate of speed when one is making slow progress.  It was slow going at first, but I was able to finish the project by the weekend.  Getting the heavy rocks out of the field is slow going."
+        },
+        {
+            "id": 109,
+            "phrase": "slow off the mark",
+            "definition": "slow in starting or reacting. (Compare this with quick off the mark.) _ If you are always that slow off the mark you will never win the race.  Boy, you were slow off the mark there!"
+        },
+        {
+            "id": 110,
+            "phrase": "a slow study",
+            "definition": "a person who is slow to learn things. (Compare this to a slow study.) _ Fred, who is a slow study, never caught on to the joke."
+        },
+        {
+            "id": 111,
+            "phrase": "slow up",
+            "definition": "to go slower; to reduce speed in order for someone or something to catch up.  Slow up a little! I can’t keep up with you! _ Please slow up. I can’t follow your lecture when you talk so fast."
+        },
+        {
+            "id": 112,
+            "phrase": "slower and slower",
+            "definition": "at a decreasing rate of speed; slow and then even slower. The car is going slower and slower and will stop soon.  The dog’s breathing got slower and slower as it went to sleep."
+        },
+        {
+            "id": 113,
+            "phrase": "sluff (off )",
+            "definition": "Sl. to waste time; to goof off. Watch him. He will sluff off if you don’t keep after him.  He won’t sluff. I know I can trust him."
+        },
+        {
+            "id": 114,
+            "phrase": "slug it out",
+            "definition": "to fight something out; to argue intensely about something.  They finally went outside to slug it out.  We’ll just have to sit down in the conference room and slug it out."
+        },
+        {
+            "id": 115,
+            "phrase": "sluice something down†",
+            "definition": "to rinse something down; to flood the surface of something with water or other liquid to clean it. John sluiced the driveway down. Karen sluiced down the garage f loor."
+        },
+        {
+            "id": 116,
+            "phrase": "sluice something out†",
+            "definition": "to rinse something out; to flood the inside of something to clean it.  Sluice the wheelbarrow out, will you? _ Please sluice out the wheelbarrow."
+        },
+        {
+            "id": 117,
+            "phrase": "slump down",
+            "definition": "[for someone] to collapse and fall down; [for someone] to crumple. The shot hit Max and he slumped down.  Suddenly, Mr. Wilson slumped down in pain."
+        },
+        {
+            "id": 118,
+            "phrase": "slump down in(to) something",
+            "definition": "[for someone] to bend down or collapse into something, such as a chair or bed. Gary grabbed at his chest and slumped down into the bed. He slumped down into the chair and draped himself over the arm."
+        },
+        {
+            "id": 119,
+            "phrase": "slump over",
+            "definition": "[for someone] to collapse and fall over forward in a sitting position.  Just after the gunshot, Bruno slumped over and slid from his chair."
+        },
+        {
+            "id": 120,
+            "phrase": "slur over something",
+            "definition": "to avoid saying difficult or crucial words by mumbling them; to speak over words unclearly.  The speaker slurred over so many words that we didn’t know what she was saying.  Unfortunately, Ted slurred over many of the important parts of his speech."
+        },
+        {
+            "id": 121,
+            "phrase": "slush up",
+            "definition": "to become messy with slush.  As the winter storm increases in intensity, the roads will slush up and become impassable.  After an hour of snow and rain, the roads were so slushed up that we could not travel."
+        },
+        {
+            "id": 122,
+            "phrase": "smack (dab) in the middle",
+            "definition": "exactly in the middle.  I came in smack dab in the middle of the play.  I want a piece that is not too big and not too small—just smack in the middle."
+        },
+        {
+            "id": 123,
+            "phrase": "a smack in the face",
+            "definition": "something that will humiliate someone, often when it is considered deserved; an insult.  Being rejected by Jane was a real smack in the face for Tom, who thought she was fond of him. Meg thought she was the best-qualified candidate for the job, and not getting it was a smack in the face."
+        },
+        {
+            "id": 124,
+            "phrase": "smack of something",
+            "definition": "to be reminiscent of something; to imply something.  The whole scheme smacked of dishonesty and deception.  All of this story smacks of illegal practices."
+        },
+        {
+            "id": 125,
+            "phrase": "smack someone down†",
+            "definition": "to knock a person down or cause a person to retreat with a slap or a blow.  He tried to touch her again and she smacked him down.  She smacked down the rude fellow."
+        },
+        {
+            "id": 126,
+            "phrase": "smack something down† (on(to) something)",
+            "definition": "to slap something down onto something.  He smacked his bet down onto the table, angry with his mounting losses.  Todd smacked down his hand on the table.  She smacked her dollar down and grabbed up the newspaper."
+        },
+        {
+            "id": 127,
+            "phrase": "smack the road",
+            "definition": "Sl. to leave; to hit the road.  Time to smack the road! Let’s go! _ Let’s smack the road. I have to get up early."
+        },
+        {
+            "id": 128,
+            "phrase": "small change",
+            "definition": "an insignificant person. (Also a rude term of address.) _Look, small change, why don’t you just move along? _ The guy you think is small change happens to own this building you seem to be guarding so well."
+        },
+        {
+            "id": 129,
+            "phrase": "a small fortune",
+            "definition": "a rather sizeable amount of money.  This set of wheels cost me a small fortune. I’ve got a small fortune tied up in test equipment."
+        },
+        {
+            "id": 130,
+            "phrase": "small fry",
+            "definition": "newly hatched fish; small, juvenile fish.  The catch was bad today. Nothing but small fry."
+        },
+        {
+            "id": 131,
+            "phrase": "small potatoes",
+            "definition": "something or someone insignificant; small fry.  This contract is small potatoes, but it keeps us in business till we get into the real money. Small potatoes are better than no potatoes at all."
+        },
+        {
+            "id": 132,
+            "phrase": "smart ass",
+            "definition": "someone who makes wisecracks and acts cocky. (Potentially offensive. Use only with discretion.) _ Some smart ass came in here and asked for a sky hook.  Don’t be such a smart ass!"
+        },
+        {
+            "id": 133,
+            "phrase": "smart at something",
+            "definition": "to suffer the pains of something.  Over an hour later she was still smarting at his cruel remarks.  For many days Ted smarted at the scolding he got."
+        },
+        {
+            "id": 134,
+            "phrase": "smart from something",
+            "definition": "to get a stinging pain from something. His arm smarted from many mosquito bites. Her legs smarted from the scratches she got from walking through the briars."
+        },
+        {
+            "id": 135,
+            "phrase": "smart guy",
+            "definition": "someone who acts cocky or rude.  All right, smart guy, see if you like this one.  Some smart guy put chewing gum on this bench."
+        },
+        {
+            "id": 136,
+            "phrase": "smart money",
+            "definition": "money belonging to smart or clever people. Most of the smart money is going into utility stocks right now.  Watch and see what the smart money is doing."
+        },
+        {
+            "id": 137,
+            "phrase": "smart mouth",
+            "definition": "someone who makes wisecracks; a cocky person who speaks out of turn. Don’t be a smart mouth with me! _Mr. Atkins is going to get a reputation as a smart mouth."
+        },
+        {
+            "id": 138,
+            "phrase": "smart under something",
+            "definition": "to suffer stinging pain under something. The sailor’s back smarted under the blows of the lash.  Ted smarted under the lash for his wrongdoings."
+        },
+        {
+            "id": 139,
+            "phrase": "smarten up",
+            "definition": "to get smarter; to become more alert and knowing.  You had better smarten up if you want to survive around here.  I knew he would smarten up sooner or later."
+        },
+        {
+            "id": 140,
+            "phrase": "a smash hit",
+            "definition": "a play, movie, musical, etc., that is a big success.  Her first book was a smash hit. The second was a disaster.  A smash hit doesn’t always make people rich."
+        },
+        {
+            "id": 141,
+            "phrase": "smash into something",
+            "definition": "to crash into something; to bump or crash into something.  Judy smashed into the coffee table and hurt her leg.  The car smashed into the side of a bus and caused a lot of damage."
+        },
+        {
+            "id": 142,
+            "phrase": "smash out of something",
+            "definition": "to break [one’s way] out of something.  The prisoner smashed out of his cell and ran.  The horse smashed out of its stable."
+        },
+        {
+            "id": 143,
+            "phrase": "smash someone’s face in†",
+            "definition": "1. Fig. to crush someone’s face. The accident smashed Harry’s face in, and he had to have extensive surgery.  The accident smashed in his face. 2. Inf. to strike someone in the face. You had better stop that or I will smash your face in.  Max tried to smash in Lefty’s face."
+        },
+        {
+            "id": 144,
+            "phrase": "smash something in†",
+            "definition": "to crush something inward; to make something collapse inward by striking it. Andy gave one good kick and smashed the box in.  Liz smashed in the window."
+        },
+        {
+            "id": 145,
+            "phrase": "smash something up†",
+            "definition": "to break something up; to destroy something.  I hope the children don’t smash any of the good china up if we use it tonight.  The driver fell asleep and smashed up the car."
+        },
+        {
+            "id": 146,
+            "phrase": "smash through something",
+            "definition": "to break [one’s way] through some sort of barrier.  The f leeing car smashed through the police barrier.  Max got angry and smashed through the office door."
+        },
+        {
+            "id": 147,
+            "phrase": "a smear campaign (against someone)",
+            "definition": "a campaign aimed at damaging someone’s reputation by making accusations and spreading rumors. The politician’s opponents are engaging in a smear campaign against him.  Jack started a smear campaign against Tom so that Tom wouldn’t get the manager’s job."
+        },
+        {
+            "id": 148,
+            "phrase": "smear someone or something with something",
+            "definition": "1. to spread or rub someone or something with some substance.  Billy smeared Bobby with mud and made him very angry.  You should smear that burn with lotion.  He smeared himself with grease and ruined his shirt. 2. to damage the reputation of someone or something by spreading serious charges or rumors.  He smeared his opponent with all sorts of charges. The speaker smeared the entire city with his criticism."
+        },
+        {
+            "id": 149,
+            "phrase": "smell a rat",
+            "definition": "to suspect that something is wrong; to sense that someone has caused something wrong. I don’t think this was an accident. I smell a rat. Bob had something to do with this.  The minute I came in, I smelled a rat. Sure enough, I had been robbed."
+        },
+        {
+            "id": 150,
+            "phrase": "smell blood",
+            "definition": "to be ready for a fight; to be ready to attack; to be ready to act. (Like sharks, which are sent into a frenzy by the smell of blood.) _ Lefty was surrounded, and you could tell that the guys from the other gang smelled blood.  The lawyer heard the crash and came running— smelling blood and bucks."
+        },
+        {
+            "id": 151,
+            "phrase": "smell fishy",
+            "definition": "to seem suspicious.  Barlowe squinted a bit. Something smells fishy here, he thought. Something about the deal smelled fishy—too good to be true."
+        },
+        {
+            "id": 152,
+            "phrase": "smell like a rose",
+            "definition": "to seem innocent.  I came out of the whole mess smelling like a rose, even though I caused all the trouble.  The politician survived the scandal smelling like a rose, but I knew different."
+        },
+        {
+            "id": 153,
+            "phrase": "smell of something",
+            "definition": "to have the smell of something; to smell like something. This house smells of onions. Her cooking always smells of entirely too much garlic."
+        },
+        {
+            "id": 154,
+            "phrase": "smell someone, something, or an animal out†",
+            "definition": "to locate someone, something, or an animal by smelling or as if by smelling.  The dog smelled the crook out from the place in the alley where he was hiding. The dog smelled out the raccoon."
+        },
+        {
+            "id": 155,
+            "phrase": "smell something up†",
+            "definition": "to cause a bad or strong odor in a place or on something. Your cooking sure smelled this place up! _ The spoiled meat really smelled up the house!"
+        },
+        {
+            "id": 156,
+            "phrase": "smell to (high) heaven",
+            "definition": " Fig. to give signals that cause suspicion.  This deal is messed up. It smells to high heaven.  Something’s wrong here. Somebody blabbed. This setup smells to high heaven."
+        },
+        {
+            "id": 157,
+            "phrase": "smile at someone",
+            "definition": "to make a smiling face at someone.  I love the way you smile at me.  I am glad you smile at me occasionally."
+        },
+        {
+            "id": 158,
+            "phrase": "smile on someone or something",
+            "definition": "to be favorable to someone or something.  Fate smiled on me and I got the job.  Lady luck smiled on our venture and we made a profit."
+        },
+        {
+            "id": 159,
+            "phrase": "smile (up)on someone or something",
+            "definition": "to bestow approval on someone or something. (Upon is formal and less commonly used than on.) _ Fate has smiled upon me at last! _ I wish good luck would smile on me."
+        },
+        {
+            "id": 160,
+            "phrase": "Smile when you say that.",
+            "definition": "Inf. I will interpret that remark as a joke or as kidding.  John: You’re a real pain in the neck. Bob: Smile when you say that. Sue: I’m going to bop you on the head! John: Smile when you say that!"
+        },
+        {
+            "id": 161,
+            "phrase": "smiling like a Cheshire cat",
+            "definition": "smiling very broadly. (Alludes to a grinning cat in Alice’s Adventures in Wonderland.) _ There he stood, smiling like a Cheshire cat, waiting for his weekly pay."
+        },
+        {
+            "id": 162,
+            "phrase": "smirk at someone or something",
+            "definition": "to smile in a smug or sneering way at someone or something.  Why are you smirking at me like that? _Jane looked at the report and smirked at it."
+        },
+        {
+            "id": 163,
+            "phrase": "smite someone with something",
+            "definition": "to strike someone with something. (Literary or biblical.) _ The silver knight approached the black knight and smote him with his sword.  Please go and smite the dragon with your sword."
+        },
+        {
+            "id": 164,
+            "phrase": "smoke and mirrors",
+            "definition": "deception and confusion. (Said of statements or more complicated rhetoric used to mislead people rather than inform. Alludes to the way a magician uses optical illusion to create believability while performing a trick. Fixed order.) _Most people know that the politician was just using smoke and mirrors to make things look better than they really were.  Her report was little more than smoke and mirrors. No one will believe any of it."
+        },
+        {
+            "id": 165,
+            "phrase": "smoke like a chimney",
+            "definition": "to smoke a great deal of tobacco or other smokable substances.  My uncle smoked like a chimney when he was living.  Somebody who smokes like a chimney in a restaurant ought to be thrown out."
+        },
+        {
+            "id": 166,
+            "phrase": "smoke something up†",
+            "definition": "to cause something or a place to become smoky. Get out of here with that cigarette! I don’t want you smoking my house up! _ The burning beans sure smoked up the house."
+        },
+        {
+            "id": 167,
+            "phrase": "smoke-filled room",
+            "definition": "a room where a small group of people make important decisions. (Usually used in reference to political parties.) _The smoke-filled rooms are still producing the candidates for most offices, despite all the political reforms.  The deal was cut in a smoke-filled room."
+        },
+        {
+            "id": 168,
+            "phrase": "the smoking gun",
+            "definition": "the indisputable sign of guilt. (Fig. on a murderer being caught just after shooting the victim.) _Mr. South was left holding the smoking gun. The chief of staff decided that the the aide should be found with the smoking gun."
+        },
+        {
+            "id": 169,
+            "phrase": "smooth something away†",
+            "definition": "to remove something, such as wrinkles or other unevenness, by pressing or smoothing.  Jeff put the cloth on the table and smoothed the wrinkles away with his hand.  Jeff smoothed away the wrinkles."
+        },
+        {
+            "id": 170,
+            "phrase": "smooth something back†",
+            "definition": "to flatten and position something by pressing or smoothing.  He smoothed his hair back out of his eyes.  Jeff smoothed back his hair."
+        },
+        {
+            "id": 171,
+            "phrase": "smooth something down†",
+            "definition": "to make something flat or smooth by pressing. She smoothed her skirt down, f luffed her hair, and went into the boardroom.  Karen smoothed down the bedclothes."
+        },
+        {
+            "id": 172,
+            "phrase": "smother someone or something with something",
+            "definition": "to suffocate someone or something with something.  The villain tried to smother his victim with a pillow. Fred tried to smother the cat with a plastic bag."
+        },
+        {
+            "id": 173,
+            "phrase": "smuggle someone or something across something",
+            "definition": "to move someone or something across a border illegally and in secret. The terrorists smuggled one of their number across the border last night.  Larry helped smuggle contraband across the border."
+        },
+        {
+            "id": 174,
+            "phrase": "smuggle someone or something past (someone or something)",
+            "definition": "to move something past a guard or monitor illegally and in secret. We failed in our attempt to smuggle Mary past the border.  It is easy to smuggle wine past the border guards."
+        },
+        {
+            "id": 175,
+            "phrase": "smuggle someone or something through (something)",
+            "definition": "to move something through a guard post or other barrier illegally and in secret.  The officers smuggled the child through the barrier so he could be with his mother.  We smuggled some other goods through, too."
+        },
+        {
+            "id": 176,
+            "phrase": "snack off (of ) something",
+            "definition": "to eat food, bit by bit, in little snacks. (Of is usually retained before pronouns.) _Please don’t snack off the turkey so we can get another meal out of it.  Who has been snacking off of last night’s roast beef ?"
+        },
+        {
+            "id": 177,
+            "phrase": "snake along",
+            "definition": "to move along in a curving line, looking like a snake; to move along in a line, moving as a snake moves.  The train snaked along, gaining speed as it went downhill. The line of people waiting to buy tickets snaked along slowly."
+        },
+        {
+            "id": 178,
+            "phrase": "snake in the grass",
+            "definition": "a sneaky and despised person. How could I ever have trusted that snake in the grass? _ John is such a snake in the grass."
+        },
+        {
+            "id": 179,
+            "phrase": "snakebite medicine",
+            "definition": "Inf. inferior whiskey; strong whiskey; homemade whiskey.  That old-time snakebite medicine is good for what ails you.  Snakebite medicine is a tremendous protection against snakebites if you can get the snake to drink the stuff before it bites you."
+        },
+        {
+            "id": 180,
+            "phrase": "snap at someone",
+            "definition": "to speak sharply or angrily to someone. (Based on snap at someone or something.) _ Don’t snap at me. What did I do? _ Why did you snap at me? I did nothing wrong."
+        },
+        {
+            "id": 181,
+            "phrase": "snap at someone or something",
+            "definition": "to bite at someone or something.  The dog snapped at my pants leg, but I escaped the attack unharmed.  The fox snapped at the chicken and finally caught hold of it.  The dog snapped at the judge and was disqualified."
+        },
+        {
+            "id": 182,
+            "phrase": "snap at something",
+            "definition": "to seize an opportunity.  It is such a good deal, I knew you would snap at it. Just as I thought, Ted snapped at my final offer."
+        },
+        {
+            "id": 183,
+            "phrase": "snap back (after something)",
+            "definition": "to return to normal after an accident or similar event.  He is upset now, but he will snap back after things settle down. Things will snap back in no time at all."
+        },
+        {
+            "id": 184,
+            "phrase": "snap back (at someone)",
+            "definition": "to give a sharp or angry response to someone.  The telephone operator, unlike in the good old days, snapped back at the caller.  Please don’t snap back. I’ve had a bad day."
+        },
+        {
+            "id": 185,
+            "phrase": "snap back (on someone or something)",
+            "definition": "[for something] to be jerked back onto someone or something. The branch snapped back on Tim and left a welt on his arm. The whip snapped back and stung Tex’s hand."
+        },
+        {
+            "id": 186,
+            "phrase": "snap into something",
+            "definition": "[for something] to be put or fit into an opening with an audible snap.  The larger edge of the card snaps into the slot at the base.  This part snaps right into the other part."
+        },
+        {
+            "id": 187,
+            "phrase": "Snap it up!",
+            "definition": "Inf. Hurry up! _ John: Come on, Fred. Snap it up! Fred: I’m hurrying! I’m hurrying! _ Sally: Snap it up! You’re going to make us late. John: That’s exactly what I had in mind."
+        },
+        {
+            "id": 188,
+            "phrase": "snap one’s cookies",
+            "definition": "Sl. to vomit; to regurgitate.  I think I’m gonna snap my cookies.  Some jerk snapped his cookies on the sidewalk."
+        },
+        {
+            "id": 189,
+            "phrase": "snap out of something",
+            "definition": "to become suddenly freed from a condition. (The condition can be a depression, an illness, unconsciousness, etc.) _ I was very depressed for a week, but this morning I snapped out of it.  It isn’t often that a cold gets me down. Usually I can snap out of it quickly."
+        },
+        {
+            "id": 190,
+            "phrase": "snap someone’s head off",
+            "definition": "to speak very sharply to someone. (Based on snap at someone.) _How rude! Don’t snap my head off! _ Mary snapped Ted’s head off because he had come in late."
+        },
+        {
+            "id": 191,
+            "phrase": "snap something back†",
+            "definition": "to cause something to jerk back.  The force of the crash snapped his head back and injured his neck.  The crash snapped back his head."
+        },
+        {
+            "id": 192,
+            "phrase": "snap something off†",
+            "definition": "to break off something brittle.  Liz snapped a bit of the rock off and put it in her bag.  Carl snapped off a piece of the candy and gave it to Timmy."
+        },
+        {
+            "id": 193,
+            "phrase": "snap something on†",
+            "definition": "to attach something to something else, causing an audible snap.  Dawn took two pills from the bottle and snapped the lid on.  She snapped on the lid."
+        },
+        {
+            "id": 194,
+            "phrase": "snap something up†",
+            "definition": "to grasp something quickly.  Karen snapped her pencil up and strode out of the room.  Harry walked through the kitchen and snapped up two cookies on the way."
+        },
+        {
+            "id": 195,
+            "phrase": "snap to (attention)",
+            "definition": "to move quickly to military attention. The troops snapped to attention when they saw the general appear.  Snap to when I tell you!"
+        },
+        {
+            "id": 196,
+            "phrase": "Snap to it!",
+            "definition": "Inf.Move faster!; Look alert! _Bill: Snap to it! Mary: Don’t rush me! _ John: Get in line there. Snap to it! Sally: What is this, the army? You just wait till I’m ready!"
+        },
+        {
+            "id": 197,
+            "phrase": "snarl at someone, something, or an animal",
+            "definition": "to growl at someone, something, or an animal angrily and threateningly.  The dog snarled at everyone who passed by.  Our dog used to sit in front of the washing machine and snarl at it."
+        },
+        {
+            "id": 198,
+            "phrase": "snarl someone or something up†",
+            "definition": "to tangle someone or something; to mess something up. The wind snarled my hair up terribly.  The wind snarled up my hair."
+        },
+        {
+            "id": 199,
+            "phrase": "snarl something out†",
+            "definition": "to utter something by snarling or growling. Lefty snarled a naughty word out at the police. Walt the pickpocket snarled out a curse as the cop grabbed his coat collar."
+        },
+        {
+            "id": 200,
+            "phrase": "snatch at someone or something",
+            "definition": "to grasp at someone or something.  The mugger snatched at Jane just as she sprayed Mace on him.  He snatched at the Mace, but it was too late."
+        },
+        {
+            "id": 201,
+            "phrase": "snatch someone or something (away) from someone or something",
+            "definition": "to grab and take someone or something from someone or something.  The mother snatched her child away from the doctor and f led.  She snatched the candy from the child."
+        },
+        {
+            "id": 202,
+            "phrase": "snatch something out of something",
+            "definition": "to grab something out of something.  The police officer snatched the gun out of Don’s hand. Mary snatched the piece of chicken out of the fire as soon as it fell in."
+        },
+        {
+            "id": 203,
+            "phrase": "snatch something up†",
+            "definition": "to grasp something and lift it up.  Tom snatched the last cookie up and popped it into his mouth.  He snatched up the last piece of cake."
+        },
+        {
+            "id": 204,
+            "phrase": "snatch victory from the jaws of defeat",
+            "definition": "Cliché to win at the last moment.  At the last moment, the team snatched victory from the jaws of defeat with a last-second full-court basket."
+        },
+        {
+            "id": 205,
+            "phrase": "snazz something up†",
+            "definition": "Sl. to make something classy or exciting.  Come on, let’s try to snazz this up.  What can I do to snazz up my face?"
+        },
+        {
+            "id": 206,
+            "phrase": "sneak around (some place)",
+            "definition": "to move about a place in a sneaky or stealthy fashion. Please don’t sneak around the house. It makes me nervous. Please stop sneaking around!"
+        },
+        {
+            "id": 207,
+            "phrase": "sneak around someone or something",
+            "definition": "to creep around or past someone or something. The cat sneaked around Molly and ran out the door.  We had to sneak around the corner so we wouldn’t be seen."
+        },
+        {
+            "id": 208,
+            "phrase": "sneak away (from some place)",
+            "definition": "to go away from a place quietly and in secret.  Jeff tried to sneak away from the party, but Judy saw him.  They sneaked away together."
+        },
+        {
+            "id": 209,
+            "phrase": "sneak in(to some place)",
+            "definition": "to enter a place quietly and in secret, perhaps without a ticket or permission. The kids tried to sneak into the rock concert, but they were stopped by the guards.  Never try to sneak in. Sometimes they arrest you for trespassing."
+        },
+        {
+            "id": 210,
+            "phrase": "sneak out (of some place)",
+            "definition": "to go out of a place quietly and in secret.  I sneaked out of the meeting, hoping no one would notice.  Jamie saw me and sneaked out with me."
+        },
+        {
+            "id": 211,
+            "phrase": "sneak up on someone or something",
+            "definition": "to approach someone or something quietly and in secret.  Please don’t sneak up on me like that.  I sneaked up on the cake, hoping no one would see me. Someone did."
+        },
+        {
+            "id": 212,
+            "phrase": "sneak up to someone or something",
+            "definition": "to move close to someone or something quietly and in secret.  I sneaked up to Don and scared him to death.  Don sneaked up to the punch bowl and helped himself before the party began."
+        },
+        {
+            "id": 213,
+            "phrase": "sneer at someone or something",
+            "definition": "to make a haughty or deprecating face at someone or something; to show one’s contempt for someone or something. I asked her politely to give me some more room, and she just sneered at me.  Jamie sneered at the report that Ken had submitted."
+        },
+        {
+            "id": 214,
+            "phrase": "sneeze at someone",
+            "definition": "to sneeze in someone’s direction.  Please don’t sneeze at me! Cover your nose and mouth! _ You should never sneeze at anyone. It is very bad manners."
+        },
+        {
+            "id": 215,
+            "phrase": "sneeze at something",
+            "definition": "to indicate one’s disapproval of something; to belittle someone or something. I wouldn’t sneeze at that amount of money if I were you. It’s better than nothing.  I though it was a good offer, but the customer just sneezed at it."
+        },
+        {
+            "id": 216,
+            "phrase": "sneeze into something",
+            "definition": "to aim a sneeze into something.  You should always sneeze into a handkerchief.  Please sneeze into a tissue or something."
+        },
+        {
+            "id": 217,
+            "phrase": "sneeze on someone or something",
+            "definition": "to aim a sneeze onto someone or something, probably by accident.  Don’t sneeze on me! _Don’t sneeze on anything. Cover your nose and mouth!"
+        },
+        {
+            "id": 218,
+            "phrase": "sniff at someone or something",
+            "definition": "to try to get the smell of someone or something by smelling.  The dog sniffed at the visitor.  The cat sniffed at almost every inch of the rug that the dog had walked on."
+        },
+        {
+            "id": 219,
+            "phrase": "sniff someone or something out†",
+            "definition": "to locate someone or something by sniffing or as if by sniffing. The dog sniffed the intruder out and the police captured him. The dog sniffed out the mole in the lawn."
+        },
+        {
+            "id": 220,
+            "phrase": "snipe at someone or something",
+            "definition": "to fire a weapon at someone or something from a concealed position.  Someone with a rif le sniped at the troops as they went through the jungle.  A rif leman was busy sniping at the platoon."
+        },
+        {
+            "id": 221,
+            "phrase": "snitch on someone",
+            "definition": "to tattle on someone.  You wouldn’t snitch on me, would you? _ Timmy snitched on his older brother."
+        },
+        {
+            "id": 222,
+            "phrase": "snoop around (something)",
+            "definition": "to look around in a place, trying to find out something secret or about someone else’s affairs. Why are you snooping around my house? _I am not snooping around."
+        },
+        {
+            "id": 223,
+            "phrase": "snoop into something",
+            "definition": "to pry into something or someone else’s affairs.  I wish you would stop snooping into my business! _ Whose affairs are they snooping into now?"
+        },
+        {
+            "id": 224,
+            "phrase": "snort at someone or something",
+            "definition": "to show one’s displeasure with someone or something by snorting.  The customer snorted at the waiter for his surliness.  The customer snorted at the prices and walked out."
+        },
+        {
+            "id": 225,
+            "phrase": "snotnose(d) (kid)",
+            "definition": "Inf. a young child; a relatively young person. (Derogatory. Potentially offensive. Use only with discretion.) _ Some little snotnose swiped my wallet.  A little snotnosed kid came in and asked for money."
+        },
+        {
+            "id": 226,
+            "phrase": "snow bunny",
+            "definition": "1. someone learning to ski. This little slope is for snow bunnies. Most of the snow bunnies come here to socialize. 2. a young, attractive female at a skiing lodge. Some cute little snow bunny came over and sat beside me. This place is swarming with snow bunnies who have never even seen a ski."
+        },
+        {
+            "id": 227,
+            "phrase": "a snow job",
+            "definition": "a systematic deception; a deceptive story that tries to hide the truth. You can generally tell when a student is trying to do a snow job.  This snow job you call an explanation just won’t do."
+        },
+        {
+            "id": 228,
+            "phrase": "snow someone or something in†",
+            "definition": "[for heavy snowfall] to block someone or something in a place.  The sudden storm snowed us in. The storm snowed in most of the people in town."
+        },
+        {
+            "id": 229,
+            "phrase": "snowball into something",
+            "definition": "[for something] to become larger or more serious by growing like a snowball being rolled.  This whole problem is snowballing into a crisis very rapidly.  The argument soon snowballed into a fullblown riot."
+        },
+        {
+            "id": 230,
+            "phrase": "snowed in",
+            "definition": "trapped (somewhere) because of too much snow.  The snow was so deep that we were snowed in for three days.  Being snowed in is no problem if you have enough food."
+        },
+        {
+            "id": 231,
+            "phrase": "snowed under",
+            "definition": "overworked; exceptionally busy.  Look, I’m really snowed under at the moment. Can this wait? _ He really has been snowed under with work."
+        },
+        {
+            "id": 232,
+            "phrase": "snuff someone out†",
+            "definition": "Sl. to kill someone.  Max really wanted to snuff the eyewiteness out, once and for all.  Lefty wanted to snuff out his partner."
+        },
+        {
+            "id": 233,
+            "phrase": "snuff something out†",
+            "definition": "to extinguish something, such as a flame.  She snuffed all the candles out and went to bed.  Karen snuffed out the f lames one by one."
+        },
+        {
+            "id": 234,
+            "phrase": "*snug as a bug in a rug",
+            "definition": "Cliché wrapped up tight, warm, and comfortable. (Playful; often used when addressing a child. *Also: as ~.) _ The bedroom in Aunt Jane’s house was cold, but after she wrapped me up in four or five quilts and put a stocking cap on my head, I was snug as a bug in a rug and ready to go to sleep.  Alan: Are you warm enough? Jane: Yes, I’m as snug as a bug in a rug."
+        },
+        {
+            "id": 235,
+            "phrase": "snug down (some place)",
+            "definition": "to become comfortable and warm in a place.  The cat snugged down at the foot of the bed.  Finally the children snugged down and we could go to sleep."
+        },
+        {
+            "id": 236,
+            "phrase": "snuggle down (into something)",
+            "definition": "to nestle into something, such as a warm bed.  Toby snuggled down into his nice warm bed.  He got into bed and snuggled down."
+        },
+        {
+            "id": 237,
+            "phrase": "snuggle down (with someone)",
+            "definition": "to nestle [into something] with someone else.  Billy snuggled down with his sister in the big feather bed.  They snuggled down and went to sleep."
+        },
+        {
+            "id": 238,
+            "phrase": "snuggle down (with something)",
+            "definition": "to nestle [into something] with something, such as a blanket, doll, book, etc. The baby snuggled down with her blanket and was asleep in no time. Sally grabbed onto her favorite doll and snuggled down for the night."
+        },
+        {
+            "id": 239,
+            "phrase": "snuggle (up) against someone or something",
+            "definition": "to press or cuddle against someone or something, as if to keep warm.  Tiffany snuggled up against Tad and asked him to give her some chewing gum.  He snuggled against the warm wall on the other side of the fireplace."
+        },
+        {
+            "id": 240,
+            "phrase": "snuggle up (to someone or something)",
+            "definition": "to cuddle up close to someone or something.  Kelly snuggled up to Jeff.  She snuggled up and said she wanted him to go pick up a pizza."
+        },
+        {
+            "id": 241,
+            "phrase": "*so bad one can taste it",
+            "definition": "very much, indeed. (*Typically: need ~; want ~; have to do something ~.) _ I want that car so bad I can taste it.  He had to get to Philadelphia so bad he could taste it."
+        },
+        {
+            "id": 242,
+            "phrase": "So be it.",
+            "definition": "This is the way it will be.  If you insist on running off and marrying her, so be it. Only don’t say I didn’t warn you! _Mary has decided that this is what she wants. So be it."
+        },
+        {
+            "id": 243,
+            "phrase": "so clean you could eat off the floor",
+            "definition": "[of a room or a house] very clean.  Her kitchen is so clean you could eat off the f loor! _ It’s so clean here you could eat off the f loor. I prefer a little mess, myself."
+        },
+        {
+            "id": 244,
+            "phrase": "so cold you could hang meat",
+            "definition": "very cold; as cold as a meat storage locker. Lord it was cold there! So cold you could hang meat. A: How cold was it? B: So cold you could hang meat."
+        },
+        {
+            "id": 245,
+            "phrase": "So do I.",
+            "definition": "I do too. Mary: I want some more cake. Sally: So do I. Bob: I have to go home now. Tom: So do I. Bob: Bye."
+        },
+        {
+            "id": 246,
+            "phrase": "So far, so good.",
+            "definition": "All is going well so far. We are half finished with our project. So far, so good.  The operation is proceeding quite nicely—so far, so good."
+        },
+        {
+            "id": 247,
+            "phrase": "So gross!",
+            "definition": "Sl. How disgusting! _He put chocolate syrup on his pie! So gross! _ He’s barfing! So gross!"
+        },
+        {
+            "id": 248,
+            "phrase": "So help me(, God)!",
+            "definition": "I so pledge and vow in God’s name.  I will do it. I really will, so help me, God!"
+        },
+        {
+            "id": 249,
+            "phrase": "So it goes.",
+            "definition": "Inf. That is the kind of thing that happens.; That is life.  Too bad about John and his problems. So it goes.  I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes."
+        }
+    ]
+}

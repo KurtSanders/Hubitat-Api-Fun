@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "that’s why!",
+            "definition": "a tag on the end of a statement that is an answer to a question beginning with why. (Shows a little impatience.) _Sue: Why do you always put your right shoe on first? Bob: Because, when I get ready to put on my shoes, I always pick up the right one first, that’s why! _Mary: Why do you eat that awful peppermint candy? Tom: Because I like it, that’s why!"
+        },
+        {
+            "id": 1,
+            "phrase": "That takes care of that.",
+            "definition": "Inf. That is settled. That takes care of that, and I’m glad it’s over.  I spent all morning dealing with this matter, and that takes care of that."
+        },
+        {
+            "id": 2,
+            "phrase": "That takes the cake!",
+            "definition": "1. Inf. That is good, and it wins the prize! (Assuming that the prize is a cake.) _ “What a performance!” cheered John. “That takes the cake!” _ Sue: Wow! That takes the cake! What a dive! Rachel: She sure can dive! 2. Inf. That is too much; That does it! _ Bob: What a dumb thing to do, Fred! Erik: Yeah, Fred. That takes the cake! _Bob: Wow! That takes the cake! Bill: What is it? Bob: That stupid driver in front of me just hit the car on the left and then swung over and hit the car on the right."
+        },
+        {
+            "id": 3,
+            "phrase": "that there",
+            "definition": "Rur. that.  Gimme that there can of nails.  That there car is an old Pontiac."
+        },
+        {
+            "id": 4,
+            "phrase": "that very thing",
+            "definition": "exactly that. Why, I was just looking for that very thing! _ You know, I was just about to say that very thing."
+        },
+        {
+            "id": 5,
+            "phrase": "That will do.",
+            "definition": "That is enough.; Do no more.  That’ll do, Billy. Stop your crying.  “That will do,” said Mr. Jones when he had heard enough of our arguing."
+        },
+        {
+            "id": 6,
+            "phrase": "That’ll be the day!",
+            "definition": "Inf. It will be an unusually amazing day when that happens! _ Bill: I think I’ll fix that lamp now. Andy: When you finally get around to fixing that lamp, that’ll be the day! _ Sue: I’m going to get this place organized once and for all! Alice: That’ll be the day!"
+        },
+        {
+            "id": 7,
+            "phrase": "That’ll teach someone!",
+            "definition": "Inf. What happened to someone is a suitable punishment! (The someone is usually a pronoun.) _Bill: Tom, who has cheated on his taxes for years, finally got caught. Sue: That’ll teach him.  Bill: Gee, I got a ticket for speeding. Fred: That’ll teach you!"
+        },
+        {
+            "id": 8,
+            "phrase": "thaw out",
+            "definition": "to warm up from being frozen. How long will it take for the chicken to thaw out? _I can’t wait for the cake to thaw out. I want some now!"
+        },
+        {
+            "id": 9,
+            "phrase": "thaw someone or something out†",
+            "definition": "to raise the temperature of someone or something above freezing; to warm someone up.  We need to get inside so I can thaw my brother out. His toes are almost frozen.  Did you thaw out the chicken?"
+        },
+        {
+            "id": 10,
+            "phrase": "the American dream",
+            "definition": "the idealistic notion that Americans are preoccupied with obtaining certain materialistic goals.  The American dream of home ownership, a car in the garage, and a chicken in every pot started in the early thirties."
+        },
+        {
+            "id": 11,
+            "phrase": "(the) be-all and (the) end-all",
+            "definition": "Cliché something that is the very best or most important; something so good that it will end the search for something better. Finishing the building of his boat became the be-all and end-all of Roger’s existence.  Sally is the be-all and the end-all of Don’s life."
+        },
+        {
+            "id": 12,
+            "phrase": "(The) best of luck (to someone).",
+            "definition": "I wish good luck to someone. Alice: Good-bye, Bill. Bill: Goodbye, Alice. Best of luck. Alice: Thanks. Bye.  “Good-bye, and the best of luck to you,” shouted Mary, waving and crying at the same time."
+        },
+        {
+            "id": 13,
+            "phrase": "The butler did it.",
+            "definition": "The butler performed the crime. (A catchphrase.) _I know who killed Lord Drax. The butler did it! I saw him!"
+        },
+        {
+            "id": 14,
+            "phrase": "the heavens opened",
+            "definition": "It started to rain heavily.  The heavens opened, and we had to run for cover.  We were waiting at the bus stop when the heavens opened."
+        },
+        {
+            "id": 15,
+            "phrase": "The hell you say!",
+            "definition": "Nonsense!; I don’t believe it! _ A: I won the lottery! B: The hell you say!"
+        },
+        {
+            "id": 16,
+            "phrase": "(the) Lord only knows",
+            "definition": "no one but God knows.  The Lord only knows if John’s marriage will be a happy one.  How Mary can stay so cheerful through her terrible illness, the Lord only knows."
+        },
+        {
+            "id": 17,
+            "phrase": "the luck of the Irish",
+            "definition": "luck associated with the Irish people. (Also said as a catch phrase for any kind of luck.) _ Bill: How did you manage to do it, Jeff. Jeff: It’s the luck of the Irish, I guess."
+        },
+        {
+            "id": 18,
+            "phrase": "The proof of the pudding is in the eating.",
+            "definition": "Prov. You don’t know the quality of something until you have tried it or experienced it.  Theory says that this material will produce a superior widget, but the proof of the pudding is in the eating."
+        },
+        {
+            "id": 19,
+            "phrase": "*the race card",
+            "definition": "Cliché the issue of race magnified and injected into a situation which might otherwise be nonracial. (*Typically: deal ~; play ~; use ~.) _ At the last minute, the opposition candidate played the race card and lost the election for himself."
+        },
+        {
+            "id": 20,
+            "phrase": "The very idea!",
+            "definition": "I do not approve!; That is outrageous! _ Resignation? The very idea! _The very idea! Absolutely not!"
+        },
+        {
+            "id": 21,
+            "phrase": "The wages of sin is death.",
+            "definition": "Prov. Doing bad things can get you in a lot of trouble.  Serves him right. I always said, “The wages of sin is death.”"
+        },
+        {
+            "id": 22,
+            "phrase": "The wolf is at the door.",
+            "definition": "The threat of poverty is upon us.  I lost my job, my savings are gone, and now the wolf is at the door."
+        },
+        {
+            "id": 23,
+            "phrase": "Them as has, gits.",
+            "definition": "Rur. Rich people can always get more.  The millionaire keeps making more and more money, because he has lots of money to invest. Them as has, gits.  Tom: Bill already owns half the property in town, and here the court went and awarded him that vacant lot. Jane: You know how it is—them as has, gits."
+        },
+        {
+            "id": 24,
+            "phrase": "Them’s fighting words!",
+            "definition": "Rur. What you just said will lead to a fight. (Said as a threat.) _I heard what you said about my brother, and them’s fighting words. Put up your dukes. Them’s fighting words!"
+        },
+        {
+            "id": 25,
+            "phrase": "then and there",
+            "definition": "Cliché right at that time and place.  I asked him right then and there exactly what he meant.  I decided to settle the matter then and there and not wait until Monday."
+        },
+        {
+            "id": 26,
+            "phrase": "theorize about someone or something",
+            "definition": "to hypothesize about someone or something; to conjecture about someone or something. Let’s not waste time theorizing about Ted. He won’t change.  I can only theorize about what happened."
+        },
+        {
+            "id": 27,
+            "phrase": "theorize on something",
+            "definition": "to make a theory about something.  There is no point in theorizing on something when you have all the empirical evidence you need to draw a conclusion.  He spent the afternoon theorizing on the origin of the universe."
+        },
+        {
+            "id": 28,
+            "phrase": "(There ain’t) nothin’ to it.",
+            "definition": "Rur. It is easy. Mary: How do you keep your car so shiny? Tom: There ain’t nothin’ to it. I just wax it once a week. It took Jane just two minutes to sew up the hole in my shirt. “See?” she said. “Nothin’ to it!”"
+        },
+        {
+            "id": 29,
+            "phrase": "There are plenty of (other) fish in the sea.",
+            "definition": "There are other choices. (Used to refer to persons.) _ When John broke up with Ann, I told her not to worry. There are plenty of other fish in the sea.  It’s too bad that your secretary quit, but there are plenty of other fish in the sea."
+        },
+        {
+            "id": 30,
+            "phrase": "There are tricks in every trade.",
+            "definition": "Prov. In every occupation, there are established ways of doing things.  John thought that he wouldn’t have to learn much in order to wait tables. But there are tricks in every trade, and the experienced waiters were able to teach him a lot."
+        },
+        {
+            "id": 31,
+            "phrase": "There aren’t enough hours in the day.",
+            "definition": "There are too many things to do and not enough time.  I am behind in all my work. There aren’t enough hours in the day! _We can’t handle all the problems that come our way. There aren’t enough hours in the day."
+        },
+        {
+            "id": 32,
+            "phrase": "There but for the grace of God (go I).",
+            "definition": "Prov. I would likely have experienced or done the same bad thing if God had not been watching over me. (You can say this to refer to someone who has had bad luck; implies that the person is no less virtuous than you are but is now miserable purely because of bad luck, which might happen to you as well.) _ Jill: Ever since Julia’s house burned down, she’s been drinking heavily; she’ll probably lose her job because of it. Jane: There but for the grace of God. . . .  Whenever Sally saw a beggar, she thought, “There but for the grace of God go I.”"
+        },
+        {
+            "id": 33,
+            "phrase": "There is a fine line between something and something else.",
+            "definition": "There is little difference between something and something else. There is a fine line between a frown and a grimace."
+        },
+        {
+            "id": 34,
+            "phrase": "There is a remedy for everything except death.",
+            "definition": "Prov. Everything but death can be cured.; As long as you are alive, your problems can somehow be solved.  Bill: I’ll never recover from losing Nancy. Fred: Nonsense. There is a remedy for everything except death. Whenever Linda despaired, she sternly reminded herself that there is a remedy for everything except death."
+        },
+        {
+            "id": 35,
+            "phrase": "There is a tide in the affairs of men.",
+            "definition": "Prov. If you have a favorable opportunity to do something, do it, or you will lose your chance. (From Shakespeare’s play, Julius Caesar.) _ I think that this is the best possible time to start our own business. We shouldn’t hesitate. There is a tide in the affairs of men."
+        },
+        {
+            "id": 36,
+            "phrase": "There is a time and a place for everything.",
+            "definition": "Prov. Different things are appropriate on different occasions.  There is a time and a place for everything, but this formal dinner is not the time or the place to eat with your fingers."
+        },
+        {
+            "id": 37,
+            "phrase": "There is honor among thieves.",
+            "definition": "Prov. Criminals do not commit crimes against each other.  The gangster was loyal to his associates and did not tell their names to the police, demonstrating that there is honor among thieves."
+        },
+        {
+            "id": 38,
+            "phrase": "There is no accounting for taste(s).",
+            "definition": "Prov. You cannot blame different people because they like different things, even if you do not understand why they like what they like.  Jill: I can’t believe so many people are going to see that idiotic movie. Jane: There’s no accounting for tastes."
+        },
+        {
+            "id": 39,
+            "phrase": "(There is) no chance.",
+            "definition": "There is no chance that something will happen. (No chance is informal.) _Tom: Do you think that some little country like that will actually attack England? John: There’s no chance.  Bill: No chance you can lend me a few bucks, is there? Bill: Nope. No chance."
+        },
+        {
+            "id": 40,
+            "phrase": "(There is) no doubt about it.",
+            "definition": "It cannot be doubted.; It is obvious.  Jane: It’s really cold today. Fred: No doubt about it! _ Sue: Things seems to be getting more and more expensive. Tom: There’s no doubt about that. Look at the price of oranges!"
+        },
+        {
+            "id": 41,
+            "phrase": "There is no love lost (between someone and someone else).",
+            "definition": "There is no friendship wasted between someone and someone else (because they are enemies). Ever since their big argument, there has been no love lost between Tom and Bill.  You can tell by the way that Jane is acting toward Ann that there is no love lost."
+        },
+        {
+            "id": 42,
+            "phrase": "(There is) no need (to).",
+            "definition": "You do not have to.; It is not necessary.  Mary: Shall I try to save all this wrapping paper? Sue: No need. It’s all torn. Bob: Would you like me to have it repaired? I’m so sorry I broke it. Bill: There is no need to. I can just glue it, thanks."
+        },
+        {
+            "id": 43,
+            "phrase": "There is no pleasure without pain.",
+            "definition": "Prov. For every pleasure you enjoy, you must suffer some pain. We had a fabulous vacation, but it’s going to take us years to pay for it. Oh, well, there’s no pleasure without pain.  Yesterday I basked in the warm sunshine all afternoon; today I’m badly sunburned. There is no pleasure without pain."
+        },
+        {
+            "id": 44,
+            "phrase": "There is no rest for the weary.",
+            "definition": "Prov. Even people who are worn-out must continue to work. (Describes a situation in which a tired person has to do more work.) _ By the time I finished doing the laundry, it was so late I had to begin cooking supper for the family. There is no rest for the weary."
+        },
+        {
+            "id": 45,
+            "phrase": "There is no royal road to learning.",
+            "definition": "Prov. Learning things requires work.  Sue: I don’t see why we have to do homework every night. Why can’t we just listen to the lectures? Nancy: There is no royal road to learning."
+        },
+        {
+            "id": 46,
+            "phrase": "There is nothing new under the sun.",
+            "definition": "Prov. Everything that is happening now has happened before. (Biblical.) _Jill: The newspaper today is shocking. Three prominent politicians have been convicted of fraud. Jane: That’s not shocking. It only proves that there’s nothing new under the sun."
+        },
+        {
+            "id": 47,
+            "phrase": "There is safety in numbers.",
+            "definition": "Prov. A group of people is less likely to be attacked than a single person. Gail never went out after dark without at least three friends, since she knew that there is safety in numbers.  We should gather together a group of people to make our complaint to the boss. There’s safety in numbers."
+        },
+        {
+            "id": 48,
+            "phrase": "There’s many a good tune played on an old fiddle.",
+            "definition": "Prov. Old people can be very capable.  Just because Nigel is old doesn’t mean he’s useless. There’s many a good tune played on an old fiddle."
+        },
+        {
+            "id": 49,
+            "phrase": "There’s many a slip ’twixt the cup and the lip.",
+            "definition": "Prov. Many things may happen to prevent you from carrying out what you intend to do.  Bob: Now that I have a contract with a publisher, nothing in the world can stop me from writing this book. Alan: Don’t be so sure. There’s many a slip ’twixt the cup and the lip."
+        },
+        {
+            "id": 50,
+            "phrase": "There’s more than one way to skin a cat.",
+            "definition": "Prov. You can always find more than one way to do something.  Jill: How will we fix the sink without a wrench? Jane: There’s more than one way to skin a cat. Our first approach didn’t work, but we’ll figure out some other way. There’s more than one way to skin a cat."
+        },
+        {
+            "id": 51,
+            "phrase": "There’s no accounting for taste.",
+            "definition": "Prov. Cliché There is no explanation for people’s preferences.  Look at that purple and orange car! There’s no accounting for taste.  Some people seemed to like the music, although I thought it was worse than noise. There’s no accounting for taste."
+        },
+        {
+            "id": 52,
+            "phrase": "There’s no flies on someone.",
+            "definition": "Rur. Someone is full of energy and drive. There’s no f lies on Jane. She’s up at five every morning, training for the big race."
+        },
+        {
+            "id": 53,
+            "phrase": "There’s no fool like an old fool.",
+            "definition": "Prov. Cliché Old people are supposed to be wise, so if an old person behaves foolishly, it is worse than a young person behaving foolishly.  As old Mrs. Fleischman watched her husband try to dance the way their grandchildren danced, she muttered, “There’s no fool like an old fool.”"
+        },
+        {
+            "id": 54,
+            "phrase": "There’s no place like home.",
+            "definition": "Prov. Cliché Home is the most satisfying place to be. After his long trip, Bob came into his house, sat down in his favorite chair, and happily sighed, “There’s no place like home.” _ Jane: Are you glad to be home from school? Jenny: There’s no place like home."
+        },
+        {
+            "id": 55,
+            "phrase": "There’s no rose without a thorn.",
+            "definition": "Prov. To enjoy any beautiful or pleasant thing, you must endure something difficult or painful.  Mike: My bride is lovely and gracious, but I’m discovering that she has a terrible temper. Bill: There’s no rose without a thorn."
+        },
+        {
+            "id": 56,
+            "phrase": "(There’s) no time like the present.",
+            "definition": "Prov. Cliché Do what you are supposed to do now. (You can use this to suggest that something be done right away.) _ Jill: When should we start cleaning up the house? Jane: No time like the present.  Start studying for the big exam now, instead of waiting till the night before. There’s no time like the present."
+        },
+        {
+            "id": 57,
+            "phrase": "(There’s) no way to tell.",
+            "definition": "No one can find out the answer.  Tom: How long are we likely to have to wait before the plane takes off ? Clerk: Sorry, sir. There’s no way to tell."
+        },
+        {
+            "id": 58,
+            "phrase": "There’s nobody home.",
+            "definition": "There are no brains in someone’s head.  There’s lots of goodwill in that head, but there’s nobody home. What a fool! There’s nobody home—that’s for sure."
+        },
+        {
+            "id": 59,
+            "phrase": "There’s none so blind as those who will not see.",
+            "definition": "Prov. You cannot make someone pay attention to something that he or she does not want to notice. (Used often to upbraid someone for being unwilling to notice what you are trying call attention to.) _Mother: This is the fifth time our daughter has been arrested for shoplifting. Don’t you think we ought to seek some kind of help for her? Father: Our girl would never shoplift. I’m sure all those arrests were just some kind of mistake. Mother: There’s none so blind as those who will not see.  By October, it was obvious to everyone that Richard was coming in drunk every morning. Obvious, that is, except to his devoted secretary; there’s none so blind as those who will not see."
+        },
+        {
+            "id": 60,
+            "phrase": "There’s none so deaf as those who will not hear.",
+            "definition": "Prov. If you tell someone something that he or she does not want to know, he or she will not pay attention to you.  I tried repeatedly to tell my supervisor about the low morale in our department, but there’s none so deaf as those who will not hear."
+        },
+        {
+            "id": 61,
+            "phrase": "(There’s) nothing to it!",
+            "definition": "1. Inf. It is easy! _ John: Is it hard to learn to f ly a small plane? Sue: There’s nothing to it! _Bill: Me? I can’t dive off a board that high! I can hardly dive off the side of the pool! Bob: Aw, come on! Nothing to it! 2. Inf. The rumor you heard is not true. Pay no attention to all that talk. There’s nothing to it."
+        },
+        {
+            "id": 62,
+            "phrase": "There you are.",
+            "definition": "That’s the way things are.; This is the way things have worked out. (A fatalistic dismissal.) _“There’s nothing more that can be done. We’ve done what we could. So there you are,” said Fred, dejected.  Andy: Then what happened? Bob: Then they put me in a cell until they found I was innocent. Somebody stole my watch in there. All because of mistaken identity. So there you are."
+        },
+        {
+            "id": 63,
+            "phrase": "There you go.",
+            "definition": "1. Hooray! You did it right! (Usually There you go!) _There you go! That’s the way! _Good shot, Chuck! There you go! 2. That is the way things are, just like I told you.; Isn’t this just what you would expect? _ There you go. Isn’t that just like a man! _ There you go, acting rude and ugly! 3. You are doing it again.  There you go! You said it again.  I just told you not to put that junk on the table, and there you go. 4. Here is what you wanted. (As might be said by a food server in a restaurant when placing your food in front of you.) _ “There you go,” said the waiter. Who ordered the fried shrimp? There you go."
+        },
+        {
+            "id": 64,
+            "phrase": "thereby hangs a tale",
+            "definition": "there is an interesting story connected with this matter.  Yes, she comes in late most mornings, and thereby hangs a tale. She has a drinking problem."
+        },
+        {
+            "id": 65,
+            "phrase": "They also serve who only stand and wait.",
+            "definition": "Prov. Sometimes you must be patient and do nothing, even though you would like to be actively helping. (From John Milton’s poem, “On His Blindness.”) _ Jill: Can I help? Jane: No, we’ve got enough people helping. Jill: But I want to help. Jane: They also serve who only stand and wait."
+        },
+        {
+            "id": 66,
+            "phrase": "They don’t make them like they used to.",
+            "definition": "Cliché Goods are not as well made now as they were in the past. (Often used as a catchphrase. Them is often ’em.) _Look at this flimsy door! They don’t make ’em like they used to. Why don’t cars last longer? They just don’t make ’em like they used to."
+        },
+        {
+            "id": 67,
+            "phrase": "They must have seen you coming.",
+            "definition": "You were really cheated. They saw you coming and decided they could cheat you easily.  Andy: It cost two hundred dollars. Rachel: You paid two hundred dollars for that thing? Boy, they must have seen you coming. Bob: Do you think I paid too much for this car? It’s not as good as I thought it was. Tom: It’s almost a wreck. They must have seen you coming."
+        },
+        {
+            "id": 68,
+            "phrase": "They went that a’way.",
+            "definition": "Cliché The villains went in that direction. (From Western movies.) _ Those guys aren’t here. They went that a’way."
+        },
+        {
+            "id": 69,
+            "phrase": "thick and fast",
+            "definition": "in large numbers or amounts and at a rapid rate.  The enemy soldiers came thick and fast.  New problems seem to come thick and fast."
+        },
+        {
+            "id": 70,
+            "phrase": "*thick as pea soup",
+            "definition": "[of fog] very thick. (*Also: as ~.) _ This fog is as thick as pea soup. You can’t see ten feet in front of you."
+        },
+        {
+            "id": 71,
+            "phrase": "*thick as thieves",
+            "definition": "Cliché very close-knit; friendly; allied. (Thick = close and loyal. *Also: as ~.) _Mary, Tom, and Sally are as thick as thieves. They go everywhere together.  Those two families are thick as thieves."
+        },
+        {
+            "id": 72,
+            "phrase": "thicken something up†",
+            "definition": "1. to make something, such as a fluid, thicker.  I have to thicken this gravy up before we can serve dinner.  Please thicken up the gravy before you serve it. 2. to make something wider.  See this line here? You need to thicken it up so that it shows more clearly.  Try to thicken up the line a little."
+        },
+        {
+            "id": 73,
+            "phrase": "*thick-skinned",
+            "definition": "not easily upset or hurt; insensitive. (The opposite of thin-skinned. *Typically: be ~; become ~; grow ~.) _ Tom won’t worry about your insults. He’s completely thick-skinned.  Jane’s so thickskinned she didn’t realize Fred was being rude to her."
+        },
+        {
+            "id": 74,
+            "phrase": "thin down",
+            "definition": "to become thinner or slimmer.  He stopped eating desserts and fatty foods so he could thin down.  I have to thin down so I can get into my winter coat."
+        },
+        {
+            "id": 75,
+            "phrase": "thin on top",
+            "definition": "balding. James is wearing a hat because he’s getting thin on top.  Father got a little thin on top as he got older."
+        },
+        {
+            "id": 76,
+            "phrase": "thin out",
+            "definition": "to spread out; to become less dense.  The trees began to thin out as we got higher up the mountain.  The crowd began to thin out as we got a little farther from the theater."
+        },
+        {
+            "id": 77,
+            "phrase": "thin someone down†",
+            "definition": "to make someone thinner or slimmer.  What you need to thin you down is less, not more.  The hospital dietitian tried to thin down the obese man."
+        },
+        {
+            "id": 78,
+            "phrase": "thin something down†",
+            "definition": "to dilute a fluid.  You should thin this down with a little water.  Try to thin down this paint a little."
+        },
+        {
+            "id": 79,
+            "phrase": "thin something out†",
+            "definition": "to make something less dense; to scatter something. You will have to thin the young plants out, because there is not room for all of them.  Can you thin out these young plants?"
+        },
+        {
+            "id": 80,
+            "phrase": "A thing of beauty is a joy forever.",
+            "definition": "Prov. Beautiful things give pleasure that lasts even longer than the beautiful things themselves. (This is a line from John Keats’s poem “Endymion.” Also a thing of beauty and a joy forever, used to describe something beautiful in lofty terms, often ironically.) _ Jill: I don’t understand why someone would pay millions of dollars to have some old painting. Jane: Because a thing of beauty is a joy forever."
+        },
+        {
+            "id": 81,
+            "phrase": "*a thing or two (about someone or something)",
+            "definition": "1. bits of information or criticism about someone or something; a few facts about someone or something. (*Typically: find out ~; know ~; learn ~; tell someone ~.) _ I told Bob a thing or two about cars. I know a thing or two about Mary that would really shock you. 2. a few points of criticism about someone or something. (*Typically: tell someone ~.) _ I told her a thing or two about her precious little boy! _ Let me tell you a thing or two about your messy yard!"
+        },
+        {
+            "id": 82,
+            "phrase": "A thing you don’t want is dear at any price.",
+            "definition": "Prov. You should not buy something just because it is cheap.  Jill: There’s a sale on black-and-white film; we should get some. Jane: We never use black-and-white film. Jill: But it’s so cheap. Jane: A thing you don’t want is dear at any price."
+        },
+        {
+            "id": 83,
+            "phrase": "Things are looking up.",
+            "definition": "Conditions are looking better.  Since I got a salary increase, things are looking up.  Things are looking up at school. I’m doing better in all my classes."
+        },
+        {
+            "id": 84,
+            "phrase": "Things are seldom what they seem.",
+            "definition": "Prov. Things often appear different from what they really are.  Emily seems to be a fine young lady, but be careful. Things are seldom what they seem.  To judge from his elegant clothing and luxurious car, William was a wealthy man. But things are seldom what they seem; in fact, he was in desperate need of money."
+        },
+        {
+            "id": 85,
+            "phrase": "think about someone or something",
+            "definition": "to contemplate someone or something.  Whenever I think about him, I get goose bumps.  I don’t want to think about it."
+        },
+        {
+            "id": 86,
+            "phrase": "think ahead (to something)",
+            "definition": "to have thoughts about something that is to happen in the future.  I began to think ahead to next year when the same thing might happen.  You must learn to think ahead if you want to get ahead."
+        },
+        {
+            "id": 87,
+            "phrase": "think back (on someone or something)",
+            "definition": "to remember and think about someone or something.  When I think back on Sally and the good times we had together, I get very sad.  I like to think back on my childhood and try to remember what it was like."
+        },
+        {
+            "id": 88,
+            "phrase": "think back (to something)",
+            "definition": "to remember back to something in the past.  Now, try and think back to the night of January 16. I can’t think back. My mind is preoccupied with other things."
+        },
+        {
+            "id": 89,
+            "phrase": "think before doing something",
+            "definition": "to consider the consequences before doing something. You really ought to think before you take on a job like that. I finally learned to think carefully before accepting jobs like the one I just took on."
+        },
+        {
+            "id": 90,
+            "phrase": "think better of someone or something",
+            "definition": "to raise one’s opinion of someone or something. I think better of him since I saw how well he does in the sales meetings.  I hope that you will think better of the plan now."
+        },
+        {
+            "id": 91,
+            "phrase": "think better of something",
+            "definition": "to reconsider doing something and end up not doing it.  I hope that you will think better of what you are doing and how many people you are hurting.  I will think better of making such a careless remark next time."
+        },
+        {
+            "id": 92,
+            "phrase": "think for oneself",
+            "definition": "to do one’s own thinking; to think independently.  I think for myself. I don’t need anyone to tell me what to do, do I? _ Sam has to learn to think for himself. He can’t let other people make his decisions for him all his life."
+        },
+        {
+            "id": 93,
+            "phrase": "think inside the box",
+            "definition": "to think in traditional fashion, bound by old, nonfunctional, or limiting structures, rules, or practices. (As if thinking or creativity were confined or limited by a figurative box. Compare this with think outside the box.) _ You won’t come up with good ideas if you think only inside the box. You guys only think inside the box and will never find a better solution."
+        },
+        {
+            "id": 94,
+            "phrase": "think nothing of doing something",
+            "definition": "to give no thought or hesitation to doing something.  She thinks nothing of helping other people at any time of day or night.  Toby thinks nothing of driving one block to the store."
+        },
+        {
+            "id": 95,
+            "phrase": "think on one’s feet",
+            "definition": "to be able to speak and reason well while (standing and talking) in front of an audience, especially extemporaneously.  She really thinks on her feet well.  I am not able to think on my feet too well before a bunch of people."
+        },
+        {
+            "id": 96,
+            "phrase": "think out loud",
+            "definition": "to say one’s thoughts aloud. Excuse me. I didn’t really mean to say that. I was just thinking out loud.  Mr. Johnson didn’t prepare a speech. He just stood there and thought out loud. It was a terrible presentation."
+        },
+        {
+            "id": 97,
+            "phrase": "think outside the box",
+            "definition": "to think freely, not bound by old, nonfunctional, or limiting structures, rules, or practices. (As if thinking or creativity were confined in or limited by a figurative box. Compare this with think inside the box.) _You won’t come up with good ideas until you think outside the box.  Let’s think outside the box for a minute and try to find a better solution."
+        },
+        {
+            "id": 98,
+            "phrase": "think someone fit for something",
+            "definition": "to judge someone to be in condition or healthy enough for something.  Do you think me fit for the race? _ She is not fit for the game Friday night."
+        },
+        {
+            "id": 99,
+            "phrase": "think someone or something fit for someone or something",
+            "definition": "to judge someone or something to be suitable for someone or something. I do not think this book fit for young readers.  You are not fit for the office of mayor! _ This plate is not fit for further use.  I don’t think John fit for the job."
+        },
+        {
+            "id": 100,
+            "phrase": "think something out†",
+            "definition": "to think through something; to prepare a plan or scheme.  This is an interesting problem. I’ll have to take some time and think it out. We spent all morning thinking out our plan."
+        },
+        {
+            "id": 101,
+            "phrase": "think something over†",
+            "definition": "to think about something and whether one will choose to do it.  I need a few minutes to think it over.  Let me think over your request for a day or so."
+        },
+        {
+            "id": 102,
+            "phrase": "think something through†",
+            "definition": "to run over and try to settle something in one’s mind. Let me think this through and call you in the morning.  I will think through this matter and get back to you."
+        },
+        {
+            "id": 103,
+            "phrase": "think something up†",
+            "definition": "to contrive or invent something.  Don’t worry. I’ll find a way to do it. I can think something up in time to get it done.  John thought up a way to solve our problem."
+        },
+        {
+            "id": 104,
+            "phrase": "think straight",
+            "definition": "to think clearly. (Often negative.) _ I’m so tired I can’t think straight."
+        },
+        {
+            "id": 105,
+            "phrase": "think the sun rises and sets on someone",
+            "definition": "to think someone is the most important person in the world.  Her daddy just thinks the sun rises and sets on her.  She worships that boyfriend of hers. She thinks the sun rises and sets on him."
+        },
+        {
+            "id": 106,
+            "phrase": "think the world of someone or something",
+            "definition": "to be very fond of someone or something.  Mary thinks the world of her little sister.  The old lady thinks the world of her cats."
+        },
+        {
+            "id": 107,
+            "phrase": "think to do something",
+            "definition": "to remember to do something.  Sorry. I didn’t think to call you in time. I will try to think to bring everything with me next time."
+        },
+        {
+            "id": 108,
+            "phrase": "think twice about someone or something",
+            "definition": "to give careful consideration to someone or something.  Ed may be a good choice, but I suggest that you think twice about him.  You will want to think twice about it."
+        },
+        {
+            "id": 109,
+            "phrase": "think twice (before doing something)",
+            "definition": "to consider carefully whether one should do something; to be cautious about doing something.  You should think twice before quitting your job.  That’s a serious decision, and you should certainly think twice."
+        },
+        {
+            "id": 110,
+            "phrase": "think (up)on someone or something",
+            "definition": "to contemplate someone or something; to muse or reflect on someone or something. (Upon is formal and less commonly used than on.) _ I thought upon Abraham Lincoln and how much we all owe him.  I thought on all the fine things we used to do."
+        },
+        {
+            "id": 111,
+            "phrase": "*thin-skinned",
+            "definition": "easily upset or hurt; sensitive. (The opposite of thick-skinned. *Typically: be ~; become ~; grow ~.) _You’ll have to handle Mary’s mother carefully. She’s very thin-skinned. Jane weeps easily when people tease her. She’s too thin-skinned."
+        },
+        {
+            "id": 112,
+            "phrase": "*the third degree",
+            "definition": "a long and detailed period of questioning. (*Typically: get ~; give someone ~.) _ Why is it I get the third degree from you every time I come home late? _ Poor Sally spent all night at the police station getting the third degree."
+        },
+        {
+            "id": 113,
+            "phrase": "The third time’s the charm.",
+            "definition": "Prov. The third time you try to do something, it will work. Jill: I’ve called Miriam twice, but she doesn’t answer her phone. Jane: Try again. The third time’s the charm."
+        },
+        {
+            "id": 114,
+            "phrase": "thirst for something",
+            "definition": "to desire something to drink. (Somewhat formal.) _ “I thirst for something cooling and refreshing.” said the preacher.  You could see that everyone there was thirsting for water, or even coffee, but there was no refreshment in sight."
+        },
+        {
+            "id": 115,
+            "phrase": "thirsty for something",
+            "definition": "needing to drink something.  I’m thirsty for a glass of cold water."
+        },
+        {
+            "id": 116,
+            "phrase": "this a-way and that a-way",
+            "definition": "Rur. first one way and then the other.  She was craning her neck this a-way and that a-way, looking for him.  The dogs were running this away and that a-way."
+        },
+        {
+            "id": 117,
+            "phrase": "this here",
+            "definition": "Rur. this.  Just let me fix this here chair leg.  This here picture was painted by my Aunt Lena."
+        },
+        {
+            "id": 118,
+            "phrase": "This is it.",
+            "definition": "This is the time, place, or thing that we have been looking or waiting for. This is it. This is the chance you’ve been waiting for! _ This is it. This is my stop. I have to get off the bus."
+        },
+        {
+            "id": 119,
+            "phrase": "This is my floor.",
+            "definition": "a phrase said by someone at the back of an elevator suggesting that people make way for that person to exit at a particular floor.  Mary said, “This is my f loor,” and everyone made room for her to get out of the elevator. “Out, please,” said Tom loudly. “This is my f loor!”"
+        },
+        {
+            "id": 120,
+            "phrase": "This is where I came in.",
+            "definition": "I have heard all this before. (Said when a situation begins to seem repetitive, as when a film one has seen part of before reaches familiar scenes.) _ John sat through a few minutes of the argument, and when Tom and Alice kept saying the same thing over and over John said, “This is where I came in,” and left the room.  The speaker stood up and asked again for a new vote on the proposal. “This is where I came in,” muttered Jane as she headed for the door."
+        },
+        {
+            "id": 121,
+            "phrase": "This one is on someone",
+            "definition": "the cost of this drink or meal will be paid by the person named or designated.  A: Should we ask for separate checks or what? B: No, no, this one’s on the boss! _ As the waiter set down the glasses, Fred said, “This one’s on me.”"
+        },
+        {
+            "id": 122,
+            "phrase": "(this) vale of tears",
+            "definition": "the earth; mortal life on earth. (A vale is a literary word for valley.) _When it comes time for me to leave this vale of tears, I hope I can leave some worthwhile memories behind. Uncle Fred left this vale of tears early this morning."
+        },
+        {
+            "id": 123,
+            "phrase": "thither and yon",
+            "definition": "there and everywhere. (Stilted or jocular.) _ I sent my résumé thither and yon, but no one responded. The children are all scattered thither and yon, and it is difficult for them to get home for the holidays."
+        },
+        {
+            "id": 124,
+            "phrase": "Those were the days.",
+            "definition": "Cliché The days we have been referring to were the greatest of times.  Ah, yes. The eighties. Those were the days! _ Those were the days. Back when people knew right from wrong."
+        },
+        {
+            "id": 125,
+            "phrase": "Those who can, do; those who can’t, teach.",
+            "definition": "Prov. People who are able to do something well can do that thing for a living, while people who are not able to do anything that well make a living by teaching. (Used to disparage teachers. From George Bernard Shaw’s Man and Superman.) _Bob: I’m so discouraged. My writing teacher told me my novel is hopeless. Jane: Don’t listen to her, Bob. Remember: those who can, do; those who can’t, teach."
+        },
+        {
+            "id": 126,
+            "phrase": "thrash around",
+            "definition": "to move about restlessly or violently.  Settle down and stop thrashing around. Timmy thrashed around all night when he had the high fever."
+        },
+        {
+            "id": 127,
+            "phrase": "thrash something out†",
+            "definition": "to discuss something thoroughly and solve any problems.  The committee took hours to thrash the whole matter out.  John and Anne thrashed out the reasons for their constant disagreements."
+        },
+        {
+            "id": 128,
+            "phrase": "thrash something out of someone",
+            "definition": "to beat something out of someone.  The sheriff really wanted to thrash the truth out of Tex, but that is illegal. Max wanted to know where the money was hidden and he tried to thrash it out of Lefty."
+        },
+        {
+            "id": 129,
+            "phrase": "thread one’s way through something",
+            "definition": "to make a path for oneself through a crowded area; to make one’s way carefully through a crowded area.  The spy threaded his way through the crowd. The bicyclists threaded their way through the cars stopped in traffic."
+        },
+        {
+            "id": 130,
+            "phrase": "thread through something",
+            "definition": "to travel through a crowded area; to move carefully through an area where there are many obstacles.  The spy threaded through the crowd at the palace.  The joggers threaded through the shoppers on the sidewalks."
+        },
+        {
+            "id": 131,
+            "phrase": "threaten someone with someone or something",
+            "definition": "to warn someone that there will be punishment in the form of someone or something if conditions are not met.  No, no! Your Uncle Herman is not coming here! Please don’t threaten me with Uncle Herman! _Are you threatening me with bodily harm?"
+        },
+        {
+            "id": 132,
+            "phrase": "three bricks shy of a load",
+            "definition": "stupid; dense; shortchanged on intelligence.  I would never say she was dense. Just three bricks shy of a load. Why do you act like you’re three bricks shy of a load?"
+        },
+        {
+            "id": 133,
+            "phrase": "three squares (a day)",
+            "definition": "three nourishing meals a day. (With breakfast, lunch, and dinner considered the usual three meals.) _I was glad to get back home to three squares.  If I could limit myself to three squares, I could lose some weight."
+        },
+        {
+            "id": 134,
+            "phrase": "Three strikes and you are out.",
+            "definition": "Three chances and you are finished. (From baseball.) _ One more arrest for speeding and you lose your license. You know, three strikes and you’re out."
+        },
+        {
+            "id": 135,
+            "phrase": "thrill at someone or something",
+            "definition": "to become excited by someone or something.  The opera was mystically intoxicating, and the audience thrilled at the tenor lead.  We thrilled at the agility of the dancers."
+        },
+        {
+            "id": 136,
+            "phrase": "thrill someone with something",
+            "definition": "to create or use something to cause someone much joy.  The famous singer thrilled us with a lovely song.  Sally was thrilled with the praise heaped upon her daughter."
+        },
+        {
+            "id": 137,
+            "phrase": "thrill to something",
+            "definition": "to become excited by something; to experience great joy while experiencing something.  I always thrill to the sound of a marching band. The crowd thrilled to the sight of the winning team parading down Main Street."
+        },
+        {
+            "id": 138,
+            "phrase": "thrive (up)on something",
+            "definition": "to grow vigorously because of something. (Upon is formal and less commonly used than on.) _These plants thrive upon wet soil. Children thrive on love."
+        },
+        {
+            "id": 139,
+            "phrase": "throng around someone or something",
+            "definition": "to crowd around someone or something.  The children thronged around the lady with the bags of candy.  Everyone thronged around the piano for the group sing."
+        },
+        {
+            "id": 140,
+            "phrase": "throng in(to something)",
+            "definition": "[for a crowd] to swarm into some place.  The eager crowd thronged into the department store to partake in the advertised sale.  The doors opened and they thronged in."
+        },
+        {
+            "id": 141,
+            "phrase": "throng out (of something)",
+            "definition": "[for a crowd] to swarm out of something or some place. The people thronged out of the concert hall at the end of the program.  At half past ten, the crowd thronged out."
+        },
+        {
+            "id": 142,
+            "phrase": "throttle something down†",
+            "definition": "to reduce the speed of an engine by adjusting the throttle.  She throttled her engine down and came to a stop.  She throttled down her engine."
+        },
+        {
+            "id": 143,
+            "phrase": "through and through",
+            "definition": "thoroughly; completely.  I’ve studied this report through and through trying to find the facts you’ve mentioned. I was angry through and through, and I had to sit and recover before I could talk to anyone."
+        },
+        {
+            "id": 144,
+            "phrase": "through hell and high water",
+            "definition": "through all sorts of severe difficulties. (Use hell with caution.) _ I came through hell and high water to get to this meeting on time. Why don’t you start on time? _ You’ll have to go through hell and high water to accomplish your goal, but it’ll be worth it."
+        },
+        {
+            "id": 145,
+            "phrase": "*through the cracks",
+            "definition": "[moving] past the elements that are intended to catch or detect such things. (*Typically: fall ~; drop ~; go ~; slip ~.) _ I am afraid that some of these issues will slip through the cracks unless we make a note about each one."
+        },
+        {
+            "id": 146,
+            "phrase": "*through the mill",
+            "definition": "badly treated; abused and exhausted. (Fig. on a grain mill. *Typically: be ~; go ~; put someone ~; send someone ~.) _ This has been a rough day. I’ve really been through the mill.  This old car is banged up, and it hardly runs. We really put it through the mill."
+        },
+        {
+            "id": 147,
+            "phrase": "through thick and thin",
+            "definition": "Cliché through good times and bad times.  We’ve been together through thick and thin, and we won’t desert each other now.  Over the years, we went through thick and thin and enjoyed every minute of it."
+        },
+        {
+            "id": 148,
+            "phrase": "*through with someone or something",
+            "definition": "finished with someone or something. (*Typically: be ~; get ~.) _ I’m all through with course requirements. Now I can learn something I really enjoy.  Lily is through with Max."
+        },
+        {
+            "id": 149,
+            "phrase": "throw a fight",
+            "definition": "to lose a boxing match on purpose. (Boxing. Other words can replace a.) _ I just know that Wilbur didn’t throw that fight.  The guy would never throw a fight."
+        },
+        {
+            "id": 150,
+            "phrase": "throw a game",
+            "definition": "to lose a game on purpose.  I know Wilbur. He could never throw a game.  There’s a couple of those guys who would throw a game if they got enough money to do it."
+        },
+        {
+            "id": 151,
+            "phrase": "throw a glance at someone or something",
+            "definition": "to take a quick peek at someone or something. Liz threw a glance at her brother to see what he was going to do.  I threw a glance at my watch and got ready to go."
+        },
+        {
+            "id": 152,
+            "phrase": "throw a monkey wrench in the works",
+            "definition": "to cause problems for someone’s plans.  I don’t want to throw a monkey wrench in the works, but have you checked your plans with a lawyer? _When John suddenly refused to help us, he really threw a monkey wrench in the works."
+        },
+        {
+            "id": 153,
+            "phrase": "throw a party (for someone)",
+            "definition": "to have a party; to hold a party; to arrange a party. Bill threw a party for his sister before she went away to college.  Things seem sort of dull. Let’s throw a party."
+        },
+        {
+            "id": 154,
+            "phrase": "throw a punch",
+            "definition": "to jab; to punch.  She tried to throw a punch at me, but I blocked it.  Wilbur threw a punch at the thug."
+        },
+        {
+            "id": 155,
+            "phrase": "throw a tantrum",
+            "definition": "to have a temper tantrum; to put on an active display of childish temper.  I never dreamed that Bob would throw a tantrum right there in the department store. You must be so embarrassed!"
+        },
+        {
+            "id": 156,
+            "phrase": "throw an amount of light on someone or something",
+            "definition": "to present some revealing information about someone or something.  What you have just told me throws a lot of light on George and his motivation. Will you please throw some light on the problem?"
+        },
+        {
+            "id": 157,
+            "phrase": "throw caution to the wind",
+            "definition": "Cliché to become very careless.  Jane, who is usually cautious, threw caution to the wind and went swimming in the ocean. I don’t mind taking a little chance now and then, but I’m not the type of person who throws caution to the wind."
+        },
+        {
+            "id": 158,
+            "phrase": "Throw dirt enough, and some will stick.",
+            "definition": "Prov. If you persistently say bad things about someone, people will begin to believe your accusations, even if they are not true. (Sometimes mud is used instead of dirt.) _One of the candidates in the election kept accusing the other one of having cheated on his income tax, and eventually the voters believed it. As they say, throw dirt enough, and some will stick."
+        },
+        {
+            "id": 159,
+            "phrase": "throw down the gauntlet",
+            "definition": "to challenge someone to an argument or to (figurative) combat. When Bob chal- lenged my conclusions, he threw down the gauntlet. I was ready for an argument.  Frowning at Bob is the same as throwing down the gauntlet. He loves to get into a fight about something."
+        },
+        {
+            "id": 160,
+            "phrase": "throw good money after bad",
+            "definition": "to waste additional money after wasting money once.  I bought a used car and then had to spend $300 on repairs. That was throwing good money after bad.  The Browns are always throwing good money after bad. They bought an acre of land that turned out to be swamp, and then had to pay to have it filled in."
+        },
+        {
+            "id": 161,
+            "phrase": "throw in with someone",
+            "definition": "to join with someone; to join someone’s enterprise.  I will throw in with you and we can all go hunting together.  Do you mind if I throw in with you?"
+        },
+        {
+            "id": 162,
+            "phrase": "throw money at something",
+            "definition": "to try to solve a problem by indiscriminately spending money on it.  This agency has thrown money at the housing problem, but it has been nothing but a long-term disaster. Don’t just throw money at it."
+        },
+        {
+            "id": 163,
+            "phrase": "throw one out on one’s ear",
+            "definition": "to remove someone from a place forcibly.  Straighten up, or I’ll throw you out on your ear.  The caretaker caught us and threw us out on our ear."
+        },
+        {
+            "id": 164,
+            "phrase": "throw one’s hands up† (in despair)",
+            "definition": "to make a gesture of throwing up one’s hands indicating futility, despair, finality, etc.  He threw his hands up in despair and walked away.  She threw up her hands and f led."
+        },
+        {
+            "id": 165,
+            "phrase": "throw one’s hands up† in horror",
+            "definition": "to be shocked and horrified.  When Bill heard the bad news, he threw his hands up in horror.  I could do no more. I had seen more than I could stand. I just threw up my hands in horror and screamed."
+        },
+        {
+            "id": 166,
+            "phrase": "throw one’s voice",
+            "definition": "to project one’s voice so that it seems to be coming from some other place.  The ventriloquist threw his voice. Jane can throw her voice, so I thought she was standing behind me."
+        },
+        {
+            "id": 167,
+            "phrase": "throw one’s weight around",
+            "definition": "to attempt to boss people around; to give orders.  The district manager came to our office and tried to throw his weight around, but no one paid any attention to him.  Don’t try to throw your weight around in this office. We know who our boss is."
+        },
+        {
+            "id": 168,
+            "phrase": "throw oneself at someone’s feet",
+            "definition": "to bow down humbly at someone’s feet; to prostrate oneself before someone. In his guilt and horror, he threw himself at the feet of his master and begged forgiveness."
+        },
+        {
+            "id": 169,
+            "phrase": "throw oneself into something",
+            "definition": "to jump into something, such as a body of water.  He stood on the bridge and threw himself into the river because he was unhappy with life."
+        },
+        {
+            "id": 170,
+            "phrase": "throw people together",
+            "definition": "to bring or put two or more people together. The crisis threw complete strangers together, and they became fast friends before it was over. They were thrown together by fate."
+        },
+        {
+            "id": 171,
+            "phrase": "throw someone a curve",
+            "definition": "to pitch a curveball to someone in baseball. (See pitch someone a curve(ball).) _ The pitcher threw John a curve, and John swung wildly against thin air.  During that game, the pitcher threw everyone a curve at least once."
+        },
+        {
+            "id": 172,
+            "phrase": "throw someone for a loss",
+            "definition": "to cause someone to be uncertain or confused. (Often passive.) _ The stress of being in front of so many people threw Ann for a loss. She forgot her speech. It was a difficult problem. I was thrown for a loss for an answer."
+        },
+        {
+            "id": 173,
+            "phrase": "throw someone off",
+            "definition": "to interrupt and confuse someone; to mislead someone.  The interruption threw me off, and I lost my place in the speech.  Little noises throw me off. Please try to be quiet.  Your comment threw me off."
+        },
+        {
+            "id": 174,
+            "phrase": "throw someone off balance",
+            "definition": "to cause someone to falter (and probably fall).  The cyclist bumped into me and threw me off balance.  I was thrown off balance by the gust of wind."
+        },
+        {
+            "id": 175,
+            "phrase": "throw someone or something around†",
+            "definition": "to toss or cast someone or something around.  The belligerent fellow at the bar threatened to throw me around a little if I didn’t get out of his way.  Don’t throw around your empty cans."
+        },
+        {
+            "id": 176,
+            "phrase": "throw someone or something aside†",
+            "definition": "to cast someone or something to the side.  He threw his child aside just as the car was about to run him down.  Don’t just throw aside the wrapper!"
+        },
+        {
+            "id": 177,
+            "phrase": "throw someone or something back†",
+            "definition": "to return someone or something by tossing. The sailor climbed out of the water into the boat, and his mates grabbed him and threw him back. That was their idea of fun.  Karen threw back the undersize fish."
+        },
+        {
+            "id": 178,
+            "phrase": "throw someone or something into confusion",
+            "definition": "to cause people or a process to become confused, aimless, or disorderly.  She made her entrance early and threw eveyone onstage into confusion.  The judge’s surprise ruling threw the courtroom into confusion."
+        },
+        {
+            "id": 179,
+            "phrase": "throw someone or something on(to) something",
+            "definition": "to hurl someone or something onto something.  The intruder threw Jason onto the f loor and began to kick him.  He threw the book on the f loor and stalked out."
+        },
+        {
+            "id": 180,
+            "phrase": "throw someone or something over someone or something",
+            "definition": "to toss someone or something over someone or something; to lay someone or something across someone or something. The wrestler picked his opponent up and threw him over the referee.  He threw his opponent over the ropes."
+        },
+        {
+            "id": 181,
+            "phrase": "throw someone over",
+            "definition": "to end a romance with someone.  Jane threw Bill over. I think she met someone she likes better.  Bill was about ready to throw her over, so it’s just as well."
+        },
+        {
+            "id": 182,
+            "phrase": "throw someone over† for someone else",
+            "definition": "to break up with a lover in order to take another lover.  Sarah threw Jason over for Larry.  She threw over Jason for Walter."
+        },
+        {
+            "id": 183,
+            "phrase": "throw someone’s name around",
+            "definition": "to impress people by saying you know a famous or influential person.  You won’t get anywhere around here by throwing the mayor’s name around.  When you get to the meeting, just throw my name around a bit, and people will pay attention to you."
+        },
+        {
+            "id": 184,
+            "phrase": "throw someone to the dogs",
+            "definition": "to abandon someone to enemies or evil. He served the evil empire well, but in the end, they threw him to the dogs."
+        },
+        {
+            "id": 185,
+            "phrase": "throw someone to the wolves",
+            "definition": "to sacrifice someone to save the rest; to abandon someone to harm. (Fig. on the image of giving one person to the wolves to eat so the rest can get away.) _ Don’t try to throw me to the wolves. I’ll tell the truth about the whole affair! _ The investigation was going to be rigorous and unpleasant, and I could see they were going to throw someone to the wolves."
+        },
+        {
+            "id": 186,
+            "phrase": "throw something across someone or something",
+            "definition": "to toss or spread something, such as a blanket, over someone or something.  Tom threw a blanket across Martha.  Tom threw a blanket across his knees."
+        },
+        {
+            "id": 187,
+            "phrase": "throw something across something",
+            "definition": "to toss something over something, from one side of it to the other.  Can you throw this stone across the river? _ Walter threw the ball across the court to Michael."
+        },
+        {
+            "id": 188,
+            "phrase": "throw something at someone or something",
+            "definition": "to toss or cast something at someone or something.  The boy threw a rock at his sister.  He threw the stone at the target."
+        },
+        {
+            "id": 189,
+            "phrase": "throw something away†",
+            "definition": "to toss something out; to dispose of something.  Should I throw this away? _ Don’t throw away anything that might be useful."
+        },
+        {
+            "id": 190,
+            "phrase": "throw something away† on someone or something",
+            "definition": "to waste something on someone or something. I won’t throw any more money away on your brother-in-law.  I’ve thrown away too much money on that project. thrust throw something back† Sl. to eat or drink something quickly. He threw a beer back and got up and left. She threw back a beer."
+        },
+        {
+            "id": 191,
+            "phrase": "throw something back† at someone",
+            "definition": "to return a problem or difficulty to the person from whom it came.  He said that the problem was mine alone, and he threw it back at me.  I tried to get someone else to take care of it, but it was thrown back at me."
+        },
+        {
+            "id": 192,
+            "phrase": "throw something back† to someone",
+            "definition": "to return something to someone by throwing.  Liz threw the ball back to Kelly. She threw back the ball."
+        },
+        {
+            "id": 193,
+            "phrase": "throw something down†",
+            "definition": "to cast something down onto the ground; to cast something to a lower level.  Dave took one look at the box and threw it down.  He threw down the box."
+        },
+        {
+            "id": 194,
+            "phrase": "throw something down something",
+            "definition": "to hurl something downward through something, such as a stairway, a duct, a drain, a hole.  Max threw the weapon down the storm sewer.  Someone threw the bucket down the well."
+        },
+        {
+            "id": 195,
+            "phrase": "throw something into sharp relief",
+            "definition": "[for something] to make something plainly evident or clearly visible.  The dull, plain background threw the ornate settee into sharp relief.  The red vase was thrown into sharp relief against the black background."
+        },
+        {
+            "id": 196,
+            "phrase": "throw something in(to) someone’s face",
+            "definition": "to hurl or splash something into someone’s face.  Jerry got mad at Bob and threw his drink into Bob’s face. He threw the pie in Ken’s face."
+        },
+        {
+            "id": 197,
+            "phrase": "throw something off†",
+            "definition": "to cast something, such as a coat, off one’s body.  He threw his jacket off and dived into the icy water. He threw off his jacket."
+        },
+        {
+            "id": 198,
+            "phrase": "throw something on someone or something",
+            "definition": "to toss or sling something over or onto someone or something. (Upon is formal and less commonly used than on.) _ Mommy, Jimmy threw some mud on me! _Throw a cloth on the sofa to protect it from paint spatters."
+        },
+        {
+            "id": 199,
+            "phrase": "throw something to someone or something",
+            "definition": "to toss something to someone or something. Throw the ball to me! _Gary threw a bit of meat to the dog to quiet it."
+        },
+        {
+            "id": 200,
+            "phrase": "throw something up†",
+            "definition": "1. to build or erect something in a hurry.  They sure threw that building up in a hurry.  They threw up the building in only a few weeks. 2. to vomit something. Poor Wally threw his dinner up. He threw up his dinner."
+        },
+        {
+            "id": 201,
+            "phrase": "throw something up to someone",
+            "definition": "to confront someone with something.  I threw the whole matter up to her, but she had nothing to say about it.  I can’t figure out what to do. I will just throw the whole business up to the boss."
+        },
+        {
+            "id": 202,
+            "phrase": "throw something up to someone or something",
+            "definition": "to cast something upward to someone or something.  Gary threw a hammer up to the top of the porch roof where Ted could get it.  Please throw a can of lemonade up to me."
+        },
+        {
+            "id": 203,
+            "phrase": "throw the baby out† with the bath(water)",
+            "definition": "to dispose of the good while eagerly trying to get rid of the bad. (Fig. on the image of carelessly emptying a tub of both the water inside as well as the baby that was being washed.) _In her haste to talk down a project that had only a few disagreeable points, she has thrown the baby out with the bathwater.  Hasty action on this major spending bill will result in throwing out the baby with the bath."
+        },
+        {
+            "id": 204,
+            "phrase": "throw the book at someone",
+            "definition": "to charge or convict someone with as many crimes as is possible. I made the police officer angry, so he took me to the station and threw the book at me.  The judge threatened to throw the book at me if I didn’t stop insulting the police officer."
+        },
+        {
+            "id": 205,
+            "phrase": "throw up",
+            "definition": "to vomit.  I was afraid I would throw up, the food was so horrible. This food is bad enough to make you throw up."
+        },
+        {
+            "id": 206,
+            "phrase": "throw up one’s toenails",
+            "definition": "Sl. to vomit heavily.  I was so sick. I nearly threw up my toenails. Frank was in the bathroom, throwing up his toenails."
+        },
+        {
+            "id": 207,
+            "phrase": "thrust and parry",
+            "definition": "to enter into verbal combat [with someone]; to compete actively [with someone]. (Fig. on the sport of fencing.) _I spent the entire afternoon thrusting and parrying with a committee of so-called experts in the field of insurance.  I do not intend to stand here and thrust and parry with you over a simple matter like this. Let’s get someone else’s opinion."
+        },
+        {
+            "id": 208,
+            "phrase": "thrust out",
+            "definition": "to stick out; to stab outward; to protrude outward. A deck thrust out from the back of the house, offering a lovely view of the stream far below.  As he grew angrier, his chin thrust out farther and farther."
+        },
+        {
+            "id": 209,
+            "phrase": "thrust someone or something against someone or something",
+            "definition": "to drive or shove someone or something against someone or something.  The force of the crash thrust Liz against Tiffany.  The crash thrust Liz against the car door."
+        },
+        {
+            "id": 210,
+            "phrase": "thrust someone or something aside†",
+            "definition": "to push someone or something out of the way or to one side.  Walter thrust Fred aside and dashed by him into the room.  He thrust aside Fred and came into the room."
+        },
+        {
+            "id": 211,
+            "phrase": "thrust someone or something away† from someone or something",
+            "definition": "to push or throw someone or something away from someone or something.  The guards thrust the spectators away from the path the rock star was taking.  They thrust away the spectators from the star."
+        },
+        {
+            "id": 212,
+            "phrase": "thrust someone or something back†",
+            "definition": "to push someone or something backward and away. Tom moved forward, but the guard thrust him back. He thrust back the door, which had closed on his foot."
+        },
+        {
+            "id": 213,
+            "phrase": "thrust someone or something through something",
+            "definition": "to drive or push someone or something through something.  I thrust Larry through the open door and followed along quickly.  Ann thrust the wad of papers through the opening."
+        },
+        {
+            "id": 214,
+            "phrase": "thrust something at someone or something",
+            "definition": "to stab at someone or something with something.  The goat thrust its head at the dog. Ann thrust the pencil at the balloon and popped it."
+        },
+        {
+            "id": 215,
+            "phrase": "thrust something down†",
+            "definition": "to jab something downward.  Max thrust the knife down and speared a piece of chicken.  He thrust down the fork like a spear."
+        },
+        {
+            "id": 216,
+            "phrase": "thrust something down something",
+            "definition": "to jab or stab something down into something.  The keeper quickly thrust the medicine down the lion’s throat.  The chimney sweep thrust his brush down the chimney."
+        },
+        {
+            "id": 217,
+            "phrase": "thrust something forward",
+            "definition": "to jab something forward.  She thrust her jaw forward and walked into the room.  Roger thrust his hand forward just in time to stop the child from crossing the street."
+        },
+        {
+            "id": 218,
+            "phrase": "thrust through something",
+            "definition": "to drive or push through something forcefully.  The front end of the car thrust through the side of the house. The stock clerk’s knife thrust through the box, ruining the packages of noodles inside."
+        },
+        {
+            "id": 219,
+            "phrase": "thrust up through something",
+            "definition": "to stick or stab upward through something.  The tallest of the trees thrust up through the canopy of leaves far overhead.  We heard a ripping sound and saw the tent pole thrust up through the top of the tent."
+        },
+        {
+            "id": 220,
+            "phrase": "thud against someone or something",
+            "definition": "to thump against someone or something, making a dull noise on impact.  The pumpkin thudded against Jerry, breaking open and messing up his clothes. The ball thudded against the wall and bounced back."
+        },
+        {
+            "id": 221,
+            "phrase": "thud into someone or something",
+            "definition": "to bump into someone or something, making a dull noise on impact.  The door blew open and thudded into Marie, giving her a bump on the knee.  The ball thudded into the side of the house."
+        },
+        {
+            "id": 222,
+            "phrase": "thumb one’s nose at someone or something",
+            "definition": "to show a sign of derision at someone or something by placing the thumb to the side of the nose. (Often while wiggling the other fingers of the hand.) _ Don’t thumb your nose at me unless you want a fight. Fred thumbed his nose at the car as it drove off."
+        },
+        {
+            "id": 223,
+            "phrase": "a thumbnail sketch",
+            "definition": "a brief or small picture or description. The manager gave a thumbnail sketch of her plans.  The student wrote a thumbnail sketch of his project."
+        },
+        {
+            "id": 224,
+            "phrase": "thumbs down",
+            "definition": "1. a sign of disapproval. The board gave our proposal a thumbs down.  The administration’s tax bill got a thumbs down in Congress. 2. disapproving; negative.  It was thumbs down, and I was disappointed.  The thumbs-down decision was a victory for good sense."
+        },
+        {
+            "id": 225,
+            "phrase": "thumbs up",
+            "definition": "1. a sign of approval. It was a thumbs up on the new filtration plant at Thursday’s village board meeting.  There was no thumbs up for the mayor as she faced certain defeat in today’s balloting. 2. approving; positive.  The new filtration plant got a thumbs-up decision at the board meeting.  A thumbs-up vote assured another three years of financial assistance."
+        },
+        {
+            "id": 226,
+            "phrase": "thump on someone or something",
+            "definition": "to pound on someone or something.  Tim was angry with Roger and thumped on him a little, but decided to forgive him.  Andy thumped on the bass drum for an hour."
+        },
+        {
+            "id": 227,
+            "phrase": "thump something down†",
+            "definition": "to throw something down so it makes a pounding noise.  Nancy thumped the parcel down and caught her breath. She thumped down the parcel."
+        },
+        {
+            "id": 228,
+            "phrase": "thump something out† (on the piano)",
+            "definition": "to pound out music on a piano.  Joel thumped a happy tune out on the piano.  He thumped out a well-known tune."
+        },
+        {
+            "id": 229,
+            "phrase": "thunder across something",
+            "definition": "to move across something, making a rumbling sound. The jets thundered across the sky, heading for their home base.  As the race car thundered across the track, people strained to get a better view."
+        },
+        {
+            "id": 230,
+            "phrase": "thunder past someone or something",
+            "definition": "to move past someone or something, rumbling.  As the traffic thundered past, I wondered why there was so much of it.  The train thundered past the sleeping town."
+        },
+        {
+            "id": 231,
+            "phrase": "thunder something out†",
+            "definition": "to respond with words spoken in a voice like thunder.  He thundered the words out so everyone could hear them. He thundered out the words."
+        },
+        {
+            "id": 232,
+            "phrase": "tick away",
+            "definition": "[for seconds or minutes] to go by as the clock ticks.  The seconds ticked away as the fateful time got closer.  As time ticked away, the surgeons worked feverishly to repair the walls of Roger’s heart."
+        },
+        {
+            "id": 233,
+            "phrase": "tick someone off†",
+            "definition": "to make someone angry.  That really ticks me off! _ Doesn’t that tick off everyone?"
+        },
+        {
+            "id": 234,
+            "phrase": "ticked (off )",
+            "definition": "angry. Wow, was she ticked off! _Kelly was totally ticked."
+        },
+        {
+            "id": 235,
+            "phrase": "ticket someone for some place",
+            "definition": "to supply a ticket for someone to go to some place.  The airlines clerk ticketed me for Houston and checked in my baggage.  I was ticketed for both f lights, saving me some time."
+        },
+        {
+            "id": 236,
+            "phrase": "tickle someone pink",
+            "definition": "to please or entertain someone very much.  Bill told a joke that really tickled us all pink.  I know that these flowers will tickle her pink."
+        },
+        {
+            "id": 237,
+            "phrase": "tickle someone’s fancy",
+            "definition": "to interest someone; to make someone curious.  I have an interesting problem here that I think will tickle your fancy.  This doesn’t tickle my fancy at all. This is dull and boring."
+        },
+        {
+            "id": 238,
+            "phrase": "tickle the ivories",
+            "definition": "to play the piano. I used to be able to tickle the ivories real nice.  She sat down to tickle the ivories for a while."
+        },
+        {
+            "id": 239,
+            "phrase": "tickled pink",
+            "definition": "very much pleased or entertained.  I was tickled pink to have you visit us. We were tickled pink when your f lowers arrived."
+        },
+        {
+            "id": 240,
+            "phrase": "tide someone over† (until something)",
+            "definition": "to supply someone until a certain time or until something happens.  Will this amount tide us over until next week? _There is enough food here to tide over the entire camp until next month.  Yes, this will tide us over."
+        },
+        {
+            "id": 241,
+            "phrase": "the tide turned",
+            "definition": "the tide changed from high tide to low tide or vice versa.  The tide turned before the ship had sailed out of the harbor."
+        },
+        {
+            "id": 242,
+            "phrase": "tidy something up†",
+            "definition": "to clean something up; to make something more orderly.  Please tidy this room up.  I’ll tidy up the kitchen later."
+        },
+        {
+            "id": 243,
+            "phrase": "tidy up",
+            "definition": "to clean up [oneself or a place].  Please tidy up. This place is a mess.  Please tidy up. You are a mess."
+        },
+        {
+            "id": 244,
+            "phrase": "tie in (with someone or something)",
+            "definition": "to join with someone or something; to connect with someone or something.  I would like to tie in with you and see if we can solve this together.  We would like for you to tie in and share your expertise."
+        },
+        {
+            "id": 245,
+            "phrase": "tie in with something",
+            "definition": "[for a piece of information] to complement other information.  These figures tie in with what I just said. The crime lab report ties in with our current theory."
+        },
+        {
+            "id": 246,
+            "phrase": "tie in(to something)",
+            "definition": "to fasten or connect to something.  Can you fix it so my computer can tie into Rachel’s? _This one will not tie into her computer."
+        },
+        {
+            "id": 247,
+            "phrase": "tie someone down (to someone or something)",
+            "definition": "to encumber something with someone or something; to make someone responsible to or for someone or something.  Please don’t tie me down to your uncle. Let your sister help out.  Yes, don’t tie me down all week."
+        },
+        {
+            "id": 248,
+            "phrase": "tie someone or something down†",
+            "definition": "to fasten someone or something down by tying or binding.  The robbers tied Gary down so he couldn’t get up and get away.  They tied down Gary."
+        },
+        {
+            "id": 249,
+            "phrase": "tie someone or something to something",
+            "definition": "to bind someone or something to something.  The robber tied the clerk to a chair.  I tied colored yarn to the birthday present."
+        }
+    ]
+}

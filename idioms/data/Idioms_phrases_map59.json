@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "on the fringe",
+            "definition": "at the outer boundary or edge of something.  He doesn’t live in the city, just on the fringe."
+        },
+        {
+            "id": 1,
+            "phrase": "*on the front burner",
+            "definition": "receiving particular attention or consideration. (Compare this with on the back burner. *Typically: be ~; put something ~.) _ So, what’s on the front burner for us this week? _ Move this project to the front burner so it will get some attention."
+        },
+        {
+            "id": 2,
+            "phrase": "on the go",
+            "definition": "busy; moving about busily.  I’m usually on the go all day long.  I hate being on the go all the time."
+        },
+        {
+            "id": 3,
+            "phrase": "on the heels of something",
+            "definition": "soon after something.  There was a rainstorm on the heels of the windstorm. The team held a victory celebration on the heels of their winning season."
+        },
+        {
+            "id": 4,
+            "phrase": "on the horizon",
+            "definition": "appearing at the boundary between the earth and the sky.  There is a storm on the horizon."
+        },
+        {
+            "id": 5,
+            "phrase": "on the horns of a dilemma",
+            "definition": "having to decide between two things, people, etc. Mary found herself on the horns of a dilemma. She didn’t know which to choose.  I make up my mind easily. I’m not on the horns of a dilemma very often."
+        },
+        {
+            "id": 6,
+            "phrase": "on the hour",
+            "definition": "at each hour on the hour mark.  I have to take this medicine every hour on the hour.  I expect to see you there on the hour, not one minute before and not one minute after."
+        },
+        {
+            "id": 7,
+            "phrase": "on the house",
+            "definition": "[of something] given away free by a merchant.  “Here,” said the waiter, “have a cup of coffee on the house.” _ I went to a restaurant last night. I was the ten thousandth customer, so my dinner was on the house."
+        },
+        {
+            "id": 8,
+            "phrase": "on the job",
+            "definition": "working; doing what one is expected to do.  I’m always on the job when I should be.  I can depend on my furnace to be on the job day and night."
+        },
+        {
+            "id": 9,
+            "phrase": "on the lam",
+            "definition": "running from the police. (Underworld.) _ Richard has been on the lam for a week now.  The gang leader broke out of prison and is still on the lam."
+        },
+        {
+            "id": 10,
+            "phrase": "on the level",
+            "definition": "honest; straightforward. Come on now, on the level, tell me the truth.  Is the ad on the level?"
+        },
+        {
+            "id": 11,
+            "phrase": "on the lookout (for someone or something)",
+            "definition": "watchful for someone or something.  Be on the lookout for signs of a storm.  I’m on the lookout for John, who is due here any minute."
+        },
+        {
+            "id": 12,
+            "phrase": "on the loose",
+            "definition": "running around free.  Look out! There is a bear on the loose from the zoo.  Most kids enjoy being on the loose when they go to college."
+        },
+        {
+            "id": 13,
+            "phrase": "on the make",
+            "definition": "1. building or developing; being made.  There is a company that is on the make.  That was a very good sales strategy, John. You’re a real-estate agent on the make. 2. making sexual advances; seeking sexual activities. It seems like Bill is always on the make. He should meet Sally, who is also on the make."
+        },
+        {
+            "id": 14,
+            "phrase": "on the mark",
+            "definition": "right on the measurement point; showing just the right anount.  It’s exactly one quart, right on the mark."
+        },
+        {
+            "id": 15,
+            "phrase": "*on the market",
+            "definition": "openly available for sale. (*Typically: be ~; get something ~; put something ~.) _ We put our house on the market last year and it still hasn’t sold."
+        },
+        {
+            "id": 16,
+            "phrase": "on the mend",
+            "definition": "getting better; becoming healthy again.  I cared for my father while he was on the mend.  I took a leave of absence from work while I was on the mend."
+        },
+        {
+            "id": 17,
+            "phrase": "on the move",
+            "definition": "1. moving from place to place.  Are the cattle on the move now, or are they still grazing? 2. progressing; advancing.  Finally the market has turned around now and is really on the move.  At last, we are on the move!"
+        },
+        {
+            "id": 18,
+            "phrase": "on the off chance",
+            "definition": "because of a slight possibility that something may happen or might be the case; just in case.  I went to the theater on the off chance that there were tickets for the show left. We didn’t think we would get into the football game, but we went on the off chance."
+        },
+        {
+            "id": 19,
+            "phrase": "on (the) one hand",
+            "definition": "from one point of view; as one side (of an issue).  On one hand, I really ought to support my team. On the other hand, I don’t have the time to attend all the games.  On the one hand, I really could use Ann’s help. On the other hand, she and I don’t get along very well."
+        },
+        {
+            "id": 20,
+            "phrase": "on the other hand",
+            "definition": "a phrase introducing an alternate view.  John: I’m ready to go; on the other hand, I’m perfectly comfortable here. Sally: I’ll let you know when I’m ready, then.  Mary: I like this one. On the other hand, this is nice too. Sue: Why not get both?"
+        },
+        {
+            "id": 21,
+            "phrase": "on the outs (with someone)",
+            "definition": "Inf. in a mild dispute with someone; sharing ill will with someone.  Tom and Bill are on the outs again.  Tom has been on the outs with Bill before. They’ll work it out."
+        },
+        {
+            "id": 22,
+            "phrase": "on the pill",
+            "definition": "taking birth control pills. Is it true that Mary is on the pill? _ She was on the pill, but she isn’t now."
+        },
+        {
+            "id": 23,
+            "phrase": "on the prowl",
+            "definition": "looking for someone for sexual purposes. (Alludes to a prowling cat.) _ Tom looks like he is on the prowl again tonight.  That whole gang of boys is on the prowl. Watch out."
+        },
+        {
+            "id": 24,
+            "phrase": "on the QT",
+            "definition": "quietly; secretly. (An abbreviation of quiet.) _ The company president was making payments to his wife on the QT.  The mayor accepted a bribe on the QT."
+        },
+        {
+            "id": 25,
+            "phrase": "on the rag",
+            "definition": "1. Sl.menstruating. (Potentially offensive. Use with caution.) _ Kim’s on the rag and in a bad mood.  Sue doesn’t go swimming when she’s on the rag. 2. Sl. illtempered. Bill is on the rag and making trouble for everyone.  Wow, Bob, you are on the rag. What’s eating you?"
+        },
+        {
+            "id": 26,
+            "phrase": "on the right track",
+            "definition": "following the right track or trail; riding on the correct track, as with a train.  The train was on the right track when it left the station. I can’t imagine how it got lost."
+        },
+        {
+            "id": 27,
+            "phrase": "on the rise",
+            "definition": "increasing in frequency or intensity.  The number of auto thefts in Cook County is on the rise again."
+        },
+        {
+            "id": 28,
+            "phrase": "on the road",
+            "definition": "traveling from place to place, not necessarily on the highways; working away from one’s home or office.  I was on the road with the circus for six months.  I don’t work in the main office anymore. Now I’m on the road."
+        },
+        {
+            "id": 29,
+            "phrase": "on the road to recovery",
+            "definition": "Cliché recovering; getting better; improving. It’s been two weeks since her surgery, and she is on the road to recovery."
+        },
+        {
+            "id": 30,
+            "phrase": "on the rocks",
+            "definition": "[of a ship] broken and marooned on rocks in the sea.  The ship crashed and was on the rocks until the next high tide."
+        },
+        {
+            "id": 31,
+            "phrase": "on the run",
+            "definition": "1. Fig. while one is moving from place to place.  I will try to pick up some aspirin today on the run.  I will think about it on the run. 2. Fig. running from the police.  Richard is on the run from the cops.  The gang of crooks is on the run."
+        },
+        {
+            "id": 32,
+            "phrase": "on the safe side",
+            "definition": "taking the risk-free path. Let’s be on the safe side and call first.  I think you should stay on the safe side and call the doctor about this fever."
+        },
+        {
+            "id": 33,
+            "phrase": "on the same wavelength",
+            "definition": "thinking in the same pattern.  We’re not on the same wavelength. Let’s try again.  We kept talking until we got on the same wavelength."
+        },
+        {
+            "id": 34,
+            "phrase": "on the sauce",
+            "definition": "drinking regularly; intoxicated.  Poor old Ron is on the sauce again.  He is on the sauce most of the time."
+        },
+        {
+            "id": 35,
+            "phrase": "on the scene",
+            "definition": "available or present where something is happening or where something has happened.  The ambulance was on the scene almost immediately. I wasn’t on the scene when it happened."
+        },
+        {
+            "id": 36,
+            "phrase": "on the shelf",
+            "definition": "1. Fig. not active socially; left to oneself in social matters. (Alludes to being left or stored on a shelf.) _ I’ve been on the shelf long enough. I’m going to make some friends.  She likes being on the shelf. 2. Fig. postponed.  We’ll have to put this matter on the shelf for a while. I have a plan on the shelf just waiting for an opportunity like this."
+        },
+        {
+            "id": 37,
+            "phrase": "on the side",
+            "definition": "extra, such as with a job or an additional order of food.  I would like an order of eggs with toast on the side, please. She is a bank teller and works as a waitress on the side."
+        },
+        {
+            "id": 38,
+            "phrase": "on the skids",
+            "definition": "Sl. on the decline.  My newly started business is on the skids.  Her health is really on the skids, but she stays cheery anyway."
+        },
+        {
+            "id": 39,
+            "phrase": "on the sly",
+            "definition": "secretly and deceptively.  She was stealing little bits of money on the sly.  Martin was having an affair with the maid on the sly."
+        },
+        {
+            "id": 40,
+            "phrase": "on the spot",
+            "definition": "at exactly the right place; at exactly the right time.  It’s noon, and I’m glad you’re all here on the spot. Now we can begin. I expect you to be on the spot when and where trouble arises."
+        },
+        {
+            "id": 41,
+            "phrase": "on the spur of the moment",
+            "definition": "suddenly; spontaneously. We decided to go on the spur of the moment.  I had to leave town on the spur of the moment."
+        },
+        {
+            "id": 42,
+            "phrase": "*on the stick",
+            "definition": "Inf. organized and busy. (*Typically: be ~; get ~.) _ Get on the stick and get this job done! _ Come on, you guys. Let’s get on the stick!"
+        },
+        {
+            "id": 43,
+            "phrase": "on the street",
+            "definition": "1. Fig. widely known.  Sue put it on the street, and now everyone knows.  It’s on the street. There isn’t anyone who hasn’t heard it. 2. Fig. on Wall Street or elsewhere in the New York City financial districts. (Similar to E, except that it refers to a specific street. Usually with a capital s.) _ I heard on the Street today that bank stocks are headed up.  It’s on the Street that the market is due to crash again. 3. Fig. at discount prices; as available at its lowest retail price. (As if some item were being sold on the street by a peddler.) _ It lists at $2200 and can be got for about $1650 on the street.  On the street it goes for about $400."
+        },
+        {
+            "id": 44,
+            "phrase": "on the strength of something",
+            "definition": "because of the support of something, such as a promise or evidence; due to something.  On the strength of your comment, I decided to give John another chance.  On the strength of my testimony, my case was dismissed."
+        },
+        {
+            "id": 45,
+            "phrase": "on the table",
+            "definition": "subject to discussion by the group; submitted as a point of discussion.  The chairman said we could not discuss salaries since the topic was no longer on the table."
+        },
+        {
+            "id": 46,
+            "phrase": "on the take",
+            "definition": "taking bribes. (Underworld.) _ I heard that the mayor is on the take.  Everyone in city hall is on the take."
+        },
+        {
+            "id": 47,
+            "phrase": "on the throne",
+            "definition": "[of royalty] currently reigning.  King Samuel was on the throne for two decades."
+        },
+        {
+            "id": 48,
+            "phrase": "*on the tip of one’s tongue",
+            "definition": "[of a thought or idea] about to be said or almost remembered. (*Typically: be ~; have something ~.) _I have his name right on the tip of my tongue. I’ll think of it in a second.  John had the answer on the tip of his tongue, but Anne said it first."
+        },
+        {
+            "id": 49,
+            "phrase": "on the up-and-up",
+            "definition": "legitimate; open and aboveboard.  Is this deal on the up-and-up? What’s the catch? _ Everything I do is on the up-and-up. I am totally honest."
+        },
+        {
+            "id": 50,
+            "phrase": "on the wagon",
+            "definition": "not drinking alcohol.  No, I don’t care for a cocktail. I’m on the wagon.  Bob’s old drinking buddies complained that he was no fun when he went on the wagon."
+        },
+        {
+            "id": 51,
+            "phrase": "on the wane",
+            "definition": "becoming less; fading away. Her inf luence in on the wane, but she is still the boss."
+        },
+        {
+            "id": 52,
+            "phrase": "on the warpath",
+            "definition": "very angry. The boss is on the warpath again. Watch out! _I am on the warpath about setting goals and standards again."
+        },
+        {
+            "id": 53,
+            "phrase": "on the watch for someone or something",
+            "definition": "alert and watching for someone or something.  Please stay on the watch for trouble.  I’m always on the watch for Ann. I want to know when she’s around."
+        },
+        {
+            "id": 54,
+            "phrase": "on the whole",
+            "definition": "generally; considering everything.  On the whole, this was a very good day.  Your work—on the whole—is quite good."
+        },
+        {
+            "id": 55,
+            "phrase": "on the wing",
+            "definition": "while flying; while in flight. (Usually refers to birds, fowl, etc., not people or planes.) _ There is nothing as pretty as a bird on the wing.  The hawk caught the sparrow on the wing."
+        },
+        {
+            "id": 56,
+            "phrase": "on the (witness) stand",
+            "definition": "[of a witness] giving testimony in court, seated in place in view of the court.  I was on the witness stand, answering questions, when the judge declared a recess."
+        },
+        {
+            "id": 57,
+            "phrase": "on the wrong track",
+            "definition": "[of a train] following the wrong set of tracks.  We had to back up, because somehow we got on the wrong track."
+        },
+        {
+            "id": 58,
+            "phrase": "on thin ice",
+            "definition": "on ice that is too thin to support one.  Billy is on thin ice and is in great danger."
+        },
+        {
+            "id": 59,
+            "phrase": "on tiptoe",
+            "definition": "standing or walking on the front part of the feet (the balls of the feet) with no weight put on the heels. (This is done to gain height or to walk quietly.) _ I had to stand on tiptoe in order to see over the fence. I came in late and walked on tiptoe so I wouldn’t wake anybody up."
+        },
+        {
+            "id": 60,
+            "phrase": "on top of something",
+            "definition": "1. Fig. up-to-date on something; knowing about the current state of something.  Ask Mary. She’s on top of this issue.  This issue is constantly changing. She has to pay attention to it to stay on top of things. 2. Fig. in addition to something.  Jane told Bill he was dull. On top of that, she said he was unfriendly.  On top of being dull, he’s unfriendly. 3. Fig. victorious over something; famous or notorious for something.  It was a close game, but the home team came out on top.  Bill is on top in his field."
+        },
+        {
+            "id": 61,
+            "phrase": "on top of the world",
+            "definition": "feeling wonderful; glorious; ecstatic.  Wow, I feel on top of the world.  Since he got a new job, he’s on top of the world."
+        },
+        {
+            "id": 62,
+            "phrase": "*on track",
+            "definition": "on schedule; progressing as planned. (*Typically: be ~; get someone or something ~; have someone or something ~; keep someone or something ~; put someone or something ~; set someone or something ~.) _ Try to keep these procedures on track this time.  Please get this discussion on track. Time is limited."
+        },
+        {
+            "id": 63,
+            "phrase": "on trial",
+            "definition": "1. [of someone] in a legal case before a judge.  The criminal was on trial for over three months. I am not on trial. Don’t treat me like that! 2. being tested; being examined or experimented with.  The new strain of wheat is on trial in Kansas at the present time. The teaching method is on trial in the school system."
+        },
+        {
+            "id": 64,
+            "phrase": "on vacation",
+            "definition": "away, taking time off work; on holiday.  Where are you going on vacation this year? _ I’ll be away on vacation for three weeks."
+        },
+        {
+            "id": 65,
+            "phrase": "on view",
+            "definition": "visible; on public display.  The painting will be on view at the museum.  I’ll pull the shades so that we won’t be on view."
+        },
+        {
+            "id": 66,
+            "phrase": "on with someone",
+            "definition": "[of a date or appointment] agreed to and confirmed with someone. Is the Friday date still on with you? _ It’s on with me."
+        },
+        {
+            "id": 67,
+            "phrase": "once and for all",
+            "definition": "finally; permanently.  Sue: I’m going to get this place organized once and for all! Alice: That’ll be the day! _ “We need to get this straightened out once and for all,” said Bob, for the fourth time today."
+        },
+        {
+            "id": 68,
+            "phrase": "Once bitten, twice shy.",
+            "definition": "Prov.When something or someone has hurt you once, you tend to avoid that thing or person.  Jill: Let’s go ride the roller coaster. Jane: No, thanks. I got really sick on one of those once—once bitten, twice shy.  I once sent in money for something I saw advertised in the back of a magazine, but the merchandise was of such poor quality I was sorry I’d bought it. I’ll never buy anything that way again; once bitten, twice shy."
+        },
+        {
+            "id": 69,
+            "phrase": "once in a blue moon",
+            "definition": "Cliché very seldom.  Jill: Does your husband ever bring you f lowers? Ellen: Once in a blue moon.  Once in a blue moon, I buy a fashion magazine, just to see what people are wearing."
+        },
+        {
+            "id": 70,
+            "phrase": "once upon a time",
+            "definition": "Cliché once in the past. (A formula used to begin a fairy tale.) _Once upon a time, there were three bears. Once upon a time, I had a puppy of my own."
+        },
+        {
+            "id": 71,
+            "phrase": "*the once-over",
+            "definition": "a quick, visual examination. (*Typically: get ~; give someone ~.) _ Every time John walks by I get the once-over. Does he like me? _ I went to the doctor yesterday, but I only had a once-over."
+        },
+        {
+            "id": 72,
+            "phrase": "once-over-lightly",
+            "definition": "1. Fig. a quick and careless treatment. (A noun. Said of an act of cleaning, studying, examination, or appraisal.) _Bill gave his geometry the once-overlightly and then quit studying.  Ann, you didn’t wash the dishes properly. They only got a once-over-lightly. 2. Fig. cursory; in a quick and careless manner. (An adverb.) _ Tom studied geometry once-over-lightly. Ann washed the dishes once-over-lightly."
+        },
+        {
+            "id": 73,
+            "phrase": "one and all",
+            "definition": "everyone.  “Good morning to one and all,” said Jane as she walked through the outer office. Let’s hope that this turns out to be a wonderful party for one and all."
+        },
+        {
+            "id": 74,
+            "phrase": "the one and only",
+            "definition": "the famous and talented (person). (Used in theatrical introductions. See also my one and only. ) _And now—the one and only—Jane Smith! _Let’s have a big hand for the one and only Bob Jones!"
+        },
+        {
+            "id": 75,
+            "phrase": "one and the same",
+            "definition": "Cliché the very same person or thing.  John Jones and J. Jones are one and the same.  Men’s socks and men’s stockings are almost one and the same."
+        },
+        {
+            "id": 76,
+            "phrase": "one brick shy of a load",
+            "definition": "Inf. stupid; dense.  Joyce has done some stupid things. Sometimes I think she is one brick shy of a load. Ted is one brick shy of a load. He can’t seem to do what he is told without messing up."
+        },
+        {
+            "id": 77,
+            "phrase": "One cannot be in two places at once.",
+            "definition": "Prov. You cannot be in more than one place or do more than one thing at the same time.  Child: Mom! Mom! Come help me wash my hair! Mother: Just a minute! I’m putting clean sheets on your bed right now, and I can’t be in two places at once."
+        },
+        {
+            "id": 78,
+            "phrase": "One cannot love and be wise.",
+            "definition": "Prov. People often fall in love with someone with whom they are not compatible or behave foolishly when they are in love.  My son and his girlfriend have decided to get married in the spring. I don’t think that’s wise, since they won’t have enough money saved by then to set up house. But then, one cannot love and be wise."
+        },
+        {
+            "id": 79,
+            "phrase": "*one eye on someone or something",
+            "definition": "[get/have] a small amount of attention devoted to someone or something. (*Typically: keep ~; have ~.) _ I have to have one eye on you at all times or you will get into trouble.  I have one eye on the speedometer of my car whenever I am driving."
+        },
+        {
+            "id": 80,
+            "phrase": "one for the (record) books",
+            "definition": "a record-breaking or very remarkable act.  What a dive! That’s one for the record books.  I’ve never heard such a funny joke. That’s really one for the books."
+        },
+        {
+            "id": 81,
+            "phrase": "*one for the road",
+            "definition": "a drink; a drink before a journey or before leaving a bar. (*Typically: down ~; drink ~; have ~; take ~.) _Let’s have one for the road. Don’t down one for the road if you are going to be the driver."
+        },
+        {
+            "id": 82,
+            "phrase": "One good turn deserves another.",
+            "definition": "Prov. If someone does you a favor, you should do a favor for that person in return.  Jill: Thanks for the ride. Jane: It’s the least I can do after you helped me wash the car last week. One good turn deserves another.  Child: I don’t want to help Grandma go shopping. Father: But she helped you with your homework yesterday. And one good turn deserves another."
+        },
+        {
+            "id": 83,
+            "phrase": "One hand for oneself and one for the ship.",
+            "definition": "Prov. When you are on a ship, always use one hand to steady yourself, and one to work; likewise, always put some effort into safeguarding yourself as well as into working.  The old sailor chastised us for forgetting to hold onto something during the rough weather. “One hand for yourself and one for the ship,” he bellowed.  This company expects you to work hard, but not so hard that you hurt yourself. One hand for yourself and one for the ship."
+        },
+        {
+            "id": 84,
+            "phrase": "One has to draw the line somewhere.",
+            "definition": "Prov. It is necessary to set limits and enforce them.  Ellen: This is the fifth night this week that my son has stayed out too late. Jane: Why not punish him, then? You have to draw the line somewhere.  I am a fairly easygoing employer, but I cannot allow my employees to take two hours for lunch. I have to draw the line somewhere."
+        },
+        {
+            "id": 85,
+            "phrase": "one law for the rich and another for the poor",
+            "definition": "Prov. Rich people are sometimes able to escape without punishment when they commit crimes, while poor people are usually punished.  It doesn’t seem fair—rich people can avoid paying their taxes and not get in trouble, but poor people are always punished if they don’t pay. We shouldn’t have one law for the rich and another for the poor."
+        },
+        {
+            "id": 86,
+            "phrase": "one little bit",
+            "definition": "any at all; at all.  Jean could not be persuaded to change her mind one little bit.  I don’t want to hear anything more about it. Not even one little bit."
+        },
+        {
+            "id": 87,
+            "phrase": "One man’s loss is another man’s gain.",
+            "definition": "Prov. When one person loses something, another person gets it. (You can substitute appropriate names or pronouns for the phrases one man’s and another man’s, as in the second example.) _ Mike found a five-dollar bill on the sidewalk. “One man’s loss is another man’s gain,” he thought to himself, as he took the money.  Jane: Andy just got fired. Jill: I know. And Andy’s loss is my gain; I’m getting promoted to his job!"
+        },
+        {
+            "id": 88,
+            "phrase": "One man’s meat is another man’s poison.",
+            "definition": "Prov. Something that one person likes may be distasteful to someone else.  Fred: What do you mean you don’t like French fries? They’re the best food in the world! Alan: One man’s meat is another man’s poison.  Jill: I don’t understand why Don doesn’t like to read science fiction. It’s the most interesting thing to read. Jane: One man’s meat is another man’s poison."
+        },
+        {
+            "id": 89,
+            "phrase": "One man’s trash is another man’s treasure.",
+            "definition": "Prov. Something that one person considers worthless may be considered valuable by someone else.  Q: Why would anyone want to hang a picture like that on the wall? A: One man’s trash is another man’s treasure.  A: Bob’s uncle is always going through people’s garbage, looking for old stuff. B: One man’s trash is another man’s treasure."
+        },
+        {
+            "id": 90,
+            "phrase": "One moment, please.",
+            "definition": "Please wait briefly. (A polite way of acknowledging that you noticed someone’s request.) _ John: Can you help me? Clerk: One moment, please. I will be with you shortly.  Bill (answering the phone): Hello? Bob: Hello. Can I speak to Tom? Bill: One moment, please. (handing phone to Tom) It’s for you. Tom: Hello, this is Tom."
+        },
+        {
+            "id": 91,
+            "phrase": "one of these days",
+            "definition": "someday; in some situation like this one.  One of these days, someone is going to steal your purse if you don’t take better care of it.  You’re going to get in trouble one of these days."
+        },
+        {
+            "id": 92,
+            "phrase": "One of these days is none of these days.",
+            "definition": "Prov. If you say you will do something “one of these days,” you probably do not seriously intend to do it, and therefore it will not get done.  Alan: When are you going to fix the garage door? Jane: One of these days. Alan: One of these days is none of these days.  Jill: One of these days, I’ll pay you the money I owe you. Jane: One of these days is none of these days."
+        },
+        {
+            "id": 93,
+            "phrase": "One’s bark is worse than one’s bite.",
+            "definition": "Prov. Someone makes a lot of harsh-sounding threats but never carries them out. Don’t get upset at anything my father says. His bark is worse than his bite.  Jill: Lisa says she’s going to sue me for letting my dog dig up her rosebushes. John: Don’t pay any attention. Her bark is worse than her bite."
+        },
+        {
+            "id": 94,
+            "phrase": "*one’s bearings",
+            "definition": "the knowledge of where one is; the knowledge of how one is oriented to one’s immediate environment. (*Typically: get ~; find ~; have ~; lose ~; tell one ~.) _ After he fell, it took Ted a few minutes to get his bearings. Jean found her compass and got her bearings almost immediately."
+        },
+        {
+            "id": 95,
+            "phrase": "one’s best bib and tucker",
+            "definition": "Rur. one’s best clothing.  I always put on my best bib and tucker on Sundays.  Put on your best bib and tucker, and let’s go to the city."
+        },
+        {
+            "id": 96,
+            "phrase": "one’s best shot",
+            "definition": "one’s best attempt (at something).  That was his best shot, but it wasn’t good enough. I always try to give something my best shot."
+        },
+        {
+            "id": 97,
+            "phrase": "one’s better half",
+            "definition": "one’s spouse. (Usually refers to a wife.) _ I think we’d like to come for dinner, but I’ll have to ask my better half.  I have to go home now to my better half. We are going out tonight."
+        },
+        {
+            "id": 98,
+            "phrase": "one’s (butter and) egg money",
+            "definition": "money that a farm woman earns. (Farm women would often sell butter and eggs for extra money that would be stashed away for an emergency.) _ Jane was saving her butter and egg money for a new TV.  I’ve got my egg money. Let’s go shopping."
+        },
+        {
+            "id": 99,
+            "phrase": "one’s claws are showing",
+            "definition": "one is acting catty; one is saying spiteful and cruel things.  Gloria: Did you see what she was wearing? I wouldn’t be caught dead in it! Sally: Gloria, my dear, your claws are showing."
+        },
+        {
+            "id": 100,
+            "phrase": "one’s days are numbered",
+            "definition": "one is facing death or dismissal. If I don’t get this contract, my days are numbered at this company.  Uncle Bill has a terminal disease. His days are numbered."
+        },
+        {
+            "id": 101,
+            "phrase": "one’s deepest sympathy",
+            "definition": "one’s very sincere sympathy.  I am so sorry about the death of your father. You have my deepest sympathy.  She sent her deepest sympathy to the family."
+        },
+        {
+            "id": 102,
+            "phrase": "one’s ears are red",
+            "definition": "[for someone’s ears] to be red from embarrassment.  I’m so embarrassed. Wow, are my ears red! _ My ears are red! I can’t believe I said that."
+        },
+        {
+            "id": 103,
+            "phrase": "one’s ears are ringing",
+            "definition": "[for someone’s ears] to have a ringing sound because of an illness or other condition; very loud music, or some other very loud sound.  After the explosion, my ears were ringing for hours. My ears are ringing because I have a sinus infection."
+        },
+        {
+            "id": 104,
+            "phrase": "one’s eyes are bigger than one’s stomach",
+            "definition": "one has taken more food than one can eat.  I can’t eat all this. I’m afraid that my eyes were bigger than my stomach. Try to take less food. Your eyes are bigger than your stomach at every meal."
+        },
+        {
+            "id": 105,
+            "phrase": "one’s fair share",
+            "definition": "the amount of something that one is due relative to what other people are receiving. Let him take more. He didn’t get his fair share.  I want my fair share. You cheated me! Give me some more!"
+        },
+        {
+            "id": 106,
+            "phrase": "*one’s fill of someone or something",
+            "definition": "[get/have] as much of someone or something as one needs or can tolerate. (*Typically: get ~; have ~.) _ You’ll soon get your fill of Tom. He can be quite a pest.  I can never get my fill of shrimp. I love it."
+        },
+        {
+            "id": 107,
+            "phrase": "one’s for the asking",
+            "definition": "[can become] one’s property if one asks for it.  I have a cherry pie here. A slice is yours for the asking if you want it.  Uncle Mac said we could have his old car if we wanted it. It was ours for the asking."
+        },
+        {
+            "id": 108,
+            "phrase": "one’s frame of mind",
+            "definition": "one’s mood or mental state.  My frame of mind is sort of low at the moment. I’ve had a very bad day."
+        },
+        {
+            "id": 109,
+            "phrase": "One’s future looks bright.",
+            "definition": "One has a promising future. Tom’s future looks bright and he will do well if he keeps working hard."
+        },
+        {
+            "id": 110,
+            "phrase": "one’s goose is cooked",
+            "definition": "one is finished; one has been found out and is in trouble.  It’s over. His goose is cooked! _ If I get caught, my goose is cooked."
+        },
+        {
+            "id": 111,
+            "phrase": "one’s heart goes out to someone",
+            "definition": "one feels great sympathy for someone.  My heart goes out to the grieving family.  Let your heart go out to those who are suffering, and pray for their improvement."
+        },
+        {
+            "id": 112,
+            "phrase": "one’s heart is (dead) set against something",
+            "definition": "one is totally against something. Jane’s heart is set against going to that restaurant ever again."
+        },
+        {
+            "id": 113,
+            "phrase": "one’s heart is in one’s mouth",
+            "definition": "one feels strongly emotional (about someone or something).  “Gosh, Mary,” said John, “My heart is in my mouth whenever I see you.” _It was a touching scene. My heart was in my mouth the whole time."
+        },
+        {
+            "id": 114,
+            "phrase": "one’s heart is in the right place",
+            "definition": "one has good intentions, even if the results are bad.  She gave it a good try. Her heart was in the right place.  He is awkward, but his heart is in the right place."
+        },
+        {
+            "id": 115,
+            "phrase": "one’s heart is set on something",
+            "definition": "one desires and expects something.  Jane’s heart is set on going to London.  My heart is set on returning home."
+        },
+        {
+            "id": 116,
+            "phrase": "one’s heart stands still",
+            "definition": "one’s heart (figuratively) stops beating because of strong emotions.  When I first saw you, my heart stood still.  My heart will stand still until you answer."
+        },
+        {
+            "id": 117,
+            "phrase": "one’s home away from home",
+            "definition": "a place, other than one’s home, where one can feel at home.  Please make our house your home away from home when you are in town."
+        },
+        {
+            "id": 118,
+            "phrase": "one’s last resting place",
+            "definition": "Euph. one’s grave.  Daddy has gone to his last resting place.  I want to be beside her in her last resting place."
+        },
+        {
+            "id": 119,
+            "phrase": "one’s luck runs out",
+            "definition": "one’s good luck stops. My luck ran out, so I had to come home.  She will quit gambling when her luck runs out."
+        },
+        {
+            "id": 120,
+            "phrase": "one’s mind went blank",
+            "definition": "someone’s mind has experienced total forgetfulness.  He knew all his lines in rehearsal, but his mind went blank when he went before an audience."
+        },
+        {
+            "id": 121,
+            "phrase": "*one’s money’s worth",
+            "definition": "everything that one has paid for; the best quality for the money paid. (*Typically: get ~; have ~.) _ Weigh that package of meat before you buy it. Be sure you’re getting your money’s worth. I didn’t get my money’s worth with my new camera, so I took it back."
+        },
+        {
+            "id": 122,
+            "phrase": "one’s name is mud",
+            "definition": "one is in trouble or humiliated.  If I can’t get this contract signed, my name will be mud.  His name is mud ever since he broke the crystal vase."
+        },
+        {
+            "id": 123,
+            "phrase": "one’s next of kin",
+            "definition": "one’s closest living relative or relatives. The police notified the dead man’s next of kin. My next of kin lives 800 miles away."
+        },
+        {
+            "id": 124,
+            "phrase": "one’s next-door neighbor",
+            "definition": "the person living in the house or apartment closest to one’s own. My next-door neighbor came over to borrow a shovel.  I will be visiting our next-door neighbor if you need me."
+        },
+        {
+            "id": 125,
+            "phrase": "one’s nose is in the air",
+            "definition": "one is acting conceited or aloof.  Mary’s nose is always in the air since she got into that exclusive boarding school.  Her mother’s nose was always in the air, too."
+        },
+        {
+            "id": 126,
+            "phrase": "one’s number is up",
+            "definition": "one’s time to die—or to suffer some other unpleasantness—has come. John is worried. He thinks his number is up.  When my number is up, I hope it all goes fast."
+        },
+        {
+            "id": 127,
+            "phrase": "one’s old stamping ground",
+            "definition": "the place where one was raised or where one has spent a lot of time. (There are variants with stomping and grounds.) _ Ann should know about that place. It’s near her old stamping ground. I can’t wait to get back to my old stomping grounds."
+        },
+        {
+            "id": 128,
+            "phrase": "*one’s own worst enemy",
+            "definition": "consistently causing oneself to fail; more harmful to oneself than other people are. (*Typically: be ~; become ~.) _ Ellen: My boss is my enemy. She never says anything good about me. Jane: Ellen, you’re your own worst enemy. If you did your job responsibly, your boss would be nicer."
+        },
+        {
+            "id": 129,
+            "phrase": "*one’s sea legs",
+            "definition": "one’s ability to tolerate the movement of a ship at sea. (*Typically: get ~; have ~.) _ Jean was a little awkward on the cruise at first, but in a few days she got her sea legs and was fine. You may feel a little sick until you get your sea legs."
+        },
+        {
+            "id": 130,
+            "phrase": "*one’s second wind",
+            "definition": "one’s stabilized breathing after exerting oneself for a short time. (*Typically: get ~; have ~.) _ John was having a hard time running until he got his second wind.  Bill had to quit the race because he never got his second wind."
+        },
+        {
+            "id": 131,
+            "phrase": "one’s sunset years",
+            "definition": "Euph. one’s old age.  Many people in their sunset years love to travel.  Now is the time to think about financial planning for your sunset years."
+        },
+        {
+            "id": 132,
+            "phrase": "*one’s walking papers",
+            "definition": "a notice that one is fired from one’s job. (*Typically: get ~; have ~; give one ~.) _ Well, I’m through. I got my walking papers today.  They are closing down my department. I guess I’ll get my walking papers soon."
+        },
+        {
+            "id": 133,
+            "phrase": "one’s way of life",
+            "definition": "one’s lifestyle; one’s pattern of living.  That kind of thing just doesn’t fit into my way of life. Our way of life includes contributing to worthy causes."
+        },
+        {
+            "id": 134,
+            "phrase": "one’s word is one’s bond",
+            "definition": "one’s statement of agreement is as sound as a posting of a performance bond.  Of course, you can trust anything I agree to verbally. My word is my bond. There’s no need to get it in writing."
+        },
+        {
+            "id": 135,
+            "phrase": "one’s work is cut out for one",
+            "definition": "one’s task is prepared for one; one has a lot of work to do.  This is a big job. My work is cut out for me.  The new president’s work is cut out for him."
+        },
+        {
+            "id": 136,
+            "phrase": "one sandwich short of a picnic",
+            "definition": "Inf. not very smart; lacking intelligence. (Jocular.) _ Poor Bob just isn’t too bright. He’s one sandwich short of a picnic. She’s not stupid. Just one sandwich short of a picnic."
+        },
+        {
+            "id": 137,
+            "phrase": "the one that got away",
+            "definition": "the big fish that got away, especially as the subject of a fisherman’s story.  The one that got away is always bigger than the one that got caught."
+        },
+        {
+            "id": 138,
+            "phrase": "One thing leads to another.",
+            "definition": "One event sets things up for another event, and so on. (As an explanation of how little things lead to big problems.) _I kept spending more and more money until I was broke. You know how one thing leads to another.  He bought a car, then a house, then a boat. One thing leads to another."
+        },
+        {
+            "id": 139,
+            "phrase": "one thing or person after another",
+            "definition": "a series of things or people that seems without limit.  It’s just one problem after another. One customer after another has been buying shoes today!"
+        },
+        {
+            "id": 140,
+            "phrase": "one to a customer",
+            "definition": "each person can have or receive only one. (As in sales restrictions where each customer is permitted to buy only one.) _ “Only one to a customer!” said the chef as he handed out the hamburgers.  Is it one to a customer, or can I take two now?"
+        },
+        {
+            "id": 141,
+            "phrase": "one too many",
+            "definition": "Euph. one drink of liquor too many, implying drunkenness. I think I’ve had one too many. It’s time to stop drinking.  Don’t drive if you’ve had one too many."
+        },
+        {
+            "id": 142,
+            "phrase": "*one up (on someone)",
+            "definition": "ahead of someone; having an advantage over someone. (*Typically: be ~; get ~.) _ Tom is one up on Sally because he got a job and she didn’t.  Yes, it sounds like Tom is one up."
+        },
+        {
+            "id": 143,
+            "phrase": "one way or another",
+            "definition": "somehow.  Tom: Can we fix this radio, or do I have to buy a new one? Mary: Don’t fret! We’ll get it repaired one way or another. John: I think we’re lost. Alice: Don’t worry. We’ll get there one way or another."
+        },
+        {
+            "id": 144,
+            "phrase": "one-horse town",
+            "definition": "a very small town; a small and backward town.  I refuse to spend a whole week in that onehorse town! _ I grew up in a one-horse town, and I liked it very much."
+        },
+        {
+            "id": 145,
+            "phrase": "one-man show",
+            "definition": "a performance put on by one person.  It was a one-man show, but it was very entertaining. For a one-man show, it was very long."
+        },
+        {
+            "id": 146,
+            "phrase": "one-night stand",
+            "definition": "a performance lasting only one night.  The band did a series of one-night stands down the East Coast.  You can’t make a living doing one-night stands."
+        },
+        {
+            "id": 147,
+            "phrase": "one-track mind",
+            "definition": "a mind that thinks entirely or almost entirely about one subject.  Adolescent boys often have one-track minds. All they’re interested in is the opposite sex.  Bob has a one-track mind. He can only talk about football."
+        },
+        {
+            "id": 148,
+            "phrase": "online",
+            "definition": " Fig. connected to a computer or network.  As soon as I get online, I can check the balance of your account.  I was online for an hour before I found out what I wanted to know."
+        },
+        {
+            "id": 149,
+            "phrase": "only have eyes for someone",
+            "definition": "[to be] loyal to only one person, in the context of romance. Oh, Jane! I only have eyes for you! _ Don’t waste any time on Tom. He only has eyes for Ann."
+        },
+        {
+            "id": 150,
+            "phrase": "(Only) time will tell.",
+            "definition": "Prov. You will only know the outcome after time has passed.  Jill: Do you think Bill and Nancy will have a happy marriage? John: Only time will tell.  I’m not sure yet if our advertising campaign was a success. Time will tell."
+        },
+        {
+            "id": 151,
+            "phrase": "the only way to go",
+            "definition": "the best way to do something; the best choice to make.  Get a four-wheel drive car. It’s the only way to go.  That’s it! A new house. It’s the only way to go."
+        },
+        {
+            "id": 152,
+            "phrase": "*onto a good thing",
+            "definition": "having found something useful, promising, or profitable. (*Typically: be ~; get ~.) _ This is a great scheme. I know I’m onto a good thing. I’m onto a good thing. I’m sure I am."
+        },
+        {
+            "id": 153,
+            "phrase": "ooze with something",
+            "definition": "to flow or seep with something; to be covered with some oozing substance.  The wound oozed with blood. The roast beef oozed with juices."
+        },
+        {
+            "id": 154,
+            "phrase": "open a conversation",
+            "definition": "to start a conversation.  I tried to open a conversation with him, but he had nothing to say.  She opened a conversation with an inquiry into my health, which got me talking about my favorite subject."
+        },
+        {
+            "id": 155,
+            "phrase": "(Open) confession is good for the soul.",
+            "definition": "Prov. If you have done something wrong, you will feel better if you confess that you did it.  You ought to tell Dad that you broke his radio. Open confession is good for the soul. Sue: I’ve been so upset about cheating on the exam that I haven’t been sleeping nights. Sam: You can do something about it; confession is good for the soul."
+        },
+        {
+            "id": 156,
+            "phrase": "open fire (on someone)",
+            "definition": "to start (doing something, such as asking questions or criticizing). (Based on open fire on someone or something.) _ The reporters opened fire on the mayor. When the reporters opened fire, the mayor was smiling, but not for long."
+        },
+        {
+            "id": 157,
+            "phrase": "open fire (on someone or something)",
+            "definition": "to begin shooting at someone or something.  The troops opened fire on the enemy.  The trainees opened fire on the target."
+        },
+        {
+            "id": 158,
+            "phrase": "open for business",
+            "definition": "[of a shop, store, restaurant, etc.] operating and ready to do business.  The store is now open for business and invites you to come in.  The construction will be finished in March, and we will be open for business in April."
+        },
+        {
+            "id": 159,
+            "phrase": "open into something",
+            "definition": "to open inward to something. The passageway opened into a dining room. Our kitchen opens into a bright breakfast nook."
+        },
+        {
+            "id": 160,
+            "phrase": "*an open mind",
+            "definition": "a mind or attitude that is open to new ideas and opinions. (*Typically: get ~; have ~; keep ~.) _ Please try to be nice and keep an open mind. It’s all not as bad as you think."
+        },
+        {
+            "id": 161,
+            "phrase": "open one’s heart to someone or something",
+            "definition": "1. Fig. to tell all of one’s private thoughts to someone.  I didn’t mean to open my heart to you.  She opened her heart to the wrong magazine, and it published a scandalous story. 2. Fig. to become loving and solicitous toward someone; to donate money generously to someone or some cause.  We opened our hearts to Fred, who was soliciting for a good cause. We hope you will all open your hearts to our plea."
+        },
+        {
+            "id": 162,
+            "phrase": "open oneself to criticism",
+            "definition": "to do something that makes one vulnerable to criticism. By saying something so stupid in public, you really opened yourself to criticism."
+        },
+        {
+            "id": 163,
+            "phrase": "open (out) on(to) something",
+            "definition": "[for a building’s doors] to exit toward something.  The French doors opened out onto the terrace.  The doors opened on a lovely patio."
+        },
+        {
+            "id": 164,
+            "phrase": "open Pandora’s box",
+            "definition": "to uncover a lot of unsuspected problems. When I asked Jane about her problems, I didn’t know I had opened Pandora’s box. You should be cautious with people who are upset. You don’t want to open Pandora’s box."
+        },
+        {
+            "id": 165,
+            "phrase": "open season (on some creature)",
+            "definition": "a time of unrestricted hunting of a particular game animal.  It’s always open season on rabbits around here."
+        },
+        {
+            "id": 166,
+            "phrase": "open season (on someone)",
+            "definition": "a period of time when everyone is criticizing someone. (Based on open season (on some creature).) _ It seems as if it’s always open season on politicians.  At the news conference, it was open season on the mayor."
+        },
+        {
+            "id": 167,
+            "phrase": "an open secret",
+            "definition": "something that is supposed to be known only by a few people but is known in fact to a great many people.  Their engagement is an open secret. Only their friends are supposed to know, but in fact, the whole town knows.  It’s an open secret that Max is looking for a new job."
+        },
+        {
+            "id": 168,
+            "phrase": "open someone’s eyes to someone or something",
+            "definition": "to cause someone, including oneself, to become aware of someone or something.  We finally opened our eyes to what was going on around us.  The events of last night opened my eyes to Tom."
+        },
+        {
+            "id": 169,
+            "phrase": "open someone up†",
+            "definition": "to perform a surgical operation requiring a major incision on someone. The doctor had to open George up to find out what was wrong.  They opened up George, seeking the cause of his illness."
+        },
+        {
+            "id": 170,
+            "phrase": "open something out†",
+            "definition": "to unfold or expand something; to open and spread something out.  When she opened the fan out, she saw it was made of plastic.  The peacock opened out its tail feathers and delighted the children."
+        },
+        {
+            "id": 171,
+            "phrase": "open something up†",
+            "definition": "to unwrap something; to open something. Yes, I want to open my presents up. I can’t wait to open up my presents.  Open up this door!"
+        },
+        {
+            "id": 172,
+            "phrase": "open something up† (to someone)",
+            "definition": "to make something available to someone; to permit someone to join something or participate in something. We intend to open the club up to everyone.  We will open up our books to the auditors."
+        },
+        {
+            "id": 173,
+            "phrase": "open the door to someone",
+            "definition": "to permit someone to enter a room, building, etc.  The butler opened the door to the guests and they all entered.  I opened the door to Mr. Wilson."
+        },
+        {
+            "id": 174,
+            "phrase": "open the door to something",
+            "definition": "to invite something to happen. The armistice opened the door to peace talks.  The door was opened to further discussion."
+        },
+        {
+            "id": 175,
+            "phrase": "open to criticism",
+            "definition": "vulnerable to criticism. Anything the president does is open to criticism."
+        },
+        {
+            "id": 176,
+            "phrase": "open to question",
+            "definition": "[an action or opinion] inviting question, examination, or refutation. Everything he told you is open to question and you should look into it."
+        },
+        {
+            "id": 177,
+            "phrase": "open to something",
+            "definition": "agreeable to hear or learn about new ideas and suggestions. The store owner was open to suggestions from her employees. We are always open to new ideas."
+        },
+        {
+            "id": 178,
+            "phrase": "open up",
+            "definition": "open your door; open your mouth. (Usually Open up!) _ I want in. Open up! _ Open up! This is the police."
+        },
+        {
+            "id": 179,
+            "phrase": "open up (on someone, something, or an animal)",
+            "definition": "to fire a gun or other weapon at someone, something, or an animal.  The sergeant told the soldiers to open up on the enemy position. “Okay, you guys,” shouted the sergeant. “Open up!”"
+        },
+        {
+            "id": 180,
+            "phrase": "open (up) one’s kimono",
+            "definition": "Sl. to reveal what one is planning. (From the computer industry, referring especially to the involvement of the Japanese in this field.) _Sam isn’t one to open his kimono much when it comes to new products.  Even if Tom appears to open up his kimono on this deal, don’t put much stock in what he says."
+        },
+        {
+            "id": 181,
+            "phrase": "open up to something",
+            "definition": "to become more accepting of someone or something.  Finally, he opened up to the suggestion that he should leave.  Finally the boss opened up to the notion of Tom as a manager."
+        },
+        {
+            "id": 182,
+            "phrase": "open with someone or something",
+            "definition": "to begin a season, session, series, or performance with someone or something. The conference will open with a series of invited speakers. The performance opened with Donna, who played the f lute."
+        },
+        {
+            "id": 183,
+            "phrase": "an open-and-shut case",
+            "definition": "a simple and straightforward situation without complications. (Often said of criminal cases where the evidence is convincing.) _ The murder trial was an open-and-shut case. The defendant was caught with the murder weapon.  Bob’s death was an open-andshut case of suicide. He left a suicide note."
+        },
+        {
+            "id": 184,
+            "phrase": "opening gambit",
+            "definition": "an opening movement, tactic, or statement which is made to secure a position that is to one’s advantage.  The rebel army’s opening gambit was to bomb the city’s business district.  The prosecution’s opening gambit was to call a witness who linked the defendant to the scene of the crime."
+        },
+        {
+            "id": 185,
+            "phrase": "operate against someone or something",
+            "definition": "to work against someone or something; to have a negative effect on someone or something.  All of this operates against our idea of fixing the garage up as a family room.  The new vacation policy operates against my plan to take all of July off."
+        },
+        {
+            "id": 186,
+            "phrase": "operate from something",
+            "definition": "to work out of something or some place. I’m in business for myself. I operate from my home.  We operate from a garage in the back of City Hall."
+        },
+        {
+            "id": 187,
+            "phrase": "operate on someone",
+            "definition": "to perform a surgical operation on someone.  They decided not to operate on her.  She wasn’t operated on after all."
+        },
+        {
+            "id": 188,
+            "phrase": "operate on something",
+            "definition": "1. to work on something; to work with the insides of something. (As a surgeon might operate.) _ He tried to operate on his watch and ruined it.  Todd operated on the door lock and fixed it. 2. to function or conduct business on a certain principle or assumption.  The company has always operated on the theory that the customer is always right.  Sam operates on the assumption that everyone is out to get him."
+        },
+        {
+            "id": 189,
+            "phrase": "Opportunity knocks but once.",
+            "definition": "Prov. You will only have one chance to do something important or profitable. (You can say opportunity knocks to signal that someone’s chance to do something important is here right now.) _ When Nancy got a scholarship offer from a college far away, her parents encouraged her to go, even though they didn’t like the thought of her moving so far from home. “Opportunity knocks but once,” they said, “and this may be your only chance to get a good education.”"
+        },
+        {
+            "id": 190,
+            "phrase": "Opportunity makes a thief.",
+            "definition": "Prov. Anyone would steal, given a chance to do so without being punished.  Mr. Cooper thought of himself as a moral man. But opportunity makes a thief, and with the safe unguarded he had the opportunity to steal thousands of dollars undetected."
+        },
+        {
+            "id": 191,
+            "phrase": "opposed to something",
+            "definition": "in opposition to something. I am strongly opposed to your suggestion.  He is morally opposed to war."
+        },
+        {
+            "id": 192,
+            "phrase": "the opposite sex",
+            "definition": "the other sex; (from the point of view of a female) males; (from the point of view of a male) females. (Also with member of, as in the example.) _Ann is crazy about the opposite sex.  Bill is very shy when he’s introduced to the opposite sex.  Do members of the opposite sex make you nervous?"
+        },
+        {
+            "id": 193,
+            "phrase": "opt for something",
+            "definition": "to choose a particular option.  I opted for the orange one.  I opt for not going out at all."
+        },
+        {
+            "id": 194,
+            "phrase": "opt in favor of someone or something",
+            "definition": "to choose a particular person; to choose a particular thing.  Do you think she will opt in favor of this one or that? _ We will opt in favor of David."
+        },
+        {
+            "id": 195,
+            "phrase": "opt in(to something)",
+            "definition": "to choose to join in.  She opted into our plans.  She opted in almost immediately."
+        },
+        {
+            "id": 196,
+            "phrase": "opt out (of something)",
+            "definition": "to choose not to be in something.  If you do that, I’m going to have to opt out of the club.  Then go ahead and opt out."
+        },
+        {
+            "id": 197,
+            "phrase": "or else",
+            "definition": "or suffer the consequences. (An inspecific threat of bad consequences.) _ Do what I tell you, or else.  Don’t be late for work, or else!"
+        },
+        {
+            "id": 198,
+            "phrase": "or what?",
+            "definition": "a way of adding emphasis to a yes-or-no question the speaker has asked. (In effect, if it wasn’t what I said, what is it?) _ Bob: Now, is this a fine day or what? John: Looks okay to me.  Tom: Look at Bill and Mary. Do they make a fine couple or what? Bob: Sure, they look great."
+        },
+        {
+            "id": 199,
+            "phrase": "or words to that effect",
+            "definition": "or similar words meaning the same thing.  John: It says right here in the contract, “You are expected to attend without fail,” or words to that effect. Mary: That means I have to be there, huh? John: You got it! _ Sally: She said that I wasn’t doing my job well, or words to that effect. Jane: Well, you ought to find out exactly what she means. Sally: I’m afraid I know."
+        },
+        {
+            "id": 200,
+            "phrase": "orbit (around) someone or something",
+            "definition": "to circle around something in an orbit. The f lies orbited around Fred and his ice-cream cone.  Many satellites orbit around our planet."
+        },
+        {
+            "id": 201,
+            "phrase": "ordain someone (as) something",
+            "definition": "to establish someone as a priest or minister.  In a lovely ceremony, they ordained David as a priest.  He was ordained as a priest by a bishop."
+        },
+        {
+            "id": 202,
+            "phrase": "the order of the day",
+            "definition": "something necessary or usual at a certain time. Warm clothes are the order of the day when camping in the winter.  Going to bed early was the order of the day when we were young."
+        },
+        {
+            "id": 203,
+            "phrase": "order someone in(to something)",
+            "definition": "to command someone to get into something.  The officer ordered Ann into the wagon.  She didn’t want to go, but the cop ordered her in."
+        },
+        {
+            "id": 204,
+            "phrase": "order someone off the field",
+            "definition": "[for a game official] to command a player to leave the playing area. The referee will order you off the field.  He ordered us off the field."
+        },
+        {
+            "id": 205,
+            "phrase": "order something from someone or something",
+            "definition": "to agree to purchase something from someone or a group. We ordered some plants from the mail-order company.  I will order some of those clever little things from you as soon as I can."
+        },
+        {
+            "id": 206,
+            "phrase": "order something in†",
+            "definition": "to have something, usually food, brought into one’s house or place of business.  Do you want to order pizza in? _ Shall I order in pizza?"
+        },
+        {
+            "id": 207,
+            "phrase": "orient someone to something",
+            "definition": "to help someone locate a compass direction or other similar location. Try to orient Karen to the light so I can photograph her.  It took time, but I oriented myself to north at last."
+        },
+        {
+            "id": 208,
+            "phrase": "originate from something",
+            "definition": "to come from something or some place.  Did you originate from around here? _ I originated from a different area of the country.  Some of our customs originate from old beliefs."
+        },
+        {
+            "id": 209,
+            "phrase": "originate in something",
+            "definition": "to have had a beginning in something or some place.  The river originates in the Andes Mountains.  All your troubles originate in your lungs."
+        },
+        {
+            "id": 210,
+            "phrase": "originate with someone or something",
+            "definition": "to have been started by someone, something, or during a time period or event. Did this policy originate with you? _This idea originated with the committee."
+        },
+        {
+            "id": 211,
+            "phrase": "ornament something with something",
+            "definition": "to decorate something with something. The driver ornamented his truck with lots of chrome. The room was ornamented with velvet drapes, wood paneling, family portraits—a den of Victorian virtue."
+        },
+        {
+            "id": 212,
+            "phrase": "oscillate between someone or something and someone or something else",
+            "definition": "to swing between (choosing) someone and someone else; to swing between (choosing) something and something else.  Fred oscillated between going to college and getting a job.  The boss oscillated between John and Roger."
+        },
+        {
+            "id": 213,
+            "phrase": "the other place",
+            "definition": "Euph. hell.  If you’re good, you’ll go to heaven, and if you’re bad, you’ll go to the other place.  If she keeps up her drinking and gambling, she’s headed to the other place for sure."
+        },
+        {
+            "id": 214,
+            "phrase": "Other times, other manners.",
+            "definition": "Prov. Different generations or eras have different customs.  Amy thought her grandchildren addressed their friends in startlingly rude terms. “But then,” she ref lected, “other times, other manners.” _ Jane: The young folks today are so shocking. Why, when I was their age, you wouldn’t kiss your husband in public, let alone some of the things these children do! Alan: Other times, other manners."
+        },
+        {
+            "id": 215,
+            "phrase": "the other way (a)round",
+            "definition": "the reverse; the opposite. No, it won’t fit that way. Try it the other way round. It doesn’t make any sense like that. It belongs the other way around."
+        },
+        {
+            "id": 216,
+            "phrase": "An ounce of common sense is worth a pound of theory.",
+            "definition": "Prov. Common sense will help you solve problems more than theory will. The psychologist had many elaborate theories about how to raise her child, but often forgot that an ounce of common sense is worth a pound of theory."
+        },
+        {
+            "id": 217,
+            "phrase": "An ounce of discretion is worth a pound of wit.",
+            "definition": "Prov. Knowing when to refrain from making jokes is better than being able to make jokes all the time.  Mabel makes fun of everybody, regardless of whether or not she hurts their feelings. Someone should tell her that an ounce of discretion is worth a pound of wit."
+        },
+        {
+            "id": 218,
+            "phrase": "An ounce of prevention is worth a pound of cure.",
+            "definition": "Prov. If you put in a little effort to prevent a problem, you will not have to put in a lot of effort to solve the problem.  Brush your teeth every day; that way you won’t have to go to the dentist to have cavities filled. An ounce of prevention is worth a pound of cure.  If you get in the habit of being careful with your new stereo, chances are you won’t break it and have to have it fixed later. An ounce of prevention is worth a pound of cure."
+        },
+        {
+            "id": 219,
+            "phrase": "oust someone from something",
+            "definition": "to force someone to leave something or some place; to throw someone out of something or some place.  They ousted the boys from the bar.  The underage kids were ousted from the tavern quickly."
+        },
+        {
+            "id": 220,
+            "phrase": "*out and about",
+            "definition": "outside the house; outdoors. (*Typically: be ~; get ~.) _Beth has been ill, but now she’s out and about.  As soon as I feel better, I’ll be able to get out and about."
+        },
+        {
+            "id": 221,
+            "phrase": "out at some place",
+            "definition": "located at a distant place.  Tom’s out at the farm and there’s no phone there, so you can’t talk to him.  Jed is out at the cabin on a hunting trip."
+        },
+        {
+            "id": 222,
+            "phrase": "out for blood",
+            "definition": "aggressively seeking to harm or get revenge; angry and looking for the cause of one’s distress.  The opposite team is out for blood, but we have a good defense."
+        },
+        {
+            "id": 223,
+            "phrase": "*out from something",
+            "definition": "some distance away from something. (*Typically: be ~; get ~; go ~.) _ I would like to be farther out from the city. I need to get out from the town."
+        },
+        {
+            "id": 224,
+            "phrase": "out front",
+            "definition": "1. in the front of one’s house.  Our mailbox is out front.  We have a spruce tree out front and a maple tree in the back. 2. leading, as in a race.  My horse was out front by two lengths until the final turn.  The other candidate is out front in the polls."
+        },
+        {
+            "id": 225,
+            "phrase": "*out in force",
+            "definition": "appearing in great strength. (*Typically: be ~; come ~; go ~. See also out in large numbers.) _ What a night! The mosquitoes are out in force.  The police went out in force over the holiday weekend."
+        },
+        {
+            "id": 226,
+            "phrase": "out in left field",
+            "definition": "offbeat; unusual and eccentric.  Sally is a lot of fun, but she’s sort of out in left field.  What a strange idea. It’s really out in left field."
+        },
+        {
+            "id": 227,
+            "phrase": "*out in the cold",
+            "definition": "outdoors where it is cold. (*Typically: be ~; keep someone or some creature ~; leave someone or some creature ~; put someone or some creature ~.) _ Open the door! Let me in! Don’t keep me out in the cold! _ Who left the dog out in the cold all night?"
+        },
+        {
+            "id": 228,
+            "phrase": "*out in the open",
+            "definition": "visible in an open space; exposed in an open area. (*Typically: be ~; bring something ~; come ~; get ~; get something ~.) _ The trucks are out in the open where we can see them. They came out in the open."
+        },
+        {
+            "id": 229,
+            "phrase": "out of action",
+            "definition": "not operating temporarily; not functioning normally.  The pitcher was out of action for a month because of an injury.  I will be out of action for a while."
+        },
+        {
+            "id": 230,
+            "phrase": "*out of (all) proportion",
+            "definition": "of exaggerated importance; of an unrealistic importance or size compared to something else. (*Typically: be ~; blow something ~; grow ~.) _This problem has grown out of all proportion. Yes, this figure is way out of proportion to the others in the painting."
+        },
+        {
+            "id": 231,
+            "phrase": "out of character",
+            "definition": "1. unlike one’s usual behavior. Ann’s remark was quite out of character.  It was out of character for Ann to act so stubborn. 2. inappropriate for the character that an actor is playing.  Bill went out of character when the audience started giggling.  Bill played the part so well that it was hard for him to get out of character after the performance."
+        },
+        {
+            "id": 232,
+            "phrase": "out of circulation",
+            "definition": "no longer available for use or lending. (Usually said of library materials, certain kinds of currency, etc.) _I’m sorry, but the book you want is temporarily out of circulation. How long will it be out of circulation?"
+        },
+        {
+            "id": 233,
+            "phrase": "out of commission",
+            "definition": "[for a ship] to be not currently in use or under command.  This vessel will remain out of commission for another month.  The ship has been out of commission since repairs began."
+        },
+        {
+            "id": 234,
+            "phrase": "out of consideration (for someone or something)",
+            "definition": "with consideration for someone or something; with kind regard for someone or something. Out of consideration for your past efforts, I will do what you ask.  They let me do it out of consideration. It was very thoughtful of them."
+        },
+        {
+            "id": 235,
+            "phrase": "*out of context",
+            "definition": "[of an utterance or the report of an action] removed from the surrounding context of the event, thereby misrepresenting the intent of the utterance or report. (*Typically: be ~; lift something ~; quote someone or something ~; take something ~.) _ You took her remarks out of context! You’re the dishonest person, not her!"
+        },
+        {
+            "id": 236,
+            "phrase": "out of courtesy (to someone)",
+            "definition": "in order to be polite to someone; out of consideration for someone. We invited Mary’s brother out of courtesy to her.  They invited me out of courtesy."
+        },
+        {
+            "id": 237,
+            "phrase": "*out of debt",
+            "definition": "no longer owing a debt. (*Typically: be ~; get ~; get oneself ~.) _ I’ve taken a second job so I can get myself out of debt."
+        },
+        {
+            "id": 238,
+            "phrase": "out of earshot",
+            "definition": "too far from the source of a sound to hear the sound.  I was out of earshot and could not hear the conversation.  Mary waited until her children were out of earshot before mentioning the presents she got them."
+        },
+        {
+            "id": 239,
+            "phrase": "*out of favor (with someone)",
+            "definition": "no longer desirable or preferred by someone. (*Typically: be ~; go ~.) _ I can’t ask John to help. I’m out of favor with him.  That kind of thing has been out of favor for years."
+        },
+        {
+            "id": 240,
+            "phrase": "*out of focus",
+            "definition": "blurred or fuzzy; seen indistinctly. (*Typically: be ~; get ~; go ~.) _ What I saw through the binoculars was sort of out of focus.  The scene was out of focus."
+        },
+        {
+            "id": 241,
+            "phrase": "*out of gas",
+            "definition": "without gasoline (in a car, truck, etc.). (*Typically: be ~; run ~.) _ We can’t go any farther. We’re out of gas.  This car will be completely out of gas in a few more miles."
+        },
+        {
+            "id": 242,
+            "phrase": "*out of harm’s way",
+            "definition": "not liable to be harmed; away from any causes of harm. (*Typically: be ~; get ~; get someone ~.) _We should try to get all the civilians out of harm’s way."
+        },
+        {
+            "id": 243,
+            "phrase": "out of hock",
+            "definition": "[of something] bought back from a pawn shop.  When I get my watch out of hock, I will always be on time."
+        },
+        {
+            "id": 244,
+            "phrase": "out of it",
+            "definition": " intoxicated.  Two drinks and she was totally out of it.  When they are out of it, they are quite dangerous."
+        },
+        {
+            "id": 245,
+            "phrase": "out of keeping (with something)",
+            "definition": "[of something said or some behavior] failing to fit in with something.  This kind of thing is completely out of keeping with our standards of behavior.  That is quite out of keeping with your statement of yesterday."
+        },
+        {
+            "id": 246,
+            "phrase": "out of left field",
+            "definition": "suddenly; from an unexpected source or direction.  Most of your ideas are out of left field. All of his paintings are right out of left field."
+        },
+        {
+            "id": 247,
+            "phrase": "out of line (with something)",
+            "definition": "not properly lined up in a line of things.  I told you not to get out of line. Now, get back in line.  One of those books on the shelf is out of line with the others. Please fix it."
+        },
+        {
+            "id": 248,
+            "phrase": "out of luck",
+            "definition": "without good luck; having bad fortune.  If you wanted some ice cream, you’re out of luck.  I was out of luck. I got there too late to get a seat."
+        },
+        {
+            "id": 249,
+            "phrase": "out of necessity",
+            "definition": "because of necessity; due to need.  I bought this hat out of necessity. I needed one, and this was all there was.  We sold our car out of necessity."
+        }
+    ]
+}

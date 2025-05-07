@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "I have to wash a few things out†.",
+            "definition": "I have to wash things by hand, such as socks and underwear.  I have to wash a few things out before I go to bed.  She has to wash out a few things."
+        },
+        {
+            "id": 1,
+            "phrase": "(I) haven’t got all day.",
+            "definition": "Please hurry.; I’m in a hurry.  Rachel: Make it snappy! I haven’t got all day. Alice: Just take it easy. There’s no rush.  Henry: I haven’t got all day. When are you going to finish with my car? Bob: As soon as I can."
+        },
+        {
+            "id": 2,
+            "phrase": "(I) haven’t seen you in a long time.",
+            "definition": "an expression of greeting, often said as part of a series. Mary: Hi, Fred! Haven’t seen you in a long time. Fred: Yeah. Long time no see.  Tom: Well, John. Is that you? I haven’t seen you in a long time. John: Good to see you, Tom!"
+        },
+        {
+            "id": 3,
+            "phrase": "(I) haven’t seen you in a month of Sundays.",
+            "definition": "Rur. I haven’t seen you in a long time.  Tom: Hi, Bill. Haven’t seen you in a month of Sundays! Bill: Hi, Tom. Long time no see.  Bob: Well, Fred! Come right in! Haven’t seen you in a month of Sundays! Fred: Good to see you, Uncle Bob."
+        },
+        {
+            "id": 4,
+            "phrase": "I hope all goes well.",
+            "definition": "I hope there is success. Good luck on your operation tomorrow. I hope all goes well."
+        },
+        {
+            "id": 5,
+            "phrase": "(I) hope not.",
+            "definition": "a phrase expressing the desire and wish that something is not so.  John: It looks like it’s going to rain. Jane: Hope not.  John: The Wilsons said they might come over this evening. Jane: I hope not. I’ve got things to do."
+        },
+        {
+            "id": 6,
+            "phrase": "(I) hope so.",
+            "definition": "a phrase expressing the desire and wish that something is so.  Bill: Is this the right house? Bob: Hope so.  John: Will you be coming to dinner Friday? Sue: Yes, I hope so."
+        },
+        {
+            "id": 7,
+            "phrase": "(I) hope to see you again (sometime).",
+            "definition": "an expression said when taking leave of a person one has just met. Bill: Nice to meet you, Tom. Tom: Bye, Bill. Nice to meet you. Hope to see you again sometime.  Bill: Good talking to you. See you around. Bob: Yes, I hope to see you again. Goodbye. one.  Bill: Let me pay for your drink. Bob: Thanks a lot, I owe you one."
+        },
+        {
+            "id": 8,
+            "phrase": "I promise you!",
+            "definition": "Inf. I am telling you the truth! (Compare this with Trust me!) _ John: Things will work out, I promise you! Jane: Okay, but when? _ Sue: I’ll be there exactly when I said. Bob: Are you sure? Sue: I promise you, I’m telling the truth!"
+        },
+        {
+            "id": 9,
+            "phrase": "(I) read you loud and clear.",
+            "definition": "a response used by someone communicating by radio stating that the hearer understands the transmission clearly. Controller: This is Aurora Center, do you read me? Pilot: Yes, I read you loud and clear.  Controller: Left two degrees. Do you read me? Pilot: Roger. Read you loud and clear."
+        },
+        {
+            "id": 10,
+            "phrase": "(I) really must go.",
+            "definition": "an expression announcing or repeating one’s intention to depart. Bob: It’s getting late. I really must go. Jane: Good night, then. See you tomorrow. Sally: I really must go. John: Do you really have to? It’s early yet."
+        },
+        {
+            "id": 11,
+            "phrase": "I rest my case.",
+            "definition": "I have completed the presentation of my argument. (Said by a lawyer.) _ Clearly the defendant is guilty. I rest my case."
+        },
+        {
+            "id": 12,
+            "phrase": "I spoke out of turn.",
+            "definition": "I said the wrong thing.; I should not have said what I did. (An apology.) _ Bill: You said I was the one who did it. Mary: I’m sorry. I spoke out of turn. I was mistaken. Bill: I seem to have said the wrong thing. Bob: You certainly did. Bill: I spoke out of turn, and I’m sorry."
+        },
+        {
+            "id": 13,
+            "phrase": "I spoke too soon.",
+            "definition": "1. Fig. I am wrong.; I spoke before I knew the facts.  Bill: I know I said I would, but I spoke too soon. Sue: I thought so. John: You said that everything would be all right. Jane: I spoke too soon. That was before I learned that you had been arrested. 2. Fig. What I had said was just now contradicted.  Bob: It’s beginning to brighten up. I guess it won’t rain after all. John: I’m glad to hear that. Bob: Whoops! I spoke too soon. I just felt a raindrop on my cheek. Bill: Thank heavens! Here’s John now. Bob: No, that’s Fred. Bill: I spoke too soon. He sure looked like John."
+        },
+        {
+            "id": 14,
+            "phrase": "I swan!",
+            "definition": "Rur. What a surprise! _Well, I swan! I didn’t expect to see you here! _ Tom: I hear Charlie just won a thousand dollars! Jane: I swan!"
+        },
+        {
+            "id": 15,
+            "phrase": "(I was) just wondering.",
+            "definition": "a comment made after hearing a response to a previous question. (See examples for typical patterns.) _John: Do you always keep your film in the refrigerator? Mary: Yes, why? John: I was just wondering. Bob: Did this cost a lot? Sue: I really don’t think you need to know that. Bob: Sorry. Just wondering."
+        },
+        {
+            "id": 16,
+            "phrase": "I was up all night with a sick friend.",
+            "definition": "an unlikely, but popular excuse for not being where one was supposed to be the night before.  Bill: Where in the world were you last night? Mary: Well, I was up all night with a sick friend.  Mr. Franklin said rather sheepishly, “Would you believe I was up with a sick friend?”"
+        },
+        {
+            "id": 17,
+            "phrase": "I wasn’t brought up in the woods to be scared by owls.",
+            "definition": "Rur. I am not foolish or easily frightened.  His threats don’t scare me. I wasn’t brought up in the woods to be scared by owls.  Mary: You’ll be sorry you ever crossed me. Jane: I wasn’t brought up in the woods to be scared by owls."
+        },
+        {
+            "id": 18,
+            "phrase": "I wish I’d said that.",
+            "definition": "a comment of praise or admiration for someone’s clever remark.  Mary: The weed of crime bears bitter fruit. Sue: I wish I’d said that. Mary: I wish I’d said it first.  John: Tom is simply not able to see through the airy persif lage of Mary’s prolix declamation. Jane: I wish I’d said that. John: I’m sorry I did."
+        },
+        {
+            "id": 19,
+            "phrase": "(I) wonder if",
+            "definition": "a phrase introducing a hypothesis. Henry: I wonder if I could have another piece of cake. Sue: Sure. Help yourself.  Andy: Wonder if it’s stopped raining yet. Rachel: Why don’t you look out the window? _Andy: I wonder if I’ll pass algebra. Father: That thought is on all our minds."
+        },
+        {
+            "id": 20,
+            "phrase": "I won’t give up without a fight.",
+            "definition": "I will not give in easily. (Compare this with Don’t give up too eas(il)y.) _ Sue: Stick by your principles, Fred. Fred: Don’t worry, I won’t give up without a fight.  Bob: The boss wants me to turn the Wilson project over to Tom. Sue: How can he do that? Bob: I don’t know. All I know is that I won’t give up without a fight."
+        },
+        {
+            "id": 21,
+            "phrase": "(I) would if I could(, but I can’t).",
+            "definition": "I simply can’t do it. Jane: Can’t you fix this yourself ? John: I would if I could, but I can’t.  Bob: Can you go to the dance? Hardly anyone is going. Alice: Would if I could."
+        },
+        {
+            "id": 22,
+            "phrase": "(I) wouldn’t if I were you.",
+            "definition": "a polite way to advise someone not to do something.  Mary: Do you think I should trade this car in on a new one? Sally: I wouldn’t if I were you.  Bob: I’m going to plant nothing but corn this year. Sue: I wouldn’t if I were you. Bob: Why? Sue: It’s better to diversify."
+        },
+        {
+            "id": 23,
+            "phrase": "(I) wouldn’t know.",
+            "definition": "There is no way that I would know the answer to that question.  John: When will the f light from Miami get in? Jane: Sorry, I wouldn’t know.  Bob: Are there many fish in the Amazon River? Mary: Gee, I wouldn’t know."
+        },
+        {
+            "id": 24,
+            "phrase": "I wouldn’t touch it with a ten-foot pole.",
+            "definition": "Cliché I would not have anything to do with it under any circumstances. (Said about something you think is untrustworthy, as in the first example, or in response to a remark that seems to invite a nasty reply, as in the second example. The British version is “I would not touch it with a bargepole.”) _ Jill: This advertisement says I can buy land in Florida for a small investment. Do you think I should? Jane: I wouldn’t touch it with a ten-foot pole.  Jane: Can you believe this? Jill said she thinks I’m bossy. You don’t think I’m bossy, do you? Mary: I wouldn’t touch that with a tenfoot pole."
+        },
+        {
+            "id": 25,
+            "phrase": "ice over",
+            "definition": "[for water] to freeze and develop a covering of ice.  I can’t wait for the river to ice over so we can do some ice fishing."
+        },
+        {
+            "id": 26,
+            "phrase": "ice something down†",
+            "definition": "to cool something with ice.  They are icing the champagne down now. They are icing down the champagne now."
+        },
+        {
+            "id": 27,
+            "phrase": "ice something up†",
+            "definition": "to cause something to become icy.  I hope the cold doesn’t ice the roads up. The wind and rain iced up the roads."
+        },
+        {
+            "id": 28,
+            "phrase": "ice up",
+            "definition": "to become icy.  Are the roads icing up?"
+        },
+        {
+            "id": 29,
+            "phrase": "the icing on the cake",
+            "definition": "an extra enhancement. Oh, wow! A tank full of gas in my new car. That’s icing on the cake! _ Your coming home for a few days was the icing on the cake."
+        },
+        {
+            "id": 30,
+            "phrase": "I’d bet money (on it).",
+            "definition": "I am certain.  Charlie: Do you think Joe’s planning to sell his house? Tom: I’d bet money on it.  I’d bet money that Jane will get that job."
+        },
+        {
+            "id": 31,
+            "phrase": "(I’d) better get moving.",
+            "definition": "Inf. an expression announcing the need to depart. Jane: It’s nearly dark. Better get moving. Mary: Okay. See you later.  Bob: I’m off. Good night. Bill: Look at the time! I’d better get moving too."
+        },
+        {
+            "id": 32,
+            "phrase": "(I’d) better get on my horse.",
+            "definition": "Inf. an expression indicating that it is time that one departed.  John: It’s getting late. Better get on my horse. Rachel: Have a safe trip. See you tomorrow. “I’d better get on my horse. The sun’ll be down in an hour,” said Sue, sounding like a cowboy."
+        },
+        {
+            "id": 33,
+            "phrase": "I’d (just) as leave do something",
+            "definition": "I would rather do something.  Tom: Do you want to go to Joe’s party? Jane: We can if you want to, but I’d as leave not.  I’d just as leave eat dinner at home tonight."
+        },
+        {
+            "id": 34,
+            "phrase": "I’d (just) as soon (as) do something",
+            "definition": "I would prefer to do something.  Tom: Why don’t you give Joe a call? Jane: I’d as soon as you did it.  I’d just as soon we didn’t stay here long."
+        },
+        {
+            "id": 35,
+            "phrase": "I’d like (for) you to meet someone.",
+            "definition": "an expression used to introduce someone to someone else. (The someone can be a person’s name, the name of a relationship, or the word someone.) _Tom: Sue, I’d like you to meet my brother, Bill. Sue: Hi, Bill. How are you? Bill: Great! How are you? _Bob: Hello, Fred. I’d like for you to meet someone. This is Bill. Fred: Hello, Bill. I’m glad to meet you. Bill: Hello, Fred. My pleasure."
+        },
+        {
+            "id": 36,
+            "phrase": "I’d like to speak to someone, please.",
+            "definition": "the standard way of requesting to speak with a specific person on the telephone or in an office. Sue (answering the phone): Hello? Bill: Hello, this is Bill Franklin. I’d like to speak to Mary Gray. Sue: I’ll see if she’s in.  “I’d like to speak to Tom,” said the voice at the other end of the line."
+        },
+        {
+            "id": 37,
+            "phrase": "I’d rather face a firing squad than do something",
+            "definition": "I would prefer to stand and be executed by gunfire than to do something.  I’d rather face a firing squad than go shopping the day after Christmas."
+        },
+        {
+            "id": 38,
+            "phrase": "identify (oneself) with someone or something",
+            "definition": "to classify oneself with someone or something; to relate to someone or something; to see part of oneself represented in someone or something.  I identify myself with the others.  I identify with the birds and animals of the forest."
+        },
+        {
+            "id": 39,
+            "phrase": "identify someone as someone",
+            "definition": "1. to determine that someone is a certain person. Can you identify Fred as the perpetrator? _ Fred was identified as the thief. 2. to reveal one’s identity or name.  Will you identify the man as Tom? _ The stranger identified himself as a meter reader from the gas company."
+        },
+        {
+            "id": 40,
+            "phrase": "identify someone or something by something",
+            "definition": "to recognize someone or something because of something. Can you identify your baggage by any special marks? _You can identify me by the red carnation in my lapel."
+        },
+        {
+            "id": 41,
+            "phrase": "identify someone or something with someone or something",
+            "definition": "to associate people and things, in any combination.  I tend to identify Wally with big cars.  We usually identify green with grass. We tend to identify big cars with greedy people."
+        },
+        {
+            "id": 42,
+            "phrase": "idle about",
+            "definition": "to loiter around, doing nothing. Please don’t idle about. Get busy! _ Andy is idling about today."
+        },
+        {
+            "id": 43,
+            "phrase": "An idle brain is the devil’s workshop.",
+            "definition": "Prov. People who have nothing worthwhile to think about will usually think of something bad to do.  We need to figure out something constructive for Tom to do in the afternoons after school. An idle brain is the devil’s workshop."
+        },
+        {
+            "id": 44,
+            "phrase": "idle something away†",
+            "definition": "to waste one’s time in idleness; to waste a period of time, such as an afternoon, evening, one’s life. She idled the afternoon away and then went to a party.  Don’t idle away the afternoon."
+        },
+        {
+            "id": 45,
+            "phrase": "Idleness is the root of all evil.",
+            "definition": "Prov. If you have no useful work to do, you will think of harmful things to do in order to amuse yourself. (Compare this with Money is the root of all evil.) _ Child: Why do you make me do so many chores? Father: Idleness is the root of all evil."
+        },
+        {
+            "id": 46,
+            "phrase": "idolize someone or something as something",
+            "definition": "to worship or adore someone or something as being something.  We all idolized Jim as our hero. They idolized wealth as a cure for all their ills."
+        },
+        {
+            "id": 47,
+            "phrase": "If a thing is worth doing, it ’s worth doing well.",
+            "definition": "Prov. If you decide to do something, do it as well as you possibly can.  Jill: Do we have to wash the walls before we paint them? It seems like such a lot of extra work. Fred: Yes, we have to. The paint won’t stick properly otherwise. If a thing is worth doing, it’s worth doing well.  Bruce never did sloppy work. He believed that if something is worth doing, it’s worth doing well."
+        },
+        {
+            "id": 48,
+            "phrase": "If anything can go wrong, it will.",
+            "definition": "Prov. Every possible disaster will occur, whether you have prepared for it or not. (This saying is also referred to as “Murphy’s Law.”) _ Fred: Your car should be fine now, as long as the battery doesn’t die. Alan: Then we’d better put a new battery in. If anything can go wrong, it will; so let’s make sure it can’t go wrong."
+        },
+        {
+            "id": 49,
+            "phrase": "If at first you don’t succeed, try, try again.",
+            "definition": "Prov. You have to keep trying until you get what you want.  Jill: I spent all morning trying to fix the computer, and it still won’t work. Jane: If at first you don’t succeed, try, try again.  You’ll learn that dance step eventually. If at first you don’t succeed, try, try again."
+        },
+        {
+            "id": 50,
+            "phrase": "If God did not exist, it would be necessary to invent Him.",
+            "definition": "Prov. People need a deity to worship. (This is an English translation of a quote from Voltaire. It is often parodied, using a person’s name instead of God and implying that the person is somehow necessary.) _ The atheist tried to convince Jerry that God does not exist, and that people should not waste their time worshiping Him. “But you can’t stop people from worshiping God,” Jerry replied. “If God did not exist, it would be necessary to invent Him.” _ The unscrupulous mayor was such a convenient scapegoat for the city’s problems that if she had not existed, it would have been necessary to invent her."
+        },
+        {
+            "id": 51,
+            "phrase": "if I were you",
+            "definition": "an expression introducing a piece of advice.  John: If I were you, I’d get rid of that old car. Alice: Gee, I was just getting to like it.  Henry: I’d keep my thoughts to myself, if I were you. Bob: I guess I should be careful about what I say."
+        },
+        {
+            "id": 52,
+            "phrase": "If ifs and ands were pots and pans (there’d be no work for tinkers’ hands).",
+            "definition": "Prov. Wishing for things is useless. (Often said in reply to someone who says something beginning with “If only. . . .”) _ Daughter: If only we didn’t have to move out of town, I’d be the happiest girl in the world. Grandmother: If ifs and ands were pots and pans, there’d be no work for tinkers’ hands."
+        },
+        {
+            "id": 53,
+            "phrase": "If it ain’t chickens, it’s feathers.",
+            "definition": "Rur. There are always problems.; That is life.  Now that I’m finally done with school, I’ve got to worry about getting a job. If it ain’t chickens, it’s feathers.  He’s got plenty of money now, but he’s in such bad health he can’t enjoy it. If it ain’t chickens, it’s feathers."
+        },
+        {
+            "id": 54,
+            "phrase": "If it was a snake it woulda bit you.",
+            "definition": "Rur. It was very close to you.  Jane: Where’s the phone book? Tom: Right there! If it was a snake it woulda bit you. Bill: I can’t find my other shoe. I’ve looked all over the house. Mary: It’s right behind you. If it was a snake it would have bit you."
+        },
+        {
+            "id": 55,
+            "phrase": "if I’ve told you once, I’ve told you a thousand times",
+            "definition": "an expression that introduces a scolding, usually to a child.  Mother: If I’ve told you once, I’ve told you a thousand times, don’t leave your clothes in a pile on the f loor! Bill: Sorry.  “If I’ve told you once, I’ve told you a thousand times, keep out of my study!” yelled Bob."
+        },
+        {
+            "id": 56,
+            "phrase": "if looks could kill",
+            "definition": "a catchphrase said when someone makes a frown at someone or when someone casts a dirty look. Did you see the way she looked at me? If looks could kill....  If looks could kill.... What a nasty glare she gave me."
+        },
+        {
+            "id": 57,
+            "phrase": "if my memory serves me correctly",
+            "definition": "if I have remembered it correctly...  If my memory serves me correctly, you are the cousin of my closest friend."
+        },
+        {
+            "id": 58,
+            "phrase": "if not",
+            "definition": "if that is not [the case]; if that is not so.  If not cleaned, the clock will stop running. He should be here at noon. If not, we will eat without him."
+        },
+        {
+            "id": 59,
+            "phrase": "if one knows what’s good for one",
+            "definition": "one had better do what is expected of one.  You’d better be on time if you know what’s good for you.  If you know what’s good for you, you’ll call and apologize."
+        },
+        {
+            "id": 60,
+            "phrase": "if one’s a day",
+            "definition": "a phrase attached to an expression of someone’s age.  She’s fifty if she’s a day! _ I’m sure he’s forty-five if he’s a day."
+        },
+        {
+            "id": 61,
+            "phrase": "if so",
+            "definition": "if that is [the case]; if that is so.  She might be late. If so, we will eat without her.  She is supposed to be all right. If so, we have nothing to worry about."
+        },
+        {
+            "id": 62,
+            "phrase": "If that don’t beat a pig a-pecking!",
+            "definition": "Rur. That’s amazing! _Tom: A Republican won the Senate seat! Jane: If that don’t beat a pig a-pecking! _Mary: Jim lost twenty pounds in one month. Charlie: If that don’t beat a pig a-pecking!"
+        },
+        {
+            "id": 63,
+            "phrase": "If the mountain will not come to Mahomet, Mahomet must go to the mountain.",
+            "definition": "Prov. If things do not change the way you want them to, you must adjust to the way they are. (Mohammed is often used instead of Mahomet. Also the mountain has come to Mahomet, something or someone that you would not expect to travel has arrived. There are many variations of this proverb. See the examples.) _ The president won’t see me so I will have to go to his office. If the mountain will not come to Mahomet, Mahomet must go to the mountain. If Caroline can’t leave the hospital on her birthday, we’ll have to take her birthday party to the hospital. If the mountain won’t come to Mahomet, Mahomet will have to go to the mountain. It’s true I don’t usually leave my home, but if you can’t come to see me, I’ll have to come see you. The mountain will come to Mohammed."
+        },
+        {
+            "id": 64,
+            "phrase": "If the shoe fits(, wear it).",
+            "definition": "Prov. An unflattering remark applies to you, so you should accept it. (Slightly rude.) _ Fred: Hey, Jill, how’s your love life? Jill: I don’t like busybodies, Fred. Fred: Are you calling me a busybody? Jane: If the shoe fits, wear it.  Ellen: The professor told me I don’t write well! Bill: If the shoe fits, Ellen."
+        },
+        {
+            "id": 65,
+            "phrase": "if the truth were known",
+            "definition": "Prov. if people knew how something really was, instead of how it appears to be.  If the truth were known, people wouldn’t shop at that store. Its owners aren’t as honest as they seem.  Sam: You’re always polite to Fred, but you don’t really like him, do you? Alan: Well, no, if the truth were known."
+        },
+        {
+            "id": 66,
+            "phrase": "if (the) worst comes to (the) worst",
+            "definition": "Prov. in the worst possible circumstances; if the worst possible thing should happen. We should be able to catch the four-thirty train, but if the worst comes to the worst, we could get a taxi and still get into town on time.  Of course, I hope that your wife’s health recovers, but if worst comes to worst, I want you to know that we’d be happy to have you stay with us."
+        },
+        {
+            "id": 67,
+            "phrase": "If there’s anything you need, don’t hesitate to ask.",
+            "definition": "a polite phrase offering help in finding something or by providing something. (Often said by a host or by someone helping someone settle into something. See also If you don’t see what you want, please ask (for it).) _Mary: This looks very nice. I’ll be quite comfortable here. Jane: If there’s anything you need, don’t hesitate to ask.  “If there is anything you need, don’t hesitate to ask,” said the room clerk."
+        },
+        {
+            "id": 68,
+            "phrase": "If two ride on a horse, one must ride behind.",
+            "definition": "Prov. When two people do something together, one of them will be the leader and the other will have to be subordinate.  Jane: How come every time we get together, we always do what you want to do, and never do what I want to do? Ellen: Well, dear, if two ride on a horse, one must ride behind."
+        },
+        {
+            "id": 69,
+            "phrase": "If wishes were horses, then beggars would ride.",
+            "definition": "Prov. People make a lot of wishes, but wishing is useless. Jill: If I were Queen of the World, I would make sure that everyone had enough to eat. Jane: And if wishes were horses, then beggars would ride.  Alan: I sure wish I had one of those expensive cameras. Jane: If wishes were horses, then beggars would ride."
+        },
+        {
+            "id": 70,
+            "phrase": "If you can’t be good, be careful.",
+            "definition": "Prov. If you are going to do immoral things, make sure they are not dangerous.; If you are going to do something immoral, make sure to keep it secret. (Sometimes used as a flippant way of saying good-bye.) _ Be a good girl on your vacation trip. Or if you can’t be good, be careful.  Ernest likes to close his letters with, “If you can’t be good, be careful.”"
+        },
+        {
+            "id": 71,
+            "phrase": "If you can’t stand the heat, get out of the kitchen.",
+            "definition": "Prov. If the pressures of some situation are too much for you, you should leave that situation. (Somewhat insulting; implies that the person addressed cannot tolerate pressure.) _ Alan: I didn’t think being a stockbroker could be so stressful. Fred: If you can’t stand the heat, get out of the kitchen.  Jill: This exercise class is too tough; the teacher should let us slow down. Jane: If you can’t stand the heat, get out of the kitchen."
+        },
+        {
+            "id": 72,
+            "phrase": "If you don’t like it, (you can) lump it.",
+            "definition": "Prov. Things cannot be changed to suit your preferences. We’re having fish for dinner tonight. And if you don’t like it, you can lump it.  We’re going to go visit Aunt Sally this weekend. If you don’t like it, lump it."
+        },
+        {
+            "id": 73,
+            "phrase": "If you don’t make mistakes, you don’t make anything.",
+            "definition": "Prov. If you try to do something, you will likely make mistakes.; The only way to make no mistakes is to avoid trying to do anything. (Can be used to console someone who has made a mistake.) _ Alan: I’m sorry there’s no dessert. I tried to make a cake, but I messed it up. Jane: That’s OK, dear; if you don’t make mistakes, you don’t make anything.  It’s a shame that you ruined the sweater you were making, but if you don’t make mistakes, you don’t make anything."
+        },
+        {
+            "id": 74,
+            "phrase": "If you don’t mind!",
+            "definition": "1. an expression that rebukes someone for some minor social violation.  When Bill accidentally sat on Mary’s purse, which she had placed in the seat next to her, she said, somewhat angrily, “If you don’t mind!” _ Bill (pushing his way in front of Mary in the checkout line): Excuse me. Mary: If you don’t mind! I was here first! Bill: I’m in a hurry. Mary: So am I! 2. a polite way of introducing a request.  Bill: If you don’t mind, could you move a little to the left? Sally: No problem. (moving) Is that all right? Bill: Yeah. Great! Thanks! _ Jane: If you don’t mind, could I have your broccoli? John: Help yourself. 3. a vague phrase answering yes to a question that asks whether one should do something.  Tom: Do you want me to take these dirty dishes away? Mary: If you don’t mind. Bill: Shall I close the door? Sally: If you don’t mind."
+        },
+        {
+            "id": 75,
+            "phrase": "if you get my drift",
+            "definition": "if you understand what I am saying or implying. (Akin to get someone’s drift.) _I’ve heard enough talk and seen enough inaction—if you get my drift."
+        },
+        {
+            "id": 76,
+            "phrase": "if you know what’s good for you",
+            "definition": "if you know what will be to your benefit; if you know what will keep you out of trouble.  Mary: I see that Jane has put a big dent in her car. Sue: You’ll keep quiet about that if you know what’s good for you.  Sally: My teacher told me I had better improve my spelling. Bill: If you know what’s good for you, you’d better do it too."
+        },
+        {
+            "id": 77,
+            "phrase": "If you lie down with dogs, you will get up with fleas.",
+            "definition": "Prov. If you associate with bad people, you will acquire their faults.  Granddaughter: It’s not fair. I’m starting to get a bad reputation just because I’m friends with Suzy and she has a bad reputation. Grandmother: It’s only natural. People think that if you lie down with dogs, you will get up with f leas."
+        },
+        {
+            "id": 78,
+            "phrase": "if you must",
+            "definition": "All right, if you have to.  Sally: It’s late. I have to move along. Mary: If you must. Good-bye. See you tomorrow.  Alice: I’m taking these things with me. Jane: If you must, all right. They can stay here, though."
+        },
+        {
+            "id": 79,
+            "phrase": "If you play with fire, you get burned.",
+            "definition": "Prov. If you do something dangerous, you will get hurt.  Joe said, “I have no sympathy for race-car drivers who get injured. They should know that if you play with fire, you get burned.” _ My mother always told us that experimenting with hard drugs was playing with fire."
+        },
+        {
+            "id": 80,
+            "phrase": "If you run after two hares, you will catch neither.",
+            "definition": "Prov. You cannot do two things successfully at the same time.  Vanessa: If I want to pursue my acting career, I’ll have to take more days off to go to auditions. But I want to get ahead in the office, too. Jane: If you run after two hares, you will catch neither."
+        },
+        {
+            "id": 81,
+            "phrase": "If you want a thing done well, do it yourself.",
+            "definition": "Prov. You cannot rely on other people to do things properly for you. (Sometimes right is used instead of well.) _ I asked my son to chop the vegetables for me, but he’s cut them into chunks too small to use. I should have known: if you want a thing done well, do it yourself. Laura wouldn’t trust professional auto mechanics, and so did all her own car repair. “If you want something done right, do it yourself,” she said."
+        },
+        {
+            "id": 82,
+            "phrase": "If you want peace, (you must) prepare for war.",
+            "definition": "Prov. If a country is well armed, its opponents will be less likely to attack it. Wilbur was always arguing with those of his friends who believed in disarmament. “Getting rid of our weapons won’t promote peace,” he would say. “If you want peace, you must prepare for war.”"
+        },
+        {
+            "id": 83,
+            "phrase": "If you would be well served, serve yourself.",
+            "definition": "Prov. You should do things for yourself, since you cannot trust other people to do them exactly the way you want.  I would never hire a maid, because a maid wouldn’t clean things the way I want them cleaned. Like they say: if you would be well served, serve yourself."
+        },
+        {
+            "id": 84,
+            "phrase": "if you’ll pardon the expression",
+            "definition": "excuse the expression I am about to say or just said. This thing is—if you’ll pardon the expression—loused up.  I’m really jacked, if you’ll pardon the expression."
+        },
+        {
+            "id": 85,
+            "phrase": "If you’re born to be hanged, then you’ll never be drowned.",
+            "definition": "Prov. If you escape one disaster, it must be because you are destined for a different kind of disaster. (Sometimes used to warn someone who has escaped drowning against gloating over good luck.) _When their ship was trapped in a terrible storm, Ellen told her husband that she feared they would die. “Don’t worry,” he replied with a yawn, “if you’re born to be hanged, then you’ll never be drowned.”"
+        },
+        {
+            "id": 86,
+            "phrase": "if you’ve a mind to do something",
+            "definition": "Rur. if you really want to do something.  If you’ve a mind to run for class president, you’d best start making campaign posters. You can do just about anything if you’ve a mind to."
+        },
+        {
+            "id": 87,
+            "phrase": "Ignorance is bliss.",
+            "definition": "Prov. Not knowing is better than knowing and worrying. A: I never knew that the kid who mows our lawn has been in trouble with the police. B: Ignorance is bliss!"
+        },
+        {
+            "id": 88,
+            "phrase": "Ignorance (of the law) is no excuse (for breaking it).",
+            "definition": "Prov. Even if you do not know that something is against the law, you can still be punished for doing it. (An ancient legal principle.) _ Police officer: I’m giving you a speeding ticket. Motorist: But I didn’t know I was exceeding the speed limit! Police officer: Ignorance of the law is no excuse for breaking it. Terry protested that he didn’t know it was illegal to break the windows of an abandoned build- ing, but the judge informed him that ignorance of the law was no excuse."
+        },
+        {
+            "id": 89,
+            "phrase": "ill at ease",
+            "definition": "uneasy; anxious.  I feel ill at ease about the interview.  You look ill at ease. Please relax."
+        },
+        {
+            "id": 90,
+            "phrase": "I’ll be a monkey’s uncle!",
+            "definition": "I am amazed! _ A: I just won $500,000 in the lottery! B: Well, I’ll be a monkey’s uncle!"
+        },
+        {
+            "id": 91,
+            "phrase": "(I’ll) be right there.",
+            "definition": "I’m coming. Bill: Tom! Come here. Tom: Be right there. Mother: Can you come down here a minute? Child: I’ll be right there, Mom."
+        },
+        {
+            "id": 92,
+            "phrase": "(I’ll) be right with you.",
+            "definition": "Please be patient, I will attend to you soon. (Often said by someone attending a sales counter or by an office receptionist.) _ Mary: Oh, Miss? Clerk: I’ll be right with you. Bob: Sally, can you come here for a minute? Sally: Be right with you."
+        },
+        {
+            "id": 93,
+            "phrase": "(I’ll) be seeing you.",
+            "definition": "Good-bye, I will see you sometime in the (near) future. Bob: Bye. Be seeing you. Sally: Yeah. See you later.  John: Have a good time on your vacation. I’ll be seeing you. Sally: See you next week. Bye."
+        },
+        {
+            "id": 94,
+            "phrase": "I’ll bite.",
+            "definition": "Inf. Okay, I will answer your question.; Okay, I will listen to your joke or play your little guessing game. Bob: Guess what is in this box? Bill: I’ll bite. Bob: A new toaster! _John: Did you hear the joke about the used car salesman? Jane: No, I’ll bite."
+        },
+        {
+            "id": 95,
+            "phrase": "I’ll call back later.",
+            "definition": "a standard phrase indicating that a telephone caller will call again at a later time.  Sally: Is Bill there? Mary (speaking into the telephone): Sorry, he’s not here right now. Sally: I’ll call back later. John (speaking into the telephone): Hello. Is Fred there? Jane: No. Can I take a message? John: No, thanks. I’ll call back later."
+        },
+        {
+            "id": 96,
+            "phrase": "(I’ll) catch you later.",
+            "definition": "Inf. I will talk to you later. Mary: Got to f ly. See you around. Sally: Bye. Catch you later.  John: I have to go to class now. Bill: Okay, catch you later."
+        },
+        {
+            "id": 97,
+            "phrase": "I’ll drink to that!",
+            "definition": "Inf. I agree with that! (Originally used as a reply to a proposed toast.) _ Great idea! I’ll drink to that.  That’s a fine suggestion. I’ll drink to that."
+        },
+        {
+            "id": 98,
+            "phrase": "I’ll eat my hat.",
+            "definition": "I will be very surprised. (Used to express strong disbelief in something.) _If Joe really joins the Army, I’ll eat my hat.  If this car gives you any trouble, I’ll eat my hat."
+        },
+        {
+            "id": 99,
+            "phrase": "I’ll get right on it.",
+            "definition": "I will begin work on that immediately. Bob: Please do this report immediately. Fred: I’ll get right on it.  Jane: Please call Tom and ask him to rethink this proposal. John: I’ll get right on it."
+        },
+        {
+            "id": 100,
+            "phrase": "I’ll have to beg off.",
+            "definition": "a polite expression used to turn down an informal invitation.  Andrew: Thank you for inviting me, but I’ll have to beg off. I have a conf lict. Henry: I’m sorry to hear that. Maybe some other time.  Bill: Do you think you can come to the party? Bob: I’ll have to beg off. I have another engagement. Bill: Maybe some other time."
+        },
+        {
+            "id": 101,
+            "phrase": "I’ll (have to) let you go.",
+            "definition": "It is time to end this phone conversation.  Well, I’ll let you go. It’s getting late.  I have to go to work early tomorrow, so I’ll let you go."
+        },
+        {
+            "id": 102,
+            "phrase": "I’ll look you up when I’m in town.",
+            "definition": "I will try to visit you or contact you the next time I am in town. Bill: I hope to see you again sometime. Mary: I’ll look you up when I’m in town. Andrew: Good-bye, Fred. It’s been nice talking to you. I’ll look you up when I’m in town. Fred: See you around, dude."
+        },
+        {
+            "id": 103,
+            "phrase": "I’ll put a stop to that.",
+            "definition": "I’ll see that the just-mentioned undesirable activity is stopped. Fred: There are two boys fighting in the hall. Bob: I’ll put a stop to that.  Sue: The sales force is ignoring almost every customer in the older neighborhoods. Mary: I’ll put a stop to that!"
+        },
+        {
+            "id": 104,
+            "phrase": "(I’ll) see you in a little while.",
+            "definition": "a phrase indicating that the speaker will see the person spoken to within a few hours at the most. John: I’ll see you in a little while. Jane: Okay. Bye till later. Sally: I have to get dressed for tonight. Fred: I’ll pick you up about nine. See you in a little while. Sally: See you."
+        },
+        {
+            "id": 105,
+            "phrase": "(I’ll) see you next year.",
+            "definition": "a good-bye expression said toward the end of one year.  Bob: Happy New Year! Sue: You, too! See you next year.  John: Bye. See you tomorrow. Mary: It’s New Year’s Eve. See you next year! John: Right! I’ll see you next year!"
+        },
+        {
+            "id": 106,
+            "phrase": "(I’ll) see you (real) soon.",
+            "definition": "Good-bye. I will meet you again soon. Bill: Bye, Sue. See you. Sue: See you real soon, Bill.  John: Bye, you two. Sally: See you soon. Jane: See you, John."
+        },
+        {
+            "id": 107,
+            "phrase": "(I’ll) see you then.",
+            "definition": "I will see you at the time we’ve just agreed upon.  John: Can we meet at noon? Bill: Sure. See you then. Bye. John: Bye.  John: I’ll pick you up just after midnight. Sally: See you then."
+        },
+        {
+            "id": 108,
+            "phrase": "(I’ll) see you tomorrow.",
+            "definition": "I will see you when we meet again tomorrow. (Typically said to someone whose daily schedule is the same as one’s own.) _Bob: Bye, Jane. Jane: Good night, Bob. See you tomorrow. Sue: See you tomorrow. Jane: Until tomorrow. Bye."
+        },
+        {
+            "id": 109,
+            "phrase": "(I’ll) talk to you soon.",
+            "definition": "I will talk to you on the telephone again soon.  Sally: Bye now. Talk to you soon. John: Bye now.  Bill: Nice talking to you. Bye. Mary: Talk to you soon. Bye."
+        },
+        {
+            "id": 110,
+            "phrase": "I’ll thank you to keep your opinions to yourself.",
+            "definition": "I do not care about your opinion of this matter.  Jane: This place is sort of drab. John: I’ll thank you to keep your opinions to yourself.  Bill: Your whole family is sort of loud. John: I’ll thank you to keep your opinions to yourself."
+        },
+        {
+            "id": 111,
+            "phrase": "I’ll thank you to mind your own business.",
+            "definition": "a version of Mind your own business. (Shows a little anger.) _Tom: How much did this cost? Jane: I’ll thank you to mind your own business.  Bob: Is your house in your name or your brother’s? John: I’ll thank you to mind your own business."
+        },
+        {
+            "id": 112,
+            "phrase": "ill will",
+            "definition": "hostile feelings or intentions.  I hope you do not have any ill will toward me because of our argument.  Dave felt such ill will toward his family that he left his fortune to his best friend."
+        },
+        {
+            "id": 113,
+            "phrase": "ill-disposed to doing something",
+            "definition": "not friendly; not favorable; opposed.  I am ill-disposed to doing hard labor.  The police chief was ill-disposed to discussing the details of the case to the news reporters."
+        },
+        {
+            "id": 114,
+            "phrase": "ill-gotten gains",
+            "definition": "money or other possessions acquired in a dishonest or illegal fashion.  Bill cheated at cards and is now living on his ill-gotten gains. Mary is enjoying her ill-gotten gains. She deceived an old lady into leaving her $5,000 in her will."
+        },
+        {
+            "id": 115,
+            "phrase": "illuminate something with something",
+            "definition": "to light up something with something.  The lights illuminated the monument with a bright glow.  The monument was illuminated with mercury vapor lamps."
+        },
+        {
+            "id": 116,
+            "phrase": "illustrate something with something",
+            "definition": "1. to provide pictorial examples for a book or other document.  She illustrated her book with clever line drawings. We need someone to illustrate this book with drawings. 2. Fig. to use something to show how something works, how something is meant to be, or how to do something.  Would you please illustrate how to do it with a drawing or two? _ I think I can illustrate what I mean with a little more explanation."
+        },
+        {
+            "id": 117,
+            "phrase": "I’m busy.",
+            "definition": "Do not bother me now.; I cannot attend to your needs now.  Bob: Can I talk to you? Bill: I’m busy. Bob: It’s important. Bill: Sorry, I’m busy! _ Fred: Can you help me with this? Bill: I’m busy. Can it wait a minute? Fred: Sure. No rush."
+        },
+        {
+            "id": 118,
+            "phrase": "I’m cool.",
+            "definition": "Inf. I’m fine. Bob: How you been? Fred: I’m cool, man. Yourself ? Bob: The same. Father: How are you, son? Bill: I’m cool, Dad. Father (joking): So should I turn up the heat?"
+        },
+        {
+            "id": 119,
+            "phrase": "I’m damned if I do and damned if I don’t.",
+            "definition": "There are problems if I do something and problems if I don’t do it.  I can’t win. I’m damned if I do and damned if I don’t. No matter whether I go or stay, I am in trouble. I’m damned if I do and damned if I don’t."
+        },
+        {
+            "id": 120,
+            "phrase": "(I’m) delighted to make your acquaintance.",
+            "definition": "I am very glad to meet you. Tom: My name is Tom. I work in the advertising department. Mary: I’m Mary. I work in accounting. Delighted to make your acquaintance. Tom: Yeah. Good to meet you.  Fred: Sue, this is Bob. He’ll be working with us on the Wilson project. Sue: I’m delighted to make your acquaintance, Bob. Bob: My pleasure."
+        },
+        {
+            "id": 121,
+            "phrase": "(I’m) doing okay.",
+            "definition": "1. Inf. I’m just fine.  Bob: How you doing? Bill: Doing okay. And you? Bob: Things could be worse.  Mary: How are things going? Sue: I’m doing fine, thanks. And you? Mary: Doing okay. 2. Inf. I’m doing as well as can be expected.; I’m feeling better.  Mary: How are you feeling? Sue: I’m doing okay—as well as can be expected.  Tom: I hope you’re feeling better. Sally: I’m doing okay, thanks."
+        },
+        {
+            "id": 122,
+            "phrase": "I’m easy (to please).",
+            "definition": "I accept that because I am not particular.; That’s okay with me.  Tom: Hey, man! Do you care if we get a sausage pizza rather than mushroom? Bob: Fine with me. I’m easy. Mary: How do you like this music? Bob: It’s great, but I’m easy to please."
+        },
+        {
+            "id": 123,
+            "phrase": "(I’m) feeling okay.",
+            "definition": "I am doing well.; I am feeling well.  Alice: How are you feeling? Jane: I’m feeling okay.  John: How are things going? Fred: Feeling okay."
+        },
+        {
+            "id": 124,
+            "phrase": "(I’m) glad to hear it.",
+            "definition": "a phrase expressing pleasure at what the speaker has just said.  Sally: We have a new car, finally. Mary: I’m glad to hear it. Tom: Is your sister feeling better? Bill: Oh, yes, thanks. Tom: Glad to hear it."
+        },
+        {
+            "id": 125,
+            "phrase": "(I’m) having a wonderful time; wish you were here.",
+            "definition": "Cliché a catchphrase that is thought to be written onto postcards by people who are away on vacation.  John wrote on all his cards, “Having a wonderful time; wish you were here.” And he really meant it too.  “I’m having a wonderful time; wish you were here,” said Tom, speaking on the phone to Mary, suddenly feeling very insincere."
+        },
+        {
+            "id": 126,
+            "phrase": "I’m having quite a time.",
+            "definition": "I am having a very enjoyable time. John: Having fun? Jane: Oh, yes. I’m having quite a time. Bob: Do you like the seashore? Sally: Yes, I’m having quite a time."
+        },
+        {
+            "id": 127,
+            "phrase": "(I’m) having the time of my life.",
+            "definition": "I am having the best time ever.  Bill: Are you having a good time, Mary? Mary: Don’t worry about me. I’m having the time of my life.  Mary: What do you think about this theme park? Bill: Having the time of my life. I don’t want to leave."
+        },
+        {
+            "id": 128,
+            "phrase": "I’m history.",
+            "definition": "Inf. Good-bye, I am leaving.  I’m history. See you tomorrow.  Later. I’m history."
+        },
+        {
+            "id": 129,
+            "phrase": "(I’m) just getting by.",
+            "definition": "an expression indicating that one is just surviving financially or otherwise. Bob: How you doing, Tom? Tom: Just getting by, Bob.  “I wish I could get a better job,” remarked Tom. “I’m just getting by as it is.”"
+        },
+        {
+            "id": 130,
+            "phrase": "(I’m just) minding my own business.",
+            "definition": "an answer to a greeting inquiry asking what one is doing. (This answer also can carry the implication “Since I am minding my own business, why aren’t you minding your own business?”) _ Tom: Hey, man, what are you doing? Bill: Minding my own business. See you around.  Sue: Hi, Mary. What have you been doing? Mary: I’m just minding my own business and trying to keep out of trouble."
+        },
+        {
+            "id": 131,
+            "phrase": "(I’m) (just) plugging along.",
+            "definition": "Inf. I am doing satisfactorily.; I am just managing to function.  Bill: How are things going? Bob: I’m just plugging along.  Sue: How are you doing, Fred? Fred: Just plugging along, thanks. And you? Sue: About the same."
+        },
+        {
+            "id": 132,
+            "phrase": "(I’m) (just) thinking out loud.",
+            "definition": "I’m saying things that might better remain as private thoughts. (A way of characterizing or introducing one’s opinions or thoughts. Also past tense.) _ Sue: What are you saying, anyway? Sounds like you’re scolding someone. Bob: Oh, sorry. I was just thinking out loud. Bob: Now, this goes over here. Bill: You want me to move that? Bob: Oh, no. Just thinking out loud."
+        },
+        {
+            "id": 133,
+            "phrase": "I’m like you",
+            "definition": "an expression introducing a statement of a similarity that the speaker shares with the person spoken to.  Mary: And what do you think about this pair? Jane: I’m like you, I like the ones with lower heels.  “I’m like you,” confided Fred. “I think everyone ought to pay the same amount.”"
+        },
+        {
+            "id": 134,
+            "phrase": "I’m not finished with you.",
+            "definition": "I still have more to say to you. Bill started to turn away when he thought the scolding was finished. “I’m not finished with you,” bellowed his father.  When the angry teacher paused brief ly to catch his breath, Bob turned as if to go. “I’m not finished with you,” screamed the teacher, “Don’t leave here until I say you can!”"
+        },
+        {
+            "id": 135,
+            "phrase": "I’m not kidding.",
+            "definition": "I am telling the truth.; I am not trying to fool you. Mary: Those guys are all suspects in the robbery. Sue: No! They can’t be! Mary: I’m not kidding! _John (gesturing): The fish I caught was this big! Jane: I don’t believe it! John: I’m not kidding!"
+        },
+        {
+            "id": 136,
+            "phrase": "I’m off.",
+            "definition": "an expression said by someone who is just leaving. Bob: Time to go. I’m off. Mary: Bye. Sue: Well, it’s been a great party. Good-bye. Got to go. Mary: I’m off too. Bye."
+        },
+        {
+            "id": 137,
+            "phrase": "(I’m) pleased to meet you.",
+            "definition": "an expression said when introduced to someone. (very) glad to meet you.) _Tom: I’m Tom Thomas. Bill: Pleased to meet you. I’m Bill Franklin.  John: Have you met Sally Hill? Bill: I don’t believe I’ve had the pleasure. I’m pleased to meet you, Sally. Sally: My pleasure, Bill."
+        },
+        {
+            "id": 138,
+            "phrase": "I’m (really) fed up (with someone or something).",
+            "definition": "I have had enough of someone or something. Something must be done.  Tom: This place is really dull. John: Yeah. I’m fed up with it. I’m out of here! _ Sally: Can’t you do anything right? Bill: I’m really fed up with your complaining! You’re always picking on me!"
+        },
+        {
+            "id": 139,
+            "phrase": "(I’m) sorry to hear that.",
+            "definition": "an expression of consolation or regret.  John: My cat died last week. Jane: I’m sorry to hear that. Bill: I’m afraid I won’t be able to continue here as head teller. Bank manager: Sorry to hear that."
+        },
+        {
+            "id": 140,
+            "phrase": "(I’m) sorry you asked (that).",
+            "definition": "I regret that you asked about something I wanted to forget. Tom: What on earth is this hole in your suit jacket? Bill: I’m sorry you asked. I was feeding a squirrel and it bit through my pocket where the food was.  Sally: Why is there only canned soup in the cupboard? John: Sorry you asked that. I just haven’t been to the grocery store in awhile. Sally: Want some soup?"
+        },
+        {
+            "id": 141,
+            "phrase": "I’m speechless.",
+            "definition": "I am so surprised that I cannot think of anything to say.  Mary: Fred and I eloped last week. Sally: I’m speechless.  Tom: The mayor just died! Jane: What? I’m speechless!"
+        },
+        {
+            "id": 142,
+            "phrase": "(I’m) (very) glad to meet you.",
+            "definition": "a polite expression said to a person to whom one has just been introduced. pleased to meet you.) _Mary: I’d like you to meet my brother, Tom. Bill: I’m very glad to meet you, Tom.  Jane: Hi! I’m Jane. Bob: Glad to meet you. I’m Bob."
+        },
+        {
+            "id": 143,
+            "phrase": "I’m with you.",
+            "definition": "I agree with you.; I will join with you in doing what you suggest. (With a stress on both I and you.) _ Sally: I think this old bridge is sort of dangerous. Jane: I’m with you. Let’s go back another way. Bob: This restaurant looks horrible. Bill: I’m with you. Want to go somewhere else?"
+        },
+        {
+            "id": 144,
+            "phrase": "imagine someone or something as someone or something",
+            "definition": "to think of someone or something as another person or another type of thing.  I really can’t imagine you as a sailor. When I imagine John as our new president, I really worry about our future as a company."
+        },
+        {
+            "id": 145,
+            "phrase": "imbue someone with something",
+            "definition": "to indoctrinate someone with something; to build something into someone.  I tried to imbue my children with a strong sense of justice.  Her thinking and attitudes had been imbued with childhood fears."
+        },
+        {
+            "id": 146,
+            "phrase": "Imitation is the sincerest form of flattery.",
+            "definition": "Prov. Copying someone is flattering because it shows you want to be like that person.  Child: Susie’s doing everything I do. Make her stop. Mother: Don’t be cross with her. Imitation is the sincerest form of f lattery. Imitation may be the sincerest form of f lattery, but I don’t feel f lattered when Mary copies my answers to the homework."
+        },
+        {
+            "id": 147,
+            "phrase": "immediate occupancy",
+            "definition": "[of an apartment or house] ready to be moved into at this moment.  This house is for immediate occupancy. You can move in today if you want.  The apartment is empty, so that means immediate occupancy."
+        },
+        {
+            "id": 148,
+            "phrase": "immerse someone or something in something",
+            "definition": "to submerge someone or something beneath the surface of a liquid; to soak someone or something in a liquid.  The preacher immersed the baptism candidate in the water.  We immersed all the dirty plates in the soapy water and left them to soak.  She immersed herself in the bathwater."
+        },
+        {
+            "id": 149,
+            "phrase": "immigrate (in)to some place (from some place)",
+            "definition": "to migrate into a place from some other place.  Many of them immigrated into Minnesota from northern Europe.  My family immigrated to Chicago."
+        },
+        {
+            "id": 150,
+            "phrase": "immunize someone against something",
+            "definition": "to vaccinate someone against some disease; to do a medical procedure that causes a resistance or immunity to a disease to develop in a person.  They wanted to immunize all the children against the measles.  Have you been immunized against polio?"
+        },
+        {
+            "id": 151,
+            "phrase": "impact (up)on someone or something",
+            "definition": "[for something] to have an effect on someone or something. (Upon is formal and less commonly used than on.) _ This plant closing will impact upon the local economy for years to come. The day’s troubles impacted on Rachel quite seriously."
+        },
+        {
+            "id": 152,
+            "phrase": "impale someone or something on something",
+            "definition": "to put someone or something on a pointed object and press down.  The crowd had impaled an effigy of the dictator on a sharpened stick. The waves almost impaled me on a submerged tree branch."
+        },
+        {
+            "id": 153,
+            "phrase": "impart something to someone or something",
+            "definition": "1. to bestow a quality on someone or a group.  That hat imparts an aura of grandeur to her presence.  Walnut paneling imparts an expensive seriousness to a law office. 2. to tell something to someone or a group. My professor tried to impart her knowledge to us. The speaker imparted a great deal of wisdom to the group."
+        },
+        {
+            "id": 154,
+            "phrase": "impeach someone for something",
+            "definition": "1. to charge someone with doing something illegal.  You can’t impeach her for just disagreeing! _ We tried to impeach Gus for failing to attend sessions. 2. to criticize or discredit someone for something.  The opposition impeached him for his position in no uncertain terms.  Liz was impeached by the press for her views."
+        },
+        {
+            "id": 155,
+            "phrase": "impinge (up)on someone or something",
+            "definition": "to affect or interfere with someone or something. (Upon is formal and less commonly used than on.) _ This will not impinge upon me at all. Will this matter impinge on my policies in any way?"
+        },
+        {
+            "id": 156,
+            "phrase": "implant something in(to) someone or something",
+            "definition": "to embed something into someone or something.  The surgeon implanted a pacemaker into Fred.  They implanted the device in Fred’s chest."
+        },
+        {
+            "id": 157,
+            "phrase": "implicate someone (in something)",
+            "definition": "to suggest that someone is involved in something.  The mayor was implicated in the bribery scandal.  Jane’s essay implicated her teacher in the cheating scandal."
+        },
+        {
+            "id": 158,
+            "phrase": "import something (from something) ((in)to something)",
+            "definition": "to buy and transport something from a foreign place into a country.  We imported the carpets from the Orient into this country.  They imported wine into this country from France.  I imported this from Germany."
+        },
+        {
+            "id": 159,
+            "phrase": "impose something (up)on someone",
+            "definition": "to force something on someone. (Upon is formal and less commonly used than on.) _ Don’t try to impose your ideas upon me! _ The colonists tried to impose their values on the indigenous peoples."
+        },
+        {
+            "id": 160,
+            "phrase": "impose (up)on someone",
+            "definition": "to be a bother to someone; to make a request of something to someone. (Often refers to being an overnight guest or having a meal at someone’s house. Upon is formal and less commonly used than on.) _ I don’t mean to impose upon you, but could you put me up for the night? _ Don’t worry, I won’t let you impose on me."
+        },
+        {
+            "id": 161,
+            "phrase": "impregnate something with something",
+            "definition": "to saturate something with something; to penetrate something with some fluid.  They impregnated the boards with a wood preservative.  The process impregnated the fibers with a bright yellow dye."
+        },
+        {
+            "id": 162,
+            "phrase": "impress someone as something",
+            "definition": "to be memorable to someone as a particular type of person.  She didn’t impress me as a particularly wise individual.  Liz impressed us all as a skilled artisan."
+        },
+        {
+            "id": 163,
+            "phrase": "impress someone by something",
+            "definition": "to make someone notice one’s good qualities. You impress me by your willingness to serve.  We were all impressed by your candor."
+        },
+        {
+            "id": 164,
+            "phrase": "impress someone with someone or something",
+            "definition": "to awe someone with someone or something.  Are you trying to impress me with your wisdom? _ She impressed him with her friend, who was very tall."
+        },
+        {
+            "id": 165,
+            "phrase": "impress something into something",
+            "definition": "to press something into something.  I impressed the key into the wax, making a perfect copy.  Andy impressed his thumb into the pie."
+        },
+        {
+            "id": 166,
+            "phrase": "impress something (up)on someone",
+            "definition": "to make someone fully aware of something. (Upon is formal and less commonly used than on.) _ You must impress these facts upon everyone you meet.  She impressed its importance on me."
+        },
+        {
+            "id": 167,
+            "phrase": "impress something (up)on something",
+            "definition": "to press something into the surface of something, leaving a mark.  The ribbing of my socks impressed a pattern upon my calves. The heavy vase impressed its outline on the pine tabletop."
+        },
+        {
+            "id": 168,
+            "phrase": "imprint something with something",
+            "definition": "to print something with a message.  Amy imprinted each bookmark with her name.  Each bookmark was imprinted with her name."
+        },
+        {
+            "id": 169,
+            "phrase": "imprison someone in something",
+            "definition": "to lock someone up in something.  The authorities imprisoned him in a separate cell. Bob imprisoned Timmy in the closet for an hour."
+        },
+        {
+            "id": 170,
+            "phrase": "improve (up)on something",
+            "definition": "to make something better. (Upon is formal and less commonly used than on.) _ Do you really think you can improve upon this song? _ No one can improve on my favorite melody."
+        },
+        {
+            "id": 171,
+            "phrase": "improvise on something",
+            "definition": "[for a musician] to create a new piece of music on an existing musical theme.  For an encore, the organist improvised on “Mary Had a Little Lamb.” _ She chose to improvise on an old folk theme."
+        },
+        {
+            "id": 172,
+            "phrase": "impute something to someone or something",
+            "definition": "to ascribe something to someone or something; to attribute something to someone or something.  I didn’t mean to impute a bad intention to your company.  The lawyer imputed perjury to the witness."
+        },
+        {
+            "id": 173,
+            "phrase": "*in a bad mood",
+            "definition": "sad; depressed; grouchy; with low spirits. (*Typically: be ~; get ~; put someone ~.) _ He’s in a bad mood. He may yell at you.  Please try to cheer me up. I’m in a bad mood."
+        },
+        {
+            "id": 174,
+            "phrase": "in a big way",
+            "definition": "very much; intensely.  I’m really interested in her in a big way.  He plays to win—in a big way."
+        },
+        {
+            "id": 175,
+            "phrase": "in a (blue) funk",
+            "definition": "sad; depressed. I’ve been in a blue funk all week.  Don’t get in a funk about your job. Things’ll get better."
+        },
+        {
+            "id": 176,
+            "phrase": "*in a body",
+            "definition": "as a group of people; as a group; in a group. (*Typically: arrive some place ~; go ~; leave ~; reach some place ~; travel ~.) _ The tour members always traveled in a body."
+        },
+        {
+            "id": 177,
+            "phrase": "in a cold sweat",
+            "definition": "in a state of fear.  He stood there in a cold sweat, waiting for something bad to happen.  I was in a cold sweat while they counted the ballots."
+        },
+        {
+            "id": 178,
+            "phrase": "in a dead heat",
+            "definition": "[finishing a race] at exactly the same time; tied. The two horses finished the race in a dead heat.  They ended the contest in a dead heat."
+        },
+        {
+            "id": 179,
+            "phrase": "in a delicate condition",
+            "definition": "Euph. pregnant. (Old fashioned.) _Are you sure you’re up for this hike? I know you’re in a delicate condition.  She shouldn’t be lifting those boxes. She’s in a delicate condition."
+        },
+        {
+            "id": 180,
+            "phrase": "in a dither",
+            "definition": "confused; nervous; bothered.  Mary is sort of in a dither lately.  Don’t get yourself in a dither."
+        },
+        {
+            "id": 181,
+            "phrase": "*in a fix",
+            "definition": "in a bad situation. (*Typically: be ~; get [into] ~.) _ I really got myself into a fix. I owe a lot of money on my taxes.  John is in a fix because he lost his wallet.  John got into a fix."
+        },
+        {
+            "id": 182,
+            "phrase": "in a flash",
+            "definition": "quickly; immediately.  I’ll be there in a f lash.  It happened in a f lash. Suddenly my wallet was gone."
+        },
+        {
+            "id": 183,
+            "phrase": "in a heartbeat",
+            "definition": "almost immediately.  If I had the money, I would go back to college in a heartbeat.  Just tell me that you need me and I’ll come there in a heartbeat."
+        },
+        {
+            "id": 184,
+            "phrase": "*in a huff",
+            "definition": "in an angry or offended manner. (*Typically: be ~; get [into] ~.) _ He heard what we had to say, then left in a huff.  She came in a huff and ordered us to bring her something to eat."
+        },
+        {
+            "id": 185,
+            "phrase": "in a jiffy",
+            "definition": "very fast; very soon.  Just wait a minute. I’ll be there in a jiffy.  I’ll be finished in a jiffy."
+        },
+        {
+            "id": 186,
+            "phrase": "*in a lather",
+            "definition": "flustered; excited and agitated. (*Typically: be ~; get [into] ~.) _ Now, calm down. Don’t be in a lather.  I always get in a lather when I’m late.  I get into a lather easily."
+        },
+        {
+            "id": 187,
+            "phrase": "in a little bit",
+            "definition": "in a small amount of time.  I will be there in a little bit. Please wait.  In a little bit, we can go outside and play."
+        },
+        {
+            "id": 188,
+            "phrase": "in a mad rush",
+            "definition": "in a hurry. I ran around all day today in a mad rush, looking for a present for Bill. Why are you always in a mad rush?"
+        },
+        {
+            "id": 189,
+            "phrase": "in a nutshell",
+            "definition": "[of news or information] in a (figurative) capsule; in summary.  This cable channel provides the latest news in a nutshell. In a nutshell, what happened at work today?"
+        },
+        {
+            "id": 190,
+            "phrase": "in a pinch",
+            "definition": "as a substitute. A piece of clothing can be used as a bandage in a pinch.  In a pinch, you can use folded paper to prop up the table leg so the table won’t rock."
+        },
+        {
+            "id": 191,
+            "phrase": "in a pique",
+            "definition": "having a feeling of resentment; feeling that one’s pride has been hurt. In a real pique, Anne insulted all of her friends.  John’s found himself in a pique over Bob’s harsh criticism."
+        },
+        {
+            "id": 192,
+            "phrase": "*in a (pretty) pickle",
+            "definition": "in a mess; in trouble. (*Typically: be ~; get [into] ~.) _ John has gotten himself into a pickle. He has two dates for the party.  Now we are in a pretty pickle. We are out of gas."
+        },
+        {
+            "id": 193,
+            "phrase": "*in a quandary",
+            "definition": "uncertain about what to do; perplexed. (*Typically: be ~; get [into] ~.) _ Mary was in a quandary about what college to go to.  I couldn’t decide what to do. I was in such a quandary."
+        },
+        {
+            "id": 194,
+            "phrase": "*in a rut",
+            "definition": "in a type of boring habitual behavior. (As when the wheels of a buggy travel in the ruts worn into the ground by other buggies making it easiest to go exactly the way all the other buggies have gone before. *Typically: be ~; get ~.) _ My life has gotten into a rut.  I try not to get into a rut."
+        },
+        {
+            "id": 195,
+            "phrase": "in a sense",
+            "definition": "in a way; in one way of looking at it.  In a sense, cars make life better. But, in a sense, they also make life worse."
+        },
+        {
+            "id": 196,
+            "phrase": "in (a) shambles",
+            "definition": "in a messy state; destroyed.  After the earthquake, the town lay in shambles. The TV set was in a shambles after John tried to fix it."
+        },
+        {
+            "id": 197,
+            "phrase": "*in (a) single file",
+            "definition": "lined up, one behind the other; in a line, one person or one thing wide. (*Typically: be ~; get [into] ~; march ~; walk ~.) _ Have you ever seen ducks walking in single file? _ Please get into single file.  Please march in single file."
+        },
+        {
+            "id": 198,
+            "phrase": "in a snit",
+            "definition": "in a fit of anger or irritation.  Don’t get in a snit. It was an accident.  Mary is in a snit because they didn’t ask her to come to the shindig."
+        },
+        {
+            "id": 199,
+            "phrase": "in a stage whisper",
+            "definition": "in a loud whisper that everyone can hear.  John said in a stage whisper, “This play is boring.” _ “When do we eat?” asked Billy in a stage whisper."
+        },
+        {
+            "id": 200,
+            "phrase": "*in a stew (about someone or something)",
+            "definition": "upset or bothered about someone or something. (*Typically: be ~; get [into] ~.) _ I’m in such a stew about my dog. She ran away last night.  Now, now. Don’t get in a stew. She’ll be back when she gets hungry."
+        },
+        {
+            "id": 201,
+            "phrase": "in a stupor",
+            "definition": "in a dazed condition; in a condition in which one cannot concentrate or think.  The drunk driver walked away from the car accident in a stupor.  In the morning, Mary remains in a stupor until she drinks coffee."
+        },
+        {
+            "id": 202,
+            "phrase": "*in a (tight) spot",
+            "definition": "caught in a problem; in a jam. (*Typically: be ~; get [into] ~. See also in a bind and the examples.) _ Look, John, I’m in a tight spot. Can you lend me twenty dollars? _ I’m in a spot too. I need $300."
+        },
+        {
+            "id": 203,
+            "phrase": "*in a tizzy",
+            "definition": "in an excited and confused condition. (*Typically: be ~; get [into] ~.) _ John is in a tizzy because we’re an hour late. Mary was in a tizzy when she couldn’t find her keys."
+        },
+        {
+            "id": 204,
+            "phrase": "in a twit",
+            "definition": "upset; frantic.  She’s all in a twit because she lost her keys. Pete was in a twit and was quite rude to us."
+        },
+        {
+            "id": 205,
+            "phrase": "in a twitter",
+            "definition": "in a giddy state; silly.  Don’t get yourself in a twitter.  We were all in a twitter over the upcoming event."
+        },
+        {
+            "id": 206,
+            "phrase": "*in a vicious circle",
+            "definition": "in a situation in which the solution of one problem leads to a second problem, and the solution of the second problem brings back the first problem, etc. (*Typically: be ~; get [into] ~.) _ Life is so strange. I seem to be in a vicious circle most of the time.  I put lemon in my tea to make it sour, then sugar to make it sweet. I’m in a vicious circle. Don’t let your life get into a vicious circle."
+        },
+        {
+            "id": 207,
+            "phrase": "in a word",
+            "definition": "said simply; concisely said.  Mrs. Smith is—in a word—haughty.  In a word, the play f lopped."
+        },
+        {
+            "id": 208,
+            "phrase": "*in a world of one’s own",
+            "definition": "aloof; detached; selfcentered. (*Typically: be ~; get [into] ~; live ~.) _ John lives in a world of his own. He has very few friends.  Mary walks around in a world of her own, but she’s very intelligent."
+        },
+        {
+            "id": 209,
+            "phrase": "in abeyance",
+            "definition": "in reserve. Until the judge determined that the evidence could be used in the trial, it was held in abeyance.  I kept my opinion in abeyance."
+        },
+        {
+            "id": 210,
+            "phrase": "in accord (with someone or something) (about someone or something)",
+            "definition": "agreeing with someone or something.  I am in complete accord with you about the policy changes.  We are in accord about the proposal."
+        },
+        {
+            "id": 211,
+            "phrase": "in accordance with something",
+            "definition": "in agreement with something; in conformity with something.  In accordance with our discussion, I have prepared a contract. I did this in accordance with your request."
+        },
+        {
+            "id": 212,
+            "phrase": "in addition (to something)",
+            "definition": "additionally; further; moreover; as an additional thing or person.  In addition, I would like for you to sweep the kitchen f loor.  I put the books away, and in addition to that, I cleaned up my desk."
+        },
+        {
+            "id": 213,
+            "phrase": "in advance",
+            "definition": "[of something given, paid, or provided] before it is due.  The bill isn’t due for a month, but I paid it in advance.  I want my pay in advance."
+        },
+        {
+            "id": 214,
+            "phrase": "in agreement (with someone or something)",
+            "definition": "in conformity with someone or something; agreeing with someone or something. We are in total agreement.  I am in agreement with your proposal."
+        },
+        {
+            "id": 215,
+            "phrase": "in (all) good conscience",
+            "definition": "having good motives; displaying motives that will not result in a guilty conscience.  In all good conscience, I could not recommend that you buy this car.  In good conscience, she could not accept the reward. She had only been acting as a good citizen should."
+        },
+        {
+            "id": 216,
+            "phrase": "in all my born days",
+            "definition": "Rur. in my entire life.  I’ve never seen such fireworks in all my born days.  That’s the best party I was ever at in all my born days."
+        },
+        {
+            "id": 217,
+            "phrase": "in all probability",
+            "definition": "very likely; almost certainly.  He’ll be here on time in all probability. In all probability, they’ll finish the work today."
+        },
+        {
+            "id": 218,
+            "phrase": "in an age of years",
+            "definition": "Rur. in a long time.  How have you been? I haven’t talked to you in an age of years. Jane hasn’t ridden a horse in an age of years."
+        },
+        {
+            "id": 219,
+            "phrase": "*in an interesting condition",
+            "definition": "Euph. pregnant. (*Typically: be ~; get ~.) _ Young Mrs. Lutin is in an interesting condition.  The bride appeared to be in an interesting condition."
+        },
+        {
+            "id": 220,
+            "phrase": "*in an ivory tower",
+            "definition": "in a place, such as a university, where one can be aloof from the realities of living. (*Typically: be ~; dwell ~; live ~; work ~.) _ If you didn’t spend so much time in your ivory tower, you’d know what people really think! _Many professors are said to live in ivory towers. They don’t know what the real world is like."
+        },
+        {
+            "id": 221,
+            "phrase": "in and of itself",
+            "definition": "considering it alone.  The idea in and of itself is not bad, but the side issues introduce many difficulties.  Her action, in and of itself, caused us no problem."
+        },
+        {
+            "id": 222,
+            "phrase": "in any way, shape, or form",
+            "definition": "in any manner.  I refuse to tell a lie in any way, shape, or form!"
+        },
+        {
+            "id": 223,
+            "phrase": "*in apple-pie order",
+            "definition": "in very good order; very well organized. (*Typically: be ~; get something ~; put something ~.) _ Please put everything in apple-pie order before you leave.  I always put my desk in apple-pie order every evening. I’ve put my entire life into apple-pie order."
+        },
+        {
+            "id": 224,
+            "phrase": "*in arrears",
+            "definition": "[of debts; of an account] overdue. (*Typically: be ~; get ~.) _ Jane’s student-loan payments are in arrears.  The accounts of the bankrupt company were in arrears."
+        },
+        {
+            "id": 225,
+            "phrase": "in (at) one ear and out (of ) the other",
+            "definition": "Prov. heard but not remembered. (Used to describe something that someone does not listen to.) _ Ellen: Did you tell Junior to be careful with the car when he drives it? Fred: Yes, but I think it went in one ear and out the other. The teacher felt that everything she told her students was in one ear and out the other."
+        },
+        {
+            "id": 226,
+            "phrase": "in awe (of someone or something)",
+            "definition": "fearful and respectful of someone or something.  Everyone in the country was in awe of the king and queen.  I love my new car. In fact, I’m in awe of it."
+        },
+        {
+            "id": 227,
+            "phrase": "in bad faith",
+            "definition": "without sincerity; with bad or dishonest intent; with duplicity.  It appears that you acted in bad faith and didn’t live up to the terms of our agreement.  If you do things in bad faith, you’ll get a bad reputation."
+        },
+        {
+            "id": 228,
+            "phrase": "in bad sorts",
+            "definition": "in a bad humor.  Bill is in bad sorts today. He’s very grouchy.  I try to be extra nice to people when I’m in bad sorts."
+        },
+        {
+            "id": 229,
+            "phrase": "*in bad (with someone)",
+            "definition": "in trouble with someone. (*Typically: be ~; get ~.) _ I tried not to get in bad with Wally.  We got in bad with each other from the start."
+        },
+        {
+            "id": 230,
+            "phrase": "in between",
+            "definition": "located in the middle of two things, states, or possibilities.  The bath water is not hot or cold. It’s in between.  A sandwich consists of two slices of bread with some other food in between."
+        },
+        {
+            "id": 231,
+            "phrase": "*in black and white",
+            "definition": "[of an agreement, contract, or statement] official, in writing or printing. (*Typically: be ~; get something ~.) _ I have it in black and white that I’m entitled to three weeks of vacation each year."
+        },
+        {
+            "id": 232,
+            "phrase": "in brief",
+            "definition": "briefly; concisely. The whole story, in brief, is that Bob failed algebra because he did not study. Please tell me in brief why you want this job."
+        },
+        {
+            "id": 233,
+            "phrase": "in broad daylight",
+            "definition": "in the open light of day; clearly visible.  The crime was committed in broad daylight.  Bill stood there in broad daylight, but we never saw him."
+        },
+        {
+            "id": 234,
+            "phrase": "in bulk",
+            "definition": "in large quantities or amounts, rather than smaller, more convenient quantities or amounts.  Jane always bought office supplies in bulk to save money.  Dave purchased cereal in bulk because his family used so much of it."
+        },
+        {
+            "id": 235,
+            "phrase": "in business",
+            "definition": "operating; equipped or ready to operate.  We’re in business now, and things are running smoothly.  Now it works. Now we’re in business."
+        },
+        {
+            "id": 236,
+            "phrase": "in cahoots (with someone)",
+            "definition": "Rur. in conspiracy with someone; in league with someone.  The mayor is in cahoots with the construction company that got the contract for the new building.  Those two have been in cahoots before."
+        },
+        {
+            "id": 237,
+            "phrase": "in care of someone",
+            "definition": "[to be delivered to someone] through someone or by way of someone. (Indicates that mail is to be delivered to a person at some other person’s address.) _Bill Jones is living at his father’s house. Address the letter to Bill in care of Mr. John Jones.  Bill said, “Please send me my mail in care of my father at his address.”"
+        },
+        {
+            "id": 238,
+            "phrase": "in case of something",
+            "definition": "if a problem occurs; if something happens; in the event that something happens. What do we do in case of fire? _In case of an accident, call the police."
+        },
+        {
+            "id": 239,
+            "phrase": "in case (something happens)",
+            "definition": "in the event that something takes place.  She carries an umbrella in case it rains.  I have some aspirin in my office in case I get a headache.  He keeps a fire extinguisher in his car, just in case."
+        },
+        {
+            "id": 240,
+            "phrase": "in character",
+            "definition": "typical of someone’s behavior.  For Tom to shout that way wasn’t at all in character. He’s usually quite pleasant.  It was quite in character for Sally to walk away angry."
+        },
+        {
+            "id": 241,
+            "phrase": "in charge (of someone or something)",
+            "definition": "in control of someone or something; having the responsibility for someone or something.  Who is in charge of this office? _ Do you like being in charge?"
+        },
+        {
+            "id": 242,
+            "phrase": "in clover",
+            "definition": "having good fortune; in a very good situation, especially financially.  If I get this contract, I’ll be in clover for the rest of my life.  I have very little money saved, so when I retire I won’t exactly be in clover."
+        },
+        {
+            "id": 243,
+            "phrase": "in cold blood",
+            "definition": "without feeling; with cruel intent. (Frequently said of a crime, especially murder.) _ The killer walked up and shot the woman in cold blood. How insulting! For a person to say something like that in cold blood is just horrible."
+        },
+        {
+            "id": 244,
+            "phrase": "in cold storage",
+            "definition": "dead; in a state of death. (Alludes to the actual storage of certain things, such as fur coats, in cold storerooms.) _ Tom gets paid for putting his subjects in cold storage.  Poor old Jed is in cold storage."
+        },
+        {
+            "id": 245,
+            "phrase": "in concert (with someone)",
+            "definition": "in cooperation with someone; with the aid of someone.  Mrs. Smith planned the party in concert with her sister.  In concert they planned a lovely event."
+        },
+        {
+            "id": 246,
+            "phrase": "in consequence (of something)",
+            "definition": "as a result of something; because of something. In consequence of the storm, there was no electricity. The wind blew down the wires. In consequence, we had no electricity."
+        },
+        {
+            "id": 247,
+            "phrase": "in consideration of something",
+            "definition": "in return for something; as a result of something.  In consideration of your many years of service, we are pleased to present you with this gold watch. In consideration of your efforts, here is a check for $3,000."
+        },
+        {
+            "id": 248,
+            "phrase": "in contact (with someone or something)",
+            "definition": "communicating with someone or a group; to share information with someone or a group.  I have been in contact with our supplier, who will deliver the part next week. I am in contact with the Senate committee now."
+        },
+        {
+            "id": 249,
+            "phrase": "in contempt (of court)",
+            "definition": "showing disrespect for a judge or courtroom procedures. The bailiff ejected the lawyer who was held in contempt.  The judge found the juror in contempt of court when she screamed at the attorney."
+        }
+    ]
+}

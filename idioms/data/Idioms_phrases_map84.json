@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "*within range (of something)",
+            "definition": "inside an area that can be covered by something, such as a gun, camera lens, measuring device, etc. (*Typically: be ~; come ~; get ~; move ~.) _ The sick elephant was within range, so we shot it with tranquilizer darts so we could treat it.  When the ducks were within range of my gun, I sneezed and frightened them away.  You won’t be able to hear what they are saying until you get within range of the P.A. system."
+        },
+        {
+            "id": 1,
+            "phrase": "within reason",
+            "definition": "reasonable; reasonably. You can do anything you want within reason. I’ll pay any sum you ask— within reason."
+        },
+        {
+            "id": 2,
+            "phrase": "within walking distance",
+            "definition": "close enough to walk to.  Is the train station within walking distance? _ My office is within walking distance from here."
+        },
+        {
+            "id": 3,
+            "phrase": "without a doubt",
+            "definition": "a phrase expressing certainty or agreement; yes.  John: This cheese is as hard as a rock. It must have been in the fridge for weeks. Fred: Without a doubt.  Mary: Taxes will surely go up before I retire. Jane: Without a doubt!"
+        },
+        {
+            "id": 4,
+            "phrase": "without a hitch",
+            "definition": "with no problem(s).  Everything went off without a hitch.  We hoped the job would go off without a hitch."
+        },
+        {
+            "id": 5,
+            "phrase": "without batting an eye",
+            "definition": "Fig. without showing alarm or response; without blinking an eye.  I knew I had insulted her, and she turned to me and asked me to leave without batting an eye.  Right in the middle of the speech—without batting an eye—the speaker walked off the stage."
+        },
+        {
+            "id": 6,
+            "phrase": "without fail",
+            "definition": "for certain; absolutely. I’ll be there at noon without fail.  The plane leaves on time every day without fail."
+        },
+        {
+            "id": 7,
+            "phrase": "without further ado",
+            "definition": "Cliché without further talk. (An overworked phrase usually heard in public announcements.) _ And without further ado, I would like to introduce Mr. Bill Franklin! _ The time has come to leave, so without further ado, good evening and good-bye."
+        },
+        {
+            "id": 8,
+            "phrase": "without half trying",
+            "definition": "Rur. effortlessly. He was so strong, he could bend an iron bar without half trying.  I wish I had his ability to cook. He makes the most delicious dishes without half trying."
+        },
+        {
+            "id": 9,
+            "phrase": "without missing a beat",
+            "definition": "Fig. without pausing for any potential interruption. He kept right on giving his speech without missing a beat, despite the interruptions.  She went right on drumming without missing a beat."
+        },
+        {
+            "id": 10,
+            "phrase": "without question",
+            "definition": "absolutely; certainly.  She agreed to help without question.  She said, “I stand ready to support you without question.”"
+        },
+        {
+            "id": 11,
+            "phrase": "without rhyme or reason",
+            "definition": "Cliché without purpose, order, or reason. (See variations in the examples. Fixed order.) _The teacher said my report was disorganized. My paragraphs seemed to be without rhyme or reason. Everything you do seems to be without rhyme or reason."
+        },
+        {
+            "id": 12,
+            "phrase": "without (so much as) a (for or) by your leave",
+            "definition": "without (the least hint of ) asking for permission.  Without so much as a for or by your leave, they just walked into our house.  He left, without a by your leave."
+        },
+        {
+            "id": 13,
+            "phrase": "without so much as doing something",
+            "definition": "without even doing something, such as a simple courtesy.  Jane borrowed Bob’s car without so much as asking his permission.  Mary’s husband walked out without so much as saying goodbye."
+        },
+        {
+            "id": 14,
+            "phrase": "witness for someone or something",
+            "definition": "to serve as a witness for some person or some deed.  They could find no one to witness for the accused person.  The police found someone to witness for the hour of the crime."
+        },
+        {
+            "id": 15,
+            "phrase": "witness to something",
+            "definition": "to serve as a witness to some act or deed.  I was witness to the beating.  We were not witness to any of the activities you have described."
+        },
+        {
+            "id": 16,
+            "phrase": "Woe is me!",
+            "definition": "I am unfortunate.; I am unhappy. (Usually humorous.) _ Woe is me! I have to work when the rest of the office staff is off.  Woe is me. I have the flu and my friends have gone to a party."
+        },
+        {
+            "id": 17,
+            "phrase": "a wolf in sheep’s clothing",
+            "definition": "a dangerous person pretending to be harmless.  Carla thought the handsome stranger was gentle and kind, but Susan suspected he was a wolf in sheep’s clothing.  Mimi: Why shouldn’t I go out with David? He’s the nicest man I’ve ever met. Alan: He’s a wolf in sheep’s clothing, Mimi. Can’t you tell?"
+        },
+        {
+            "id": 18,
+            "phrase": "wolf something down†",
+            "definition": "to eat something very rapidly and in very large pieces. (As a wolf might eat.) _ Don’t wolf your food down! _ Liz would never wolf down her food."
+        },
+        {
+            "id": 19,
+            "phrase": "woman of ill repute",
+            "definition": "Euph. a prostitute.  His favorite companion was a woman of ill repute.  If you can’t be faithful to your husband, you’re no better than a woman of ill repute."
+        },
+        {
+            "id": 20,
+            "phrase": "A woman’s place is in the home.",
+            "definition": "Prov.Women should remain in the home, doing housework and raising children. (This notion is generally regarded as old-fashioned.) _ As soon as our child is old enough to go to school, I’m going to go back to my job at the newspaper. And don’t give me any of that nonsense about a woman’s place being in the home."
+        },
+        {
+            "id": 21,
+            "phrase": "A woman’s work is never done.",
+            "definition": "Prov.Housework and raising children are jobs that have no end. (Typically said by a woman to indicate how busy she is.) _ “As soon as I finish washing the breakfast dishes, it’s time to start fixing lunch,” Elizabeth observed. “A woman’s work is never done.” _ After a difficult day at the office, Greta came home and began cooking dinner. “A woman’s work is never done,” she sighed."
+        },
+        {
+            "id": 22,
+            "phrase": "wonder about someone or something",
+            "definition": "to be curious or in doubt about someone or something.  I wonder about Carl and what he is up to. Sometimes I wonder about life on other planets.  Jenny’s performance record made me wonder about her chances for success."
+        },
+        {
+            "id": 23,
+            "phrase": "wonder at someone or something",
+            "definition": "to be amazed at or in awe of someone or something. (Stilted.) _We all wondered at Lee and the way he kept his spirits up.  The people wondered at the bright light that lit up the sky."
+        },
+        {
+            "id": 24,
+            "phrase": "won’t hold water",
+            "definition": "to be inadequate, insubstantial, or illconceived.  Sorry, your ideas won’t hold water. Nice try, though. The prosecution’s case wouldn’t hold water, so the defendant was released."
+        },
+        {
+            "id": 25,
+            "phrase": "Won’t you come in?",
+            "definition": "the standard phrase used to invite someone into one’s home or office. Bill: Won’t you come in? Mary: I hope I’m not early.  Tom stood in the doorway of Mr. Franklin’s office for a moment. “Won’t you come in?” said Mr. Franklin without looking up."
+        },
+        {
+            "id": 26,
+            "phrase": "woo someone away† (from someone or something)",
+            "definition": "to lure someone away from someone or something; to seduce someone away from someone or something.  The manager of the new bank wooed all the tellers away from the old bank.  They wooed away all the experienced people."
+        },
+        {
+            "id": 27,
+            "phrase": "the woods are full of someone or something",
+            "definition": "there are lots and lots of people or things.  The woods are full of cheap, compatible computer clones.  The woods are full of nice-looking guys who’ll scam you if you aren’t careful."
+        },
+        {
+            "id": 28,
+            "phrase": "word by word",
+            "definition": "one word at a time.  We examined the contract word by word to make sure everything was the way we wanted. We compared the stories word by word to see what made them different."
+        },
+        {
+            "id": 29,
+            "phrase": "word for word",
+            "definition": "in the exact words; verbatim.  I memorized the speech, word for word.  I can’t recall word for word what she told us."
+        },
+        {
+            "id": 30,
+            "phrase": "A word (once) spoken is past recalling.",
+            "definition": "Prov. Once you have said something, you cannot undo the result of having said it. Hilary apologized for having called Mark’s suit cheap, but Mark was still offended. A word once spoken is past recalling."
+        },
+        {
+            "id": 31,
+            "phrase": "a word to the wise",
+            "definition": "a good piece of advice; a word of wisdom.  If I can give you a word to the wise, I would suggest going to the courthouse about an hour before your trial. Here is a word to the wise. Keep your eyes open and your mouth shut."
+        },
+        {
+            "id": 32,
+            "phrase": "*a word with someone (about something)",
+            "definition": "a chance to talk to someone about something, usually briefly. (*Typically: get ~; get in ~; have ~.) _ Can I have a word with you about your report?"
+        },
+        {
+            "id": 33,
+            "phrase": "work against someone or something",
+            "definition": "1. [for someone] to struggle against someone or something.  She worked hard against the passage of the law. Dave worked against Betty. 2. [for something] to militate against someone or something.  This sort of works against your plan, does it not? _ Everything you said works against your client."
+        },
+        {
+            "id": 34,
+            "phrase": "work among someone or something",
+            "definition": "to do one’s work among some people or things.  I wanted to work among the Indians, but I set up my medical practice in the inner city.  I want to get a job in forestry and work among the trees."
+        },
+        {
+            "id": 35,
+            "phrase": "work around someone or something",
+            "definition": "to manage to do one’s work while avoiding someone or something. He is being a problem, but he will have to leave pretty soon. You’ll just have to work around him for now.  You have to work around the piano. It is too heavy to move."
+        },
+        {
+            "id": 36,
+            "phrase": "work around to someone or something",
+            "definition": "to get around to dealing with someone or something.  You’re not next in line. We will have to work around to you. I can’t take care of it now. I’ll have to work around to it."
+        },
+        {
+            "id": 37,
+            "phrase": "work as something",
+            "definition": "to work in the capacity of something.  I worked as a waiter for a year when I was in college.  I will work as a stockbroker for a while, and then move on to something else."
+        },
+        {
+            "id": 38,
+            "phrase": "work at something",
+            "definition": "1. to work in a particular trade or craft.  He works at carpentry when he has the time.  Julie works at editing for a living. 2. to work on a specific task, machine, device, etc.  She was working at repairing the cabinet when I came home.  Todd is working at his computer."
+        },
+        {
+            "id": 39,
+            "phrase": "work away (at something)",
+            "definition": "to continue to work industriously at something.  All the weavers were working away at their looms.  They just kept working away."
+        },
+        {
+            "id": 40,
+            "phrase": "work down (the line) (to someone or something)",
+            "definition": "to progress through a series until someone or something is reached.  I will work down to the papers on the bottom gradually. You can’t hurry this kind of work. We will work down the line to Katie. We have to work down to the last one.  They are working down the line as fast as they can, but everyone has to be taken in order."
+        },
+        {
+            "id": 41,
+            "phrase": "work for someone",
+            "definition": "1. to be employed by someone.  She works for Scott Wallace. Who do you work for? 2. to work as a substitute for someone. I will work for you while you are having your baby.  Right now, I am working for Julie, who is out sick."
+        },
+        {
+            "id": 42,
+            "phrase": "work for something",
+            "definition": "1. to work for a group, company, etc.  Everyone at the picnic works for the same employer.  We work for the telephone company. 2. to work for a certain amount of money. She says she works for a very good wage.  I won’t work for that kind of pay. 3. to work for an intangible benefit, such as satisfaction, glory, honor, etc.  The pay isn’t very good. I just work for the fun of it.  Sam says he works for the joy of working."
+        },
+        {
+            "id": 43,
+            "phrase": "work itself out",
+            "definition": "[for a problem] to solve itself.  Eventually, all the problems worked themselves out without any help from us.  This will work itself out. Don’t worry."
+        },
+        {
+            "id": 44,
+            "phrase": "work of art",
+            "definition": "a piece of art. She purchased a lovely work of art for her living room."
+        },
+        {
+            "id": 45,
+            "phrase": "work on someone",
+            "definition": "[for a physician] to treat someone; [for a surgeon] to operate on someone.  The doctor is still working on your uncle. There is no news yet.  They are still working on the accident victims."
+        },
+        {
+            "id": 46,
+            "phrase": "work on something",
+            "definition": "to repair, build, or adjust something. The carpenter worked on the fence for three hours. Bill is out working on his car engine."
+        },
+        {
+            "id": 47,
+            "phrase": "work one’s fingers to the bone",
+            "definition": "Cliché to work very hard.  I worked my fingers to the bone so you children could have everything you needed. Now look at the way you treat me! _ I spent the day working my fingers to the bone, and now I want to relax."
+        },
+        {
+            "id": 48,
+            "phrase": "work one’s way along something",
+            "definition": "to move or labor alongside something or a route.  She worked her way along the ledge and finally came to a wide space where she could relax.  They worked themselves along the jungle path, chopping and cutting as they went."
+        },
+        {
+            "id": 49,
+            "phrase": "work (one’s way) into something",
+            "definition": "1. to get into something tight or small gradually and with effort. He worked himself into the dark corner and hid there for a while.  The mouse worked into the crack and got stuck. 2. to get more deeply involved in something gradually.  I don’t quite understand my job. I’ll work my way into it gradually.  Fred worked into the daily routine gradually."
+        },
+        {
+            "id": 50,
+            "phrase": "work (one’s way) through something",
+            "definition": "to work to earn money to pay the bills while one is in college, medical school, law school, etc.  I worked my way through college as a waiter."
+        },
+        {
+            "id": 51,
+            "phrase": "work oneself up",
+            "definition": "to allow oneself to become emotionally upset.  Todd worked himself up, and I thought he would scream. Don’t work yourself up over Sally. She’s not worth it."
+        },
+        {
+            "id": 52,
+            "phrase": "work oneself up into something",
+            "definition": "to struggle to raise oneself upward into something or some place. I worked myself up into the top of the tree. I worked myself up into the rafters of the barn and couldn’t get down."
+        },
+        {
+            "id": 53,
+            "phrase": "work out",
+            "definition": "1. [for something] to turn out all right in the end.  Don’t worry. Everything will work out.  This will work out. Don’t worry. 2. [for someone] to do a program of exercise.  I work out at least twice a week.  I need to work out more often."
+        },
+        {
+            "id": 54,
+            "phrase": "work out (as something)",
+            "definition": "to perform satisfactorily in a particular role. We all hope she works out as a security monitor.  I’m sure she will work out."
+        },
+        {
+            "id": 55,
+            "phrase": "work out (at something)",
+            "definition": "1. [for someone] to perform satisfactorily doing something in particular.  I hope I work out at my new job.  I’m sure you’ll work out. 2. to perform satisfactorily working in a particular location.  I hope I work out at the factory. I really need that job.  Things will work out at home in time."
+        },
+        {
+            "id": 56,
+            "phrase": "work out for the best",
+            "definition": "[for a bad situation] to turn out all right in the end.  Don’t worry. Everything will work out for the best.  I think that nothing ever works out for the best."
+        },
+        {
+            "id": 57,
+            "phrase": "work out (somehow)",
+            "definition": "to result in a good conclusion; to finish positively. Don’t worry. I am sure that everything will work out all right.  Things always work out in the end."
+        },
+        {
+            "id": 58,
+            "phrase": "work someone or something over†",
+            "definition": "to give someone or something a thorough examination or treatment.  The doctor really worked me over but couldn’t find anything wrong.  They worked over the patient but found nothing."
+        },
+        {
+            "id": 59,
+            "phrase": "work someone or something to someone or something",
+            "definition": "to struggle to manipulate someone or something to someone or something.  The quarterback worked the ball to the fullback so that the opposition didn’t know what was going on. The rescuers worked the trapped child to the top of the tunnel."
+        },
+        {
+            "id": 60,
+            "phrase": "work someone over†",
+            "definition": "1. to threaten, intimidate, or beat someone. Walt threatened to work Sam over. Max had worked over Sam, and Sam knew that this was no idle threat. 2. to give someone’s body a thorough examination or treatment.  The doctors worked her over to the tune of $1,500, but couldn’t find anything wrong with her.  The dermatologist worked over her entire body looking for moles."
+        },
+        {
+            "id": 61,
+            "phrase": "work someone up†",
+            "definition": "to get someone ready for something, especially medical treatment. The staff worked up three patients for surgery that morning.  The doctor told the nurse to work Mr. Franklin up for surgery."
+        },
+        {
+            "id": 62,
+            "phrase": "work something down†",
+            "definition": "to lower or reduce something, especially an amount of money. Over a few months, they worked the price down, and the house soon was sold. They worked down the price so much that the house was a steal."
+        },
+        {
+            "id": 63,
+            "phrase": "work something down (into something)",
+            "definition": "to manipulate something downward into something.  The crane operator worked the load down into the ship’s hold. The operator worked it down carefully."
+        },
+        {
+            "id": 64,
+            "phrase": "work something down (over something)",
+            "definition": "to manipulate something downward over something.  Now, you work this part down over this little tube, and then it won’t leak.  Liz worked the lid down and tightened it on."
+        },
+        {
+            "id": 65,
+            "phrase": "work something off†",
+            "definition": "to get rid of anger, anxiety, or energy by doing physical activity.  I was so mad! I went out and played basketball to work my anger off. He works off nervousness by knitting."
+        },
+        {
+            "id": 66,
+            "phrase": "work something out† (with someone)",
+            "definition": "to come to an agreement with someone; to figure out with someone a way to do something.  I think we can work this out with you so that all of us are satisfied. I will work out something with Karen.  I’m sure we can work it out."
+        },
+        {
+            "id": 67,
+            "phrase": "work something over†",
+            "definition": "to rework something.  He saved the play by working the second act over. Would you work over this report and see if you can improve it?"
+        },
+        {
+            "id": 68,
+            "phrase": "work something through (something)",
+            "definition": "1. to guide or push something through a physical barrier.  I could hardly work the needle through the tightly woven cloth. I worked the needle through. 2. to guide or maneuver a law, proposal, motion, through a governing body.  The lobbyist was unable to work the law through the legislature.  The usual party hacks worked the law through."
+        },
+        {
+            "id": 69,
+            "phrase": "work something under something",
+            "definition": "to manipulate something beneath something.  She worked the knife blade under the window and tried to pry the window up.  Work the envelope under the office door. She will find it when she opens the door in the morning."
+        },
+        {
+            "id": 70,
+            "phrase": "work something up†",
+            "definition": "to prepare something, perhaps on short notice. There are some special clients coming in this weekend. We need to make a presentation. Do you think you can work something up by then? _I will work up something for this weekend."
+        },
+        {
+            "id": 71,
+            "phrase": "work something up† into something",
+            "definition": "to develop something into something.  I will work this story up into a screenplay in a few months.  I can work up this idea into a good novel."
+        },
+        {
+            "id": 72,
+            "phrase": "work things out",
+            "definition": "to improve one’s state gradually by solving a series of problems. If we sit down and talk this over, I am sure we can work things out."
+        },
+        {
+            "id": 73,
+            "phrase": "work through channels",
+            "definition": "to try to get something done by going through the proper procedures and persons.  You can’t accomplish anything around here if you don’t work through channels.  I tried working through channels, but it takes too long. This is an emergency."
+        },
+        {
+            "id": 74,
+            "phrase": "work together",
+            "definition": "[for people or things] to cooperate or function together. Come now! Let’s all work together and get this done on time! _ We will work together on this and enjoy it more."
+        },
+        {
+            "id": 75,
+            "phrase": "work toward something",
+            "definition": "1. to progress toward a goal, such as a promotion.  He was working toward a position with the new company.  She was working toward a law degree when the accident happened. 2. to struggle physically to move toward something or some place.  The turtle worked toward the water despite the hot sun.  I worked toward the cabin in the forest, fighting mosquitoes all the way."
+        },
+        {
+            "id": 76,
+            "phrase": "work under someone",
+            "definition": "to have one’s work supervised by someone.  I work under Michael, who is head of the department.  Who do you work under?"
+        },
+        {
+            "id": 77,
+            "phrase": "work under something",
+            "definition": "to work underneath something.  I have to work under the car for a while. Please don’t start it.  The plumber had to work under the house to fix the pipes."
+        },
+        {
+            "id": 78,
+            "phrase": "work up to something",
+            "definition": "[for something] to build or progress to something. (Usually concerning the weather.) _ The sky is working up to some kind of storm.  The weather is working up to something severe."
+        },
+        {
+            "id": 79,
+            "phrase": "work (up)on something",
+            "definition": "1. to repair or tinker with something. (Upon is formal and less commonly used than on.) _ He’s out in the kitchen, working upon his tax forms.  He’s working on his car. 2. [for something] to have the desired effect on something. (Upon is formal and less commonly used than on.) _ This medicine should work well upon your cold.  I hope it will work on your cold."
+        },
+        {
+            "id": 80,
+            "phrase": "work with someone or something",
+            "definition": "to manipulate or work on someone or something.  Let me work with him for a while. I’ll convince him.  I want to work with this engine and see if I can get it started."
+        },
+        {
+            "id": 81,
+            "phrase": "work with something",
+            "definition": "to do work with some tool or instrument.  She is working with a chisel now. In a minute she will switch to a tiny knife. Do you know how to work with a voltmeter?"
+        },
+        {
+            "id": 82,
+            "phrase": "work wonders (with someone or something)",
+            "definition": "to be surprisingly beneficial to someone or something; to be very helpful with someone or something. This new medicine works wonders with my headaches. Jean was able to work wonders with the office staff. They improved their efficiency as soon as she took over."
+        },
+        {
+            "id": 83,
+            "phrase": "a working stiff",
+            "definition": "someone who works, especially in a nonmanagement position. (Originally and typically referring to males.) _But does the working stiff really care about all this economic stuff ? _ All the working stiffs want is a raise."
+        },
+        {
+            "id": 84,
+            "phrase": "The world is one’s oyster.",
+            "definition": "One rules the world.; One is in charge of everything. I feel like the world is my oyster today.  The world is my oyster! I’m in love!"
+        },
+        {
+            "id": 85,
+            "phrase": "*worlds apart",
+            "definition": "greatly separated by differing attitudes, needs, opinions, or temperaments. (*Typically: be ~; grow ~; live ~; think ~.) _ They are worlds apart. I can’t imagine how they ever decided to get married."
+        },
+        {
+            "id": 86,
+            "phrase": "The worm (has) turned.",
+            "definition": "Someone who is usually patient and humble has decided to stop being so.  Jane used to be treated badly by her husband and she just accepted it, but one day she hit him. The worm turned all right. Tom used to let the other boys bully him on the playground, but one day the worm turned and he’s now leader of their gang."
+        },
+        {
+            "id": 87,
+            "phrase": "worm (one’s way) in(to something)",
+            "definition": "1. Fig. to wiggle into something or some place. (Fig. on the image of a worm working its way into a very small space.) _ The little cat wormed her way into the box and got stuck.  The cat wormed into the opening. 2. Fig. to manipulate one’s way into participation in something.  She tried to worm her way into the play, but the director refused. You can’t have a part, so don’t try to worm in."
+        },
+        {
+            "id": 88,
+            "phrase": "worm (one’s way) out (of something)",
+            "definition": "1. Fig. to wiggle out of something or some place. (Fig. on the image of a worm working its way out of a very small space.) _Somehow she managed to worm her way out of the handcuffs.  Frank wormed out of the opening.  He struggled and struggled and wormed out. 2. Fig. to manipulate oneself out of a job or responsibility.  Don’t try to worm your- self out of this affair. It is your fault! _ You can’t worm out of this."
+        },
+        {
+            "id": 89,
+            "phrase": "worm something out of someone",
+            "definition": "to draw or manipulate information out of someone.  I managed to worm the name of the doctor out of her before she ran off. You can’t worm the names out of me!"
+        },
+        {
+            "id": 90,
+            "phrase": "worried sick (about someone or something)",
+            "definition": "very worried or anxious about someone or something.  Oh, thank heavens you are all right. We were worried sick about you!"
+        },
+        {
+            "id": 91,
+            "phrase": "worry about someone or something",
+            "definition": "to fret or be anxious about the welfare of someone or something. Please don’t worry about me. I’ll be all right.  Don’t worry about the bill. I’ll pay it."
+        },
+        {
+            "id": 92,
+            "phrase": "worry an animal out of something",
+            "definition": "to pester an animal until it leaves something or some place.  The cat finally worried the mouse out of its hole and caught it.  We worried the squirrel out of the attic by making lots of noise."
+        },
+        {
+            "id": 93,
+            "phrase": "worry oneself about someone or something",
+            "definition": "to allow oneself to fret or become anxious about someone or something.  Please don’t worry yourself about me. I’ll be all right.  There is no need for Karen to worry herself about this."
+        },
+        {
+            "id": 94,
+            "phrase": "worry over someone or something",
+            "definition": "to fret or be anxious about someone or something.  She worried over dinner, but it came out all right. Jerry is worried over his daughter, Alice."
+        },
+        {
+            "id": 95,
+            "phrase": "worry something out of someone",
+            "definition": "to annoy some information out of someone.  They finally worried the correct number out of me.  You can’t worry the information out of her. It will require force."
+        },
+        {
+            "id": 96,
+            "phrase": "worry through something",
+            "definition": "to think and fret through a problem. I can’t talk to you now. I have to worry through this tax problem. We worried through the financial problem over a three-day period."
+        },
+        {
+            "id": 97,
+            "phrase": "worrywart",
+            "definition": "someone who worries all the time. Don’t be such a worrywart.  I’m sorry I’m such a worrywart."
+        },
+        {
+            "id": 98,
+            "phrase": "the worse for wear",
+            "definition": "1. Euph. intoxicated. You were the worse for wear last night.  The three came stumbling in, the worse for wear again. 2. damaged or worn through use.  Eventually, every machine becomes worse for wear, you know.  The truth is it’s the worse for wear; you will just have to get a new one. 3. injured. Tom fell into the street and he’s much the worse for wear.  Fred had a little accident with his bike and he’s the worse for wear."
+        },
+        {
+            "id": 99,
+            "phrase": "worship someone as something",
+            "definition": "to revere or honor one as if one were something divine or special.  He worships her as a goddess.  She worships her father as a god."
+        },
+        {
+            "id": 100,
+            "phrase": "worship the ground someone walks on",
+            "definition": "to honor someone to a great extent.  She always admired the professor. In fact, she worshiped the ground he walked on."
+        },
+        {
+            "id": 101,
+            "phrase": "*the worst of something",
+            "definition": "the poorest share of something; the worst part of something. (*Typically: get ~; have ~; give someone ~.) _ I knew I would get the worst of the deal because I was absent when the goods were divided up.  I’m sorry that you got the worst of it."
+        },
+        {
+            "id": 102,
+            "phrase": "the worst-case scenario",
+            "definition": "Cliché the worse possible future outcome.  Now, let’s look at the worst-case scenario.  In the worst-case scenario, we’re all dead."
+        },
+        {
+            "id": 103,
+            "phrase": "worth its weight in gold",
+            "definition": "very valuable. This book is worth its weight in gold.  Oh, Bill. You’re wonderful. You’re worth your weight in gold."
+        },
+        {
+            "id": 104,
+            "phrase": "The worth of a thing is what it will bring.",
+            "definition": "Prov. A thing is worth whatever someone will pay for it.  Ellen: I’m thinking about selling my grandmother’s silver tea set. What do you suppose it’s worth? Fred: The worth of a thing is what it will bring."
+        },
+        {
+            "id": 105,
+            "phrase": "worth one’s salt",
+            "definition": "worth (in productivity) what it costs to keep or support one.  We decided that you are worth your salt, and you can stay on as office clerk.  You’re not worth your salt. Pack up!"
+        },
+        {
+            "id": 106,
+            "phrase": "worth someone’s while",
+            "definition": "worth one’s time and trouble.  The job pays so badly it’s not worth your while even going for an interview. It’s not worth Mary’s while going all that way just for a one-hour meeting."
+        },
+        {
+            "id": 107,
+            "phrase": "worthy of the name",
+            "definition": "deserving to be so called; good enough to enjoy a specific designation.  There was not an actor worthy of the name in that play.  Any art critic worthy of the name would know that painting to be a fake."
+        },
+        {
+            "id": 108,
+            "phrase": "would as soon do something as look at you",
+            "definition": "Rur. would be eager to do something harmful as simply look at you.  He was a mean so-and-so who would as soon shoot you as look at you.  He’d as soon pick a fight as look at you."
+        },
+        {
+            "id": 109,
+            "phrase": "would like (to have) someone or something",
+            "definition": "to want someone or something; to prefer someone or something.  I would like to have three cookies.  I would like a piece of cake."
+        },
+        {
+            "id": 110,
+            "phrase": "would rather",
+            "definition": "would more willingly; would more readily.  I would rather have an apple than a pear. I don’t like pears.  I’d rather live in the north than the south, because I like snow."
+        },
+        {
+            "id": 111,
+            "phrase": "Would you believe!",
+            "definition": "Inf. Isn’t that unbelievable?; How shocking! _Tom: Jane has run off and married Fred! Sally: Would you believe! _Jane: Then the manager came out and asked us to leave. Would you believe? Mary: It sounds just awful. I’d send them a letter of complaint."
+        },
+        {
+            "id": 112,
+            "phrase": "(Would you) care for another (one)?",
+            "definition": "Do you want another drink or serving? _ Tom stood there with an almost empty glass. Bill said, “Would you care for another one?” _ Waiter: Care for another one, madam? Sue: No, thank you."
+        },
+        {
+            "id": 113,
+            "phrase": "(Would you) care to...?",
+            "definition": "a polite phrase introducing an inquiry as to whether someone wishes to do something.  John: Would you care to step out for some air? Jane: Oh, I’d love it.  Sue: Care to go for a swim? Mary: Not now, thanks."
+        },
+        {
+            "id": 114,
+            "phrase": "(Would you) care to dance?",
+            "definition": "Do you want to dance with me?; Would you please dance with me? _ John: Would you care to dance? Mary: I don’t dance, but thank you for asking.  “Care to dance?” asked Bill, politely."
+        },
+        {
+            "id": 115,
+            "phrase": "(Would you) care to join us?",
+            "definition": "Do you want to join us? _Tom and Mary saw Fred and Sally sitting at another table in the restaurant. Tom went over to them and said, “Would you care to join us?” _ Mary: Isn’t that Bill and Sue over there? John: Yes, it is. Shall I ask them to join us? Mary: Why not? John (after reaching the other table): Hi, you guys! Care to join us? Bill: Love to, but Sue’s mom is going to be along any minute. Thanks anyway."
+        },
+        {
+            "id": 116,
+            "phrase": "Would you excuse me?",
+            "definition": "1. a polite question that essentially announces one’s departure. (Compare this with Could I be excused?; Excuse me.) _ Jane: Would you excuse me? I have to get home now. Andy: Oh, sure. I’ll see you to the door.  Rising to leave, Jane said, “Would you excuse me?” and left by the rear door. 2. a polite way to request passage through or by a group of people; a way to request space to exit an elevator.  There were two people talking in the corridor, blocking it. Tom said, “Would you excuse me?” They stepped aside.  Fred: Would you excuse me? This is my f loor. Sally: Sure. It’s mine, too."
+        },
+        {
+            "id": 117,
+            "phrase": "Would you please?",
+            "definition": "a polite phrase that agrees that what was offered to be done should be done.  Bill: Do you want me to take this over to the bank? Mary: Would you please? _ Tom: Can I take your coat? Sally: Would you please?"
+        },
+        {
+            "id": 118,
+            "phrase": "wouldn’t dream of doing something",
+            "definition": "would not even consider doing something.  I wouldn’t dream of taking your money! _ I’m sure that John wouldn’t dream of complaining to the manager."
+        },
+        {
+            "id": 119,
+            "phrase": "wouldn’t touch someone or something with a ten-foot pole",
+            "definition": "Cliché would not be involved with something under any circumstances. I know about the piece of vacant land for sale on Maple Street. I wouldn’t touch it with a ten-foot pole because there used to be a gas station there and the soil is polluted.  Tom said he wouldn’t touch Sally with a tenfoot pole."
+        },
+        {
+            "id": 120,
+            "phrase": "wouldn’t want to be in someone’s shoes",
+            "definition": "would not trade places with someone who is in a bad situation.  Now Jim has to explain to his wife how he wrecked their car. I wouldn’t want to be in his shoes.  She may be rich, but I wouldn’t want to be in her shoes. Everyone in her family hates her."
+        },
+        {
+            "id": 121,
+            "phrase": "wrack and ruin",
+            "definition": "Cliché complete destruction or ruin.  They went back after the fire and saw the wrack and ruin that used to be their house.  Drinking brought him nothing but wrack and ruin."
+        },
+        {
+            "id": 122,
+            "phrase": "wrangle (with someone) (about someone or something)",
+            "definition": "to bicker or argue with someone about someone or something.  Stop wrangling with everyone about Tom. He can take care of himself and does not need any special treatment.  Stop wrangling with everyone you meet."
+        },
+        {
+            "id": 123,
+            "phrase": "wrangle (with someone) (over someone or something)",
+            "definition": "to bicker or argue with someone over who will end up with someone or something.  I don’t want to wrangle with Kelly over the contract.  I see no need to wrangle over Dolly."
+        },
+        {
+            "id": 124,
+            "phrase": "wrap around someone or something",
+            "definition": "to enclose or fold about someone or something.  The snake wrapped around the helpless man and it was soon all over.  The flames wrapped around the barn and swallowed it up."
+        },
+        {
+            "id": 125,
+            "phrase": "wrap one’s car around something",
+            "definition": "to drive one’s car into something at fairly high speed.  She wrapped her car around a light pole.  If he hadn’t wrapped his car around a tree, he’d be here with us tonight."
+        },
+        {
+            "id": 126,
+            "phrase": "wrap someone or something around something",
+            "definition": "to bend or coil someone or something around something. I’ll wrap you around that lamppost unless you cooperate! _ Don wrapped the rope around the tree and tied it tight."
+        },
+        {
+            "id": 127,
+            "phrase": "wrap someone or something (up†) (in something)",
+            "definition": "to enclose or enfold someone or something inside of something.  I will have to wrap the baby up in a heavy blanket if we are going out in this cold. We wrapped up the children in their warmest clothing.  Please wrap the package up in pretty paper.  Would you wrap this in yellow paper?"
+        },
+        {
+            "id": 128,
+            "phrase": "wrap someone or something (up†) (with something)",
+            "definition": "to enclose or enfold someone or something, using something.  Try to wrap the baby up with something warmer.  We will have to wrap up the baby with extra blankets tonight."
+        },
+        {
+            "id": 129,
+            "phrase": "wrap something around someone",
+            "definition": "to fold or drape something onto someone.  He wrapped a towel around himself and went to answer the telephone.  She wrapped a blanket around her little boy to keep him warm."
+        },
+        {
+            "id": 130,
+            "phrase": "wrap something up†",
+            "definition": "to complete work on something; to bring something to an end.  I will wrap the job up this morning. I’ll call you when I finish.  I can wrap up this little project in a week."
+        },
+        {
+            "id": 131,
+            "phrase": "wrapped up (in someone or something)",
+            "definition": "concerned or obsessed with someone or something.  Sally is pretty wrapped up in herself.  I’m too wrapped up in my charity work to get a job."
+        },
+        {
+            "id": 132,
+            "phrase": "*wrapped up (with someone or something)",
+            "definition": "involved with someone or something. (*Typically: be ~; get ~.) _ She is all wrapped up with her husband and his problems.  She is just too wrapped up."
+        },
+        {
+            "id": 133,
+            "phrase": "wreak havoc (with something)",
+            "definition": "to cause a lot of trouble with something; to ruin or damage something. Your bad attitude will wreak havoc with my project.  The rainy weather wreaked havoc with our picnic plans."
+        },
+        {
+            "id": 134,
+            "phrase": "wreak something (up)on someone or something",
+            "definition": "to cause damage, havoc, or destruction to someone or something. (Upon is formal and less commonly used than on.) _The storm wreaked destruction upon the little village.  It wreaked much havoc on us."
+        },
+        {
+            "id": 135,
+            "phrase": "wreak vengeance (up)on someone or something",
+            "definition": "Cliché to seek and get revenge on someone by harming someone or something.  The gangster wreaked his vengeance by destroying his rival’s house. The general wanted to wreak vengeance on the opposing army for their recent successful attack."
+        },
+        {
+            "id": 136,
+            "phrase": "wreathe (itself ) around someone or something",
+            "definition": "[for something] to form itself into a wreath or circle around someone or something. The smoke wreathed around the smokers’ heads, almost obliterating sight of them.  The smoke wreathed around the green tree near the fire."
+        },
+        {
+            "id": 137,
+            "phrase": "wreathe someone or something in something",
+            "definition": "to enclose someone or something in a wreath or a wreath-shaped area. The trees wreathed them in a lovely frame. It made a beautiful photograph.  The vines wreathed the campers in a gentle bower."
+        },
+        {
+            "id": 138,
+            "phrase": "wreathe something around someone or something",
+            "definition": "to form something into a wreath around someone or something.  The smoke wreathed a ring around the old man holding a pipe. The cloud wreathed a huge halo around the tip of the mountain."
+        },
+        {
+            "id": 139,
+            "phrase": "wrench something from someone",
+            "definition": "to grab or twist something out of someone’s grasp.  The policeman wrenched the gun from Lefty’s hand and called for his partner. Max wrenched the wallet from Jed’s hand and f led with it."
+        },
+        {
+            "id": 140,
+            "phrase": "wrench something out of something",
+            "definition": "to yank or twist something out of something.  The policeman wrenched the gun out of Lefty’s hand and told Lefty to put his hands up. Tom wrenched the bone out of the dog’s mouth and threw it away."
+        },
+        {
+            "id": 141,
+            "phrase": "wrest someone or something (away) from someone or something",
+            "definition": "to struggle to get someone or something from the grip of someone or something.  The kidnappers wrested the baby from his mother and ran away with him.  The policeman wrested the gun away from Lefty."
+        },
+        {
+            "id": 142,
+            "phrase": "wrestle something from someone",
+            "definition": "to get something away from someone after a physical struggle.  Wally wrestled the gun away from Max and threw it out the window.  I could not wrestle my wallet from the thief."
+        },
+        {
+            "id": 143,
+            "phrase": "wrestle something into something",
+            "definition": "to struggle with something large to get it into something or some place.  She wrestled the packages into the backseat of the car. I wrestled the suitcases into the rack over my seat."
+        },
+        {
+            "id": 144,
+            "phrase": "wrestle with someone",
+            "definition": "to contend with someone in a physical wrestling match. You are too big to wrestle with him! _ I want to wrestle with someone my own size."
+        },
+        {
+            "id": 145,
+            "phrase": "wrestle with something",
+            "definition": "1. to struggle with something large to move it about.  He wrestled with the piano and finally got it to move.  The two men were wrestling with the heavy trunk for nearly ten minutes, trying to get it up the stairs. 2. to grapple or struggle with some large animal. The man wrestled with the tiger for a while but was seriously mauled in a short time.  Sam liked to wrestle with the family dog. 3. to struggle with a difficult problem; to struggle with a moral decision. We wrestled with the problem and finally decided to go ahead. Let me wrestle with this matter for a while longer."
+        },
+        {
+            "id": 146,
+            "phrase": "wriggle in(to something)",
+            "definition": "to wiggle and squeeze into something or some place.  You will never be able to wriggle into that swimming suit.  I can just wriggle in!"
+        },
+        {
+            "id": 147,
+            "phrase": "wriggle out (of something)",
+            "definition": "to wiggle and squeeze out of something or some place. She wriggled out of her tight skirt and changed into something more comfortable. The skirt was so tight, she had to wriggle out. She couldn’t pull it off."
+        },
+        {
+            "id": 148,
+            "phrase": "wring something out†",
+            "definition": "to squeeze or twist something dry of liquid.  He wrung the rag out and wiped up more of the spilled milk. Liz wrung out the rag and wiped up more of the spilled milk."
+        },
+        {
+            "id": 149,
+            "phrase": "wring something out of someone",
+            "definition": "to pressure someone into telling something.  The police will wring the truth out of her.  After a lot of questioning, they wrung the information out of Fred."
+        },
+        {
+            "id": 150,
+            "phrase": "wrinkle something up†",
+            "definition": "to make something get wrinkles and creases.  I love the way you wrinkle your nose up.  Don’t wrinkle up your jacket."
+        },
+        {
+            "id": 151,
+            "phrase": "wrinkle up",
+            "definition": "[for something] to draw up in wrinkles; [for something] to become wrinkled.  His nose wrinkled up as he smelled the burning pie.  The cloth wrinkled up in the intense heat."
+        },
+        {
+            "id": 152,
+            "phrase": "write about someone or something",
+            "definition": "to write a narrative or description of someone or something. I wanted to write about wild canaries, but there is not much to say.  Sally writes about famous people."
+        },
+        {
+            "id": 153,
+            "phrase": "write against someone or something",
+            "definition": "to oppose someone or something in writing.  John writes against the current administration too harshly. Almost everyone enjoys writing against the CIA."
+        },
+        {
+            "id": 154,
+            "phrase": "write away",
+            "definition": "to write a lot; to continue writing.  There he was, writing away, not paying attention to anything else.  I spent the entire afternoon writing away, having a fine, productive time."
+        },
+        {
+            "id": 155,
+            "phrase": "write away for something",
+            "definition": "to send for something in writing, from a distant place. I wrote away for a book on the rivers of the world.  You will have to write away for another copy of the instruction manual."
+        },
+        {
+            "id": 156,
+            "phrase": "write back to someone",
+            "definition": "to write a letter to someone in return for a letter received from someone.  I wrote back to her at once, but I have heard no more from her.  Please write back to me when you have a chance."
+        },
+        {
+            "id": 157,
+            "phrase": "write down to someone",
+            "definition": "to write to someone condescendingly.  You should never write down to your audience if you want to be convincing.  I have to write down to them, because they are very young."
+        },
+        {
+            "id": 158,
+            "phrase": "write for something",
+            "definition": "1. to write and request something.  I wrote for clarification but received none.  Julie wrote for another copy of the instruction book. 2. to produce writing for a particular kind of publication.  I write for science magazines.  Sam writes for the local newspaper."
+        },
+        {
+            "id": 159,
+            "phrase": "write in(to something) (for something)",
+            "definition": "to send a written request to something for something in particular. Please write in for a detailed recipe of all the dishes on today’s program.  I am going to write in for a clarification."
+        },
+        {
+            "id": 160,
+            "phrase": "write of someone or something",
+            "definition": "to write about the general topic of someone or something.  He wrote of the beauty of nature and the way we are destroying it.  She wrote of Henry, her ancient house cat."
+        },
+        {
+            "id": 161,
+            "phrase": "write off (to someone) (for something)",
+            "definition": "to send a written request for something away to someone.  I wrote off to my parents for some money, but I think they are ignoring me.  I wrote off for money.  I need money so I wrote off to my parents."
+        },
+        {
+            "id": 162,
+            "phrase": "write on and on",
+            "definition": "to write too much; to write endlessly.  You tend to write on and on. Try to focus on one point and leave it at that.  I think you write on and on just to fill up space."
+        },
+        {
+            "id": 163,
+            "phrase": "write someone down as something",
+            "definition": "to list someone’s name, noting something.  I’ll write you down as a contributor.  Can I write you down as a charter member?"
+        },
+        {
+            "id": 164,
+            "phrase": "write someone for something",
+            "definition": "to send a written request to someone for something.  Henry wrote Harry for a firm quote, but Harry never responded.  Did you write me for permission?"
+        },
+        {
+            "id": 165,
+            "phrase": "write someone in† (on something)",
+            "definition": "to write the name of someone in a special place on a ballot, indicating a vote for the person. (Done when the person’s name is not already printed on the ballot.) _ Please write my name in on the ballot.  I wrote in your name on the ballot."
+        },
+        {
+            "id": 166,
+            "phrase": "write someone or something about something",
+            "definition": "to send an inquiry or statement to someone in writing about someone or something.  I will write her about what you just told me.  Sarah wrote the company about the faulty merchandise."
+        },
+        {
+            "id": 167,
+            "phrase": "write someone or something off†",
+            "definition": "to drop someone or something from consideration.  The manager wrote Tom off for a promotion. I wrote off that piece of swampy land as worthless. It can’t be used for anything."
+        },
+        {
+            "id": 168,
+            "phrase": "write someone or something off† (as a something)",
+            "definition": "1. to give up on turning someone or something into something.  I had to write Jill off as a future executive.  The company wrote off the electric automobile as a dependable means of transportation.  He would never work out. We wrote him off. 2. to give up on someone or something as a dead loss, waste of time, hopeless case, etc.  Don’t write me off as a has-been. We almost wrote off the investment as a dead loss. 3. to take a charge against one’s taxes.  Can I write this off as a deduction, or is it a dead loss? _ Can I write off this expense as a tax deduction?"
+        },
+        {
+            "id": 169,
+            "phrase": "write someone or something up†",
+            "definition": "to write an article about someone or something.  A reporter wrote me up for the Sunday paper.  I wrote up a local business and sent the story to a magazine, but they didn’t buy the story."
+        },
+        {
+            "id": 170,
+            "phrase": "write something against someone or something",
+            "definition": "to write something in opposition to someone or something.  I wrote an article against her proposal, but they refused to print it.  Sarah wrote an essay against the president."
+        },
+        {
+            "id": 171,
+            "phrase": "write something back to someone",
+            "definition": "to write a letter answering someone. I wrote an answer back to her the same day that I received the letter. Will you please write something back to Julie? She complains that you are ignoring her.  I wrote a letter back to Harry, explaining what had happened."
+        },
+        {
+            "id": 172,
+            "phrase": "write something down†",
+            "definition": "to make a note of something; to record something in writing.  Please write this down.  Please write down what I tell you."
+        },
+        {
+            "id": 173,
+            "phrase": "write something off†",
+            "definition": "to absorb a debt or a loss in accounting.  The bill couldn’t be collected, so we had to write it off.  The bill was too large, and we couldn’t write off the amount. We decided to sue."
+        },
+        {
+            "id": 174,
+            "phrase": "write something off† (on one’s taxes)",
+            "definition": "to deduct something from one’s income taxes.  Can I write this off on my income taxes? _ I’ll write off this trip on my taxes.  Oh, yes! Write it off!"
+        },
+        {
+            "id": 175,
+            "phrase": "write something out†",
+            "definition": "1. to spell or write a number or an abbreviation. Don’t just write “7,” write it out. Please write out all abbreviations, such as Doctor for Dr. 2. to put thoughts into writing, rather than keeping them in memory.  Let me write it out. Then I won’t forget it.  Karen wrote out her objections."
+        },
+        {
+            "id": 176,
+            "phrase": "write something to someone",
+            "definition": "1. to send specific information to someone in writing. I wrote the facts to John, and he thanked me for the information.  They wrote all the details to me, and I filed them. 2. to compose a letter or email and send it to someone.  Sam wrote a letter to his father.  Did you write that memo to Mark yet?"
+        },
+        {
+            "id": 177,
+            "phrase": "write something to something",
+            "definition": "to write something that is supplementary to something else.  Molly wrote an epilogue to her story covering the time up till now.  I will write the introduction to the book this afternoon."
+        },
+        {
+            "id": 178,
+            "phrase": "write something up†",
+            "definition": "to prepare a bill, order, or statement.  Please write the order up and send me a copy.  As soon as I finish writing up your check, I’ll bring you some more coffee."
+        },
+        {
+            "id": 179,
+            "phrase": "write to someone",
+            "definition": "to compose a letter or e-mail and send it to someone. I will write to her again, but I don’t expect to hear anything.  Please write to me as soon as you can."
+        },
+        {
+            "id": 180,
+            "phrase": "write (up)on someone or something",
+            "definition": "1. to write about someone or something. (Upon is very formal here and much less commonly used than on.) _ I had to write an essay, so I wrote on my uncle. What are you going to write upon? 2. to write on someone’s skin or some thing. (Upon is formal and much less commonly used than on.) _ Don’t write on Billy. After all, he’s your brother.  Who wrote on this page of the book? 3. to use someone [such as someone’s back] or something as a flat base to support something that is being written upon. I have to sign this check. Here, let me write on you. Do you mind if I write on your desk? I just need to sign this."
+        },
+        {
+            "id": 181,
+            "phrase": "writer’s block",
+            "definition": "the temporary inability for a writer to think of what to write.  I have writer’s block at the moment and can’t seem to get a sensible sentence on paper."
+        },
+        {
+            "id": 182,
+            "phrase": "writhe under something",
+            "definition": "to squirm with pain from being beaten with something.  The sailor writhed under the sting of the lash.  The child writhed under the pain of his spanking."
+        },
+        {
+            "id": 183,
+            "phrase": "*the wrong number",
+            "definition": "an incorrect telephone number. (*Typically: get ~; have ~; dial ~; give someone ~.) _He got the wrong number and hung up. When a young child answered, I knew I had the wrong number."
+        },
+        {
+            "id": 184,
+            "phrase": "wrote the book on something",
+            "definition": "to be very authoritative about something; to know enough about something to write the definitive book on it. (Always in past tense.) _Ted wrote the book on unemployment. He’s been looking for work in three states for two years.  Do I know about misery? I wrote the book on misery!"
+        },
+        {
+            "id": 185,
+            "phrase": "*wrought up",
+            "definition": "disturbed or excited. (Wrought is an old past tense and past participle meaning “worker.” *Typically: be ~; get ~.) _She is so wrought up, she can’t think.  I am sorry you are so wrought up."
+        },
+        {
+            "id": 186,
+            "phrase": "X marks the spot.",
+            "definition": "This is the exact spot. (Sometimes the speaker will draw an X in the spot while saying this.) _ This is where the rock struck my car—X marks the spot.  Now, please move that table over here. Yes, right here—X marks the spot."
+        },
+        {
+            "id": 187,
+            "phrase": "X someone or something out†",
+            "definition": "to mark out something printed or in writing, with Xs.  Sally X’d the incorrect information out.  Sally X’d out the incorrect information.  You should X Tom out. He’s not coming. Please X out this line of print."
+        },
+        {
+            "id": 188,
+            "phrase": "X’d out",
+            "definition": "1. eliminated; crossed-out.  But the Babbits are X’d out.  Put the X’d out Babbits back where they were. 2. Sl. killed. (Underworld.) _ Mr. Big wanted Wilbur X’d out.  He wanted Sam to see that all these punks were X’d out."
+        },
+        {
+            "id": 189,
+            "phrase": "yack one’s head off",
+            "definition": "to talk a great deal. Jane yacked her head off and ended up with a sore throat.  Don’t yack your head off!"
+        },
+        {
+            "id": 190,
+            "phrase": "yack something up†",
+            "definition": "Inf. to talk a great deal [about someone or something]. (The something is often it.) _ She yacked the concert up endlessly.  Sally yacked up the concert, trying to get people to attend.  Yack it up and see if you can get people to attend."
+        },
+        {
+            "id": 191,
+            "phrase": "yammer (away) about someone or something",
+            "definition": "to talk endlessly about someone or something. What are you yammering about? _ They were yammering away about the state of the economy."
+        },
+        {
+            "id": 192,
+            "phrase": "yank at someone or something",
+            "definition": "to pull or tug at someone or something. Please don’t yank at the drapery cord. Stop yanking at me!"
+        },
+        {
+            "id": 193,
+            "phrase": "yank on something",
+            "definition": "to pull or tug on something.  Don’t yank on my hair! _ Yank on this rope to send a signal to the worker on the f loor above."
+        },
+        {
+            "id": 194,
+            "phrase": "yank someone around",
+            "definition": "Sl. to harass someone; to give someone a hard time. Listen, I don’t mean to yank you around all the time, but we have to have the drawings by Monday.  Please stop yanking me around."
+        },
+        {
+            "id": 195,
+            "phrase": "yank someone or something apart†",
+            "definition": "1. to pull, tear, or rip someone or something to pieces.  Please don’t yank the book apart! _ He yanked apart the book! _ He threatened to yank his opponent apart. 2. to separate people or things.  The teacher yanked them apart.  The teacher yanked apart the fighting boys."
+        },
+        {
+            "id": 196,
+            "phrase": "yank someone or something around",
+            "definition": "to pull or jerk someone or something around.  Don’t yank Billy around so. You’ll hurt him! _ Please don’t yank the chairs around. Move them carefully."
+        },
+        {
+            "id": 197,
+            "phrase": "yank someone or something away† (from someone or something)",
+            "definition": "to jerk someone or something away from someone or something.  He yanked his hand away from the fire.  Please yank away that rug from the fire before it gets burned."
+        },
+        {
+            "id": 198,
+            "phrase": "yank someone’s chain",
+            "definition": "Sl. to harass someone; to give someone a hard time. (As if one were a dog wearing a choker collar, on a leash.) _ Stop yanking my chain! _ Do you really think you can just yank my chain whenever you want?"
+        },
+        {
+            "id": 199,
+            "phrase": "yank something off†",
+            "definition": "to pull or jerk off something, such as a piece of clothing.  She yanked her jacket off.  She yanked off her jacket and threw it on the chair."
+        },
+        {
+            "id": 200,
+            "phrase": "yank something up†",
+            "definition": "to pull or jerk something up.  He yanked his pants up.  He yanked up his pants and threw on his shirt."
+        },
+        {
+            "id": 201,
+            "phrase": "yap about someone or something",
+            "definition": "to talk casually about someone or something; to gossip or complain about someone or something.  Stop yapping about Molly.  Claire is always yapping about her salary."
+        },
+        {
+            "id": 202,
+            "phrase": "yap at someone",
+            "definition": "[for a small dog] to bark at someone or something.  The dog yapped at the cat in great frustration.  I am tired of that dog yapping at me all the time!"
+        },
+        {
+            "id": 203,
+            "phrase": "Ye gods (and little fishes)!",
+            "definition": "Inf. What a surprising thing! _ Ye gods and little fishes! Someone covered my car with broken eggs! _ Ye gods! What a rainstorm!"
+        },
+        {
+            "id": 204,
+            "phrase": "year after year",
+            "definition": "for many years, one after another.  We go to the same place for our vacation year after year.  I seem to earn the same salary year after year."
+        },
+        {
+            "id": 205,
+            "phrase": "year in, year out",
+            "definition": "year after year; for years.  I seem to have hay fever year in, year out. I never get over it.  John wears the same old suit, year in, year out."
+        },
+        {
+            "id": 206,
+            "phrase": "yearn for someone or something",
+            "definition": "to long for someone or something; to desire someone or something strongly.  Sam sat alone in his room, yearning for Mary.  Mary yearned for a big bowl of high-butterfat ice cream."
+        },
+        {
+            "id": 207,
+            "phrase": "yell at someone or something",
+            "definition": "to shout at someone or something, usually in anger.  Please don’t yell at me.  There is no point in yelling at a cat."
+        },
+        {
+            "id": 208,
+            "phrase": "yell out",
+            "definition": "to cry out; to shout loudly.  The pain caused the child to yell out.  I yelled out, but no one heard me."
+        },
+        {
+            "id": 209,
+            "phrase": "yell something at someone or something",
+            "definition": "to shout something at someone or something, usually in anger. Please don’t yell those things at me.  He stood on the porch, yelling curses at a dog on his lawn."
+        },
+        {
+            "id": 210,
+            "phrase": "yell something out† (at someone or something)",
+            "definition": "to shout something loudly at someone or something. The dictator yelled curses out at the troops.  The director yelled out his disgust at the cast of the play."
+        },
+        {
+            "id": 211,
+            "phrase": "a yellow streak (down someone’s back)",
+            "definition": "a tendency toward cowardice.  Tim’s got a yellow streak down his back a mile wide. Get rid of that yellow streak. Show some courage."
+        },
+        {
+            "id": 212,
+            "phrase": "yen for someone or something",
+            "definition": "to long for someone or something.  I yen for a great big bowl of highly fattening ice cream.  Frank yenned for Sally."
+        },
+        {
+            "id": 213,
+            "phrase": "Yes indeed(y (do))!",
+            "definition": "Inf. Definitely yes! _ Tom: Will you marry me? Jane: Yes indeedy do, I will! _Charlie: Did your horse win the race? Bill: Yes indeedy!"
+        },
+        {
+            "id": 214,
+            "phrase": "Yes siree(, Bob)!",
+            "definition": "Inf. Absolutely!; Without a doubt! (Not necessarily said to a male and not necessarily to Bob.) _ Mary: Do you want some more cake? Tom: Yes siree, Bob! _ “That was a fine turkey dinner. Yes siree!” said Uncle Henry."
+        },
+        {
+            "id": 215,
+            "phrase": "Yesterday wouldn’t be too soon.",
+            "definition": "Immediately.; Right away. (An answer to the question “When do you want this?”) _Mary: Mr. Franklin, when do you want this? Fred: Well, yesterday wouldn’t be too soon.  Alice: When am I supposed to have this finished? Sue: Yesterday wouldn’t be too soon."
+        },
+        {
+            "id": 216,
+            "phrase": "yield someone or something (over) (to someone or something)",
+            "definition": "to give up someone or something to someone or something. (The over is typically used where the phrase is synonymous with hand over.) _You must yield Tom over to his mother. Will you yield the right-of-way to the other driver, or not? _ Please yield the right-of-way to me."
+        },
+        {
+            "id": 217,
+            "phrase": "yield someone or something up† (to someone)",
+            "definition": "to give someone or something up to someone.  He had to yield his daughter up to Claire. The judge required that Tom yield up his daughter to his ex-wife.  Finally, he yielded up the money."
+        },
+        {
+            "id": 218,
+            "phrase": "yield something to someone",
+            "definition": "1. to give the right-of-way to someone.  You must yield the right-of-way to pedestrians.  You failed to yield the right-of-way to the oncoming car. 2. to give up something to someone.  The army yielded the territory to the invading army. We yielded the territory to the government."
+        },
+        {
+            "id": 219,
+            "phrase": "yield to someone",
+            "definition": "1. to let someone go ahead; to give someone the right-of-way. Please yield to the next speaker.  She yielded to the next speaker. 2. to give in to someone. She found it hard to yield to her husband in an argument.  I will yield to no one."
+        },
+        {
+            "id": 220,
+            "phrase": "a yoke around someone’s neck",
+            "definition": "something that oppresses people; a burden.  John’s greedy children are a yoke around his neck.  The Smiths have a huge mortgage that has become a yoke around their necks."
+        },
+        {
+            "id": 221,
+            "phrase": "yoke people or things together",
+            "definition": "to connect two people together with a yoke; to connect two animals together with a yoke. Todd yoked the oxen together for the parade.  Sam yoked Fred and Tom together so they could pull the load."
+        },
+        {
+            "id": 222,
+            "phrase": "You ain’t just whistlin’ Dixie.",
+            "definition": "Rur. You are right.  Tom: Sure is hot today. Bill: Yeah, you ain’t just whistlin’ Dixie. It’s a scorcher.  Charlie: That was a good movie. Jane: You ain’t just whistlin’ Dixie. It was the best I’ve ever seen."
+        },
+        {
+            "id": 223,
+            "phrase": "You ain’t seen nothing yet!",
+            "definition": "Rur. The best, most exciting, or cleverest part is yet to come! (The use of ain’t is a fixed part of this idiomatic expression.) _Alice: Well, the first act was simply divine. Sue: Stick around. You ain’t seen nothing yet! _ Mary: This part of the city is really beautiful. Bill: You ain’t seen nothing yet!"
+        },
+        {
+            "id": 224,
+            "phrase": "You (always) give up too eas(il)y.",
+            "definition": "You don’t stand up for your rights.; You give up without a fight.  Bill: Well, I guess she was right. Bob: No, she was wrong. You always give up too easily. Bob: I asked her to go out with me Friday, but she said she thought she was busy. Tom: Ask her again. You give up too easy."
+        },
+        {
+            "id": 225,
+            "phrase": "You are more than welcome.",
+            "definition": "1. You are very welcome to be here.  Please make yourself at home. You are more than welcome. 2. Your thanks are very gratefully accepted.  A: Thank you so much. B: You are more than welcome."
+        },
+        {
+            "id": 226,
+            "phrase": "You are something else (again)!",
+            "definition": "Inf. You are amazing or entertaining! _ After Sally finished telling her joke, everyone laughed and someone said, “Oh, Sally, you are something else!” _ “You are something else again,” said Fred, admiring Sue’s presentation."
+        },
+        {
+            "id": 227,
+            "phrase": "You asked for it!",
+            "definition": "1. You are getting what you requested. The waiter set a huge bowl of ice cream, strawberries, and whipped cream in front of Mary, saying apologetically, “You asked for it!” _ Bill: Gee, this escargot stuff is gross! Mary: You asked for it! 2. You are getting the punishment you deserve! _Bill: The tax people just ordered me to pay a big fine. Bob: The careless way you do your tax forms caused it. You asked for it! _Mother: I’m sorry to have to punish you in this fashion, but you asked for it! Bill: I did not!"
+        },
+        {
+            "id": 228,
+            "phrase": "You betcha!",
+            "definition": "Inf. Yes!; You can be sure of it! (Literally, You bet, you.) _ Will I be there? You betcha.  Can I? You betcha!"
+        },
+        {
+            "id": 229,
+            "phrase": "You called?",
+            "definition": "1. a phrase used when returning a telephone call, meaning “What did you want to talk about when you called before?” _ Bill (answering the phone): Hello? Bob: This is Bob. You called? _Tom: You called? It’s Tom. Mary: Hi, Tom. Yes, I wanted to ask you about these estimates. 2. a phrase said by someone who has been summoned into a person’s presence. (Often used in jest, in the way a servant might answer an employer.) _Mary: Oh, Tom. Come over here a minute. Tom (coming to where Mary is standing): You called? _ Tom: Bill! Bill! Over here, Bill, across the street. Bill (panting from running and with mock deference): You called?"
+        },
+        {
+            "id": 230,
+            "phrase": "You can bet the farm (on someone or something).",
+            "definition": "Rur. You can be certain of someone or something.  This is a good investment. You can bet the farm on it.  You can bet the farm that Joe is gonna get that job."
+        },
+        {
+            "id": 231,
+            "phrase": "You can catch more flies with honey than with vinegar.",
+            "definition": "Prov. It is easier to get what you want by flattering people and being polite to them than by making demands.  Jill: This meal is terrible. Let’s get the restaurant manager over here and make a scene unless he gives us our money back. Jane: We might have more luck if we ask politely. You can catch more f lies with honey than with vinegar."
+        },
+        {
+            "id": 232,
+            "phrase": "You can lead a horse to water, but you can’t make it drink.",
+            "definition": "Prov. You can present someone with an opportunity, but you cannot force him or her to take advantage of it.  Jill: I told Katy about all the jobs that are available at our company, but she hasn’t applied for any of them. Jane: You can lead a horse to water, but you can’t make it drink."
+        },
+        {
+            "id": 233,
+            "phrase": "You cannot get a quart into a pint pot.",
+            "definition": "Prov. You cannot fit too much of something into a space that is too small.  That dog is simply too big to get into this kennel. You can’t get a quart into a pint pot. Our refrigerator isn’t big enough to fit that watermelon in. You can’t get a quart into a pint pot."
+        },
+        {
+            "id": 234,
+            "phrase": "You cannot have your cake and eat it (too).",
+            "definition": "Prov. You cannot enjoy two desirable things at the same time. Jill: There’s an apartment across the street from me, much bigger and prettier than mine, and it even costs less. I’d really like to rent it—but I don’t want to go to the trouble of moving. Jane: You can’t have your cake and eat it too.  Fred: I want to lose weight, but I’m not willing to change the way I eat. Alan: You can’t have your cake and eat it."
+        },
+        {
+            "id": 235,
+            "phrase": "You cannot lose what you never had.",
+            "definition": "Prov. You should have not lost something if you only wished that you had it to begin with.  Bill: I’ve lost Mary. She’s gotten engaged to Tom. Fred: But, Bill, Mary was never your girlfriend. You can’t lose what you never had."
+        },
+        {
+            "id": 236,
+            "phrase": "You cannot make a silk purse out of a sow’s ear.",
+            "definition": "Prov. You cannot make someone more refined than he or she is by nature.  I’ve given up trying to get my cousin to appreciate classical music. You can’t make a silk purse out of a sow’s ear."
+        },
+        {
+            "id": 237,
+            "phrase": "You cannot make an omelet without breaking eggs.",
+            "definition": "Prov. In order to get something good or useful, you must give up something else.  Jill: Why do they have to tear down that beautiful old building to build an office park? Jane: You can’t make an omelet without breaking eggs.  Alan: We may make more money by raising our prices, but we’ll also upset a lot of customers. Fred: You can’t make an omelet without breaking eggs."
+        },
+        {
+            "id": 238,
+            "phrase": "You cannot make bricks without straw.",
+            "definition": "Prov. You have to have all the necessary materials in order to make something.  Ellen: I really wanted to give Fred a birthday party, but none of the people I invited were able to come. Jane: Don’t blame yourself. You can’t make bricks without straw."
+        },
+        {
+            "id": 239,
+            "phrase": "You cannot please everyone.",
+            "definition": "Prov. Cliché No matter what you do, there will always be some people who do not like it.  Nancy: My mother wants me to have a big wedding in the church, but my fiancé’s mother insists that we should have an informal ceremony. What am I going to do? Jane: Well, you can’t please everyone. Just do what you and your fiancé want to do."
+        },
+        {
+            "id": 240,
+            "phrase": "You cannot put new wine in old bottles.",
+            "definition": "Prov. You should not try to combine the new with the old. I think it is a mistake for the managers of that traditional art gallery to exhibit modern paintings. You can’t put new wine in old bottles.  Doug’s attempt to teach ancient Chinese medicine to doctors trained in Western medicine was not a success. “I guess I can’t put new wine in old bottles,” Doug thought ruefully."
+        },
+        {
+            "id": 241,
+            "phrase": "You cannot serve God and mammon.",
+            "definition": "Prov. You cannot both be a good person and dedicate yourself to making money. (Biblical. Mammonmeans riches.) _The minister warned the businessman that he could not serve God and mammon, and encouraged him to donate some of his wealth to charity."
+        },
+        {
+            "id": 242,
+            "phrase": "You cannot teach an old dog new tricks.",
+            "definition": "Prov. Someone who is used to doing things a certain way cannot change. (Usually not polite to say about the person you are talking to; you can say it about yourself or about a third person.) _ I’ve been away from school for fifteen years; I can’t go back to college now. You can’t teach an old dog new tricks.  Kevin’s doctor told him not to eat starchy food anymore, but Kevin still has potatoes with every meal. I guess you can’t teach an old dog new tricks."
+        },
+        {
+            "id": 243,
+            "phrase": "(You) can’t fight city hall.",
+            "definition": "There is no way to win in a battle against a bureaucracy. Bill: I guess I’ll go ahead and pay the tax bill. Bob: Might as well. You can’t fight city hall.  Mary: How did things go at your meeting with the zoning board? Sally: I gave up. Can’t fight city hall."
+        },
+        {
+            "id": 244,
+            "phrase": "(You) can’t get there from here.",
+            "definition": "a catchphrase said jokingly when someone asks directions to get to a place that can be reached only by a circuitous route. Bill: How far is it to Adamsville? Tom: Adamsville? Oh, that’s too bad. You can’t get there from here. “Galesburg? Galesburg, you say?” said the farmer. “By golly, you can’t get there from here!”"
+        },
+        {
+            "id": 245,
+            "phrase": "You can’t mean that!",
+            "definition": "Inf. Surely you do not mean what you said! _ Bill: I hate you! Mary: You can’t mean that.  Sally: The cake burned and there’s no time to start another before the party. Mary: You can’t mean that!"
+        },
+        {
+            "id": 246,
+            "phrase": "(You) can’t take it with you.",
+            "definition": "Prov. Cliché Since you cannot take your wealth with you when you die, you ought to enjoy it while you’re alive.  Go ahead, splurge a little while you’ve got it. You can’t take it with you. Henry: Sure, I spent a fortune on this car. Can’t take it with you, you know. Rachel: And this way, you can share it with your friends."
+        },
+        {
+            "id": 247,
+            "phrase": "(You) could have fooled me.",
+            "definition": "Inf. I would have thought otherwise.; I would have thought the opposite.  Henry: Did you know that this land is among the most productive in the entire state? Jane: You could have fooled me. It looks quite barren.  John: I really do like Mary. Andy: Could have fooled me. You treat her rather badly sometimes."
+        },
+        {
+            "id": 248,
+            "phrase": "You could have knocked me over with a feather.",
+            "definition": "I was extremely surprised.; I was so surprised that it was as if I was disoriented and could have been knocked over easily.  When she told me she was going to get married, you could have knocked me over with a feather. John: Did you hear that they are going to tear down city hall and build a new one—price tag twelve million dollars? Sally: Yes, and when I heard that, you could have knocked me over with a feather."
+        },
+        {
+            "id": 249,
+            "phrase": "You don’t get something for nothing.",
+            "definition": "Prov. Everything costs something, and anything that appears to be free must be deceptive.  Jill: This newspaper ad says we can get a trip to Hawaii for free. Jane: There must be a catch to it somewhere. You don’t get something for nothing."
+        }
+    ]
+}

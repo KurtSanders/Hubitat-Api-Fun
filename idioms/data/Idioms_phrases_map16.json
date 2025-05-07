@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "a quick temper",
+            "definition": "a bad temper that can be easily aroused. Tyler has a quick temper and doesn’t mind letting everyone see it."
+        },
+        {
+            "id": 1,
+            "phrase": "a short temper",
+            "definition": "a bad temper that can be easily aroused. Tyler has a quick temper and doesn’t mind letting everyone see it."
+        },
+        {
+            "id": 2,
+            "phrase": "a short fuse",
+            "definition": "a bad temper that can be easily aroused. Tyler has a quick temper and doesn’t mind letting everyone see it."
+        },
+        {
+            "id": 3,
+            "phrase": "*quiet as a (church) mouse",
+            "definition": "very quiet. (*Also: as ~.) _ You’d better be as quiet as a mouse while Grandma takes her nap so you won’t wake her up.  This town is quiet as the grave now that the factories have closed."
+        },
+        {
+            "id": 4,
+            "phrase": "*quiet as the grave",
+            "definition": "very quiet. (*Also: as ~.) _ You’d better be as quiet as a mouse while Grandma takes her nap so you won’t wake her up.  This town is quiet as the grave now that the factories have closed."
+        },
+        {
+            "id": 5,
+            "phrase": "quite a few",
+            "definition": "much or many.  Do you need one? I have quite a few.  I have quite a bit—enough to spare some.  How many? Oh, quite a number."
+        },
+        {
+            "id": 6,
+            "phrase": "quite a lot",
+            "definition": "much or many.  Do you need one? I have quite a few.  I have quite a bit—enough to spare some.  How many? Oh, quite a number."
+        },
+        {
+            "id": 7,
+            "phrase": "quite a bit",
+            "definition": "much or many.  Do you need one? I have quite a few.  I have quite a bit—enough to spare some.  How many? Oh, quite a number."
+        },
+        {
+            "id": 8,
+            "phrase": "quite a number",
+            "definition": "much or many.  Do you need one? I have quite a few.  I have quite a bit—enough to spare some.  How many? Oh, quite a number."
+        },
+        {
+            "id": 9,
+            "phrase": "rag on someone",
+            "definition": "Sl. to bother someone; to irritate someone; to criticize and humiliate someone.  I wish you would stop ragging on me. I don’t know why you are so annoyed at me.  Stop raking on me!"
+        },
+        {
+            "id": 10,
+            "phrase": "rake on someone",
+            "definition": "Sl. to bother someone; to irritate someone; to criticize and humiliate someone.  I wish you would stop ragging on me. I don’t know why you are so annoyed at me.  Stop raking on me!"
+        },
+        {
+            "id": 11,
+            "phrase": "rain on someone’s parade",
+            "definition": "to spoil something for someone. I hate to rain on your parade, but your plans are all wrong.  She really rained on our plans."
+        },
+        {
+            "id": 12,
+            "phrase": "rain on someone or something",
+            "definition": "to spoil something for someone. I hate to rain on your parade, but your plans are all wrong.  She really rained on our plans."
+        },
+        {
+            "id": 13,
+            "phrase": "raise havoc with someone or something",
+            "definition": "to create confusion or disruption for or among someone or something.  Your announcement raised havoc with the students.  I didn’t mean to play havoc with them."
+        },
+        {
+            "id": 14,
+            "phrase": "play havoc with someone or something",
+            "definition": "to create confusion or disruption for or among someone or something.  Your announcement raised havoc with the students.  I didn’t mean to play havoc with them."
+        },
+        {
+            "id": 15,
+            "phrase": "raise hob with someone or something",
+            "definition": "to do something devilish to someone or something; to cause trouble for someone or something. (A hob is a hobgoblin, a wicked little elf.) _ Your sudden arrival is going to play hob with my dinner plans.  Sorry, I didn’t mean to raise hob with you."
+        },
+        {
+            "id": 16,
+            "phrase": "play hob with someone or something",
+            "definition": "to do something devilish to someone or something; to cause trouble for someone or something. (A hob is a hobgoblin, a wicked little elf.) _ Your sudden arrival is going to play hob with my dinner plans.  Sorry, I didn’t mean to raise hob with you."
+        },
+        {
+            "id": 17,
+            "phrase": "raise money for someone or something",
+            "definition": "to work to earn money or encourage donations for the benefit of someone, something, or doing something. I worked hard to raise money for college, and then decided not to go."
+        },
+        {
+            "id": 18,
+            "phrase": "raise money to do something",
+            "definition": "to work to earn money or encourage donations for the benefit of someone, something, or doing something. I worked hard to raise money for college, and then decided not to go."
+        },
+        {
+            "id": 19,
+            "phrase": "raise some eyebrows",
+            "definition": "to shock or surprise people mildly (by doing or saying something). (Some can be replaced with a few, someone’s, a lot of, etc.) _What you just said may raise some eyebrows, but it shouldn’t make anyone really angry.  John’s sudden marriage to Ann raised a few eyebrows."
+        },
+        {
+            "id": 20,
+            "phrase": "raise a few eyebrows",
+            "definition": "to shock or surprise people mildly (by doing or saying something). (Some can be replaced with a few, someone’s, a lot of, etc.) _What you just said may raise some eyebrows, but it shouldn’t make anyone really angry.  John’s sudden marriage to Ann raised a few eyebrows."
+        },
+        {
+            "id": 21,
+            "phrase": "raise the devil (with something)",
+            "definition": "to cause trouble with something.  That idea raises hell with my plan. The onions raised the devil with my stomach."
+        },
+        {
+            "id": 22,
+            "phrase": "raise hell (with something)",
+            "definition": "to cause trouble with something.  That idea raises hell with my plan. The onions raised the devil with my stomach."
+        },
+        {
+            "id": 23,
+            "phrase": "rake someone over the coals",
+            "definition": "to give someone a severe scolding.  My mother hauled me over the coals for coming in late last night. The manager raked me over the coals for being late again."
+        },
+        {
+            "id": 24,
+            "phrase": "haul someone over the coals",
+            "definition": "to give someone a severe scolding.  My mother hauled me over the coals for coming in late last night. The manager raked me over the coals for being late again."
+        },
+        {
+            "id": 25,
+            "phrase": "rake something off (of) something",
+            "definition": "to remove something from something by raking. (Of is usually retained before pronouns.) _Please rake the leaves off the lawn.  Rake off the leaves."
+        },
+        {
+            "id": 26,
+            "phrase": "rake something off†",
+            "definition": "to remove something from something by raking. (Of is usually retained before pronouns.) _Please rake the leaves off the lawn.  Rake off the leaves."
+        },
+        {
+            "id": 27,
+            "phrase": "rake something out of something",
+            "definition": "to clean something out of something by raking.  You ought to rake the leaves out of the gutter so the water will f low.  Please rake out the leaves."
+        },
+        {
+            "id": 28,
+            "phrase": "rake something out†",
+            "definition": "to clean something out of something by raking.  You ought to rake the leaves out of the gutter so the water will f low.  Please rake out the leaves."
+        },
+        {
+            "id": 29,
+            "phrase": "ram something into someone or something",
+            "definition": "to pound something into someone or something. He rammed his fist into Bill’s side and shouted something angry at him.  He rammed in his fist."
+        },
+        {
+            "id": 30,
+            "phrase": "ram something in†",
+            "definition": "to pound something into someone or something. He rammed his fist into Bill’s side and shouted something angry at him.  He rammed in his fist."
+        },
+        {
+            "id": 31,
+            "phrase": "rap at something",
+            "definition": "to tap on something to attract someone’s attention.  Who is that rapping at my door? _Someone is rapping at the window, trying to get my attention.  I will rap on her window and try to wake her."
+        },
+        {
+            "id": 32,
+            "phrase": "rap on something",
+            "definition": "to tap on something to attract someone’s attention.  Who is that rapping at my door? _Someone is rapping at the window, trying to get my attention.  I will rap on her window and try to wake her."
+        },
+        {
+            "id": 33,
+            "phrase": "rap someone across the knuckles",
+            "definition": "to strike someone on the knuckles.  As punishment, she rapped him across the knuckles.  The teacher rapped the student on the knuckles."
+        },
+        {
+            "id": 34,
+            "phrase": "rap someone on the knuckles",
+            "definition": "to strike someone on the knuckles.  As punishment, she rapped him across the knuckles.  The teacher rapped the student on the knuckles."
+        },
+        {
+            "id": 35,
+            "phrase": "rap someone’s knuckles",
+            "definition": "to strike someone on the knuckles.  As punishment, she rapped him across the knuckles.  The teacher rapped the student on the knuckles."
+        },
+        {
+            "id": 36,
+            "phrase": "Rats abandon a sinking ship.",
+            "definition": "Prov. You can tell when something is about to fail because large numbers of people begin to leave it. (Can imply that the people who leave are “rats,” that is, selfish and disloyal.) _ Jill: The company next door must be going bankrupt. Jane: How do you know? Jill: All its employees are resigning. Rats abandon a sinking ship."
+        },
+        {
+            "id": 37,
+            "phrase": "like rats abandoning a sinking ship",
+            "definition": "Prov. You can tell when something is about to fail because large numbers of people begin to leave it. (Can imply that the people who leave are “rats,” that is, selfish and disloyal.) _ Jill: The company next door must be going bankrupt. Jane: How do you know? Jill: All its employees are resigning. Rats abandon a sinking ship."
+        },
+        {
+            "id": 38,
+            "phrase": "rattle one’s saber",
+            "definition": "to make threatening statements or actions.  The president is just rattling his saber. He would never attack such a small country!"
+        },
+        {
+            "id": 39,
+            "phrase": "rattle its saber",
+            "definition": "to make threatening statements or actions.  The president is just rattling his saber. He would never attack such a small country!"
+        },
+        {
+            "id": 40,
+            "phrase": "rattle something off†",
+            "definition": "to recite something quickly and accurately.  She can really reel song lyrics off.  Listen to Mary rattle off those numbers."
+        },
+        {
+            "id": 41,
+            "phrase": "reel something off†",
+            "definition": "to recite something quickly and accurately.  She can really reel song lyrics off.  Listen to Mary rattle off those numbers."
+        },
+        {
+            "id": 42,
+            "phrase": "reach an accord (with someone)",
+            "definition": "to come to an agreement with someone.  I hope that we can reach an accord with the union so work can start again. We will try one more time to reach an agreement with you.  We reached an agreement and signed a contract."
+        },
+        {
+            "id": 43,
+            "phrase": "reach an agreement (with someone)",
+            "definition": "to come to an agreement with someone.  I hope that we can reach an accord with the union so work can start again. We will try one more time to reach an agreement with you.  We reached an agreement and signed a contract."
+        },
+        {
+            "id": 44,
+            "phrase": "reach an understanding with someone",
+            "definition": "to achieve a settlement or an agreement with someone. I hope we are able to reach an understanding with the commissioners.  We were able to reach an understanding with Tony."
+        },
+        {
+            "id": 45,
+            "phrase": "come to an understanding (with someone)",
+            "definition": "to achieve a settlement or an agreement with someone. I hope we are able to reach an understanding with the commissioners.  We were able to reach an understanding with Tony."
+        },
+        {
+            "id": 46,
+            "phrase": "reach one’s stride",
+            "definition": "to do something at one’s best level of ability.  When I reach my stride, things will go faster, and I’ll be more efficient.  Now that I’ve hit my stride, I can work more efficiently."
+        },
+        {
+            "id": 47,
+            "phrase": "hit one’s stride",
+            "definition": "to do something at one’s best level of ability.  When I reach my stride, things will go faster, and I’ll be more efficient.  Now that I’ve hit my stride, I can work more efficiently."
+        },
+        {
+            "id": 48,
+            "phrase": "reach out (after someone or something)",
+            "definition": "to extend one’s grasp to someone or something. Don reached out after Doris, but she slipped away before he could get a good hold on her.  Doris reached out for the door, but it slammed closed."
+        },
+        {
+            "id": 49,
+            "phrase": "reach out (for something)",
+            "definition": "to extend one’s grasp to someone or something. Don reached out after Doris, but she slipped away before he could get a good hold on her.  Doris reached out for the door, but it slammed closed."
+        },
+        {
+            "id": 50,
+            "phrase": "read from the same page",
+            "definition": "Cliché share the same understanding of something.  Okay, I think we are reading from the same page now. We can discuss the future of this project more productively."
+        },
+        {
+            "id": 51,
+            "phrase": "sing from the same hymnbook",
+            "definition": "Cliché share the same understanding of something.  Okay, I think we are reading from the same page now. We can discuss the future of this project more productively."
+        },
+        {
+            "id": 52,
+            "phrase": "receive someone with open arms",
+            "definition": "to greet someone with arms spread wide to hug someone.  His mother greeted him with open arms at the door."
+        },
+        {
+            "id": 53,
+            "phrase": "welcome someone with open arms",
+            "definition": "to greet someone with arms spread wide to hug someone.  His mother greeted him with open arms at the door."
+        },
+        {
+            "id": 54,
+            "phrase": "reckon someone or something into something",
+            "definition": "to figure someone or something in; to include someone or something in one’s calculations.  I will reckon Jane into the total number of guests.  I reckoned in a few too many people."
+        },
+        {
+            "id": 55,
+            "phrase": "reckon someone or something in†",
+            "definition": "to figure someone or something in; to include someone or something in one’s calculations.  I will reckon Jane into the total number of guests.  I reckoned in a few too many people."
+        },
+        {
+            "id": 56,
+            "phrase": "recognize something for what it is",
+            "definition": "to see and understand exactly what someone or something is or represents. The disease represented a serious threat to all peoples, and Dr. Smith recognized it for what it was.  I recognize you for what you are, you scoundrel!"
+        },
+        {
+            "id": 57,
+            "phrase": "recognize one for what one is",
+            "definition": "to see and understand exactly what someone or something is or represents. The disease represented a serious threat to all peoples, and Dr. Smith recognized it for what it was.  I recognize you for what you are, you scoundrel!"
+        },
+        {
+            "id": 58,
+            "phrase": "recoil at the sight (of someone or something)",
+            "definition": "to flinch or cringe at the sight or thought of someone or something.  Sally recoiled at the sight of Gerry, who had said something unspeakable.  Mary recoiled at the very thought."
+        },
+        {
+            "id": 59,
+            "phrase": "recoil at the thought (of someone or something)",
+            "definition": "to flinch or cringe at the sight or thought of someone or something.  Sally recoiled at the sight of Gerry, who had said something unspeakable.  Mary recoiled at the very thought."
+        },
+        {
+            "id": 60,
+            "phrase": "*red as a cherry",
+            "definition": "bright red. (*Also: as ~.) _ When she came in from ice-skating, Clara’s nose was as red as a cherry. When her boss praised her in front of the whole office, Emily turned red as a poppy.  I would like to make a dress out of that beautiful velvet that is red as a rose. Jane painted her fingernails with polish as red as a ruby.  I want to have my car painted red as blood."
+        },
+        {
+            "id": 61,
+            "phrase": "*red as a poppy",
+            "definition": "bright red. (*Also: as ~.) _ When she came in from ice-skating, Clara’s nose was as red as a cherry. When her boss praised her in front of the whole office, Emily turned red as a poppy.  I would like to make a dress out of that beautiful velvet that is red as a rose. Jane painted her fingernails with polish as red as a ruby.  I want to have my car painted red as blood."
+        },
+        {
+            "id": 62,
+            "phrase": "*red as a rose",
+            "definition": "bright red. (*Also: as ~.) _ When she came in from ice-skating, Clara’s nose was as red as a cherry. When her boss praised her in front of the whole office, Emily turned red as a poppy.  I would like to make a dress out of that beautiful velvet that is red as a rose. Jane painted her fingernails with polish as red as a ruby.  I want to have my car painted red as blood."
+        },
+        {
+            "id": 63,
+            "phrase": "*red as a ruby",
+            "definition": "bright red. (*Also: as ~.) _ When she came in from ice-skating, Clara’s nose was as red as a cherry. When her boss praised her in front of the whole office, Emily turned red as a poppy.  I would like to make a dress out of that beautiful velvet that is red as a rose. Jane painted her fingernails with polish as red as a ruby.  I want to have my car painted red as blood."
+        },
+        {
+            "id": 64,
+            "phrase": "*red as blood",
+            "definition": "bright red. (*Also: as ~.) _ When she came in from ice-skating, Clara’s nose was as red as a cherry. When her boss praised her in front of the whole office, Emily turned red as a poppy.  I would like to make a dress out of that beautiful velvet that is red as a rose. Jane painted her fingernails with polish as red as a ruby.  I want to have my car painted red as blood."
+        },
+        {
+            "id": 65,
+            "phrase": "refer something back to someone or something",
+            "definition": "to send something back to someone or a group for action.  Dr. Smith knows more about this kind of case, so I referred it back to him.  They referred back all the bills."
+        },
+        {
+            "id": 66,
+            "phrase": "refer something back†",
+            "definition": "to send something back to someone or a group for action.  Dr. Smith knows more about this kind of case, so I referred it back to him.  They referred back all the bills."
+        },
+        {
+            "id": 67,
+            "phrase": "remand someone (in)to the custody of someone",
+            "definition": "to order someone placed into the custody of someone.  The court remanded the prisoner into the custody of the sheriff. The judge remanded Mary to the custody of the sheriff.  The judge remanded Gerald over to his father."
+        },
+        {
+            "id": 68,
+            "phrase": "remand someone over to someone",
+            "definition": "to order someone placed into the custody of someone.  The court remanded the prisoner into the custody of the sheriff. The judge remanded Mary to the custody of the sheriff.  The judge remanded Gerald over to his father."
+        },
+        {
+            "id": 69,
+            "phrase": "Remember to write.",
+            "definition": "a final parting comment made to remind someone going on a journey to write to those remaining at home.  Alice: Bye. Mary: Good-bye, Alice. Remember to write. Alice: I will. Bye.  Sally: Remember to write! Fred: I will!"
+        },
+        {
+            "id": 70,
+            "phrase": "Don’t forget to write.",
+            "definition": "a final parting comment made to remind someone going on a journey to write to those remaining at home.  Alice: Bye. Mary: Good-bye, Alice. Remember to write. Alice: I will. Bye.  Sally: Remember to write! Fred: I will!"
+        },
+        {
+            "id": 71,
+            "phrase": "render something to someone or something",
+            "definition": "to give something to someone or a group.  You must render your taxes to the government.  I will render my money to the tax collector.  I had to render up all my earnings."
+        },
+        {
+            "id": 72,
+            "phrase": "render something up (to someone or something)",
+            "definition": "to give something to someone or a group.  You must render your taxes to the government.  I will render my money to the tax collector.  I had to render up all my earnings."
+        },
+        {
+            "id": 73,
+            "phrase": "replace someone or something by someone or something",
+            "definition": "to remove someone or something and add someone or something in place of the first.  The manager replaced two workers by a machine.  Walter replaced his old lawn mower with a newer one."
+        },
+        {
+            "id": 74,
+            "phrase": "replace someone or something with someone or something",
+            "definition": "to remove someone or something and add someone or something in place of the first.  The manager replaced two workers by a machine.  Walter replaced his old lawn mower with a newer one."
+        },
+        {
+            "id": 75,
+            "phrase": "restore someone’s trust in something",
+            "definition": "to reinstate someone’s belief, faith, trust, etc., in something.  I knew that a good performance on the test would restore my parents’ belief in me.  Her faith was restored in the government."
+        },
+        {
+            "id": 76,
+            "phrase": "restore someone’s belief in something",
+            "definition": "to reinstate someone’s belief, faith, trust, etc., in something.  I knew that a good performance on the test would restore my parents’ belief in me.  Her faith was restored in the government."
+        },
+        {
+            "id": 77,
+            "phrase": "restore someone’s faith in something",
+            "definition": "to reinstate someone’s belief, faith, trust, etc., in something.  I knew that a good performance on the test would restore my parents’ belief in me.  Her faith was restored in the government."
+        },
+        {
+            "id": 78,
+            "phrase": "return the compliment",
+            "definition": "to pay a compliment to someone who has paid you a compliment.  Mary told me that my hair looked nice, so I returned her compliment and told her that her hair was lovely. When someone says something nice, it is polite to return the compliment."
+        },
+        {
+            "id": 79,
+            "phrase": "return someone’s compliment",
+            "definition": "to pay a compliment to someone who has paid you a compliment.  Mary told me that my hair looked nice, so I returned her compliment and told her that her hair was lovely. When someone says something nice, it is polite to return the compliment."
+        },
+        {
+            "id": 80,
+            "phrase": "revolve around someone or something",
+            "definition": "to spin or move around someone or something.  Do you think that the whole world revolves around you? _ The moon revolves about the earth."
+        },
+        {
+            "id": 81,
+            "phrase": "revolve about someone or something",
+            "definition": "to spin or move around someone or something.  Do you think that the whole world revolves around you? _ The moon revolves about the earth."
+        },
+        {
+            "id": 82,
+            "phrase": "ride on someone’s coattails",
+            "definition": "to make one’s good fortune or success on the strength of someone else’s. (Also with else, as in the examples.) _ Bill isn’t very creative, so he rides on John’s coattails.  Some people just have to hang on somebody else’s coattails."
+        },
+        {
+            "id": 83,
+            "phrase": "hang on someone’s coattails",
+            "definition": "to make one’s good fortune or success on the strength of someone else’s. (Also with else, as in the examples.) _ Bill isn’t very creative, so he rides on John’s coattails.  Some people just have to hang on somebody else’s coattails."
+        },
+        {
+            "id": 84,
+            "phrase": "ride roughshod over someone or something",
+            "definition": "to treat someone or something with disdain or scorn.  Tom seems to ride roughshod over his friends.  You shouldn’t have come into our town to ride roughshod over our laws and our traditions."
+        },
+        {
+            "id": 85,
+            "phrase": "run roughshod over someone or something",
+            "definition": "to treat someone or something with disdain or scorn.  Tom seems to ride roughshod over his friends.  You shouldn’t have come into our town to ride roughshod over our laws and our traditions."
+        },
+        {
+            "id": 86,
+            "phrase": "right and left",
+            "definition": "to both sides; on all sides; everywhere.  I dropped the tennis balls, and they rolled right and left.  There were children everywhere— running right and left."
+        },
+        {
+            "id": 87,
+            "phrase": "left and right",
+            "definition": "to both sides; on all sides; everywhere.  I dropped the tennis balls, and they rolled right and left.  There were children everywhere— running right and left."
+        },
+        {
+            "id": 88,
+            "phrase": "right away",
+            "definition": "immediately. John: Take this over to Sue. Bill: Right away. John: How soon can you do this? Sue: Right away."
+        },
+        {
+            "id": 89,
+            "phrase": "right now",
+            "definition": "immediately. John: Take this over to Sue. Bill: Right away. John: How soon can you do this? Sue: Right away."
+        },
+        {
+            "id": 90,
+            "phrase": "right down someone’s alley",
+            "definition": "ideally suited to one’s interests or abilities. Skiing is right down my alley. I love it.  This kind of thing is right up John’s alley."
+        },
+        {
+            "id": 91,
+            "phrase": "right up someone’s alley",
+            "definition": "ideally suited to one’s interests or abilities. Skiing is right down my alley. I love it.  This kind of thing is right up John’s alley."
+        },
+        {
+            "id": 92,
+            "phrase": "right off the bat",
+            "definition": "immediately; first thing. When he was learning to ride a bicycle, he fell on his head right off the bat.  The new manager demanded new office furniture right off the bat."
+        },
+        {
+            "id": 93,
+            "phrase": "straight off the bat",
+            "definition": "immediately; first thing. When he was learning to ride a bicycle, he fell on his head right off the bat.  The new manager demanded new office furniture right off the bat."
+        },
+        {
+            "id": 94,
+            "phrase": "*a right to do something",
+            "definition": "the freedom to do something; the legal or moral permission or license to do something. (*Typically: get ~; have ~; give someone ~.) _ You don’t have the right to enter my home without my permission. I have a right to grow anything I want on my farmland."
+        },
+        {
+            "id": 95,
+            "phrase": "*the right to do something",
+            "definition": "the freedom to do something; the legal or moral permission or license to do something. (*Typically: get ~; have ~; give someone ~.) _ You don’t have the right to enter my home without my permission. I have a right to grow anything I want on my farmland."
+        },
+        {
+            "id": 96,
+            "phrase": "*a right to something",
+            "definition": "a privilege or license to have something. (*Typically: get ~; have ~; give someone ~.) _I have the right to have the kind of house I want.  You have a right to any house you can afford."
+        },
+        {
+            "id": 97,
+            "phrase": "*the right to something",
+            "definition": "a privilege or license to have something. (*Typically: get ~; have ~; give someone ~.) _I have the right to have the kind of house I want.  You have a right to any house you can afford."
+        },
+        {
+            "id": 98,
+            "phrase": "ring in someone’s ears",
+            "definition": "[for words or a sound] to linger in one’s consciousness.  Her words rang in my ears for days. The sound of the choir rang in their minds long after they had finished their anthem."
+        },
+        {
+            "id": 99,
+            "phrase": "ring in someone’s mind",
+            "definition": "[for words or a sound] to linger in one’s consciousness.  Her words rang in my ears for days. The sound of the choir rang in their minds long after they had finished their anthem."
+        },
+        {
+            "id": 100,
+            "phrase": "ring the curtain down† (on something)",
+            "definition": "1. Fig. to lower a theater curtain, usually at the end of an act or a play. (More literal than W.) _ After one hundred performances, it’s time to ring the curtain down on our show for the last time.  As we bring down the curtain on another successful performance, let’s be thankful nothing serious went wrong. 2. Fig. to bring something to an end; to declare something to be at an end. It’s time to ring the curtain down on our relationship. We have nothing in common anymore.  We’ve tried our best to make this company a success, but it’s time to ring down the curtain."
+        },
+        {
+            "id": 101,
+            "phrase": "bring the curtain down† (on something)",
+            "definition": "1. Fig. to lower a theater curtain, usually at the end of an act or a play. (More literal than W.) _ After one hundred performances, it’s time to ring the curtain down on our show for the last time.  As we bring down the curtain on another successful performance, let’s be thankful nothing serious went wrong. 2. Fig. to bring something to an end; to declare something to be at an end. It’s time to ring the curtain down on our relationship. We have nothing in common anymore.  We’ve tried our best to make this company a success, but it’s time to ring down the curtain."
+        },
+        {
+            "id": 102,
+            "phrase": "rinse someone’s mouth out† (with soap)",
+            "definition": "to punish one by washing one’s mouth out with soap, especially for using foul language. (Usually a jocular threat.) _If you say that again, I’ll rinse your mouth out with soap. I will wash out your mouth if you swear."
+        },
+        {
+            "id": 103,
+            "phrase": "wash someone’s mouth out† (with soap)",
+            "definition": "to punish one by washing one’s mouth out with soap, especially for using foul language. (Usually a jocular threat.) _If you say that again, I’ll rinse your mouth out with soap. I will wash out your mouth if you swear."
+        },
+        {
+            "id": 104,
+            "phrase": "rip something in half",
+            "definition": "to tear something into two parts.  Did you know that Ed can rip a telephone book in half ? _ I can rip a newspaper in two."
+        },
+        {
+            "id": 105,
+            "phrase": "rip something in two",
+            "definition": "to tear something into two parts.  Did you know that Ed can rip a telephone book in half ? _ I can rip a newspaper in two."
+        },
+        {
+            "id": 106,
+            "phrase": "rip something off (of) someone or something",
+            "definition": "to tear something away from someone or something. (Of is usually retained before pronouns.) _I ripped the cover off of the book accidentally. I ripped off the book cover."
+        },
+        {
+            "id": 107,
+            "phrase": "rip something off†",
+            "definition": "to tear something away from someone or something. (Of is usually retained before pronouns.) _I ripped the cover off of the book accidentally. I ripped off the book cover."
+        },
+        {
+            "id": 108,
+            "phrase": "rip something out of someone or something",
+            "definition": "to tear something out of someone or something. The high priest ripped the beating heart out of the sacrificial victim. The priest ripped out the victim’s heart."
+        },
+        {
+            "id": 109,
+            "phrase": "rip something out†",
+            "definition": "to tear something out of someone or something. The high priest ripped the beating heart out of the sacrificial victim. The priest ripped out the victim’s heart."
+        },
+        {
+            "id": 110,
+            "phrase": "rise from the dead",
+            "definition": "to come back to life after being dead. Albert didn’t rise from the dead. He wasn’t dead in the first place. The movie was about a teenager who rose from the grave and haunted his high school friends."
+        },
+        {
+            "id": 111,
+            "phrase": "rise from the grave",
+            "definition": "to come back to life after being dead. Albert didn’t rise from the dead. He wasn’t dead in the first place. The movie was about a teenager who rose from the grave and haunted his high school friends."
+        },
+        {
+            "id": 112,
+            "phrase": "risk of rain",
+            "definition": "a chance of precipitation. (Used only in weather forecasting. There is no “risk” of hazard or injury involved.) _ And for tomorrow, there is a slight risk of showers in the morning. There is a 50 percent risk of rain tonight."
+        },
+        {
+            "id": 113,
+            "phrase": "risk of showers",
+            "definition": "a chance of precipitation. (Used only in weather forecasting. There is no “risk” of hazard or injury involved.) _ And for tomorrow, there is a slight risk of showers in the morning. There is a 50 percent risk of rain tonight."
+        },
+        {
+            "id": 114,
+            "phrase": "risk of thunder- (storms)",
+            "definition": "a chance of precipitation. (Used only in weather forecasting. There is no “risk” of hazard or injury involved.) _ And for tomorrow, there is a slight risk of showers in the morning. There is a 50 percent risk of rain tonight."
+        },
+        {
+            "id": 115,
+            "phrase": "rivet one’s gaze on someone or something",
+            "definition": "to fasten one’s gaze onto someone or something. (As if it were attached by rivets.) _He riveted his gaze on the surly young man. Walter riveted his hateful glare on the last page of the contract and sneered."
+        },
+        {
+            "id": 116,
+            "phrase": "rivet one’s glare on someone or something",
+            "definition": "to fasten one’s gaze onto someone or something. (As if it were attached by rivets.) _He riveted his gaze on the surly young man. Walter riveted his hateful glare on the last page of the contract and sneered."
+        },
+        {
+            "id": 117,
+            "phrase": "rivet something on(to) something",
+            "definition": "to attach something to something with rivets. The pockets of these jeans are riveted onto the body of the pants.  You should rivet on this part of the frame to the wall."
+        },
+        {
+            "id": 118,
+            "phrase": "rivet something on†",
+            "definition": "to attach something to something with rivets. The pockets of these jeans are riveted onto the body of the pants.  You should rivet on this part of the frame to the wall."
+        },
+        {
+            "id": 119,
+            "phrase": "roam about",
+            "definition": "to wander or range about freely.  Stay where you are and don’t roam about.  I’m too tired to roam around very much."
+        },
+        {
+            "id": 120,
+            "phrase": "roam around",
+            "definition": "to wander or range about freely.  Stay where you are and don’t roam about.  I’m too tired to roam around very much."
+        },
+        {
+            "id": 121,
+            "phrase": "roll something onto something",
+            "definition": "to apply something or a coat of a substance by rolling something saturated with the substance on the thing to be coated.  You should roll another coat of paint onto this wall over here.  Roll on another coat."
+        },
+        {
+            "id": 122,
+            "phrase": "roll something on†",
+            "definition": "to apply something or a coat of a substance by rolling something saturated with the substance on the thing to be coated.  You should roll another coat of paint onto this wall over here.  Roll on another coat."
+        },
+        {
+            "id": 123,
+            "phrase": "rolling in something",
+            "definition": "having large amounts of something, usually money.  That family is rolling in money.  Bob doesn’t need to earn money. He’s rolling in it."
+        },
+        {
+            "id": 124,
+            "phrase": "rolling in money",
+            "definition": "having large amounts of something, usually money.  That family is rolling in money.  Bob doesn’t need to earn money. He’s rolling in it."
+        },
+        {
+            "id": 125,
+            "phrase": "rolling in it",
+            "definition": "having large amounts of something, usually money.  That family is rolling in money.  Bob doesn’t need to earn money. He’s rolling in it."
+        },
+        {
+            "id": 126,
+            "phrase": "romp on someone",
+            "definition": "1. Fig. Inf. to beat or win over, as in a sports contest.  Our team romped on our opponents and beat them 10 to 1.  We romped all over them. 2. Fig. Inf. to scold someone. The teacher romped on the students for their behavior.  He romped all over all of them."
+        },
+        {
+            "id": 127,
+            "phrase": "romp all over someone",
+            "definition": "1. Fig. Inf. to beat or win over, as in a sports contest.  Our team romped on our opponents and beat them 10 to 1.  We romped all over them. 2. Fig. Inf. to scold someone. The teacher romped on the students for their behavior.  He romped all over all of them."
+        },
+        {
+            "id": 128,
+            "phrase": "root someone or something out of something",
+            "definition": "to seek and remove someone or something from something or some place; to seek to discover or bring something to light.  The committee wanted to root all the lazy people out of the club.  The manager rooted out all the deadwood."
+        },
+        {
+            "id": 129,
+            "phrase": "root someone or something out†",
+            "definition": "to seek and remove someone or something from something or some place; to seek to discover or bring something to light.  The committee wanted to root all the lazy people out of the club.  The manager rooted out all the deadwood."
+        },
+        {
+            "id": 130,
+            "phrase": "rope someone into something",
+            "definition": "to cause someone to get involved in some project. She’s always trying to rope me into her club. Let’s rope in someone to help with cleaning up."
+        },
+        {
+            "id": 131,
+            "phrase": "rope someone in†",
+            "definition": "to cause someone to get involved in some project. She’s always trying to rope me into her club. Let’s rope in someone to help with cleaning up."
+        },
+        {
+            "id": 132,
+            "phrase": "a rotten egg",
+            "definition": "a bad or despised person; an evil influence.  That guy is a real rotten egg.  She sure has turned out to be a rotten egg."
+        },
+        {
+            "id": 133,
+            "phrase": "a bad egg",
+            "definition": "a bad or despised person; an evil influence.  That guy is a real rotten egg.  She sure has turned out to be a rotten egg."
+        },
+        {
+            "id": 134,
+            "phrase": "*a rough idea (about something)",
+            "definition": "a general idea; an estimate. (*Typically: get ~; have ~; give someone ~.) _ I need to get a rough idea of how many people will be there.  I’ll manage to get a rough idea. That’s good enough."
+        },
+        {
+            "id": 135,
+            "phrase": "*a rough idea (of something)",
+            "definition": "a general idea; an estimate. (*Typically: get ~; have ~; give someone ~.) _ I need to get a rough idea of how many people will be there.  I’ll manage to get a rough idea. That’s good enough."
+        },
+        {
+            "id": 136,
+            "phrase": "rough-and-tumble",
+            "definition": "disorderly; aggressive. That was a rough-and-tumble football game.  George is too rough-and-ready for me. He doesn’t know how to act around civilized people."
+        },
+        {
+            "id": 137,
+            "phrase": "rough-and-ready",
+            "definition": "disorderly; aggressive. That was a rough-and-tumble football game.  George is too rough-and-ready for me. He doesn’t know how to act around civilized people."
+        },
+        {
+            "id": 138,
+            "phrase": "round off to something",
+            "definition": "to express a number in the nearest whole amount or nearest group of 1, 10, 100, 1,000, 1/10, 1/100, 1/1,000, etc. When doing taxes, Anne rounded her figures off to the nearest dollar.  These census population figures are rounded up to the nearest million."
+        },
+        {
+            "id": 139,
+            "phrase": "round up to something",
+            "definition": "to express a number in the nearest whole amount or nearest group of 1, 10, 100, 1,000, 1/10, 1/100, 1/1,000, etc. When doing taxes, Anne rounded her figures off to the nearest dollar.  These census population figures are rounded up to the nearest million."
+        },
+        {
+            "id": 140,
+            "phrase": "round down to something",
+            "definition": "to express a number in the nearest whole amount or nearest group of 1, 10, 100, 1,000, 1/10, 1/100, 1/1,000, etc. When doing taxes, Anne rounded her figures off to the nearest dollar.  These census population figures are rounded up to the nearest million."
+        },
+        {
+            "id": 141,
+            "phrase": "roust someone out of something",
+            "definition": "to force someone out of something.  Bob’s brother rousted him out of bed just in time for the school bus.  He rousted out his brother."
+        },
+        {
+            "id": 142,
+            "phrase": "roust someone out†",
+            "definition": "to force someone out of something.  Bob’s brother rousted him out of bed just in time for the school bus.  He rousted out his brother."
+        },
+        {
+            "id": 143,
+            "phrase": "rout someone or something out of some place",
+            "definition": "to remove someone or something from some place by force.  The soldiers routed the snipers out of the deserted buildings. They routed out the snipers."
+        },
+        {
+            "id": 144,
+            "phrase": "rout someone or something out†",
+            "definition": "to remove someone or something from some place by force.  The soldiers routed the snipers out of the deserted buildings. They routed out the snipers."
+        },
+        {
+            "id": 145,
+            "phrase": "rub elbows (with someone)",
+            "definition": "to associate with someone; to work closely with someone. (No physical contact is involved.) _I don’t care to rub elbows with someone who acts like that! _I rub shoulders with John at work. We are good friends."
+        },
+        {
+            "id": 146,
+            "phrase": "rub shoulders with someone",
+            "definition": "to associate with someone; to work closely with someone. (No physical contact is involved.) _I don’t care to rub elbows with someone who acts like that! _I rub shoulders with John at work. We are good friends."
+        },
+        {
+            "id": 147,
+            "phrase": "rub something into something",
+            "definition": "to cause something to penetrate a surface by rubbing it against the surface.  Rub this lotion into your muscles. It will stop the aching.  Try rubbing in this lotion."
+        },
+        {
+            "id": 148,
+            "phrase": "rub something in†",
+            "definition": "to cause something to penetrate a surface by rubbing it against the surface.  Rub this lotion into your muscles. It will stop the aching.  Try rubbing in this lotion."
+        },
+        {
+            "id": 149,
+            "phrase": "rub something off (of) something",
+            "definition": "to remove something from something by rubbing. (Of is usually retained before pronouns.) _ The butler rubbed the tarnish off the pitcher. The butler rubbed off the dark tarnish."
+        },
+        {
+            "id": 150,
+            "phrase": "rub something off†",
+            "definition": "to remove something from something by rubbing. (Of is usually retained before pronouns.) _ The butler rubbed the tarnish off the pitcher. The butler rubbed off the dark tarnish."
+        },
+        {
+            "id": 151,
+            "phrase": "rub something onto something",
+            "definition": "to apply something onto the surface of something by rubbing.  Alice rubbed suntan lotion onto her arms and legs.  Rub on some of this lotion."
+        },
+        {
+            "id": 152,
+            "phrase": "rub something on†",
+            "definition": "to apply something onto the surface of something by rubbing.  Alice rubbed suntan lotion onto her arms and legs.  Rub on some of this lotion."
+        },
+        {
+            "id": 153,
+            "phrase": "rule in favor of someone or something",
+            "definition": "[for a judge or deliberating body] to award a decision to someone or something or to render a decision favoring someone or something.  The judge ruled for the defendant.  The examining board ruled in favor of dismissing George."
+        },
+        {
+            "id": 154,
+            "phrase": "rule for someone or something",
+            "definition": "[for a judge or deliberating body] to award a decision to someone or something or to render a decision favoring someone or something.  The judge ruled for the defendant.  The examining board ruled in favor of dismissing George."
+        },
+        {
+            "id": 155,
+            "phrase": "ruminate about something",
+            "definition": "to ponder and think about something. (Alludes to a cow, relaxing and chewing its cud, as if it is thinking.) _ He sat, ruminating about the events of the day, humming and eating peanuts.  Let me ruminate on this a little bit."
+        },
+        {
+            "id": 156,
+            "phrase": "ruminate on something",
+            "definition": "to ponder and think about something. (Alludes to a cow, relaxing and chewing its cud, as if it is thinking.) _ He sat, ruminating about the events of the day, humming and eating peanuts.  Let me ruminate on this a little bit."
+        },
+        {
+            "id": 157,
+            "phrase": "run a fever",
+            "definition": "to have a body temperature higher than normal; to have a fever.  I ran a fever when I had the f lu.  The baby is running a temperature and is grouchy."
+        },
+        {
+            "id": 158,
+            "phrase": "run a temperature",
+            "definition": "to have a body temperature higher than normal; to have a fever.  I ran a fever when I had the f lu.  The baby is running a temperature and is grouchy."
+        },
+        {
+            "id": 159,
+            "phrase": "run a risk (of something)",
+            "definition": "to take a chance that something (bad) will happen.  I don’t want to run the risk of losing my job.  Don’t worry. You won’t have to run a risk."
+        },
+        {
+            "id": 160,
+            "phrase": "run the risk (of something)",
+            "definition": "to take a chance that something (bad) will happen.  I don’t want to run the risk of losing my job.  Don’t worry. You won’t have to run a risk."
+        },
+        {
+            "id": 161,
+            "phrase": "run a tight ship",
+            "definition": "to run a ship or an organization in an orderly and disciplined manner. (Taut and tight mean the same thing. Taut is correct nautical use.) _ The new office manager really runs a tight ship.  Captain Jones is known for running a taut ship."
+        },
+        {
+            "id": 162,
+            "phrase": "run a taut ship",
+            "definition": "to run a ship or an organization in an orderly and disciplined manner. (Taut and tight mean the same thing. Taut is correct nautical use.) _ The new office manager really runs a tight ship.  Captain Jones is known for running a taut ship."
+        },
+        {
+            "id": 163,
+            "phrase": "run amok",
+            "definition": "to go awry; to go bad; to turn bad; to go into a frenzy. (From a Malay word meaning to run wild in a violent frenzy.) _Our plan ran amok. He ran amuck early in the school year and never quite got back on the track."
+        },
+        {
+            "id": 164,
+            "phrase": "run amuck",
+            "definition": "to go awry; to go bad; to turn bad; to go into a frenzy. (From a Malay word meaning to run wild in a violent frenzy.) _Our plan ran amok. He ran amuck early in the school year and never quite got back on the track."
+        },
+        {
+            "id": 165,
+            "phrase": "run an errand",
+            "definition": "to take a short trip to do a specific thing; to complete an errand. I’ve got to run an errand. I’ll be back in a minute.  John has gone on an errand. He’ll be back shortly."
+        },
+        {
+            "id": 166,
+            "phrase": "do an errand",
+            "definition": "to take a short trip to do a specific thing; to complete an errand. I’ve got to run an errand. I’ll be back in a minute.  John has gone on an errand. He’ll be back shortly."
+        },
+        {
+            "id": 167,
+            "phrase": "go on an errand",
+            "definition": "to take a short trip to do a specific thing; to complete an errand. I’ve got to run an errand. I’ll be back in a minute.  John has gone on an errand. He’ll be back shortly."
+        },
+        {
+            "id": 168,
+            "phrase": "run around like a chicken with its head cut off",
+            "definition": "to run around frantically and aimlessly; to be in a state of chaos. (Alludes to a chicken that continues to run around aimlessly after its head has been chopped off.) _ I spent all afternoon running around like a chicken with its head cut off.  If you run around in circles, you’ll never get anything done."
+        },
+        {
+            "id": 169,
+            "phrase": "run (around) in circles",
+            "definition": "to run around frantically and aimlessly; to be in a state of chaos. (Alludes to a chicken that continues to run around aimlessly after its head has been chopped off.) _ I spent all afternoon running around like a chicken with its head cut off.  If you run around in circles, you’ll never get anything done."
+        },
+        {
+            "id": 170,
+            "phrase": "run circles around someone",
+            "definition": "to outrun or outdo someone. (Alludes to someone who runs fast enough to run in circles around a competitor and still win the race.) _ John is a much better racer than Mary. He can run circles around her. Mary can run rings around Sally."
+        },
+        {
+            "id": 171,
+            "phrase": "run rings around someone",
+            "definition": "to outrun or outdo someone. (Alludes to someone who runs fast enough to run in circles around a competitor and still win the race.) _ John is a much better racer than Mary. He can run circles around her. Mary can run rings around Sally."
+        },
+        {
+            "id": 172,
+            "phrase": "run one’s fingers through one’s hair",
+            "definition": "to comb one’s hair with one’s fingers.  I came in out of the wind and ran my fingers through my hair to straighten it out a bit. He ran his hand through his hair and tried to make himself presentable."
+        },
+        {
+            "id": 173,
+            "phrase": "run one’s hand through one’s hair",
+            "definition": "to comb one’s hair with one’s fingers.  I came in out of the wind and ran my fingers through my hair to straighten it out a bit. He ran his hand through his hair and tried to make himself presentable."
+        },
+        {
+            "id": 174,
+            "phrase": "run riot",
+            "definition": "to get out of control.  The dandelions have run riot in our lawn.  The children ran wild at the birthday party and had to be taken home."
+        },
+        {
+            "id": 175,
+            "phrase": "run wild",
+            "definition": "to get out of control.  The dandelions have run riot in our lawn.  The children ran wild at the birthday party and had to be taken home."
+        },
+        {
+            "id": 176,
+            "phrase": "run someone or something into something",
+            "definition": "to take or drive someone or something into something or some place.  Let me run you into the city this morning. I need the car today.  Do you want to go to town? I have to run in George and you can come along."
+        },
+        {
+            "id": 177,
+            "phrase": "run someone or something in†",
+            "definition": "to take or drive someone or something into something or some place.  Let me run you into the city this morning. I need the car today.  Do you want to go to town? I have to run in George and you can come along."
+        },
+        {
+            "id": 178,
+            "phrase": "run someone or something out of something",
+            "definition": "to chase someone or something out of something or some place.  The old man ran the kids out of his orchard.  He ran out the kids."
+        },
+        {
+            "id": 179,
+            "phrase": "run someone or something out†",
+            "definition": "to chase someone or something out of something or some place.  The old man ran the kids out of his orchard.  He ran out the kids."
+        },
+        {
+            "id": 180,
+            "phrase": "run something into something",
+            "definition": "1. to guide or route something, such as a wire or a pipe, into something or a place.  The worker ran the circuit into each room.  He ran in the circuit as specified. 2. to guide something into something; to drive or steer something into something else.  Bobby ran his bicycle into the wall, bending the front wheel.  Please don’t run your car into the wall!"
+        },
+        {
+            "id": 181,
+            "phrase": "run something in†",
+            "definition": "1. to guide or route something, such as a wire or a pipe, into something or a place.  The worker ran the circuit into each room.  He ran in the circuit as specified. 2. to guide something into something; to drive or steer something into something else.  Bobby ran his bicycle into the wall, bending the front wheel.  Please don’t run your car into the wall!"
+        },
+        {
+            "id": 182,
+            "phrase": "run something into the ground",
+            "definition": "to pound or force something into the ground.  Use a heavy mallet to drive the stakes into the ground.  Run this post into the ground and nail this sign to it."
+        },
+        {
+            "id": 183,
+            "phrase": "drive something into the ground",
+            "definition": "to pound or force something into the ground.  Use a heavy mallet to drive the stakes into the ground.  Run this post into the ground and nail this sign to it."
+        },
+        {
+            "id": 184,
+            "phrase": "run something out of something",
+            "definition": "to drive or steer something out of something or some place.  The cowboys ran the cattle out of the corral.  They ran out the cattle."
+        },
+        {
+            "id": 185,
+            "phrase": "run something out†",
+            "definition": "to drive or steer something out of something or some place.  The cowboys ran the cattle out of the corral.  They ran out the cattle."
+        },
+        {
+            "id": 186,
+            "phrase": "run something over to someone or something",
+            "definition": "to carry something to someone or something.  Would you please run this package over to Mrs. Franklin? _ Do you know where Bill lives? Please run over this package."
+        },
+        {
+            "id": 187,
+            "phrase": "run something over†",
+            "definition": "to carry something to someone or something.  Would you please run this package over to Mrs. Franklin? _ Do you know where Bill lives? Please run over this package."
+        },
+        {
+            "id": 188,
+            "phrase": "Run that by (me) again.",
+            "definition": "Inf. Please repeat what you just said.; Please go over that one more time.  Alice: Do you understand? Sue: No. I really didn’t understand what you said. Run that by me again, if you don’t mind.  John: Put this piece into the longer slot and the remaining piece into the slot on the bottom. Sue: Run that by again. I got lost just after put.  Mary: Keep to the right, past the fork in the road, then turn right at the crossroads. Do you follow? Jane: No. Run it by me again."
+        },
+        {
+            "id": 189,
+            "phrase": "Run it by (me) again.",
+            "definition": "Inf. Please repeat what you just said.; Please go over that one more time.  Alice: Do you understand? Sue: No. I really didn’t understand what you said. Run that by me again, if you don’t mind.  John: Put this piece into the longer slot and the remaining piece into the slot on the bottom. Sue: Run that by again. I got lost just after put.  Mary: Keep to the right, past the fork in the road, then turn right at the crossroads. Do you follow? Jane: No. Run it by me again."
+        },
+        {
+            "id": 190,
+            "phrase": "a rush on something",
+            "definition": "a large demand for something.  There was a rush on bottled water during the drought.  During the hot summer, there was a run on air conditioners."
+        },
+        {
+            "id": 191,
+            "phrase": "a run on something",
+            "definition": "a large demand for something.  There was a rush on bottled water during the drought.  During the hot summer, there was a run on air conditioners."
+        },
+        {
+            "id": 192,
+            "phrase": "rush someone or something into something",
+            "definition": "to lead or carry someone or something into something or some place hurriedly.  I rushed her into the hospital emergency room, and everything was soon all right.  The nurse rushed in the emergency medical equipment."
+        },
+        {
+            "id": 193,
+            "phrase": "rush someone or something in†",
+            "definition": "to lead or carry someone or something into something or some place hurriedly.  I rushed her into the hospital emergency room, and everything was soon all right.  The nurse rushed in the emergency medical equipment."
+        },
+        {
+            "id": 194,
+            "phrase": "rush someone or something out of something",
+            "definition": "to lead or guide someone or something out of something or some place hurriedly.  The ushers rushed everyone out of the church so they could clean the place before the next wedding.  They rushed out another edition of the newspaper that afternoon."
+        },
+        {
+            "id": 195,
+            "phrase": "rush someone or something out†",
+            "definition": "to lead or guide someone or something out of something or some place hurriedly.  The ushers rushed everyone out of the church so they could clean the place before the next wedding.  They rushed out another edition of the newspaper that afternoon."
+        },
+        {
+            "id": 196,
+            "phrase": "*the sack",
+            "definition": "dismissal from one’s employment. (*Typically: get ~; give someone ~.) _ Poor Tom got the sack today. He’s always late.  I was afraid that Sally was going to get the ax."
+        },
+        {
+            "id": 197,
+            "phrase": "*the ax",
+            "definition": "dismissal from one’s employment. (*Typically: get ~; give someone ~.) _ Poor Tom got the sack today. He’s always late.  I was afraid that Sally was going to get the ax."
+        },
+        {
+            "id": 198,
+            "phrase": "satisfy something by something",
+            "definition": "to fulfill a requirement, using a particular thing, such as a school or college course.  Can I satisfy the requirements by taking a course in art? _ Will I satisfy the requirement with this course?"
+        },
+        {
+            "id": 199,
+            "phrase": "satisfy something with something",
+            "definition": "to fulfill a requirement, using a particular thing, such as a school or college course.  Can I satisfy the requirements by taking a course in art? _ Will I satisfy the requirement with this course?"
+        },
+        {
+            "id": 200,
+            "phrase": "save someone’s skin",
+            "definition": "to save someone from injury, embarrassment, or punishment.  I saved my skin by getting the job done on time.  Thanks for saving my neck! I would have fallen down the stairs if you hadn’t held my arm."
+        },
+        {
+            "id": 201,
+            "phrase": "save someone’s neck",
+            "definition": "to save someone from injury, embarrassment, or punishment.  I saved my skin by getting the job done on time.  Thanks for saving my neck! I would have fallen down the stairs if you hadn’t held my arm."
+        },
+        {
+            "id": 202,
+            "phrase": "save one’s bacon",
+            "definition": "to save someone from injury, embarrassment, or punishment.  I saved my skin by getting the job done on time.  Thanks for saving my neck! I would have fallen down the stairs if you hadn’t held my arm."
+        },
+        {
+            "id": 203,
+            "phrase": "save (something) for a rainy day",
+            "definition": "to reserve something—usually money—for some future need.  I’ve saved a little money for a rainy day.  Keep some extra allowance for a rainy day."
+        },
+        {
+            "id": 204,
+            "phrase": "put something aside for a rainy day",
+            "definition": "to reserve something—usually money—for some future need.  I’ve saved a little money for a rainy day.  Keep some extra allowance for a rainy day."
+        },
+        {
+            "id": 205,
+            "phrase": "hold something back for a rainy day",
+            "definition": "to reserve something—usually money—for some future need.  I’ve saved a little money for a rainy day.  Keep some extra allowance for a rainy day."
+        },
+        {
+            "id": 206,
+            "phrase": "keep something for a rainy day",
+            "definition": "to reserve something—usually money—for some future need.  I’ve saved a little money for a rainy day.  Keep some extra allowance for a rainy day."
+        },
+        {
+            "id": 207,
+            "phrase": "say one’s piece",
+            "definition": "to say what one must say; to recite what one has planned to say.  Look, just say your piece and get out of here. I said my piece and left."
+        },
+        {
+            "id": 208,
+            "phrase": "speak one’s piece",
+            "definition": "to say what one must say; to recite what one has planned to say.  Look, just say your piece and get out of here. I said my piece and left."
+        },
+        {
+            "id": 209,
+            "phrase": "Says me!",
+            "definition": "Inf. a formulaic answer to Says who? _Tom: Says who? Fred: Says me, that’s who! _Tom: You? Fred: You got it, buster. Says me!"
+        },
+        {
+            "id": 210,
+            "phrase": "Sez me!",
+            "definition": "Inf. a formulaic answer to Says who? _Tom: Says who? Fred: Says me, that’s who! _Tom: You? Fred: You got it, buster. Says me!"
+        },
+        {
+            "id": 211,
+            "phrase": "Says who?",
+            "definition": "Inf. a formulaic challenge indicating disagreement with someone who has said something.  Tom: Says who? Fred: Says me, that’s who! _ She drew herself up to her full height, looked him straight in the eye, and said, “Says who?”"
+        },
+        {
+            "id": 212,
+            "phrase": "Sez who?",
+            "definition": "Inf. a formulaic challenge indicating disagreement with someone who has said something.  Tom: Says who? Fred: Says me, that’s who! _ She drew herself up to her full height, looked him straight in the eye, and said, “Says who?”"
+        },
+        {
+            "id": 213,
+            "phrase": "*scarce as hen’s teeth",
+            "definition": "Cliché scarce; seldom found. (*Also: as ~.) _ I do declare, decent people are as scarce as hen’s teeth in these chaotic times. Handmade lace is scarcer than hen’s teeth; most lace is made by machine."
+        },
+        {
+            "id": 214,
+            "phrase": "scarcer than hen’s teeth",
+            "definition": "Cliché scarce; seldom found. (*Also: as ~.) _ I do declare, decent people are as scarce as hen’s teeth in these chaotic times. Handmade lace is scarcer than hen’s teeth; most lace is made by machine."
+        },
+        {
+            "id": 215,
+            "phrase": "scare someone or an animal out of something",
+            "definition": "to frighten someone or an animal out of something or some place. The old man tried to scare the kids out of his orchard by shouting at them.  Karen scared out the intruder."
+        },
+        {
+            "id": 216,
+            "phrase": "scare someone or an animal out†",
+            "definition": "to frighten someone or an animal out of something or some place. The old man tried to scare the kids out of his orchard by shouting at them.  Karen scared out the intruder."
+        },
+        {
+            "id": 217,
+            "phrase": "scatter something about†",
+            "definition": "to throw or distribute something about.  The children scattered the books about and left the room in a general mess.  They scattered about all the books and papers."
+        },
+        {
+            "id": 218,
+            "phrase": "scatter something around†",
+            "definition": "to throw or distribute something about.  The children scattered the books about and left the room in a general mess.  They scattered about all the books and papers."
+        },
+        {
+            "id": 219,
+            "phrase": "scoop something out of something",
+            "definition": "to remove something from something by dipping or scooping.  She scooped the water out of the bottom of the rowboat.  Karen scooped out the water."
+        },
+        {
+            "id": 220,
+            "phrase": "scoop something out†",
+            "definition": "to remove something from something by dipping or scooping.  She scooped the water out of the bottom of the rowboat.  Karen scooped out the water."
+        },
+        {
+            "id": 221,
+            "phrase": "scour something off (of) something",
+            "definition": "to clean something off something else by scouring. (Of is usually retained before pronouns.) _See if you can scour the rust off the cookie sheet. I will scour off the rust with steel wool."
+        },
+        {
+            "id": 222,
+            "phrase": "scour something off†",
+            "definition": "to clean something off something else by scouring. (Of is usually retained before pronouns.) _See if you can scour the rust off the cookie sheet. I will scour off the rust with steel wool."
+        },
+        {
+            "id": 223,
+            "phrase": "scrape along (on something)",
+            "definition": "to manage just to get along with a minimum amount of something.  We can just scrape along on the money I earn from my sewing.  Do you think you can scrape along with just $400 per month?"
+        },
+        {
+            "id": 224,
+            "phrase": "scrape along (with something)",
+            "definition": "to manage just to get along with a minimum amount of something.  We can just scrape along on the money I earn from my sewing.  Do you think you can scrape along with just $400 per month?"
+        },
+        {
+            "id": 225,
+            "phrase": "scrape by (on something)",
+            "definition": "to manage just to get by with something. (Usually applies to a more specific period or time or a more specific event than scrape along (on something).) _ There is not really enough money to live on, and we just have to scrape by on what we can earn.  We can’t scrape by with only that amount of money."
+        },
+        {
+            "id": 226,
+            "phrase": "scrape by (with something)",
+            "definition": "to manage just to get by with something. (Usually applies to a more specific period or time or a more specific event than scrape along (on something).) _ There is not really enough money to live on, and we just have to scrape by on what we can earn.  We can’t scrape by with only that amount of money."
+        },
+        {
+            "id": 227,
+            "phrase": "scrape someone or something together†",
+            "definition": "to find and collect something; to locate and assemble a group of people or things. (Based on scrape something up.) _ I’m sure we can scrape up someone for the job.  Mary scraped a few dollars together for some new books.  John barely scraped up enough money to pay his rent."
+        },
+        {
+            "id": 228,
+            "phrase": "scrape someone or something up†",
+            "definition": "to find and collect something; to locate and assemble a group of people or things. (Based on scrape something up.) _ I’m sure we can scrape up someone for the job.  Mary scraped a few dollars together for some new books.  John barely scraped up enough money to pay his rent."
+        },
+        {
+            "id": 229,
+            "phrase": "scrape something off (of) someone or something",
+            "definition": "to rub or stroke something off someone or something. (Of is usually retained before pronouns.) _I sat down and scraped the caked mud off of me. It was everywhere! _ Jake scraped off the rust."
+        },
+        {
+            "id": 230,
+            "phrase": "scrape something off†",
+            "definition": "to rub or stroke something off someone or something. (Of is usually retained before pronouns.) _I sat down and scraped the caked mud off of me. It was everywhere! _ Jake scraped off the rust."
+        },
+        {
+            "id": 231,
+            "phrase": "scrape something out of something",
+            "definition": "to remove something by scraping.  Scrape all the peanut butter out of the jar before you discard it.  Scrape out the peanut butter."
+        },
+        {
+            "id": 232,
+            "phrase": "scrape something out†",
+            "definition": "to remove something by scraping.  Scrape all the peanut butter out of the jar before you discard it.  Scrape out the peanut butter."
+        },
+        {
+            "id": 233,
+            "phrase": "scratch about (for something)",
+            "definition": "to hunt for something in dirt, gravel, rocks, etc. The prospector spent the day scratching about for signs of gold. The chickens were scratching around for something to eat."
+        },
+        {
+            "id": 234,
+            "phrase": "scratch around (for something)",
+            "definition": "to hunt for something in dirt, gravel, rocks, etc. The prospector spent the day scratching about for signs of gold. The chickens were scratching around for something to eat."
+        },
+        {
+            "id": 235,
+            "phrase": "scream bloody murder",
+            "definition": "to complain bitterly; to complain unduly. When we put him in an office without a window, he screamed bloody murder.  There is something wrong next door. Everyone is yelling bloody murder."
+        },
+        {
+            "id": 236,
+            "phrase": "yell bloody murder",
+            "definition": "to complain bitterly; to complain unduly. When we put him in an office without a window, he screamed bloody murder.  There is something wrong next door. Everyone is yelling bloody murder."
+        },
+        {
+            "id": 237,
+            "phrase": "screen someone or something out of something",
+            "definition": "to filter someone or something out of something.  The test screened all the unqualified candidates out of the group.  We screened out the suppliers who were not financially sound."
+        },
+        {
+            "id": 238,
+            "phrase": "screen someone or something out†",
+            "definition": "to filter someone or something out of something.  The test screened all the unqualified candidates out of the group.  We screened out the suppliers who were not financially sound."
+        },
+        {
+            "id": 239,
+            "phrase": "scrimp and save",
+            "definition": "to be very thrifty; to live on very little money, often in order to save up for something.  We had to scrimp and save in order to send the children to college.  The Smiths pinched and scraped all year in order to go on a Caribbean cruise."
+        },
+        {
+            "id": 240,
+            "phrase": "pinch and scrape",
+            "definition": "to be very thrifty; to live on very little money, often in order to save up for something.  We had to scrimp and save in order to send the children to college.  The Smiths pinched and scraped all year in order to go on a Caribbean cruise."
+        },
+        {
+            "id": 241,
+            "phrase": "scrub something off (of) something",
+            "definition": "to clean something off something by scrubbing. (Of is usually retained before pronouns.) _I have to scrub the mud off the porch steps.  Did you scrub off all the grease?"
+        },
+        {
+            "id": 242,
+            "phrase": "scrub something off†",
+            "definition": "to clean something off something by scrubbing. (Of is usually retained before pronouns.) _I have to scrub the mud off the porch steps.  Did you scrub off all the grease?"
+        },
+        {
+            "id": 243,
+            "phrase": "scrub something out of something",
+            "definition": "to clean something out of something by scrubbing.  Please scrub the gravy out of the pot.  Are you going to scrub out the burned material?"
+        },
+        {
+            "id": 244,
+            "phrase": "scrub something out†",
+            "definition": "to clean something out of something by scrubbing.  Please scrub the gravy out of the pot.  Are you going to scrub out the burned material?"
+        },
+        {
+            "id": 245,
+            "phrase": "seal a bargain",
+            "definition": "to signify or celebrate the reaching of an agreement or bargain. They signed the papers and sealed the bargain by drinking champagne."
+        },
+        {
+            "id": 246,
+            "phrase": "seal the bargain",
+            "definition": "to signify or celebrate the reaching of an agreement or bargain. They signed the papers and sealed the bargain by drinking champagne."
+        },
+        {
+            "id": 247,
+            "phrase": "seal something off from someone or something",
+            "definition": "to make something inaccessible to someone or something. The police sealed the building off from everyone. They sealed off the building from all the reporters."
+        },
+        {
+            "id": 248,
+            "phrase": "seal something off†",
+            "definition": "to make something inaccessible to someone or something. The police sealed the building off from everyone. They sealed off the building from all the reporters."
+        },
+        {
+            "id": 249,
+            "phrase": "sealed with a kiss",
+            "definition": "written and sent with love and care. (The initialism is sometimes written on love letters. Also an acronym.) _ All her letters come SWAK.  I know they are sealed with a kiss, because she says so."
+        }
+    ]
+}

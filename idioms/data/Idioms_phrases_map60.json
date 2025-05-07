@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "*out of nowhere",
+            "definition": "appearing suddenly, without warning. (*Typically: appear ~; come ~; materialize ~.) _ A huge bear appeared out of nowhere and roared and threatened us. Suddenly, a truck came out of nowhere. Without warning, the storm came out of nowhere."
+        },
+        {
+            "id": 1,
+            "phrase": "*out of one’s depth",
+            "definition": "involved in something that is beyond one’s capabilities. (*Typically: be ~; get ~.) _ You know, you are really out of your depth in this project.  I am sure I am out of my depth in organic chemistry."
+        },
+        {
+            "id": 2,
+            "phrase": "*out of one’s element",
+            "definition": "not in a natural or comfortable situation. (*Typically: be ~; get ~.) _ When it comes to computers, I’m out of my element. Sally’s out of her element in math."
+        },
+        {
+            "id": 3,
+            "phrase": "*out of one’s skull",
+            "definition": "Sl. intoxicated. (*Typically: be ~; go ~.) _ Oh, man, I drank till I was out of my skull.  Two beers and he went out of his skull."
+        },
+        {
+            "id": 4,
+            "phrase": "out of order",
+            "definition": "[of something or things] out of the proper sequence.  She noticed that the books on the shelf were out of order.  All these cards were alphabetized, and now they’re out of order."
+        },
+        {
+            "id": 5,
+            "phrase": "*out of patience",
+            "definition": "annoyed and impatient after being patient for a while. (*Typically: be ~; run ~.) _ I finally ran out of patience and lost my temper.  The boss is finally out of patience with me."
+        },
+        {
+            "id": 6,
+            "phrase": "*out of place",
+            "definition": "not in the proper place. (*Typically: be ~; get ~; knock something ~.) _ The book I wanted was out of place, and I almost did not find it. How did the furniture in this room get out of place?"
+        },
+        {
+            "id": 7,
+            "phrase": "*out of practice",
+            "definition": "performing poorly due to a lack of practice. (*Typically: be ~; get ~; go ~.) _ I used to be able to play the piano extremely well, but now I’m out of practice.  The baseball players lost the game because they were out of practice."
+        },
+        {
+            "id": 8,
+            "phrase": "out of print",
+            "definition": "[for a book] to be no longer available from the publisher.  The book you want just went out of print, but perhaps I can find a used copy for you.  It was published nearly ten years ago, so it’s probably out of print."
+        },
+        {
+            "id": 9,
+            "phrase": "out of reach",
+            "definition": "not near enough to be reached or touched.  Place the cookies out of reach, or the children will eat them all. The mouse ran behind the piano, out of reach. The cat just sat and waited for it."
+        },
+        {
+            "id": 10,
+            "phrase": "out of season",
+            "definition": "1. not now available for sale. Sorry, oysters are out of season. We don’t have any.  Watermelon is out of season in the winter. 2. Fig. not now legally able to be hunted or caught.  Are salmon out of season? _ I caught a trout out of season and had to pay a fine."
+        },
+        {
+            "id": 11,
+            "phrase": "out of service",
+            "definition": "inoperable; not currently operating.  Both elevators had been put out of service, so I had to use the stairs.  The washroom is temporarily out of service."
+        },
+        {
+            "id": 12,
+            "phrase": "*out of sight",
+            "definition": "1. not visible; too far away to be seen. (*Typically: be ~; get ~; go ~; keep ~; stay ~.) _The cat kept out of sight until the mouse came out.  “Get out of sight, or they’ll see you!” called John. 2. figuratively stunning, unbelievable, or awesome. (*Typically: be ~; get ~.) _Wow, this music is out of sight! _What a wild party. It’s out of sight! 3. Fig. very expensive; high in price. (*Typically: be ~; get ~; go ~.) _ Prices at that restaurant are out of sight.  The cost of medical care has gone out of sight. 4. Sl. heavily intoxicated. (*Typically: be ~.) _ They’ve been drinking since noon, and they’re out of sight.  Man, is she ever out of sight!"
+        },
+        {
+            "id": 13,
+            "phrase": "Out of sight, out of mind.",
+            "definition": "Prov. If you do not see someone or something frequently, you will forget about it. (Sometimes used to imply that you will forget about people who have moved away.) _ Ever since I moved, none of my old friends have gotten in touch with me. It’s out of sight, out of mind with them, evidently.  My electric bill somehow got moved to the bottom of the stack on my desk, and I forgot all about paying it. Out of sight, out of mind."
+        },
+        {
+            "id": 14,
+            "phrase": "*out of someone’s hands",
+            "definition": "no longer in someone’s grasp. (*Typically: get ~; pull something ~; take something ~.) _ The police officer took the gun out of Fred’s hands.  The heavy tray was pulled out of my hands just in time."
+        },
+        {
+            "id": 15,
+            "phrase": "*out of sorts",
+            "definition": "not feeling well; grumpy and irritable. (*Typically: be ~; feel ~; get ~.) _ I’ve been out of sorts for a day or two. I think I’m coming down with something. The baby is out of sorts. Maybe she’s getting a new tooth."
+        },
+        {
+            "id": 16,
+            "phrase": "out of spite",
+            "definition": "with the desire to harm someone or something.  Jane told some evil gossip about Bill out of spite.  That was not an accident! You did it out of spite."
+        },
+        {
+            "id": 17,
+            "phrase": "out of stock",
+            "definition": "not immediately available in a store; [for goods] to be temporarily unavailable.  Those items are out of stock, but a new supply will be delivered on Thursday.  I’m sorry, but the red ones are out of stock. Would a blue one do?"
+        },
+        {
+            "id": 18,
+            "phrase": "*out of sync",
+            "definition": "uncoordinated; unsynchronized. (An abbreviation for synchronization. *Typically: be ~; get ~.) _ Our efforts are out of sync.  My watch and your watch are out of sync."
+        },
+        {
+            "id": 19,
+            "phrase": "out of the ballpark",
+            "definition": "beyond the amount of money suggested or available. Your estimate is completely out of the ballpark. Just forget it."
+        },
+        {
+            "id": 20,
+            "phrase": "*out of the closet",
+            "definition": "1. Fig. revealing one’s secret interests. (*Typically: be ~; come ~; get ~.) _ Tom Brown came out of the closet and admitted that he likes to knit.  It’s time that all of you lovers of chamber music came out of the closet and attended our concerts. 2. Fig. revealing that one is homosexual. (*Typically: be ~; come ~; bring someone ~.) _ Tom surprised his parents when he came out of the closet.  It was difficult for him to be out of the closet."
+        },
+        {
+            "id": 21,
+            "phrase": "out of the corner of one’s eye",
+            "definition": "[seeing something] at a glance; glimpsing something, as with peripheral vision.  I saw someone do it out of the corner of my eye. It might have been Jane who did it.  I only saw the accident out of the corner of my eye. I don’t know who is at fault."
+        },
+        {
+            "id": 22,
+            "phrase": "*out of the frying pan (and) into the fire",
+            "definition": "from a bad situation to a worse situation. (*Typically: get ~; go ~; jump ~.) _ When I tried to argue about my fine for a traffic violation, the judge charged me with contempt of court. I really went out of the frying pan into the fire.  I got deeply in debt. Then I really got out of the frying pan into the fire when I lost my job."
+        },
+        {
+            "id": 23,
+            "phrase": "*out of the goodness of one’s heart",
+            "definition": "simply because one is kind. (*Typically: be something ~; do something ~.) _ What are you going to pay me? You don’t expect me to do this out of the goodness of my heart, do you?"
+        },
+        {
+            "id": 24,
+            "phrase": "out of the hole",
+            "definition": "out of debt.  I get paid next week, and then I can get out of the hole.  I can’t seem to get out of the hole. I keep spending more money than I earn."
+        },
+        {
+            "id": 25,
+            "phrase": "Out of the mouths of babes (oft times come gems).",
+            "definition": "Prov. Children occasionally say remarkable or insightful things. Mr. and Mrs. Doyle were quietly bickering in the kitchen when their seven-year-old daughter came in and said, “You guys should get counseling.” After a surprised pause, Mrs. Doyle remarked, “Out of the mouths of babes.” _ Child: Don’t eat so much candy, Mommy. Candy is bad for your teeth. Mother: Out of the mouths of babes oft times come gems."
+        },
+        {
+            "id": 26,
+            "phrase": "out of the ordinary",
+            "definition": "unusual.  It was a good meal, but not out of the ordinary.  Your report was nicely done, but nothing out of the ordinary."
+        },
+        {
+            "id": 27,
+            "phrase": "out of the picture",
+            "definition": "no longer relevant to a situation; departed; dead.  Now that Tom is out of the picture, we needn’t concern ourselves about his objections.  With her husband out of the picture, she can begin living as she pleases."
+        },
+        {
+            "id": 28,
+            "phrase": "out of the question",
+            "definition": "not allowed; not permitted.  I’m sorry, but your taking my car is out of the question.  You can’t go to Florida this spring. We can’t afford it. It’s out of the question."
+        },
+        {
+            "id": 29,
+            "phrase": "out of the red",
+            "definition": "out of debt; into profitability.  This year our company is likely to get out of the red before fall. If we can cut down on expenses, we can get out of the red fairly soon."
+        },
+        {
+            "id": 30,
+            "phrase": "out of the running",
+            "definition": "no longer being considered; eliminated from a contest.  After the first part of the diving meet, three members of our team were out of the running.  After the scandal was made public, I was out of the running. I pulled out of the election."
+        },
+        {
+            "id": 31,
+            "phrase": "out of the swim of things",
+            "definition": "not in the middle of activity; not involved in things. (The opposite of in the swim of things.) _ While I had my cold, I got out of the swim of things.  I’ve been out of the swim of things for a few weeks. Please bring me up-to-date."
+        },
+        {
+            "id": 32,
+            "phrase": "out (of ) the window",
+            "definition": "gone; wasted.  All that work gone out the window because my computer crashed.  My forty dollars—out the window! Why didn’t I save my money?"
+        },
+        {
+            "id": 33,
+            "phrase": "out of the woods",
+            "definition": "past a critical phase; out of the unknown. When the patient got out of the woods, everyone relaxed.  I can give you a better prediction for your future health when you are out of the woods."
+        },
+        {
+            "id": 34,
+            "phrase": "*out of the woodwork",
+            "definition": "out into the open from other places or a place of concealment. (*Typically: bring someone or something ~; come ~; creep ~.) _ When the cake appeared, all the office people suddenly came out of the woodwork."
+        },
+        {
+            "id": 35,
+            "phrase": "out of thin air",
+            "definition": "out of nowhere; out of nothing.  Suddenly—out of thin air—the messenger appeared. You just made that excuse up out of thin air."
+        },
+        {
+            "id": 36,
+            "phrase": "out of this world",
+            "definition": "1. Fig. wonderful and exciting. This pie is out of this world.  My boyfriend is just out of this world. 2. intoxicated. Man, is she ever out of this world! What did she drink? _ He drank until he was out of this world."
+        },
+        {
+            "id": 37,
+            "phrase": "out of touch (with someone or something)",
+            "definition": "knowing no news of someone or something; not keeping informed of the developments relating to someone or something.  I’ve been out of touch with my brother for many years.  I couldn’t go back into mechanics because I’ve been out of touch for too long."
+        },
+        {
+            "id": 38,
+            "phrase": "out of town",
+            "definition": "temporarily not in one’s own town.  I’ll go out of town next week. I’m going to be at a conference.  I take care of Mary’s cat when she’s out of town."
+        },
+        {
+            "id": 39,
+            "phrase": "*out of tune (with someone or something)",
+            "definition": "not in musical harmony with someone or something. (*Typically: be ~; get ~.) _ The oboe is out of tune with the f lute.  The f lute is out of tune with John.  They are all out of tune."
+        },
+        {
+            "id": 40,
+            "phrase": "out of turn",
+            "definition": "not at the proper time; not in the proper or expected order.  We were permitted to be served out of turn because we had to leave early.  Bill tried to register out of turn and was sent away."
+        },
+        {
+            "id": 41,
+            "phrase": "*out of w(h)ack",
+            "definition": "1. crazy, silly, or irrational. (*Typically: be ~.) _Why do you always act as if you’re out of whack? _ I’m not out of wack. I’m eccentric. 2. Fig. out of adjustment; to be out of order. (*Typically: be ~; get ~.) _ I’m afraid that my watch is out of whack.  The elevator is out of wack. We’ll have to walk up."
+        },
+        {
+            "id": 42,
+            "phrase": "out of work",
+            "definition": "unemployed; having lost one’s job.  Todd was out of work for almost a year.  Too many people were out of work, and the economy got into trouble."
+        },
+        {
+            "id": 43,
+            "phrase": "*out on a limb",
+            "definition": "out on a limb of a tree where it is dangerous. (*Typically: be ~; go ~.) _It’s okay to climb the tree, but don’t go out on a limb and fall off."
+        },
+        {
+            "id": 44,
+            "phrase": "out on bail",
+            "definition": "out of jail after a court appearance and pending trial because bail bond money has been paid. (The money will be forfeited if the person who is out on bail does not appear for trial at the proper time.) _ Bob got out on bail waiting for his trial.  The robber committed another crime while out on bail."
+        },
+        {
+            "id": 45,
+            "phrase": "(out) on parole",
+            "definition": "out of prison, conditionally, before one’s total sentence is served.  Bob was caught using drugs while out on parole and was sent back to prison.  He has to be careful and obey the law because he is out on parole."
+        },
+        {
+            "id": 46,
+            "phrase": "(out) on patrol",
+            "definition": "away from a central location, watching over a distant or assigned area. (Said especially of police and soldiers.) _ Officer Smith is out on patrol and cannot see you now. The soldiers who are on patrol on this snowy night must be very cold."
+        },
+        {
+            "id": 47,
+            "phrase": "out on the town",
+            "definition": "celebrating at one or more places in a town.  I’m really tired. I was out on the town until dawn. We went out on the town to celebrate our wedding anniversary."
+        },
+        {
+            "id": 48,
+            "phrase": "Out, please.",
+            "definition": "Please let me get out. (Said by someone trying to get out of an elevator. Compare this with Coming through(, please).) _ The elevator stopped again, and someone at the back said, “Out, please.” _Jane: Out, please. This is my f loor. John: I’ll get out of your way. Jane: Thanks."
+        },
+        {
+            "id": 49,
+            "phrase": "out to get someone",
+            "definition": "intending to harm someone in particular.  I know they are out to get me! They hate me!"
+        },
+        {
+            "id": 50,
+            "phrase": "out to win",
+            "definition": "determined to win.  Bobby is out to win at all costs! He can’t face losing."
+        },
+        {
+            "id": 51,
+            "phrase": "out West",
+            "definition": "in the western part of the United States.  We lived out West for nearly ten years.  Do they really ride horses out West?"
+        },
+        {
+            "id": 52,
+            "phrase": "out-of-pocket expenses",
+            "definition": "the actual amount of money spent. (Alludes to the money one person pays while doing something on someone else’s behalf. One is usually paid back this money.) _My out-of-pocket expenses for the party were nearly $175. My employer usually reimburses all out-of-pocket expenses for a business trip."
+        },
+        {
+            "id": 53,
+            "phrase": "outside of something",
+            "definition": "except for something; besides something.  Outside of the cost of my laundry, I have practically no expenses. Outside of some new shoes, I don’t need any new clothing."
+        },
+        {
+            "id": 54,
+            "phrase": "*over a barrel",
+            "definition": "out of one’s control; in a dilemma. (*Typically: get someone ~; have someone ~; put someone ~.) _ He got me over a barrel, and I had to do what he said.  Ann will do exactly what I say. I’ve got her over a barrel."
+        },
+        {
+            "id": 55,
+            "phrase": "over and above something",
+            "definition": "more than something; in addition to something.  I’ll need another twenty dollars over and above the amount you have already given me.  You’ve been eating too much food over and above what is required for good nutrition. That’s why you’re gaining weight."
+        },
+        {
+            "id": 56,
+            "phrase": "*over (and done) with",
+            "definition": "finished. (*Typically: be ~; get something ~; have something ~.) _ I’m glad that’s over and done with.  Now that I have college over and done with, I can get a job."
+        },
+        {
+            "id": 57,
+            "phrase": "Over and out.",
+            "definition": "I am finished talking. (From two-way radio communications.) _That’s all. Good day. Over and out."
+        },
+        {
+            "id": 58,
+            "phrase": "over and over (again)",
+            "definition": "repeatedly.  She stamped her foot over and over again. Bill whistled the same song over and over."
+        },
+        {
+            "id": 59,
+            "phrase": "over easy",
+            "definition": "[of eggs] turned carefully during cooking.  I want mine cooked over easy.  Over easy eggs are better than scrambled."
+        },
+        {
+            "id": 60,
+            "phrase": "Over my dead body!",
+            "definition": "Inf. Fig. a defiant phrase indicating the strength of one’s opposition to something. (A joking response is “That can be arranged.”) _Sally: Alice says she’ll join the circus no matter what anybody says. Father: Over my dead body! Sally: Now, now. You know how she is. Bill: I think I’ll rent out our spare bedroom. Sue: Over my dead body! Bill (smiling): That can be arranged."
+        },
+        {
+            "id": 61,
+            "phrase": "over the counter",
+            "definition": "[of medication bought or sold] without a prescription. (Hyphenated when prenominal. See also under the counter.) _ This is a good product. You can buy it over the counter. I don’t put much trust in over-the-counter medications."
+        },
+        {
+            "id": 62,
+            "phrase": "over the edge",
+            "definition": "excessive; out of control.  His performance was over the edge. Too long, too dirty, and too loud!"
+        },
+        {
+            "id": 63,
+            "phrase": "*over the hill",
+            "definition": "1. Fig. Inf. escaped from prison or the military. (*Typically: be ~; go ~.) _ Two privates went over the hill last night.  They broke out of jail and went over the hill. 2. Fig. too old (for something). (*Typically: be ~; go ~.) _ You’re only fifty! You’re not over-thehill yet.  Some people seem over-the-hill at thirty."
+        },
+        {
+            "id": 64,
+            "phrase": "over the hump",
+            "definition": "1. Fig. over the hard part; past the midpoint.  Things should be easy from now on. We finally got over the hump.  When you get over the hump, life is much better. 2. intoxicated on drugs.  Harry is over the hump now. He is stoned. This stuff makes you sick at first. Then suddenly you are over the hump and floating."
+        },
+        {
+            "id": 65,
+            "phrase": "over the top",
+            "definition": "1. Fig. having gained more than one’s goal. Our fund-raising campaign went over the top by $3,000. We didn’t go over the top. We didn’t even get half of what we set out to collect. 2. Fig. outrageously overdone.  The comedy sketch was so over-the-top that most of the audience was embarrassed."
+        },
+        {
+            "id": 66,
+            "phrase": "*over the wall",
+            "definition": "reaching freedom from a prison. (*Typically: be ~; go ~.) _ Max tried to go over the wall, but they caught him. Lefty was over the wall for a week before that caught him."
+        },
+        {
+            "id": 67,
+            "phrase": "overflow into something",
+            "definition": "to spill over into something.  The river overf lowed into the surrounding farmland. The water in the bowl overf lowed into the sink."
+        },
+        {
+            "id": 68,
+            "phrase": "overflow with someone or something",
+            "definition": "to have so much or so many people or things that they spill over.  The kitchen overf lowed with the guests.  My cup overf lowed with coffee and spilled on the counter."
+        },
+        {
+            "id": 69,
+            "phrase": "owe someone a debt of gratitude",
+            "definition": "a large amount of thanks owed to someone who deserves gratitude. (Actually payment of the debt is owed.) _We owe you a debt of gratitude for all you have done for us."
+        },
+        {
+            "id": 70,
+            "phrase": "owe something (to someone) (for something)",
+            "definition": "to be under obligation to pay or repay someone for something. I owe forty dollars to Ann for the dinner.  I owe money for the gift to Ann.  I still owe money for the gift.  Do you still owe money to Ann?"
+        },
+        {
+            "id": 71,
+            "phrase": "owing to",
+            "definition": "because of something; due to the fact of something.  Owing to the lateness of the evening, I must go home.  We were late owing to the heavy traffic."
+        },
+        {
+            "id": 72,
+            "phrase": "own up to someone",
+            "definition": "to confess or admit something to someone.  Finally, he owned up to his mother about breaking the vase.  We had hoped he would own up to us sooner."
+        },
+        {
+            "id": 73,
+            "phrase": "own up (to something)",
+            "definition": "to admit something; to confess to something.  I know you broke the window. Come on and own up to it."
+        },
+        {
+            "id": 74,
+            "phrase": "pace something off†",
+            "definition": "to mark off a distance by counting the number of even strides taken while walking. The farmer paced a few yards off and pounded a stake into the soil.  He paced off a few yards."
+        },
+        {
+            "id": 75,
+            "phrase": "pace something out†",
+            "definition": "to measure a distance by counting the number of even strides taken while walking. He paced the distance out and wrote it down.  He paced out the distance from the door to the mailbox."
+        },
+        {
+            "id": 76,
+            "phrase": "pack down",
+            "definition": "[for something] to settle down in a container.  The cereal has packed down in the box so that it seems that the box is only half full. Everything was packed down carefully inside."
+        },
+        {
+            "id": 77,
+            "phrase": "pack it in",
+            "definition": "1. Fig. to quit trying to do something; to give up trying something and quit.  I was so distressed that I almost packed it in.  I’ve had enough! I’m going to pack it in. 2. Fig. to go to bed.  Good night. It’s time for me to pack it in.  We drove to a hotel and packed it in."
+        },
+        {
+            "id": 78,
+            "phrase": "a pack of lies",
+            "definition": "a series of lies.  The thief told a pack of lies to cover up the crime.  John listened to Bill’s pack of lies about the fight and became very angry."
+        },
+        {
+            "id": 79,
+            "phrase": "pack someone off† (to someone or something)",
+            "definition": "to send someone away to someone or some place.  Laura just packed all the kids off to summer camp.  She packed off the kids to their camp. After a lot of planning and a few tears, she packed them all off."
+        },
+        {
+            "id": 80,
+            "phrase": "pack someone or something (in†) like sardines",
+            "definition": "to squeeze in as many people or things as possible. (From the way that many sardines are packed into a can.) _ They packed us in like sardines. There was no room to breathe. They packed in the people like sardines. Dave got a box and packed old negatives in like sardines."
+        },
+        {
+            "id": 81,
+            "phrase": "pack someone or something together†",
+            "definition": "to press or squeeze people or things together.  The ushers packed the people together as much as they dared. They packed together all the people standing in the room.  They packed the cups together too tightly and some broke."
+        },
+        {
+            "id": 82,
+            "phrase": "pack something away†",
+            "definition": "to pack something up and put it away.  Pack this mirror away where it will be safe.  Please pack away this mirror carefully."
+        },
+        {
+            "id": 83,
+            "phrase": "pack something down†",
+            "definition": "to make something more compact; to press something in a container down so it takes less space. The traffic packed down the snow. Pack the grass down in the basket so the basket will hold more."
+        },
+        {
+            "id": 84,
+            "phrase": "pack something in something",
+            "definition": "to surround or enclose something in something.  They packed his wounded hand in ice, then took him to the hospital. Pack the vase in shredded paper before you close the box."
+        },
+        {
+            "id": 85,
+            "phrase": "pack something off† (to someone or something)",
+            "definition": "to send something to someone or something.  I will pack the books off to you immediately. She packed off the books to my home address.  Harry found the books I wanted and packed them off."
+        },
+        {
+            "id": 86,
+            "phrase": "pack something up† (in something)",
+            "definition": "to prepare something to be transported by placing it into a container.  Gerry will pack the dishes up in a strong box, using lots of crumpled paper.  Please pack up the dishes carefully."
+        },
+        {
+            "id": 87,
+            "phrase": "pack them in",
+            "definition": "to draw a lot of people. It was a good night at the theater. The play really packed them in.  The circus manager knew he could pack them in if he advertised the lion tamer."
+        },
+        {
+            "id": 88,
+            "phrase": "pack up",
+            "definition": "to prepare one’s belongings to be transported by placing them into a container; to gather one’s things together for one’s departure.  If we are going to leave in the morning, we should pack up now.  I think you should pack up and be ready to leave at a moment’s notice.  He didn’t say good-bye. He just packed up and left."
+        },
+        {
+            "id": 89,
+            "phrase": "a package deal",
+            "definition": "a collection or group of related goods or services sold as a unit.  I got all these tools in a package deal for only $39.95.  What about giving me all three shirts as a package deal?"
+        },
+        {
+            "id": 90,
+            "phrase": "packed (in) like sardines",
+            "definition": "packed very tightly. It was terribly crowded there. We were packed in like sardines.  The bus was full. The passengers were packed like sardines."
+        },
+        {
+            "id": 91,
+            "phrase": "pad down (some place)",
+            "definition": "Sl. to make one’s bed somewhere, usually a casual or temporary bed. Do you mind if I pad down at your place for the night? _Can I pad down tonight?"
+        },
+        {
+            "id": 92,
+            "phrase": "pad out",
+            "definition": "Sl. to go to bed or to sleep.  Man, if I don’t pad out by midnight, I’m a zombie.  Why don’t you people go home so I can pad out?"
+        },
+        {
+            "id": 93,
+            "phrase": "pad something out†",
+            "definition": "to make something appear to be larger or longer by adding unnecessary material.  If we pad the costume out here, it will make the person who wears it look much plumper.  Let’s pad out this paragraph a little."
+        },
+        {
+            "id": 94,
+            "phrase": "pad the bill",
+            "definition": "to put unnecessary or additional items on a bill to make the total cost higher. The plumber had padded the bill with things we didn’t need.  I was falsely accused of padding the bill."
+        },
+        {
+            "id": 95,
+            "phrase": "paddle one’s own canoe",
+            "definition": "to do something by oneself; to be alone.  I’ve been left to paddle my own canoe too many times. Sally isn’t with us. She’s off paddling her own canoe."
+        },
+        {
+            "id": 96,
+            "phrase": "a pain in the neck",
+            "definition": "a bother; an annoyance.  This assignment is a pain in the neck.  Your little brother is a pain in the neck."
+        },
+        {
+            "id": 97,
+            "phrase": "paint on something",
+            "definition": "to apply paint to the surface of something.  He painted on the fence a while and then went inside to rest.  Please don’t paint on the area that is not sanded down."
+        },
+        {
+            "id": 98,
+            "phrase": "paint over something",
+            "definition": "to cover something up with a layer of paint. Sam painted over the rusty part of the fence.  The work crew was told to paint over the graffiti."
+        },
+        {
+            "id": 99,
+            "phrase": "paint something in†",
+            "definition": "to paint something extra onto a painted area.  I know that there is supposed to be a big white spot here. We will have to paint it in. We will have to paint in the spot."
+        },
+        {
+            "id": 100,
+            "phrase": "paint something out†",
+            "definition": "to cover something up or obliterate something by applying a layer of paint.  The worker painted the graffiti out.  They had to paint out the graffiti."
+        },
+        {
+            "id": 101,
+            "phrase": "paint the town (red)",
+            "definition": "Sl. to go out and celebrate; to go on a drinking bout; to get drunk.  I feel like celebrating my promotion. Let’s go out and paint the town. They were out painting the town red last night."
+        },
+        {
+            "id": 102,
+            "phrase": "pair off",
+            "definition": "[for two people or other creatures] to form a couple or pair.  All of them paired off and worked as teams to solve the puzzle.  Everyone should pair off and discuss the issue for a while."
+        },
+        {
+            "id": 103,
+            "phrase": "pair up (with someone)",
+            "definition": "to join with someone to make a pair.  Sally decided to pair up with Jason for the dance contest.  Sally and Jason paired up with each other."
+        },
+        {
+            "id": 104,
+            "phrase": "pal around (with someone)",
+            "definition": "to associate with someone as a good friend.  I like to pal around with my friends on the weekends.  They like to pal around.  They often palled around with each other."
+        },
+        {
+            "id": 105,
+            "phrase": "pal up (with someone)",
+            "definition": "to join with someone as a friend.  I palled up with Henry and we had a fine time together. We palled up and had a fine time together. They palled up with each other."
+        },
+        {
+            "id": 106,
+            "phrase": "pale at something",
+            "definition": "to become weak, frightened, or pale from fear of something or the thought of something.  Bob paled at the thought of having to drive all the way back to get the forgotten suitcase. We paled at the notion that we would always be poor."
+        },
+        {
+            "id": 107,
+            "phrase": "pale beside someone or something",
+            "definition": "to appear to be weak or unimportant when compared to someone or something.  He is competent, but he pales beside Fran.  My meager effort pales beside your masterpiece."
+        },
+        {
+            "id": 108,
+            "phrase": "pally (with someone)",
+            "definition": "friendly or overly friendly with someone, as a pal would be.  I don’t know why Sue acts so pally. I hardly know her.  She doesn’t seem pally with me."
+        },
+        {
+            "id": 109,
+            "phrase": "pan across to someone or something",
+            "definition": "to turn or rotate a film or television camera so that the picture follows movement or moves to and settles on someone or something.  The camera panned across to Mary, who was sitting, looking out the window.  The camera operator panned across to the window on the opposite side of the room."
+        },
+        {
+            "id": 110,
+            "phrase": "pan for something",
+            "definition": "to search for a precious metal, usually gold, by using a pan to locate the bits of metal in sand and gravel in a stream bed.  When I was in Alaska, I panned for gold in a little stream set aside for tourists.  The old prospector spent many hours panning for gold."
+        },
+        {
+            "id": 111,
+            "phrase": "pan over someone or something",
+            "definition": "to turn or rotate a film or television camera so that the picture moves across a view of someone or something.  The camera panned over the skyline, picking up interesting cloud formations.  It panned over Roger as if he weren’t there—which is exactly the effect the director wanted."
+        },
+        {
+            "id": 112,
+            "phrase": "pander to someone or something",
+            "definition": "to cater toward undesirable tastes or people with undesirable tastes.  All your writing seems to pander to persons with poor taste.  You are pandering to the moral dregs of society."
+        },
+        {
+            "id": 113,
+            "phrase": "panic at something",
+            "definition": "to lose control in a frightening or shocking situation.  Try not to panic at what you see. It will be a shock.  Don’t panic at the price of food. It will be worse next week."
+        },
+        {
+            "id": 114,
+            "phrase": "panic someone by something",
+            "definition": "to make someone lose control by doing something.  She panicked Denise by describing the event too vividly.  She panicked her horse by jerking the reins too tightly."
+        },
+        {
+            "id": 115,
+            "phrase": "pant for air",
+            "definition": "to breathe fast and hard in need of air. The dog was panting for air.  I was panting for air after my long climb."
+        },
+        {
+            "id": 116,
+            "phrase": "pant for someone or something",
+            "definition": "to desire or long for someone or something.  My heart is panting for you! _ I am just panting for some interesting news."
+        },
+        {
+            "id": 117,
+            "phrase": "pant something out†",
+            "definition": "to tell something while panting for breath. Laura had been running but she was able to pant the name of the injured person out.  She panted out the name."
+        },
+        {
+            "id": 118,
+            "phrase": "paper over something",
+            "definition": "to put a layer of wallpaper on a wall. We papered over the wall, giving the room a bright, new look.  We papered over the old plaster on the wall."
+        },
+        {
+            "id": 119,
+            "phrase": "paper over the cracks (in something)",
+            "definition": "to try to hide faults or difficulties, often in a hasty or not very successful way. (Based on paper over something W.) _The politician tried to paper over the cracks in his party’s economic policy.  Tom tried to paper over the cracks in his relationship with the boss, but it was not possible.  She didn’t explain it. She just papered over the cracks."
+        },
+        {
+            "id": 120,
+            "phrase": "*a paper trail",
+            "definition": "a series of records that is possible to examine to find out the sequence of things that happen. (*Typically: have ~; leave ~; make ~.) _The legal department requires all these forms so that there is a paper trail of all activity."
+        },
+        {
+            "id": 121,
+            "phrase": "par for the course",
+            "definition": "typical; about what one could expect. (This refers to golf courses, not school courses.) _ So he went off and left you? Well that’s about par for the course. He’s no friend.  I worked for days on this proposal, but it was rejected. That’s par for the course around here."
+        },
+        {
+            "id": 122,
+            "phrase": "parade by (someone",
+            "definition": ") to march past someone in a parade or as if in a parade.  The soldiers paraded by the commander in chief.  Looking quite sharp, they paraded by."
+        },
+        {
+            "id": 123,
+            "phrase": "parade someone or an animal out†",
+            "definition": "to bring or march someone or an animal out in public.  He parades his children out every Sunday as they go to church.  He paraded out all his children."
+        },
+        {
+            "id": 124,
+            "phrase": "parade someone or something in front of someone or something",
+            "definition": "to exhibit someone or something in front of someone or something, as if in a parade.  One by one, the teacher paraded the honor students in front of the parents.  The sheriff paraded the suspects in front of the camera.  The sheriff paraded the suspects in front of the victim."
+        },
+        {
+            "id": 125,
+            "phrase": "a paradise (on earth)",
+            "definition": "a place on earth that is as lovely as paradise.  The retirement home was simply a paradise on earth. The beach where we went for our vacation was a paradise."
+        },
+        {
+            "id": 126,
+            "phrase": "parcel someone or something out†",
+            "definition": "to divide up and send or give away people or things. Carla parceled all the uniforms out so everyone would have one to wear for the parade.  We will parcel out the children for the summer."
+        },
+        {
+            "id": 127,
+            "phrase": "parcel something up†",
+            "definition": "to wrap something up in a package. Would you parcel the papers up and set them in the corner? _ Parcel up the files and place them on top of the file cabinet."
+        },
+        {
+            "id": 128,
+            "phrase": "Pardon me for living!",
+            "definition": "Inf. a very indignant response to a criticism or rebuke.  Fred: Oh, I thought you had already taken yourself out of here! Sue: Well, pardon me for living! _ Tom: Butt out, Mary! Bill and I are talking. Mary: Pardon me for living!"
+        },
+        {
+            "id": 129,
+            "phrase": "pardon someone for something",
+            "definition": "1. to excuse someone for doing something.  Will you please pardon me for what I did? _ I can’t pardon her for that. 2. to excuse and release a convicted criminal.  The governor pardoned Max for his crime.  The governor did not pardon any drug dealers for their crimes."
+        },
+        {
+            "id": 130,
+            "phrase": "pare something down† (to something)",
+            "definition": "to cut someone down to something or a smaller size. I will have to pare the budget down to the minimum.  I hope we can pare down the budget. After much arguing, we pared it down."
+        },
+        {
+            "id": 131,
+            "phrase": "park it (somewhere)",
+            "definition": "Inf. sit down somewhere; sit down and get out of the way.  Hey, park it! You’re in the way.  Richard, park it over there in the corner. Stop pacing around. You make me nervous."
+        },
+        {
+            "id": 132,
+            "phrase": "parlay something into something",
+            "definition": "to exploit an asset in such a way as to increase its value to some higher amount. She is trying to parlay her temporary job into a full-time position.  Alice parlayed her inheritance into a small fortune by investing in the stock market."
+        },
+        {
+            "id": 133,
+            "phrase": "parley with someone",
+            "definition": "to talk with someone.  I need to parley with my brother before making a financial commitment.  We need to parley with each other sometime soon."
+        },
+        {
+            "id": 134,
+            "phrase": "part company (with someone)",
+            "definition": "to leave someone; to depart from someone. Tom finally parted company with his brother. They parted company, and Tom got in his car and drove away."
+        },
+        {
+            "id": 135,
+            "phrase": "part from someone",
+            "definition": "to leave someone. I just hate parting from you.  I must part from her now."
+        },
+        {
+            "id": 136,
+            "phrase": "part over something",
+            "definition": "[for people] to separate because of something.  We had to part over our disagreement.  They parted over a very small matter."
+        },
+        {
+            "id": 137,
+            "phrase": "part someone or an animal from someone or an animal",
+            "definition": "to take someone or an animal away from someone or some other animal.  It was difficult to part the mother dog from her puppies.  I hated to part the mother from her child."
+        },
+        {
+            "id": 138,
+            "phrase": "part someone’s hair",
+            "definition": "to divide someone’s hair into separate sections while combing it. The barber asked me where I parted my hair."
+        },
+        {
+            "id": 139,
+            "phrase": "part with someone or something",
+            "definition": "to give up or let go of someone or something.  She did not want to part with her friend.  I could never part with my books."
+        },
+        {
+            "id": 140,
+            "phrase": "partake in something",
+            "definition": "to participate in something.  Valerie does not care to partake in those childish games.  I would like to partake in the fun."
+        },
+        {
+            "id": 141,
+            "phrase": "partake of something",
+            "definition": "1. to have a portion of something, such as food or drink. Would you care to partake of this apple pie with me? _ I would like to partake of that fine dinner I see set out on the table. 2. to take part in or experience something.  Sarah had always wanted to partake of the good life.  Roger had no intention of partaking of the events offered at the fair."
+        },
+        {
+            "id": 142,
+            "phrase": "*partial to someone or something",
+            "definition": "favoring or preferring someone or something. (*Typically: be ~; get ~.) _ The boys think their teacher is partial to female students.  I am partial to vanilla ice cream."
+        },
+        {
+            "id": 143,
+            "phrase": "partially sighted",
+            "definition": "Euph. not able to see well.  Carrie is partially sighted, but she is not able to see well enough to read.  I am not blind. I am partially sighted."
+        },
+        {
+            "id": 144,
+            "phrase": "participate (in something) (with someone or something)",
+            "definition": "to take part in something with someone or a group.  I will not participate in this activity with you.  They don’t participate with our team in this contest."
+        },
+        {
+            "id": 145,
+            "phrase": "the particulars of something",
+            "definition": "specific details about something.  My boss stressed the important particulars of the project.  What are the particulars of your request?"
+        },
+        {
+            "id": 146,
+            "phrase": "a parting of the ways",
+            "definition": "a point at which people separate and go their own ways. (Often with come to a, arrive at a, reach a, etc.) _ Jane and Bob finally came to a parting of the ways.  Bill and his parents reached a parting of the ways."
+        },
+        {
+            "id": 147,
+            "phrase": "partition something into something",
+            "definition": "to divide or separate something into something [smaller]. I will partition this room into two separate spaces. Do you think you can partition this box into four compartments so we can store files by quarter?"
+        },
+        {
+            "id": 148,
+            "phrase": "partition something off†",
+            "definition": "to divide off a section of something.  They planned to partition the basement off.  We will partition off a larger area."
+        },
+        {
+            "id": 149,
+            "phrase": "partners in crime",
+            "definition": "1. Fig. persons who cooperate in committing a crime or a deception. (Usually an exaggeration.) _The sales manager and the used-car salesmen are nothing but partners in crime. 2. persons who cooperate in some legal task. The legal department and payroll are partners in crime as far as the average worker is concerned."
+        },
+        {
+            "id": 150,
+            "phrase": "the party line",
+            "definition": "the official ideas and attitudes that are adopted by the leaders of a particular group and that the other members are expected to accept.  Tom has left the club. He refused to follow the party line. Many politicians agree with the party line without thinking."
+        },
+        {
+            "id": 151,
+            "phrase": "The party’s over.",
+            "definition": "A happy or fortunate time has come to an end.  We go back to school tomorrow. The party’s over.  The staff hardly worked at all under the old management, but they’ll find the party’s over now."
+        },
+        {
+            "id": 152,
+            "phrase": "a party to something",
+            "definition": "a participant in something; someone who is involved in something.  I refuse to be a party to your dishonest plan!"
+        },
+        {
+            "id": 153,
+            "phrase": "pass as someone or something",
+            "definition": "to succeed in being accepted as someone or something.  The spy was able to pass as a regular citizen.  The thief was arrested when he tried to pass as a priest."
+        },
+        {
+            "id": 154,
+            "phrase": "pass by (someone or something)",
+            "definition": "to move or travel past someone, something, or some place.  Please don’t pass by me so fast.  If you pass by a large white house with a red roof, you have gone too far."
+        },
+        {
+            "id": 155,
+            "phrase": "pass for someone or something",
+            "definition": "to be accepted as someone, some type of person, or something.  You could pass for your twin brother. This painting could almost pass for the original."
+        },
+        {
+            "id": 156,
+            "phrase": "pass for something",
+            "definition": "to pay for something; to treat someone by paying for something. Come on. Let’s go out. I’ll pass for dinner.  I’ll pass for drinks if you want."
+        },
+        {
+            "id": 157,
+            "phrase": "pass from something",
+            "definition": "to fade away from something; to go away gradually.  The larger trees had passed from the scene years ago.  The exact details passed from Harry’s memory some time ago."
+        },
+        {
+            "id": 158,
+            "phrase": "pass gas",
+            "definition": "Euph. to release intestinal gas through the anus.  Someone on the bus had passed gas. It smelled awful.  Something I ate at lunch made me pass gas all afternoon."
+        },
+        {
+            "id": 159,
+            "phrase": "pass in review",
+            "definition": "[for marchers] to move past an important person for a visual examination.  All the soldiers passed in review on the Fourth of July.  As they passed in review, each of them saluted the officers on the reviewing stand."
+        },
+        {
+            "id": 160,
+            "phrase": "pass into something",
+            "definition": "to move into something; to fade away into something.  Thoughts about the accident, little by little, passed into oblivion. All her old school chums passed into oblivion."
+        },
+        {
+            "id": 161,
+            "phrase": "pass judgment (on someone or something)",
+            "definition": "to make a judgment about someone or something.  I should not pass judgment on you, but I certainly could give you some good advice about how to be more pleasant.  The judge passed judgment on the defendant, who was then taken away to prison."
+        },
+        {
+            "id": 162,
+            "phrase": "pass muster",
+            "definition": "to measure up to the required standards.  I tried, but my efforts didn’t pass muster.  If you don’t wear a jacket and tie, you won’t pass muster at that fancy restaurant. They won’t let you in."
+        },
+        {
+            "id": 163,
+            "phrase": "pass on someone or something",
+            "definition": "to accept or approve someone or something.  She refused to pass on Ted, so he will not be appointed. The committee passed on the proposal, so work can now begin."
+        },
+        {
+            "id": 164,
+            "phrase": "pass out",
+            "definition": "to faint; to lose consciousness.  Oh, look! Tom has passed out.  When he got the news, he passed out."
+        },
+        {
+            "id": 165,
+            "phrase": "pass over (someone or something)",
+            "definition": "1. to skip over someone or something; to fail to select someone or something.  I was next in line for a promotion, but they passed over me. I passed over the bruised apples and picked out the nicest ones. 2. to pass above someone or something.  A cloud passed over our little group, cooling us a little.  The huge blimp passed over the little community."
+        },
+        {
+            "id": 166,
+            "phrase": "pass sentence on someone",
+            "definition": "[for a judge] to read out the sentence of punishment for a convicted criminal. It is my job as judge to pass sentence on you. The judge was about to pass sentence on Max—ten years in prison."
+        },
+        {
+            "id": 167,
+            "phrase": "pass someone on† (to someone)",
+            "definition": "to send, hand, or conduct a person to someone else.  I passed the baby on to the next admiring relative.  She passed on the baby to her aunt."
+        },
+        {
+            "id": 168,
+            "phrase": "pass someone or something by†",
+            "definition": "to miss someone or something; to overlook someone or something.  The storm passed by the town leaving it unharmed.  The teacher passed me by and chose the next person in line."
+        },
+        {
+            "id": 169,
+            "phrase": "pass someone or something up†",
+            "definition": "1. to fail to select someone or something.  The committee passed Jill up and chose Kelly.  They passed up Jill. 2. to travel past someone or something. We had to pass the museum up, thinking we could visit the next time we were in town.  We passed up a hitchhiker."
+        },
+        {
+            "id": 170,
+            "phrase": "pass something along† (to someone)",
+            "definition": "1. to give or hand something to someone. Would you kindly pass this along to Hillary? _ Please pass along my advice to Wally over there. 2. to relay some information to someone.  I hope you don’t pass this along to anyone, but I am taking a new job next month.  Could you pass along my message to Fred?"
+        },
+        {
+            "id": 171,
+            "phrase": "pass something around† (to someone)",
+            "definition": "to offer something to everyone.  Please pass the snacks around to everyone.  Would you pass around the snacks?"
+        },
+        {
+            "id": 172,
+            "phrase": "pass something back (to someone)",
+            "definition": "to return something by hand to someone. Kelly passed the pictures back to Betty.  They weren’t Betty’s and she passed them back to Beth."
+        },
+        {
+            "id": 173,
+            "phrase": "pass something forward",
+            "definition": "to send something toward the front of a group of people. (Each person hands it to the next.) _ Please pass this forward to the front of the room.  Would you pass this book forward, please?"
+        },
+        {
+            "id": 174,
+            "phrase": "pass something on†",
+            "definition": "to hand or give something (to another person).  Have a piece of toffee and pass the box on. Please pass on this book to the next person on the list."
+        },
+        {
+            "id": 175,
+            "phrase": "pass something out† (to someone)",
+            "definition": "to distribute something to someone. Please pass these out to everyone. Pass out these papers to everyone."
+        },
+        {
+            "id": 176,
+            "phrase": "pass something over (to someone)",
+            "definition": "to send something to someone farther down in a line of people. (Each person hands it to the next.) _Please pass this paper over to Jane.  Would you pass this paper over to Jane?"
+        },
+        {
+            "id": 177,
+            "phrase": "pass something to someone",
+            "definition": "to hand or send something to someone, usually by way of a number of other people.  Please pass this paper to Betty.  Who passed this to me?"
+        },
+        {
+            "id": 178,
+            "phrase": "pass the buck",
+            "definition": "to pass the blame (to someone else); to give the responsibility (to someone else).  Don’t try to pass the buck! It’s your fault, and everybody knows it.  Some people try to pass the buck whenever they can."
+        },
+        {
+            "id": 179,
+            "phrase": "pass the hat (around†) (to someone)",
+            "definition": "to collect donations of money from people. (Could also be literal.) _ Jerry passed the hat around to all the other workers.  He passed around the hat to everyone.  I’ll pass the hat around."
+        },
+        {
+            "id": 180,
+            "phrase": "pass the time (of day)",
+            "definition": "to spend time doing something; to consume or use spare time by doing something.  I read to pass the time while waiting in the doctor’s office.  I passed the time of day by talking to Dave."
+        },
+        {
+            "id": 181,
+            "phrase": "pass the time of day (with someone)",
+            "definition": "to chat or talk informally with someone. I saw Mr. Brown in town yesterday. I stopped and passed the time of day with him.  No, we didn’t have a serious talk; we just passed the time of day."
+        },
+        {
+            "id": 182,
+            "phrase": "pass through someone",
+            "definition": "to be digested through the bowels of someone.  This fruit should pass through you in no time at all.  He will be better when the offending food passes through him."
+        },
+        {
+            "id": 183,
+            "phrase": "pass through something",
+            "definition": "to travel through something or some place.  I passed through the countryside and breathed the good clean air.  Perhaps I will stop and visit Joe the next time I pass through Adamsville."
+        },
+        {
+            "id": 184,
+            "phrase": "pass under something",
+            "definition": "to move or travel beneath something. The ship slowly passed under the bridge. Harry counted the cars as they passed under the bridge."
+        },
+        {
+            "id": 185,
+            "phrase": "passport to something",
+            "definition": "something that allows something good to happen.  John’s new girlfriend is his passport to happiness.  Anne’s new job is a passport to financial security."
+        },
+        {
+            "id": 186,
+            "phrase": "past caring",
+            "definition": "[of someone] beyond caring about someone or something that is hopeless. I don’t care what you do! I’m past caring!"
+        },
+        {
+            "id": 187,
+            "phrase": "*a past master at something",
+            "definition": "someone proven extremely good or skillful at an activity. (*Typically: be ~; become ~.) _ Mary is a past master at cooking omelets.  Pam is a past master at the art of complaining."
+        },
+        {
+            "id": 188,
+            "phrase": "past someone’s or something’s prime",
+            "definition": "beyond the most useful or productive period.  Joan was a wonderful singer, but she’s past her prime now.  This old car’s past its prime. I’ll need to get a new one."
+        },
+        {
+            "id": 189,
+            "phrase": "paste someone one",
+            "definition": "Sl. to land a blow on someone.  I pasted him one right on the nose.  Next time you do that, I’ll paste you one!"
+        },
+        {
+            "id": 190,
+            "phrase": "paste something down†",
+            "definition": "to secure something down [onto something] with paste or glue. The poster will look better if you will paste the loose edges down.  Please paste down the edges."
+        },
+        {
+            "id": 191,
+            "phrase": "paste something on someone",
+            "definition": "to affix something to someone with paste or glue. We had to paste a mustache on her for the last scene of the play.  They pasted beards on themselves too."
+        },
+        {
+            "id": 192,
+            "phrase": "paste something up†",
+            "definition": "1. to repair something with paste.  See if you can paste this book up so it will hold together.  Paste up the book and hope it holds together for a while. 2. to assemble a complicated page of material by pasting the parts together.  There is no way a typesetter can get this page just the way you want it. You’ll have to paste it up yourself.  Paste up this page again and let me see it."
+        },
+        {
+            "id": 193,
+            "phrase": "a pat answer",
+            "definition": "a quick, easy answer; a simplified or evasive answer. Don’t just give them a pat answer. Give some more explanation and justification. Otherwise you will just end up answering a lot more questions."
+        },
+        {
+            "id": 194,
+            "phrase": "pat someone or something on something",
+            "definition": "to tap someone or something on a particular place with the open hand.  She patted the child on the bottom. I patted the car on its hood to show how proud I was of it."
+        },
+        {
+            "id": 195,
+            "phrase": "pat something down†",
+            "definition": "to tap something down with the open hand.  I heaped some soil over the seeds and patted it down.  I patted down the soil."
+        },
+        {
+            "id": 196,
+            "phrase": "patch a quarrel up†",
+            "definition": "to put an end to a quarrel; to reconcile quarreling parties.  Tom and Fred were able to patch their quarrel up. I hope we can patch up this quarrel."
+        },
+        {
+            "id": 197,
+            "phrase": "patch someone up†",
+            "definition": "to give medical care to someone.  That cut looks bad, but the doc over there can patch you up.  The doc patched up my friend."
+        },
+        {
+            "id": 198,
+            "phrase": "patch something together (with something)",
+            "definition": "to use something to repair something hastily or temporarily. I think I can patch the exhaust pipe together with some wire. See if you can patch this engine together well enough to run for a few more hours."
+        },
+        {
+            "id": 199,
+            "phrase": "patch something up†",
+            "definition": "to repair something in a hurry; to make something temporarily serviceable again. Can you patch this up so I can use it again? _ I’ll patch up the hose for you."
+        },
+        {
+            "id": 200,
+            "phrase": "the path of least resistance",
+            "definition": "the easiest course to follow; the easiest route. (Often with follow the or take the.) _John will follow the path of least resistance. I like challenges. I won’t usually take the path of least resistance."
+        },
+        {
+            "id": 201,
+            "phrase": "Patience is a virtue.",
+            "definition": "Prov. It is good to be patient.  Jill: I wish Mary would hurry up and call me back! Jane: Patience is a virtue. Fred: The doctor has kept us waiting for half an hour! If he doesn’t call us into his office pretty soon, I may do something violent. Ellen: Calm down, dear. Patience is a virtue."
+        },
+        {
+            "id": 202,
+            "phrase": "*patient as Job",
+            "definition": "very patient. (Alludes to the biblical figure Job. *Also: as ~.) _ If you want to teach young children, you must be as patient as Job.  The director who is working with that temperamental actor must have the patience of Job."
+        },
+        {
+            "id": 203,
+            "phrase": "the patter of tiny feet",
+            "definition": "the sound of young children; having children in the household.  I really liked having the patter of tiny feet in the house.  Darling, I think we’re going to be hearing the patter of tiny feet soon."
+        },
+        {
+            "id": 204,
+            "phrase": "pattern something after something",
+            "definition": "to use something as an example or model when making something. I patterned my house after one I saw in England.  She wanted to pattern her coat after her mother’s."
+        },
+        {
+            "id": 205,
+            "phrase": "pattern something on something",
+            "definition": "to use something as a model for something else.  Try to pattern your sales speech on Jane’s. She’s got it just right.  We patterned our approach on Bob’s."
+        },
+        {
+            "id": 206,
+            "phrase": "pave the way (for someone or something) (with something)",
+            "definition": "to prepare the way with something for someone to come or something to happen. (Alludes to paving a road.) _ I will pave the way for her with an introduction.  I am sure I can pave the way for your success.  I will pave the way with an introduction."
+        },
+        {
+            "id": 207,
+            "phrase": "pay a call",
+            "definition": "Euph. to go to the toilet; to leave to go to the toilet.  Excuse me. I have to pay a call.  Tom left to pay a call. He should be back soon."
+        },
+        {
+            "id": 208,
+            "phrase": "pay a call on someone",
+            "definition": "to visit someone.  Grandmother always paid us a call on Sundays. Let’s pay a call on Mary at the hospital."
+        },
+        {
+            "id": 209,
+            "phrase": "pay as you go",
+            "definition": "to pay costs as they occur; to pay for goods as they are bought (rather than charging them).  You ought to pay as you go. Then you won’t be in debt.  If you pay as you go, you’ll never spend too much money."
+        },
+        {
+            "id": 210,
+            "phrase": "pay attention (to someone or something)",
+            "definition": "to give attention (to someone or something).  Please pay attention to the teacher. Max always pays careful attention to what is being told to him."
+        },
+        {
+            "id": 211,
+            "phrase": "pay by something",
+            "definition": "to use something as a medium of payment.  Will you pay by cash or check? _ The bill was paid by check."
+        },
+        {
+            "id": 212,
+            "phrase": "pay court to someone",
+            "definition": "to solicit someone’s attention; to woo someone.  The lawyer was thought to be paying court to too many politicians.  The lobbyist paid court to all the inf luential members of Congress."
+        },
+        {
+            "id": 213,
+            "phrase": "pay for something",
+            "definition": "to pay out money for something.  Did you pay for the magazine, or shall I? _ No, I’ll pay for it."
+        },
+        {
+            "id": 214,
+            "phrase": "pay heed to someone",
+            "definition": "to listen to and accommodate someone.  You had better pay heed to your father! _ They are not paying heed to what I told them."
+        },
+        {
+            "id": 215,
+            "phrase": "pay homage to someone or something",
+            "definition": "to openly honor or worship someone or something.  Do you expect me to pay homage to your hero? _ I refuse to pay homage to your principles."
+        },
+        {
+            "id": 216,
+            "phrase": "pay in advance",
+            "definition": "to pay (for something) before it is received or delivered. I want to make a special order. Will I have to pay in advance? _ Yes, please pay in advance."
+        },
+        {
+            "id": 217,
+            "phrase": "pay into something",
+            "definition": "to pay money into an account.  I intend to pay into my vacation account until I have enough for a nice vacation. We paid a lot into our savings account this month."
+        },
+        {
+            "id": 218,
+            "phrase": "pay lip service (to something)",
+            "definition": "to express loyalty, respect, or support for something insincerely. You don’t really care about politics. You’re just paying lip service to the candidate.  Don’t sit here and pay lip service. Get busy!"
+        },
+        {
+            "id": 219,
+            "phrase": "pay off",
+            "definition": "to yield profits; to result in benefits.  My investment in those stocks has really paid off.  The time I spent in school paid off in later years."
+        },
+        {
+            "id": 220,
+            "phrase": "pay on something",
+            "definition": "to make a payment against a bill.  You have to pay on this every month or we will repossess it.  How much do you plan to pay on the car per month?"
+        },
+        {
+            "id": 221,
+            "phrase": "pay one’s debt (to society)",
+            "definition": "Cliché to serve a sentence for a crime, usually in prison. The judge said that Mr. Simpson had to pay his debt to society.  Mr. Brown paid his debt in state prison."
+        },
+        {
+            "id": 222,
+            "phrase": "pay one’s dues",
+            "definition": "to pay the fees required to belong to an organization.  If you haven’t paid your dues, you can’t come to the club picnic. How many people have paid their dues?"
+        },
+        {
+            "id": 223,
+            "phrase": "pay one’s last respects (to someone)",
+            "definition": "to go to someone’s funeral.  I paid my last respects to Mr. Kantor yesterday.  Scores of people came to pay their last respects."
+        },
+        {
+            "id": 224,
+            "phrase": "pay one’s own way",
+            "definition": "to pay for one’s own transportation, entrance fees, tickets, room, board, etc.  I wanted to go to Florida this spring, but my parents say I have to pay my own way."
+        },
+        {
+            "id": 225,
+            "phrase": "pay someone a compliment",
+            "definition": "to give someone a compliment.  Tom paid Bill a compliment when he told him he was intelligent.  Mary was very gracious when Anne paid her a compliment."
+        },
+        {
+            "id": 226,
+            "phrase": "pay someone back†",
+            "definition": "to return money that was borrowed from a person. You owe me money. When are you going to pay me back? _ You must pay John back. You have owed him money for a long time.  You have to pay back everyone you owe money to."
+        },
+        {
+            "id": 227,
+            "phrase": "pay someone off†",
+            "definition": "to pay what is owed to a person.  I can’t pay you off until Wednesday when I get my paycheck.  I have to use this money to pay off Sarah."
+        },
+        {
+            "id": 228,
+            "phrase": "pay someone respect",
+            "definition": "to honor someone; to have and show respect for someone.  You really should pay your boss more respect. We have to pay our parents a lot of respect."
+        },
+        {
+            "id": 229,
+            "phrase": "pay someone’s way",
+            "definition": "to pay the costs (of something) for a person. My aunt is going to pay my way to Florida—only if I take her with me!"
+        },
+        {
+            "id": 230,
+            "phrase": "pay something back† (to someone)",
+            "definition": "to repay someone.  I paid the money back to Jerry.  Can I pay back the money to George now? _ Please pay the money back now."
+        },
+        {
+            "id": 231,
+            "phrase": "pay something down†",
+            "definition": "to make a deposit of money on a purchase. You will have to pay a lot of money down on a car that expensive. I only paid down a few thousand dollars."
+        },
+        {
+            "id": 232,
+            "phrase": "pay something off†",
+            "definition": "to pay all of a debt; to pay the final payment for something bought on credit.  This month I’ll pay the car off.  Did you pay off the gas bill yet?"
+        },
+        {
+            "id": 233,
+            "phrase": "pay something out†",
+            "definition": "to unravel or unwind wire or rope as it is needed.  One worker paid the cable out, and another worker guided it into the conduit.  The worker paid out the cable."
+        },
+        {
+            "id": 234,
+            "phrase": "pay something out† (for someone or something)",
+            "definition": "to disburse or spend money for someone or something.  We have already paid too much money out for your education.  We paid out too much money."
+        },
+        {
+            "id": 235,
+            "phrase": "pay something out† (to someone)",
+            "definition": "to pay money to someone.  The utility paid one hundred dollars out to everyone who had been overcharged.  They paid out money to every customer."
+        },
+        {
+            "id": 236,
+            "phrase": "pay something up†",
+            "definition": "to pay all of whatever is due; to complete all the payments on something.  Would you pay up your bills, please? _ Your dues are all paid up."
+        },
+        {
+            "id": 237,
+            "phrase": "pay the penalty",
+            "definition": "to pay a fine for doing something wrong.  You ran the red light and now you will have to pay the penalty."
+        },
+        {
+            "id": 238,
+            "phrase": "pay the piper",
+            "definition": "to face the results of one’s actions; to receive punishment for something. You can put off paying your debts only so long. Eventually you’ll have to pay the piper.  You can’t get away with that forever. You’ll have to pay the piper someday."
+        },
+        {
+            "id": 239,
+            "phrase": "pay the price",
+            "definition": "to pay the price that is asked for goods or services. (Usually implying that the price is high.) _If this is the quality of goods that you require, you will have to pay the price."
+        },
+        {
+            "id": 240,
+            "phrase": "pay through something",
+            "definition": "to make payment through an intermediary, such as a bank.  I will pay the bill through my bank in New York.  Sam had to pay through his brokerage account."
+        },
+        {
+            "id": 241,
+            "phrase": "pay to do something",
+            "definition": "to be beneficial to do something; to be profitable. It doesn’t pay to drive downtown when you can take the train.  It pays to take an umbrella with you if it’s supposed to rain."
+        },
+        {
+            "id": 242,
+            "phrase": "pay tribute to someone or something",
+            "definition": "to salute someone or something; to give public recognition to someone or something.  Many of Judy’s friends gathered to pay tribute to her.  We will have a reception to pay tribute to the work of the committee."
+        },
+        {
+            "id": 243,
+            "phrase": "pay up",
+            "definition": "to pay what is owed. (Often a command: Pay up!) _ I want my money now. Pay up! _ If you don’t pay up, I’ll take you to court."
+        },
+        {
+            "id": 244,
+            "phrase": "peace of mind",
+            "definition": "a tranquility that results from not having worries, guilt, or problems. If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching."
+        },
+        {
+            "id": 245,
+            "phrase": "peal out",
+            "definition": "[for bells or voices] to sound forth musically.  The bells pealed out to announce that the wedding had taken place.  All six of the bells seemed to peal out at once."
+        },
+        {
+            "id": 246,
+            "phrase": "peck at something",
+            "definition": "[for a bird] to poke someone or something with its beak. The bird pecked at the ground, snatching up the ants.  I tried to hold on to the bird but it pecked at me hard."
+        },
+        {
+            "id": 247,
+            "phrase": "peck something up†",
+            "definition": "[for a bird] to eat something up by pecking at it. The chickens pecked all the grain up. The birds pecked up the grain."
+        },
+        {
+            "id": 248,
+            "phrase": "peek at someone or something",
+            "definition": "to sneak a glimpse at someone or something.  Now, don’t peek at me while I am changing my shirt.  I peeked at the dessert you made. It looks delicious."
+        },
+        {
+            "id": 249,
+            "phrase": "peek in (on someone or something)",
+            "definition": "to glance quickly into a place to see someone or something. Would you please peek in on the baby?"
+        }
+    ]
+}

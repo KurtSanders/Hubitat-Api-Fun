@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "live happily ever after",
+            "definition": "Cliché to live in happiness after a specific event. (A formulaic phrase at the end of fairy tales.) _The prince and the princess lived happily ever after.  They went away from the horrible haunted castle and lived happily ever after."
+        },
+        {
+            "id": 1,
+            "phrase": "live in",
+            "definition": "to live at the residence at which one works.  In order to be here early enough to prepare breakfast, the cook has to live in.  Mr. Simpson has a valet, but he doesn’t live in."
+        },
+        {
+            "id": 2,
+            "phrase": "live in hope(s) of something",
+            "definition": "to live with the hope that something will happen.  I have been living in hopes that you would come home safely.  Greg lives in hope of winning a million dollars in the lottery."
+        },
+        {
+            "id": 3,
+            "phrase": "live in sin",
+            "definition": "to live with and have sex with someone to whom one is not married. (Sometimes serious and sometimes jocular.) _Would you like to get married, or would you prefer that we live in sin for a few more years? _ Let’s live in sin. There’s no risk of divorce."
+        },
+        {
+            "id": 4,
+            "phrase": "live in something",
+            "definition": "to dwell within something or some place. They live in the village. She lives in a large house in the country."
+        },
+        {
+            "id": 5,
+            "phrase": "live in the past",
+            "definition": "to live while dwelling on past memories without participating in the present or planning for the future.  You are just living in the past. Join us in the twenty-first century. Living in the past has its advantages."
+        },
+        {
+            "id": 6,
+            "phrase": "live in the present",
+            "definition": "to deal with contemporary events and not be dominated by events of the past or planning for the future.  Forget the past; live in the present.  It was no longer possible to get Uncle Herman to live in the present."
+        },
+        {
+            "id": 7,
+            "phrase": "live in (with someone)",
+            "definition": "[for servants or lovers] to live in a residence that one might be expected only to visit rather than reside in. Their maid lives in with them. She lived in for a few months before they were married."
+        },
+        {
+            "id": 8,
+            "phrase": "live it up",
+            "definition": "to have an exciting time; to do what one pleases—regardless of cost—to please oneself.  At the party, John was really living it up.  Come on! Have fun! Live it up!"
+        },
+        {
+            "id": 9,
+            "phrase": "live large",
+            "definition": "to live in luxury; to spend time in grand style.  George loved to live large, dining at fine French restaurants."
+        },
+        {
+            "id": 10,
+            "phrase": "live next door (to someone)",
+            "definition": "to live in the house or dwelling next to someone.  I live next door to John.  John lives next door to me.  John lives next door."
+        },
+        {
+            "id": 11,
+            "phrase": "live off the fat of the land",
+            "definition": "to live on stored-up resources or abundant resources. If I had a million dollars, I’d invest it and live off the fat of the land.  I’ll be happy to retire soon and live off the fat of the land."
+        },
+        {
+            "id": 12,
+            "phrase": "live off the land",
+            "definition": "to live by eating only the food that one produces from the land; to survive by gathering or stealing food, fruits, berries, eggs, etc., while traveling through the countryside.  We lived off the land for a few years when we first started out farming.  The homeless man wandered about, living off the land."
+        },
+        {
+            "id": 13,
+            "phrase": "live on (after someone)",
+            "definition": "to outlive someone. Aunt Sarah lived on after Uncle Herman only a short time.  She had hoped to live on after him and have some fun."
+        },
+        {
+            "id": 14,
+            "phrase": "live on (after someone or something)",
+            "definition": "to be remembered long after someone or something might otherwise be forgotten or dead, in the case of persons.  His good works will live on long after him.  Fears of war will live on after the actual conf lict.  I hope my memory lives on."
+        },
+        {
+            "id": 15,
+            "phrase": "live on an amount of money",
+            "definition": "to live on a specific amount of money; to manage to live on a specific amount of money.  Can you live on only that much money? _ I can live on a very small amount of money."
+        },
+        {
+            "id": 16,
+            "phrase": "live on borrowed time",
+            "definition": "to exist only because of good fortune; to live on when death was expected.  The doc- tors told him he was living on borrowed time. You are living on borrowed time, so make the best of it."
+        },
+        {
+            "id": 17,
+            "phrase": "live on one’s own",
+            "definition": "to live independently, in a separate dwelling.  I moved out of my parents’ house because I wanted to live on my own for a while.  It’s time you were out living on your own."
+        },
+        {
+            "id": 18,
+            "phrase": "live on something",
+            "definition": "to depend on something for sustenance. (Compare this with live off someone or something.) _I can’t live on bread and water.  We can hardly live on $500 a week."
+        },
+        {
+            "id": 19,
+            "phrase": "live out of a suitcase",
+            "definition": "to stay very briefly in several places, never unpacking one’s luggage.  I hate living out of a suitcase. For my next vacation, I want to go to just one place and stay there the whole time."
+        },
+        {
+            "id": 20,
+            "phrase": "live out of cans",
+            "definition": "to eat only canned food. You have to have some fresh fruit and vegetables. You can’t just live out of cans.  We lived out of cans for the entire camping trip."
+        },
+        {
+            "id": 21,
+            "phrase": "live something down†",
+            "definition": "to overcome the shame or embarrassment of something.  You’ll live it down someday.  Wilbur will never be able to live down what happened at the party last night."
+        },
+        {
+            "id": 22,
+            "phrase": "live something out†",
+            "definition": "to act out something such as one’s fantasies.  She tried to live her dreams out.  He has a tendency to try to live out his fantasies."
+        },
+        {
+            "id": 23,
+            "phrase": "live something over",
+            "definition": "to go back and live a part of one’s life again in order to do things differently.  I wish I could go back and live those days over again. Boy, would I do things differently! _I would like to live that period of my life over again."
+        },
+        {
+            "id": 24,
+            "phrase": "live through something",
+            "definition": "to endure something; to survive an unpleasant or dangerous time of one’s life.  I almost did not live through the operation.  I know I can’t live through another attack."
+        },
+        {
+            "id": 25,
+            "phrase": "live to do something",
+            "definition": "1. to survive long enough to do something.  I just hope I live to see them get married and have children.  Bill wants to live to see his grandchildren grow up. 2. to exist only to do something.  He lives to work.  One shouldn’t live to eat."
+        },
+        {
+            "id": 26,
+            "phrase": "live to the (ripe old) age of something",
+            "definition": "to survive to a specific [advanced] age. Sally’s aunt lived to the ripe old age of one hundred.  Ken lived to the age of sixty-two."
+        },
+        {
+            "id": 27,
+            "phrase": "live together",
+            "definition": "1. [for two people] to dwell in the same place.  I live together with my sister in the house my parents left us.  Henry and Jill live together in their parents’ house. 2. [for two people] to dwell together in a romantic relationship.  I heard that Sally and Sam are living together.  They are living together and may get married."
+        },
+        {
+            "id": 28,
+            "phrase": "live (together) with someone",
+            "definition": "[for someone] to live with someone else. She lives together with her sister in a condo.  He lives with his family."
+        },
+        {
+            "id": 29,
+            "phrase": "live under someone or something",
+            "definition": "to dwell directly beneath someone or something. We live under the Johnsons. They are fairly quiet.  We lived under a law office for a few years."
+        },
+        {
+            "id": 30,
+            "phrase": "live under something (negative)",
+            "definition": "to exist under some kind of worry or threat.  I can’t continue to live under the threat of bankruptcy all the time.  It is hard to live under the worry of another war."
+        },
+        {
+            "id": 31,
+            "phrase": "live under the same roof (with someone)",
+            "definition": "to share a dwelling with someone. (Implies living in a close relationships, as a husband and wife.) _ I don’t think I can go on living under the same roof with her.  She was quite happy to live under the same roof with him."
+        },
+        {
+            "id": 32,
+            "phrase": "live up to something",
+            "definition": "to fulfill expectations; to satisfy a goal or set of goals. (Often with one’s reputation, promise, word, standards, etc.) _ I hope I can live up to my reputation.  The class lives up to its reputation of being exciting and interesting."
+        },
+        {
+            "id": 33,
+            "phrase": "live with someone",
+            "definition": "Euph. to live together with someone; to live in a romantic relationship with someone outside of marriage.  I lived with my aunt when I was growing up. Is Frank living with his girlfriend? _Sandy is living with her domestic partner."
+        },
+        {
+            "id": 34,
+            "phrase": "live with something",
+            "definition": "to put up with something; to endure something. (Does not mean “to dwell with.”) _ That is not acceptable. I can’t live with that. Please change it.  Mary refused to live with the proposed changes."
+        },
+        {
+            "id": 35,
+            "phrase": "live within one’s means",
+            "definition": "to spend no more money than one has.  We have to struggle to live within our means, but we manage.  John is unable to live within his means."
+        },
+        {
+            "id": 36,
+            "phrase": "live within something",
+            "definition": "1. to live within certain boundaries.  Do you think you can live within your space, or are we going to argue over the use of square footage? _ Ted demanded again that Bill live within his assigned area. 2. to keep one’s living costs within a certain amount, especially within one’s budget, means, etc. Please try to live within your budget.  You must learn to live within your takehome pay every month."
+        },
+        {
+            "id": 37,
+            "phrase": "live without something",
+            "definition": "to survive, lacking something.  I just know I can’t live without my car.  I am sure we can live without vegetables for a day or two."
+        },
+        {
+            "id": 38,
+            "phrase": "liven something up†",
+            "definition": "to make something more lively or less dull.  Some singing might liven things up a bit.  The songs livened up the evening."
+        },
+        {
+            "id": 39,
+            "phrase": "the living end",
+            "definition": "the absolute best [person]. We really like Ralph. He is the living end as far as his girlfriend is concerned."
+        },
+        {
+            "id": 40,
+            "phrase": "Lo and behold!",
+            "definition": "Cliché Look here!; Thus! (An expression of surprise.) _ Lo and behold! There is Fred! He beat us here by taking a shortcut."
+        },
+        {
+            "id": 41,
+            "phrase": "load into something",
+            "definition": "[for people] to get into something.  Everyone loaded into the bus, and we set off for Denver.  The kids all loaded into the station wagon for the trip."
+        },
+        {
+            "id": 42,
+            "phrase": "*a load off one’s feet",
+            "definition": "the weight of one’s body no longer supported by one’s feet, as when one sits down. (*Typically: get ~; take ~.) _Come in, John. Sit down and take a load off your feet.  Yes, I need to get a load off my feet. I’m really tired."
+        },
+        {
+            "id": 43,
+            "phrase": "load someone or something down† (with someone or something)",
+            "definition": "to burden someone or something with someone or something. Don’t load down my car with too many people. Tom loaded himself down with work every weekend."
+        },
+        {
+            "id": 44,
+            "phrase": "load someone or something up† (with someone or something)",
+            "definition": "to burden someone or something greatly or to the maximum with someone or something. I loaded her up with a number of books on investments, so she could learn what to do with her money.  Don’t load up your shelves with books you will never look at."
+        },
+        {
+            "id": 45,
+            "phrase": "load something with something",
+            "definition": "to burden something with something; to put a lot of something onto or into something. Load this box with all the clothing you can get into it.  Don’t load these drawers with so much stuff."
+        },
+        {
+            "id": 46,
+            "phrase": "load up (with something)",
+            "definition": "to take or accumulate a lot of something.  Don’t load up with cheap souvenirs. Save your money. Whenever I get into a used-book store, I load up."
+        },
+        {
+            "id": 47,
+            "phrase": "loaded for bear",
+            "definition": "1. Inf. angry. He left here in a rage. He was really loaded for bear.  When I got home from work, I was really loaded for bear. What a horrible day! 2. Inf. drunk. (An elaboration of loaded, which means “drunk.”) _ By the end of the party, Bill was loaded for bear.  The whole gang drank for an hour until they were loaded for bear."
+        },
+        {
+            "id": 48,
+            "phrase": "loaf around",
+            "definition": "to waste time; to idle the time away doing almost nothing.  Every time I see you, you are just loafing around.  I enjoy loafing around on the weekend."
+        },
+        {
+            "id": 49,
+            "phrase": "loaf something away†",
+            "definition": "to waste away a period of time.  You have loafed the entire day away! _ He loafed away the entire day."
+        },
+        {
+            "id": 50,
+            "phrase": "loan something to someone",
+            "definition": "to lend something to someone. (Considered to be an error for lend.) _Can you loan a few bucks to Sam and me? _ I will not loan anything to you."
+        },
+        {
+            "id": 51,
+            "phrase": "lob something at someone or something",
+            "definition": "to throw or toss something at someone or something.  Who lobbed this thing at me? _ They lobbed a stone at the cat, but that only made it mad."
+        },
+        {
+            "id": 52,
+            "phrase": "lobby against something",
+            "definition": "to solicit support against something, such as a piece of legislation or a government regulation.  We sent a lot of lawyers to the state capital to lobby against the bill, but it passed anyway.  They lobbied against the tax increase."
+        },
+        {
+            "id": 53,
+            "phrase": "lobby for something",
+            "definition": "to solicit support for something among the members of a voting body, such as the Congress.  Tom is always lobbying for some reform bill or other. The manufacturers lobbied for tax relief."
+        },
+        {
+            "id": 54,
+            "phrase": "local yokel",
+            "definition": "a local resident of a rural place. (Mildly derogatory.) _ One of the local yokels helped me change the tire.  The local yokels all listen to the same radio station."
+        },
+        {
+            "id": 55,
+            "phrase": "lock horns (with someone)",
+            "definition": "to get into an argument with someone. Let’s settle this peacefully. I don’t want to lock horns with the boss.  The boss doesn’t want to lock horns either."
+        },
+        {
+            "id": 56,
+            "phrase": "lock on(to someone or something)",
+            "definition": "to fasten or grab onto someone or something.  She locked onto the child and wouldn’t leave his side for an instant. I saw the thing I wanted and locked on."
+        },
+        {
+            "id": 57,
+            "phrase": "lock someone or something away†",
+            "definition": "to put someone or something away in a locked container or space. You will have to lock all the medications away when the grandchildren come to visit. They locked away some cash for a rainy day.  They locked it away."
+        },
+        {
+            "id": 58,
+            "phrase": "lock someone or something up† (somewhere)",
+            "definition": "to lock someone or something within something or some place. The captain ordered the sailor locked up in the brig until the ship got into port.  Don’t lock me up! _ The sheriff locked up the crook in a cell."
+        },
+        {
+            "id": 59,
+            "phrase": "lock something in†",
+            "definition": "to make something, such as a rate of interest, permanent over a period of time.  You should try to lock in a high percentage rate on your bonds.  We locked in a very low rate on our mortgage."
+        },
+        {
+            "id": 60,
+            "phrase": "lock, stock, and barrel",
+            "definition": "Cliché everything. We had to move everything out of the house—lock, stock, and barrel. We lost everything—lock, stock, and barrel—in the fire."
+        },
+        {
+            "id": 61,
+            "phrase": "lodge someone with someone",
+            "definition": "to have someone stay with someone as a guest.  We lodged the visitor with George for the weekend. Would it be possible for us to lodge Mary with you?"
+        },
+        {
+            "id": 62,
+            "phrase": "lodge something against someone",
+            "definition": "to place a charge against someone.  The neighbors lodged a complaint against us for walking on their grass.  I want to lodge an assault charge against Randy."
+        },
+        {
+            "id": 63,
+            "phrase": "lodge something against something",
+            "definition": "to place or prop something against something. We lodged the chest against the door, making it difficult or impossible to open. Let’s lodge the stone against the side of the barn to help support it."
+        },
+        {
+            "id": 64,
+            "phrase": "lodge something in something",
+            "definition": "to get something stuck in something or some place. She lodged her coat in the door and tore it. He lodged a screwdriver in the machine’s gears by accident."
+        },
+        {
+            "id": 65,
+            "phrase": "lodge with someone",
+            "definition": "to stay or reside with someone.  I lodged with my cousin while I was in Omaha. Tricia plans to lodge with us while she is here."
+        },
+        {
+            "id": 66,
+            "phrase": "log on",
+            "definition": "to begin to use a computer system, as by entering a password, etc. (This action may be recorded, or logged, automatically in the computer’s memory.) _ What time did you log on to the system this morning? _ I always log on before I get my first cup of coffee."
+        },
+        {
+            "id": 67,
+            "phrase": "log someone for something",
+            "definition": "1. to schedule someone for something.  I am going to log you for sentry duty on the weekends.  We will have to log Bill for service as a parking attendant. 2. to make a note in a log about someone’s bad behavior.  The captain logged the first mate for the navigation error.  I will have to log you for that."
+        },
+        {
+            "id": 68,
+            "phrase": "log someone on† (to something)",
+            "definition": "to allow someone to link (electronically) to a computer system. (This action may be recorded, or logged, automatically in the computer’s memory.) _I will log you on to the system if you forgot how to do it.  I will log on Jill, who is late."
+        },
+        {
+            "id": 69,
+            "phrase": "log something up†",
+            "definition": "to record an amount of something.  The ship logged many nautical miles up on its last voyage.  It logged up a lot of miles."
+        },
+        {
+            "id": 70,
+            "phrase": "loiter around",
+            "definition": "to idle somewhere; to hang around. Stop loitering around! Get going! _ The kids were loitering around for most of the summer."
+        },
+        {
+            "id": 71,
+            "phrase": "loiter over something",
+            "definition": "to dawdle or linger over something. Don’t loiter over your meal. I want to start the dishwasher.  I wish you wouldn’t loiter over your chores."
+        },
+        {
+            "id": 72,
+            "phrase": "loiter something away†",
+            "definition": "to idle away a period of time.  Those boys will loiter half their lives away.  They loitered away their summer vacation."
+        },
+        {
+            "id": 73,
+            "phrase": "loll about (some place)",
+            "definition": "to lie, lounge, or droop some place.  The tired travelers lolled about all over the hotel lobby until their rooms were ready. They were still lolling about at three in the afternoon."
+        },
+        {
+            "id": 74,
+            "phrase": "loll around",
+            "definition": "to roll, flop, or hang around.  The dog’s tongue lolled around as it rolled on its back, trying to keep cool.  Stop lolling around and get to work."
+        },
+        {
+            "id": 75,
+            "phrase": "loll back",
+            "definition": "[for a head] to fall or droop backwards.  As he passed out, his head lolled back and struck the corner of the table.  Her head lolled back and suddenly she was fast asleep."
+        },
+        {
+            "id": 76,
+            "phrase": "loll out",
+            "definition": "[for a tongue] to hang or flop out.  The dog’s tongue lolled out as it lay sleeping.  Since the dog’s tongue lolled out every time it opened its mouth, it is a wonder it didn’t bite it when it closed its mouth."
+        },
+        {
+            "id": 77,
+            "phrase": "lollygag (around)",
+            "definition": "to loaf; to loiter.  How can I get my work done with you lollygagging around? _I spent my vacation just lollygagging."
+        },
+        {
+            "id": 78,
+            "phrase": "the long arm of the law",
+            "definition": "the police; the law.  The long arm of the law is going to tap you on the shoulder some day, Lefty. The long arm of the law finally caught up with Gert."
+        },
+        {
+            "id": 79,
+            "phrase": "long for someone or something",
+            "definition": "to desire or pine for someone or something.  She is longing for her old friends.  Walter longed for his hometown in the mountains."
+        },
+        {
+            "id": 80,
+            "phrase": "long gone",
+            "definition": "gone a long time ago; used up a long time ago. The ice cream and cake are long gone. You are simply too late for the refreshments."
+        },
+        {
+            "id": 81,
+            "phrase": "long in the tooth",
+            "definition": "old.  That actor is getting a little long in the tooth to play the romantic lead. I may be long in the tooth, but I’m not stupid."
+        },
+        {
+            "id": 82,
+            "phrase": "*a long shot",
+            "definition": "a risky bet; an attempt, bet, or proposition that has a low probability of success. (*Typically: be ~; seem like ~.) _Your solution is a long shot, but we’ll try it and hope it works."
+        },
+        {
+            "id": 83,
+            "phrase": "long story short",
+            "definition": "Sl. to make a long story short. Okay, long story short: everything that goes up comes down, okay? _ Then the guy comes over, and—long story short—“You got a match?”"
+        },
+        {
+            "id": 84,
+            "phrase": "Long time no see.",
+            "definition": "Cliché I have not seen you in a long time.; We have not seen each other in a long time. Tom: Hi, Fred. Where have you been keeping yourself ? Fred: Good to see you, Tom. Long time no see. John: It’s Bob! Hi, Bob! Bob: Hi, John! Long time no see."
+        },
+        {
+            "id": 85,
+            "phrase": "look a gift horse in the mouth",
+            "definition": "to be ungrateful to someone who gives you something; to treat someone who gives you a gift badly. (Usually with a negative.) _ Never look a gift horse in the mouth.  I advise you not to look a gift horse in the mouth."
+        },
+        {
+            "id": 86,
+            "phrase": "look about (for someone or something)",
+            "definition": "to try to locate someone or something.  I have to look about for someone to serve as a babysitter. I don’t see it here. I’ll have to look about."
+        },
+        {
+            "id": 87,
+            "phrase": "look after someone or something",
+            "definition": "to take care of someone or something. Please look after my little boy. Will you look after my cat while I’m away? _Do you want me to look after your car?"
+        },
+        {
+            "id": 88,
+            "phrase": "look ahead to something",
+            "definition": "to try to foresee something; to think into the future about something. She looked ahead to a bright future in sales. I look ahead to a new job when I graduate."
+        },
+        {
+            "id": 89,
+            "phrase": "look alike",
+            "definition": "to appear similar.  All these cars look alike these days. The twins look alike and not many people can tell them apart."
+        },
+        {
+            "id": 90,
+            "phrase": "Look alive!",
+            "definition": "Act alert and responsive! _ “Come on, Fred! Get moving! Look alive!” shouted the coach, who was not happy with Fred’s performance. Bill: Look alive, Bob! Bob: I’m doing the best I can."
+        },
+        {
+            "id": 91,
+            "phrase": "look around (at something)",
+            "definition": "to investigate something; to study something visually.  Go into the room and look around at the way they have fixed it up.  I went in and looked around."
+        },
+        {
+            "id": 92,
+            "phrase": "look around for someone or something",
+            "definition": "to seek someone or something out.  Look around for Ted and tell him to come home.  I looked around for the can opener, but it’s not there."
+        },
+        {
+            "id": 93,
+            "phrase": "look around (in) some place",
+            "definition": "to investigate some place.  Look around the kitchen. You will find what you want.  Tell her to look around in the attic. Maybe the camping gear is there."
+        },
+        {
+            "id": 94,
+            "phrase": "look as if butter wouldn’t melt in one’s mouth",
+            "definition": "to appear to be cold and unfeeling (despite any information to the contrary).  Sally looks as if butter wouldn’t melt in her mouth. She can be so cruel. What a sour face. He looks as if butter wouldn’t melt in his mouth."
+        },
+        {
+            "id": 95,
+            "phrase": "look aside",
+            "definition": "to look to one side; to turn one’s head aside so as not to see someone or something.  As I approached, he looked aside, pretending not to recognize me.  She looked aside, hoping I wouldn’t see her."
+        },
+        {
+            "id": 96,
+            "phrase": "look askance at someone or something",
+            "definition": "to be surprised or shocked at someone or something. The teacher looked askance at the student who had acted so rudely.  Everyone had looked askance at her efforts as an artist."
+        },
+        {
+            "id": 97,
+            "phrase": "look at someone cross-eyed",
+            "definition": "to merely appear to question, threaten, or mock someone. (Often in the negative.) _ You had better be on your best behavior around Tony. Don’t even look at him cross-eyed! _ If you so much as look at me cross-eyed, I will send you to your room."
+        },
+        {
+            "id": 98,
+            "phrase": "Look (at) what the cat dragged in!",
+            "definition": "Inf. Look who’s here! (A good-humored and familiar way of showing surprise at someone’s presence in a place, especially if the person looks a little rumpled. Compare this with look like something the cat dragged in.) _ Bob and Mary were standing near the doorway talking when Tom came in. “Look what the cat dragged in!” announced Bob.  Mary: Hello, everybody. I’m here! Jane: Look at what the cat dragged in!"
+        },
+        {
+            "id": 99,
+            "phrase": "look away (from someone or something)",
+            "definition": "to turn one’s gaze away from someone.  She looked away from him, not wishing her eyes to give away her true feelings. In embarrassment, she looked away."
+        },
+        {
+            "id": 100,
+            "phrase": "Look before you leap.",
+            "definition": "Prov. Cliché Think carefully about what you are about to do before you do it.  I’m not saying you shouldn’t sign the lease for that apartment. I’m just saying you should look before you leap.  Jill: I’m thinking about going to night school. Jane: Are you sure you can spare the time and the money? Look before you leap."
+        },
+        {
+            "id": 101,
+            "phrase": "look beyond someone or something",
+            "definition": "to try to see to a point farther than someone or something.  Look beyond Claire at the forest in the distance.  Look beyond the house and see what you can spot in the trees behind it."
+        },
+        {
+            "id": 102,
+            "phrase": "look daggers at someone",
+            "definition": "to give someone a dirty look.  Tom must have been mad at Ann from the way he was looking daggers at her.  Don’t you dare look daggers at me! Don’t even look cross-eyed at me!"
+        },
+        {
+            "id": 103,
+            "phrase": "look fit to kill",
+            "definition": "[dressed up] to look very fancy or sexy. Mary put on her best clothes and looked fit to kill. John looked fit to kill in his new tuxedo."
+        },
+        {
+            "id": 104,
+            "phrase": "look forward to something",
+            "definition": "to anticipate something with pleasure.  I’m really looking forward to your visit next week.  We all look forward to your new book on gardening."
+        },
+        {
+            "id": 105,
+            "phrase": "look good on paper",
+            "definition": "to seem fine in theory, but not perhaps in practice; to appear to be a good plan.  The plan looks good on paper, but it may not work. This looks good on paper. Let’s hope it works in the real world."
+        },
+        {
+            "id": 106,
+            "phrase": "look here",
+            "definition": "a phrase emphasizing the point that follows. (Can show some impatience.) _Henry: Look here, I want to try to help you, but you’re not making it easy for me. Rachel: I’m just so upset.  Andy: Look here, I just asked you a simple question! Bob: As I told you in the beginning, there are no simple answers."
+        },
+        {
+            "id": 107,
+            "phrase": "look like a saddle on a sow",
+            "definition": "Rur. to look ridiculous and out of place. Tom: How do you like my new diamond earring? Jane: It looks like a saddle on a sow.  The fancy wheels on that beat-up old car look like a saddle on a sow."
+        },
+        {
+            "id": 108,
+            "phrase": "look like something the cat dragged in",
+            "definition": "to look very shabby, worn, exhausted, or abused. (Sometimes with drug.) _ That new sofa of theirs looks like something the cat dragged in.  Poor Dave looks like something the cat drug in. He must have been out late last night."
+        },
+        {
+            "id": 109,
+            "phrase": "look like the cat that swallowed the canary",
+            "definition": "to appear as if one had just had a great success.  After the meeting John looked like the cat that swallowed the canary. I knew he must have been a success.  Your presentation must have gone well. You look like the cat that swallowed the canary."
+        },
+        {
+            "id": 110,
+            "phrase": "Look me up when you’re in town.",
+            "definition": "When you next come to my town, try to find me (and we will get together). (A vague and perhaps insincere invitation.) _ Bob: Nice to see you, Tom. Bye now. Tom: Yes, indeed. Look me up when you’re in town. Bye.  Sally (on the phone): Bye. Nice talking to you. Mary: Bye, Sally. Sorry we can’t talk more. Look me up when you’re in town."
+        },
+        {
+            "id": 111,
+            "phrase": "look on",
+            "definition": "to be a spectator and watch what is happening without participating.  The beating took place while a policeman looked on. While the kittens played, the mother cat looked on contentedly."
+        },
+        {
+            "id": 112,
+            "phrase": "look on someone as something",
+            "definition": "to view or think of someone as something. I look on you as a very thoughtful person.  Mary looked on Jane as a good friend."
+        },
+        {
+            "id": 113,
+            "phrase": "look on the bright side",
+            "definition": "consider the positive aspects of a negative situation.  Look on the bright side. Things could have been much worse than they are."
+        },
+        {
+            "id": 114,
+            "phrase": "look on (with someone)",
+            "definition": "to share and read from someone else’s notes, paper, book, music, etc.  I don’t have a copy of the notice, but I will look on with Carlo.  Carla has a copy of the music. She doesn’t mind if I look on."
+        },
+        {
+            "id": 115,
+            "phrase": "look out (of ) something",
+            "definition": "to gaze outward from inside something. (Of is usually retained before pronouns.) _ Look out of the window and see if it is raining.  I looked out of the door to see what the weather was like."
+        },
+        {
+            "id": 116,
+            "phrase": "look (out) on(to) something",
+            "definition": "[for something] to face onto something or some place. The balcony looks out onto the meadow.  My window looks onto the street."
+        },
+        {
+            "id": 117,
+            "phrase": "look someone or something over†",
+            "definition": "to examine someone or something.  I think you had better have the doctor look you over.  Please look over these papers."
+        },
+        {
+            "id": 118,
+            "phrase": "look the other way",
+            "definition": "to look in the opposite direction.  To make sure it’s safe to cross the street, look the other way before you step off the curb."
+        },
+        {
+            "id": 119,
+            "phrase": "look through something",
+            "definition": "1. to gaze through something.  Look through the window at what the neighbors are doing.  Look through the binoculars and see if you can get a better view. 2. to examine the parts, pages, samples, etc., of something. Look through this report and see what you make of it.  I will look through it when I have time."
+        },
+        {
+            "id": 120,
+            "phrase": "look to one’s laurels",
+            "definition": "to take care not to lower or diminish one’s reputation or position, especially in relation to that of someone else potentially better. With the arrival of the new member of the football team, James will have to look to his laurels to remain as the highest scorer.  The older members of the team will have to look to their laurels when the new players arrive."
+        },
+        {
+            "id": 121,
+            "phrase": "look to someone or something (for something)",
+            "definition": "to expect someone or something to supply something.  Children look to their parents for help.  Tom looked to the bank for a loan."
+        },
+        {
+            "id": 122,
+            "phrase": "look toward someone or something",
+            "definition": "to face in the direction of someone or something.  Look toward Sarah and see where she is standing. Isn’t that a lovely garden she’s in? _ Look toward the sea and see what a sunset is meant to look like."
+        },
+        {
+            "id": 123,
+            "phrase": "look under the hood",
+            "definition": "to examine the engine of a car; to check the oil, water, and other such routine items associated with the engine of a car.  I finished putting gas in. I need to look under the hood.  Do you want me to look under the hood, sir?"
+        },
+        {
+            "id": 124,
+            "phrase": "look up",
+            "definition": "to show promise of improving. My prospects for a job are looking up.  Conditions are looking up."
+        },
+        {
+            "id": 125,
+            "phrase": "look up and down (for someone or something)",
+            "definition": "to look everywhere for someone or something.  Where is Kelly? I looked up and down for her.  I can’t find her. I looked up and down, but no Kelly."
+        },
+        {
+            "id": 126,
+            "phrase": "look up and down something",
+            "definition": "to gaze up and then down something, such as a street. We looked up and down the street and saw no cars, no houses, and no people.  Mary looked up and down the highway, but she could not find her lost hubcap."
+        },
+        {
+            "id": 127,
+            "phrase": "look up at someone or something",
+            "definition": "to raise one’s gaze to someone or something. Would you please look up at me while I am talking to you? I hate to be ignored.  Look up at the top of that building."
+        },
+        {
+            "id": 128,
+            "phrase": "look up (from something)",
+            "definition": "to gaze upwards; to stop reading or working and lift one’s gaze upward.  She looked up from her reading and spoke to us.  Mary looked up as we came into the room."
+        },
+        {
+            "id": 129,
+            "phrase": "look up to someone",
+            "definition": "to view someone with respect and admiration.  Bill really looks up to his father.  Everyone in the class looked up to the teacher."
+        },
+        {
+            "id": 130,
+            "phrase": "look (up)on someone or something as something",
+            "definition": "to view someone or something as something; to consider someone or something to be something.  I look upon Todd as a fine and helpful guy.  I look on these requests as an annoyance."
+        },
+        {
+            "id": 131,
+            "phrase": "look (up)on someone or something with something",
+            "definition": "to view someone or something with an attitude, such as scorn, favor, anger, disgust, etc.  She looked upon all of us with scorn. Bill looked on the food set before him with disgust."
+        },
+        {
+            "id": 132,
+            "phrase": "Look who’s here!",
+            "definition": "an expression drawing attention to someone present or who just arrived at a place.  Bill: Look who’s here! My old friend Fred. How goes it, Fred? Fred: Hi, there, Bill! What’s new? Bill: Nothing much. Bill: Look who’s here! Mary: Yeah. Isn’t that Fred Morgan?"
+        },
+        {
+            "id": 133,
+            "phrase": "Look who’s talking!",
+            "definition": "You are guilty of doing the same thing that you have criticized someone else for doing or that you accused someone else of doing. Andy: You criticize me for being late! Look who’s talking! You just missed your f light! Jane: Well, nobody’s perfect.  Mary: You just talk and talk, you go on much too long about practically nothing, and you never give a chance for anyone else to talk, and you just don’t know when to stop! Sally: Look who’s talking!"
+        },
+        {
+            "id": 134,
+            "phrase": "looking over one’s shoulder",
+            "definition": "keeping watch for danger or threats to oneself.  Bob’s a little paranoid. He’s always looking over his shoulder."
+        },
+        {
+            "id": 135,
+            "phrase": "*a look-see",
+            "definition": "Rur. a look at someone or something; a peek. (*Typically: get ~; have ~; give someone ~; take ~.) _ A: Do you think they have finished painting your office yet? B: Let’s go down there and take a look-see."
+        },
+        {
+            "id": 136,
+            "phrase": "loom large (on the horizon)",
+            "definition": "Cliché to be of great importance, especially when referring to an upcoming problem, danger, or threat.  The exams were looming large on the horizon.  Eviction was looming large when the tenants could not pay their rent."
+        },
+        {
+            "id": 137,
+            "phrase": "loom out of something",
+            "definition": "to appear to come out of or penetrate something.  A truck suddenly loomed out of the fog and just missed hitting us.  A tall building loomed out of the mists."
+        },
+        {
+            "id": 138,
+            "phrase": "loom up",
+            "definition": "to appear to rise up [from somewhere]; to take form or definition, usually threatening to some degree.  A great city loomed up in the distance. It looked threatening in the dusky light.  A ghost loomed up, but we paid no attention, since it had to be a joke.  The recession loomed up, and the stock market reacted."
+        },
+        {
+            "id": 139,
+            "phrase": "a loose cannon",
+            "definition": "a person whose actions are unpredictable and uncontrollable. As it turned out, he’s not just a loose cannon. He makes sense.  Some loose cannon in the State Department has been leaking stories to the press."
+        },
+        {
+            "id": 140,
+            "phrase": "Loose lips sink ships.",
+            "definition": "Don’t talk carelessly because you don’t know who is listening. (From wartime. Literally, “Don’t reveal even the location of a loved one on a ship, because the location could be communicated to the enemy by a spy.”) _You never know who is going to hear what you say and how they will use what they hear. Remember, loose lips sink ships."
+        },
+        {
+            "id": 141,
+            "phrase": "loosen someone or something up†",
+            "definition": "to make someone’s muscles and joints move more freely by exercising them.  The exercise loosened me up quite nicely.  It loosened up my legs.  I have to do some exercises to loosen myself up."
+        },
+        {
+            "id": 142,
+            "phrase": "loosen someone up†",
+            "definition": "to make someone or a group more relaxed and friendly.  I loosened up the audience with a joke.  Loosen yourself up. Relax and try to enjoy people."
+        },
+        {
+            "id": 143,
+            "phrase": "loosen up",
+            "definition": "to become loose or relaxed. Loosen up. Relax. We tried to get Mary to loosen up, but she did not respond."
+        },
+        {
+            "id": 144,
+            "phrase": "lope along",
+            "definition": "to move along, bounding.  The dog loped along at a very even pace, answering to his master’s whistle.  The horses loped along, eager to get home."
+        },
+        {
+            "id": 145,
+            "phrase": "(lord) high muck-a-muck",
+            "definition": "Rur. a very important person. (Humorous.) _Jim’s acting like he’s some kind of lord high muck-a-muck. What’s gotten into him? _ Mary got a promotion, so now she’s a real high muck-a-muck."
+        },
+        {
+            "id": 146,
+            "phrase": "lord it over someone",
+            "definition": "to dominate someone; to direct and control someone.  Mr. Smith seems to lord it over his wife.  The boss lords it over everyone in the office."
+        },
+        {
+            "id": 147,
+            "phrase": "Lord knows I’ve tried.",
+            "definition": "I certainly have tried very hard. Alice: Why don’t you get Bill to fix this fence? Mary: Lord knows I’ve tried. I must have asked him a dozen times—this year alone. Sue: I can’t seem to get to class on time. Rachel: That’s just awful. Sue: Lord knows I’ve tried. I just can’t do it."
+        },
+        {
+            "id": 148,
+            "phrase": "Lord love a duck!",
+            "definition": "Fig.My goodness! (An exclamation of surprise.) _ Lord love a duck! How that rain is coming down! _Lord love a duck! Did you see that cat chasing that dog?"
+        },
+        {
+            "id": 149,
+            "phrase": "lose a bundle",
+            "definition": "Sl. to lose a lot of money. Don lost a bundle on that land purchase.  I know I would lose a bundle if I went to a casino and gambled."
+        },
+        {
+            "id": 150,
+            "phrase": "lose at something",
+            "definition": "to be defeated at a particular game or activity. We lost at basketball but we won at football this weekend.  I hate to lose at checkers."
+        },
+        {
+            "id": 151,
+            "phrase": "lose by something",
+            "definition": "to be defeated by a certain amount.  Our team lost by ten points.  I only lost by a few points."
+        },
+        {
+            "id": 152,
+            "phrase": "lose count of someone or something",
+            "definition": "to fail to be able to count someone or something, especially because there are so many.  I have lost count of the people who have asked that question. I am afraid I have lost count of all the times we have run out of money."
+        },
+        {
+            "id": 153,
+            "phrase": "lose face",
+            "definition": "to lose status; to become less respectable.  John is more afraid of losing face than losing money.  Things will go better if you can explain to him where he was wrong without making him lose face."
+        },
+        {
+            "id": 154,
+            "phrase": "lose ground (to someone or something)",
+            "definition": "to fall behind someone or something.  I am losing ground to Wendy in the sales contest.  We were losing ground to the opposite team in our quest for the trophy."
+        },
+        {
+            "id": 155,
+            "phrase": "lose heart",
+            "definition": "to lose one’s courage or confidence. Now, don’t lose heart. Keep trying. What a disappointment! It’s enough to make one lose heart."
+        },
+        {
+            "id": 156,
+            "phrase": "lose it",
+            "definition": "1. Sl. to empty one’s stomach; to vomit. Oh, God! I think I’m going to lose it! _ Go lose it in the bushes. 2. Sl. to get angry; to lose one’s temper.  It was too much for him. Ted lost it.  I sat there calmly, biting my lip to keep from losing it."
+        },
+        {
+            "id": 157,
+            "phrase": "lose money on something",
+            "definition": "to have a net loss on something, such as an investment.  I lost thousands on that deal.  I don’t want to lose money on any investment."
+        },
+        {
+            "id": 158,
+            "phrase": "lose one’s appetite",
+            "definition": "to lose one’s desire to eat. After that gory movie, I’m afraid I’ve lost my appetite."
+        },
+        {
+            "id": 159,
+            "phrase": "lose one’s head (over someone or something)",
+            "definition": "to become confused or overly emotional about someone or something. Don’t lose your head over John. He isn’t worth it.  I’m sorry. I got upset and lost my head."
+        },
+        {
+            "id": 160,
+            "phrase": "lose one’s reason",
+            "definition": "to lose one’s power of reasoning, possibly in anger. I was so confused that I almost lost my reason.  Bob seems to have lost his reason when he struck John."
+        },
+        {
+            "id": 161,
+            "phrase": "lose one’s shirt",
+            "definition": "to lose a lot of money; to lose all of one’s assets (as if one had even lost one’s shirt). I almost lost my shirt on that deal. I have to invest more wisely.  No, I can’t loan you $200. I just lost my shirt at the racetrack."
+        },
+        {
+            "id": 162,
+            "phrase": "lose one’s temper (at someone or something)",
+            "definition": "to become angry at someone or something.  Lisa lost her temper and began shouting at Bob. I hate to lose my temper at someone. I always end up feeling guilty."
+        },
+        {
+            "id": 163,
+            "phrase": "lose one’s touch (with someone or something)",
+            "definition": "to lose one’s ability to handle someone or something.  I seem to have lost my touch with my children. They won’t listen to me anymore. We’ve both lost our touch as far as managing people goes."
+        },
+        {
+            "id": 164,
+            "phrase": "lose one’s train of thought",
+            "definition": "to forget what one was talking or thinking about.  Excuse me, I lost my train of thought. What was I talking about? _ Your question made the speaker lose her train of thought."
+        },
+        {
+            "id": 165,
+            "phrase": "lose oneself in someone or something",
+            "definition": "to be thoroughly absorbed in someone or something; to become engrossed in someone or something. Frank loses himself in his children when he is at home. When I lose myself in my work, time just rushes by."
+        },
+        {
+            "id": 166,
+            "phrase": "lose out",
+            "definition": "to lose in competition; to lose one’s expected reward. Our team lost out because our quarterback broke his leg. I ran my best race, but I still lost out. 2. lose out (on something) Go to miss out (on something)."
+        },
+        {
+            "id": 167,
+            "phrase": "lose out to someone or something",
+            "definition": "to lose a competition to someone or something.  Our team lost out to the other team.  Bill lost out to Sally in the contest."
+        },
+        {
+            "id": 168,
+            "phrase": "lose patience (with someone or something)",
+            "definition": "to stop being patient with someone or something; to become impatient with someone or something. Please try to be more cooperative. I’m losing patience with you."
+        },
+        {
+            "id": 169,
+            "phrase": "lose sight of someone or something",
+            "definition": "to have one’s vision of someone or something fade because of distance or an obstruction.  I lost sight of Alice as she walked into the distance.  We lost sight of the ship as it sailed out of the harbor."
+        },
+        {
+            "id": 170,
+            "phrase": "lose some amount of time",
+            "definition": "[for some amount of time] to be wasted.  We lost a lot of time waiting for Hermione.  He lost no time in getting out of there."
+        },
+        {
+            "id": 171,
+            "phrase": "lose something at something",
+            "definition": "to lose a wager at playing something or at gambling. I lost a fortune at gambling. We lost all our money at dice."
+        },
+        {
+            "id": 172,
+            "phrase": "lose something in something",
+            "definition": "to misplace something in something.  I lost my wallet in the barn.  Did someone lose something in the dining room?"
+        },
+        {
+            "id": 173,
+            "phrase": "lose something to someone",
+            "definition": "to yield or give up something in defeat to someone.  We lost the case to the opposing lawyers.  Mary lost her title to last year’s runner-up."
+        },
+        {
+            "id": 174,
+            "phrase": "lose the use of something",
+            "definition": "to be deprived of the use of something.  After the accident, I lost the use of my left arm for a few days. Andy lost the use of the car for a week."
+        },
+        {
+            "id": 175,
+            "phrase": "lose to someone or something",
+            "definition": "to be defeated by someone or something.  I lost to Wendy in the sales contest.  Our team lost to the Adamsville Raiders for the seventh year in a row."
+        },
+        {
+            "id": 176,
+            "phrase": "lose touch with reality",
+            "definition": "to began to think unrealistically; to become unrealistic.  I am so overworked that I am losing touch with reality.  The psychotic criminal had lost touch with reality."
+        },
+        {
+            "id": 177,
+            "phrase": "lose trace of someone or something",
+            "definition": "Rur. to fail to maintain a way of finding someone or something.  I lost trace of Walter after we left high school.  I lost trace of the stock certificates after about twenty years."
+        },
+        {
+            "id": 178,
+            "phrase": "lose track (of someone or something)",
+            "definition": "to lose contact with someone; to forget where something is. I lost track of all my friends from high school.  Tom has lost track of his glasses again."
+        },
+        {
+            "id": 179,
+            "phrase": "*a losing streak",
+            "definition": "a series of losses [in sports, for instance]. (*Typically: be on ~; have ~; continue one’s ~.) _ The team was on a losing streak that started nearly three years ago."
+        },
+        {
+            "id": 180,
+            "phrase": "lost and gone forever",
+            "definition": "lost; permanently lost. My poor doggy is lost and gone forever.  My money fell out of my pocket and I am sure that it is lost and gone forever."
+        },
+        {
+            "id": 181,
+            "phrase": "a lost cause",
+            "definition": "a futile attempt; a hopeless matter.  Our campaign to have the new party on the ballot was a lost cause.  Todd gave it up as a lost cause."
+        },
+        {
+            "id": 182,
+            "phrase": "*lost in something",
+            "definition": "enveloped in something; engrossed in something. (*Typically: be ~; get ~.) _ Ed sat under the tree, lost in reverie.  Excuse me. I didn’t hear you. I was lost in my own thoughts."
+        },
+        {
+            "id": 183,
+            "phrase": "*lost on someone",
+            "definition": "wasted on someone; not valued or appreciated by someone. (*Typically: be ~; get ~.) _ My jokes are lost on him. He is too literal.  The humor of the situation was lost on Mary. She was too upset to see it."
+        },
+        {
+            "id": 184,
+            "phrase": "lost without someone or something",
+            "definition": "unable to function without someone or something.  I am just lost without you.  The engineer is lost without his pocket computer."
+        },
+        {
+            "id": 185,
+            "phrase": "lost-and-found",
+            "definition": "an office or department that handles items that someone has lost that have been found by someone else. The lost-and-found office had an enormous collection of umbrellas and four sets of false teeth! _ I found a book on the seat of the bus. I turned it in to the driver, who gave it to the lost-and-found office."
+        },
+        {
+            "id": 186,
+            "phrase": "a lot of give-and-take",
+            "definition": "1. Fig. a lot of two-way discussion. It was a good meeting. There was a lot of give-andtake, and we all learned. 2. Fig. a lot of negotiating and bargaining. After an afternoon of give-and-take, we were finally able to put all the details into an agreement."
+        },
+        {
+            "id": 187,
+            "phrase": "*a lot of nerve",
+            "definition": "1. Fig. great rudeness; a lot of audacity or brashness. (*Typically: have ~; take ~.) _He walked out on her, and that took a lot of nerve! _ You have a lot of nerve! You took my parking place! 2. Fig. courage. (*Typically: have ~; take ~.) _ He climbed the mountain with a bruised foot. That took a lot of nerve. He has a lot of nerve to go into business for himself."
+        },
+        {
+            "id": 188,
+            "phrase": "*a lot of promise",
+            "definition": "much promise for the future. (*Typically: have ~; show ~.) _Sally is quite young, but she has a lot of promise. This bush is small, but it shows a lot of promise."
+        },
+        {
+            "id": 189,
+            "phrase": "Lots of luck!",
+            "definition": "1. Good luck! _ I’m glad you’re giving it a try. Lots of luck! _Lots of luck in your new job! 2. You don’t have a chance!; Good luck, you’ll need it! (Sarcastic.) _ Think you stand a chance? Lots of luck! _ You a senator? Lots of luck!"
+        },
+        {
+            "id": 190,
+            "phrase": "loud and clear",
+            "definition": "clear and distinctly. (Originally said of radio reception that is heard clearly and distinctly.) _ Tom: If I’ve told you once, I’ve told you a thousand times: Stop it! Do you hear me? Bill: Yes, loud and clear.  I hear you loud and clear."
+        },
+        {
+            "id": 191,
+            "phrase": "lounge around (some place)",
+            "definition": "to pass time idly some place.  I am going to lounge around the house this morning.  Don’t lounge around all day."
+        },
+        {
+            "id": 192,
+            "phrase": "louse someone or something up†",
+            "definition": "Inf. to ruin something; to mess someone or something up.  You really loused me up! You got me in a real mess! _ Who loused up my scheme?"
+        },
+        {
+            "id": 193,
+            "phrase": "lousy with someone or something",
+            "definition": "Inf. having lots of someone or something. (Like an infestation of lice.) _Old Mr. Wilson is lousy with money.  Tiffany is lousy with jewels and furs, but she’s got bad teeth."
+        },
+        {
+            "id": 194,
+            "phrase": "love at first sight",
+            "definition": "love established when two people first see one another. Bill was standing at the door when Ann opened it. It was love at first sight. It was love at first sight when they met, but it didn’t last long."
+        },
+        {
+            "id": 195,
+            "phrase": "Love begets love.",
+            "definition": "Prov. If you behave lovingly to other people, they will behave lovingly to you.  Child: I hate Tammy! She’s always mean to me. Father: If you’re nicer to her, maybe she’ll change her ways. Love begets love."
+        },
+        {
+            "id": 196,
+            "phrase": "Love is blind.",
+            "definition": "Cliché If you love someone, you cannot see any faults in that person.  Jill: I don’t understand why Joanna likes Tom. He’s inconsiderate, he’s vain, and he isn’t even good-looking. Jane: Love is blind."
+        },
+        {
+            "id": 197,
+            "phrase": "Love makes the world go round.",
+            "definition": "Prov. Life is more pleasant when people treat each other lovingly.  Come on, guys, stop fighting with each other all the time. Love makes the world go round."
+        },
+        {
+            "id": 198,
+            "phrase": "Love me, love my dog.",
+            "definition": "Prov. If you love someone, you should accept everything and everyone that the person loves.  Jill: I wish you’d keep your dog out of the house when I come over. Jane: Love me, love my dog.  Most of Alice’s friends didn’t like her sister, but they accepted her because Alice insisted, “Love me, love my dog.”"
+        },
+        {
+            "id": 199,
+            "phrase": "Love will find a way.",
+            "definition": "Prov. People who are in love will overcome any obstacles in order to be together. (Sometimes used ironically, to suggest that someone is in love with whatever he or she is struggling to be near, as in the second example.) _ Jill: I feel so sorry for Lily and Craig. They just got engaged, and now his job is transferring him across the country. Jane: Love will find a way, I’m sure.  Alan: Fred’s feeling discouraged because he didn’t get the loan he needed to buy the sports car he wants. Bill: I’m sure he’ll get that car eventually. Love will find a way."
+        },
+        {
+            "id": 200,
+            "phrase": "Love you!",
+            "definition": "Inf. You are great! (Often insincere.) _ See ya around, Martin. Let’s do lunch! Love ya! Bye-bye.  Nice talking to you, babe. Love you!"
+        },
+        {
+            "id": 201,
+            "phrase": "a love-hate relationship",
+            "definition": "a relationship of any kind that involves both devotion and hatred.  Tommy has a love-hate relationship with his teacher. Mostly, though, it’s hate lately."
+        },
+        {
+            "id": 202,
+            "phrase": "low man on the totem pole",
+            "definition": "the least important or lowest-ranking person of a group.  I was the last to find out because I’m low man on the totem pole.  I can’t be of any help. I’m low man on the totem pole."
+        },
+        {
+            "id": 203,
+            "phrase": "*a low profile",
+            "definition": "a persona or character that does not draw attention. (*Typically: assume ~; have ~; keep ~; give oneself ~.) _I try to be quiet and keep a low profile. It’s hard because I just love attention."
+        },
+        {
+            "id": 204,
+            "phrase": "*the lowdown (on someone or something)",
+            "definition": "the full story about someone or something. (*Typically: get ~; have ~; give someone ~.) _I need to get the lowdown on John. Is he still an accountant? _ Sally wants to get the lowdown on the new pension plan. Please tell her all about it."
+        },
+        {
+            "id": 205,
+            "phrase": "lower one’s sights",
+            "definition": "to set one’s goals lower. (Alludes to pointing the barrel of a rifle lower to lower the aim of the rifle.) _ Even though you get frustrated, don’t lower your sights.  I shouldn’t lower my sights. If I work hard, I can do what I want."
+        },
+        {
+            "id": 206,
+            "phrase": "lower one’s voice",
+            "definition": "to speak more softly. Please lower your voice or you’ll disturb the people who are working.  He wouldn’t lower his voice, so everyone heard what he said."
+        },
+        {
+            "id": 207,
+            "phrase": "lower oneself to some level",
+            "definition": "to bring oneself down to some lower level of behavior.  I refuse to lower myself to your level.  Has TV news lowered itself to the level of the tabloids?"
+        },
+        {
+            "id": 208,
+            "phrase": "lower someone’s ears",
+            "definition": "Rur. to cut someone’s hair. I asked the barber to lower my ears. Looks like somebody lowered Joe’s ears!"
+        },
+        {
+            "id": 209,
+            "phrase": "lower the boom on someone",
+            "definition": "to scold or punish someone severely; to crack down on someone; to throw the book at someone.  If Bob won’t behave better, I’ll have to lower the boom on him.  The teacher lowered the boom on the whole class for misbehaving."
+        },
+        {
+            "id": 210,
+            "phrase": "low-hanging fruit",
+            "definition": "the easiest person(s) to sell something to, to convince of something, or to fool. (From the much older easy pickings.) _ People who always want to be the first to buy something, they’re low-hanging fruit for this product.  Don’t be satisfied with the low-hanging fruit. Go after the hard-sell types."
+        },
+        {
+            "id": 211,
+            "phrase": "luck into something",
+            "definition": "to find something by luck; to get involved in something by luck.  I lucked into this apartment on the very day I started looking.  We lucked into a good deal on a used car."
+        },
+        {
+            "id": 212,
+            "phrase": "the luck of the draw",
+            "definition": "the results of chance; the lack of any choice.  Why do I always end up with the luck of the draw? _The team was assembled by chance. It was just the luck of the draw that we could work so well together."
+        },
+        {
+            "id": 213,
+            "phrase": "luck out",
+            "definition": "to be fortunate; to strike it lucky. I really lucked out when I ordered the duck. It’s excellent.  I didn’t luck out at all. I rarely make the right choice."
+        },
+        {
+            "id": 214,
+            "phrase": "luck out of something",
+            "definition": "to get out of something by luck alone.  I lucked out of taking a driving test. I only had to pass a vision test to get my license.  Man, I really lucked out of it."
+        },
+        {
+            "id": 215,
+            "phrase": "Lucky at cards, unlucky in love.",
+            "definition": "Prov. If you frequently win at card games, you will not have happy love affairs. (Can imply the converse, that if you do not win at card games, you will have happy love affairs.) _ Fred: I wish I was George. He always wins tons of money at our poker games. Alan: Don’t be jealous of him. Lucky at cards, unlucky in love."
+        },
+        {
+            "id": 216,
+            "phrase": "a lucky dog",
+            "definition": "a lucky person.  You won the lottery? You are a lucky dog!"
+        },
+        {
+            "id": 217,
+            "phrase": "lucky for you",
+            "definition": "a phrase introducing a description of an event that favors the person being spoken to.  Andy: Lucky for you the train was delayed. Otherwise you’d have to wait till tomorrow morning for the next one. Fred: That’s luck, all right. I’d hate to have to sleep in the station. Jane: I hope I’m not too late. Sue: Lucky for you, everyone else is late too."
+        },
+        {
+            "id": 218,
+            "phrase": "lull someone into a false sense of security",
+            "definition": "Cliché to lead someone into believing that all is well before attacking or doing someone bad.  We lulled the enemy into a false sense of security by pretending to retreat. Then we launched an attack.  The boss lulled us into a false sense of security by saying that our jobs were safe and then let half the staff go."
+        },
+        {
+            "id": 219,
+            "phrase": "lull someone or an animal to sleep",
+            "definition": "to quiet and comfort someone or an animal to sleep.  The sound of the waves lulled me to sleep.  The dog’s heartbeat lulled her puppies to sleep."
+        },
+        {
+            "id": 220,
+            "phrase": "lumber along",
+            "definition": "to lope or walk along heavily and awkwardly.  The horses were lumbering along very slowly because they were tired out.  They were lumbering along, hoping to get there on time."
+        },
+        {
+            "id": 221,
+            "phrase": "lumber off",
+            "definition": "to move or lope away heavily and awkwardly. The frightened bear lumbered off, and we left in a hurry.  He lumbered off, leaving us there alone."
+        },
+        {
+            "id": 222,
+            "phrase": "*a lump in one’s throat",
+            "definition": "the feeling of something in one’s throat—as if one were going to cry. (*Typically: get ~; have ~; give one ~.) _ Whenever they play the national anthem, I get a lump in my throat. I have a lump in my throat because I’m frightened."
+        },
+        {
+            "id": 223,
+            "phrase": "Lump it!",
+            "definition": "Inf. Forget it!; Go away! _Well, you can just lump it! _ Lump it! Drop dead!"
+        },
+        {
+            "id": 224,
+            "phrase": "the lunatic fringe",
+            "definition": "the more extreme members of a group.  Most of the members of that religious sect are quite reasonable, but Lisa belongs to the lunatic fringe. Many people try to avoid eating a lot of fat, but Mary is part of the lunatic fringe and will eat anything."
+        },
+        {
+            "id": 225,
+            "phrase": "lunch off something",
+            "definition": "to make a lunch by eating something or part of something.  We will be able to lunch off the leftover turkey for days! _ I can lunch off what is in the refrigerator. Don’t worry about me."
+        },
+        {
+            "id": 226,
+            "phrase": "lunch out",
+            "definition": "to eat lunch away from one’s home or away from one’s place of work. I think I’ll lunch out today. I’m tired of carrying lunches.  I want to lunch out today."
+        },
+        {
+            "id": 227,
+            "phrase": "lunge at someone or something",
+            "definition": "to jump or dive at someone or something. The dog lunged at the man, but he got out of the way without getting bitten.  The dog lunged at the bicycle."
+        },
+        {
+            "id": 228,
+            "phrase": "lunge for someone or something",
+            "definition": "to charge or jump at someone or something; to attack someone or something. The mugger lunged for her, but she dodged him.  Ted lunged for the door, but Bill beat him to it."
+        },
+        {
+            "id": 229,
+            "phrase": "lurch forward",
+            "definition": "to jerk or sway forward. The car lurched forward and shook us around.  When the train lurched forward, we were pushed back into our seats."
+        },
+        {
+            "id": 230,
+            "phrase": "lure someone or something away† (from someone or something)",
+            "definition": "to entice or draw someone away from someone or something.  Do you think we could lure her away from her present employment? _They were not able to lure away many of the employees of the other companies."
+        },
+        {
+            "id": 231,
+            "phrase": "lurk around",
+            "definition": "to slink or sneak around somewhere. Who is that guy lurking around the building? _ Stop lurking around."
+        },
+        {
+            "id": 232,
+            "phrase": "lust for something",
+            "definition": "to desire something.  He says he lusts for a nice cold can of beer.  Mary lusts for rich and fattening ice cream."
+        },
+        {
+            "id": 233,
+            "phrase": "luxuriate in something",
+            "definition": "to indulge oneself in something; to enjoy the luxury of something.  She stood in front of the mirror, luxuriating in her lovely new coat. They were all luxuriating in the warm, bubbling waters of the hot tub."
+        },
+        {
+            "id": 234,
+            "phrase": "*mad (at someone or something)",
+            "definition": "angry at someone or something. (*Typically: be ~; get ~; make someone ~.) _ Don’t get mad at me. I didn’t do it.  I got mad at my car. It won’t start."
+        },
+        {
+            "id": 235,
+            "phrase": "mad enough to kick a cat",
+            "definition": "Rur. very angry.  Stay out of my way. I’m mad enough to kick a cat! _ The team lost. The coach was mad enough to kick a cat."
+        },
+        {
+            "id": 236,
+            "phrase": "made for each other",
+            "definition": "[of two people] very well suited romantically.  Bill and Jane were made for each other.  Mr. and Mrs. Smith were not exactly made for each other. They really don’t get along."
+        },
+        {
+            "id": 237,
+            "phrase": "made for someone",
+            "definition": "created to please someone or look good on someone in particular.  This hat was made for me.  This suit was just made for me!"
+        },
+        {
+            "id": 238,
+            "phrase": "made for something",
+            "definition": "to have been designed or manufactured for some purpose; to be very suitable for something or some purpose.  This night was made for love.  This wrench is manufactured from the strongest metal. It is made for jobs just like this one."
+        },
+        {
+            "id": 239,
+            "phrase": "made to measure",
+            "definition": "[of clothing] made especially to fit the measurements of a particular person.  Jack has his suits made to measure because he’s rather large. Having clothes made to measure is rather expensive."
+        },
+        {
+            "id": 240,
+            "phrase": "made to order",
+            "definition": "made to one’s own measurements and on request.  This suit fits so well because it’s made to order.  His feet are so big that all his shoes have to be made to order."
+        },
+        {
+            "id": 241,
+            "phrase": "maiden voyage",
+            "definition": "the first voyage of a ship or boat.  The liner sank on its maiden voyage.  Jim is taking his yacht on its maiden voyage."
+        },
+        {
+            "id": 242,
+            "phrase": "mail something from some place",
+            "definition": "to send something by mail from a particular place.  I mailed the check from my office.  I will mail it from the main post office."
+        },
+        {
+            "id": 243,
+            "phrase": "mail something to someone",
+            "definition": "to send something to someone by mail.  I mailed the check to you yesterday.  I mailed a gift to my niece."
+        },
+        {
+            "id": 244,
+            "phrase": "main strength and awkwardness",
+            "definition": "great force; brute force.  They finally got the piano moved in to the living room by main strength and awkwardness.  Lifting the antique table must be done carefully. This is not a job requiring main strength and awkwardness."
+        },
+        {
+            "id": 245,
+            "phrase": "maintain someone in something",
+            "definition": "to keep or provide for someone in a certain style or condition. I insist that you maintain me in the style to which I have become accustomed.  He had hoped to maintain himself in comfort."
+        },
+        {
+            "id": 246,
+            "phrase": "maintain something at something",
+            "definition": "to keep something at a certain level, setting, degree, amount, etc.  You must maintain the temperature at 30 degrees Celsius. We have to maintain the temperature at a very high level."
+        },
+        {
+            "id": 247,
+            "phrase": "major in something",
+            "definition": "to specialize in a certain subject in college.  I majored in history in college.  I want to major in math."
+        },
+        {
+            "id": 248,
+            "phrase": "make a beeline for someone or something",
+            "definition": "to head straight toward someone or something. (Alludes to the straight flight of a bee.) _ Billy came into the kitchen and made a beeline for the cookies.  After the game, we all made a beeline for John, who was serving cold drinks."
+        },
+        {
+            "id": 249,
+            "phrase": "make a believer (out) of someone",
+            "definition": "to convince someone decisively about something.  The game they played made a believer out of me; from now on, I’m betting on them. It was an interesting discussion, but it did not make a believer out of me."
+        }
+    ]
+}

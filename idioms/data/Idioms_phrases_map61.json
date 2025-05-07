@@ -1,0 +1,1254 @@
+{
+    "dictionary": [
+        {
+            "id": 0,
+            "phrase": "peek in(to something)",
+            "definition": "to steal a quick glimpse into something.  Sam peeked into the oven to see what was cooking.  Laura opened the oven door and peeked in."
+        },
+        {
+            "id": 1,
+            "phrase": "peek out (from behind someone or something)",
+            "definition": "1. to look outward from behind someone or something. A shy kitten peeked out from behind the sofa.  I looked toward the back of the sofa just as a little cat face peeked out. 2. to show just a little bit with the rest concealed behind someone or something.  A bit of yellow peeked out from behind the tree, so we knew Frank was hiding there. We saw a f lash of Frank’s yellow shirt peek out."
+        },
+        {
+            "id": 2,
+            "phrase": "peek out (from underneath someone or something)",
+            "definition": "1. to look outward from beneath someone or something.  A small furry face peeked out from underneath the sofa.  At the base of the sofa, a cat peeked out. 2. to show just a little bit with the rest concealed under someone or something.  Her petticoat peeked out from underneath her skirt.  Her skirt was a tad too short and a little bit of her slip peeked out."
+        },
+        {
+            "id": 3,
+            "phrase": "peek out of something (at someone or something)",
+            "definition": "1. to be inside of something and take a look out. A pair of glimmering eyes peeked out of the darkened room at the two people standing at the door.  I peeked out of my room at the eerie shadows in the hallway. Jerry peeked out of the bathroom to see if anyone was looking. 2. [for a little bit of something] to be revealed with the rest concealed within.  A bit of white skin peeked out beneath his pants cuff."
+        },
+        {
+            "id": 4,
+            "phrase": "peek over something",
+            "definition": "1. to examine something with a quick glance.  I really can’t say how good the story was. I only peeked over it. I peeked over your manuscript, and it looks good. 2. to raise up and look over some barrier. I peeked over the wall and saw the lovely garden.  Don’t peek over the sofa and let Roger see you. It will ruin the surprise."
+        },
+        {
+            "id": 5,
+            "phrase": "peek through (something)",
+            "definition": "1. to peer or glimpse through something.  I’ll just peek through your picture album. I’ll study it more carefully later.  I only have time to peek through. I would like to spend more time with it later. 2. [for something] to become slightly visible through something. Mary, the lace of your slip is peeking through your blouse! _ Some lace is peeking through."
+        },
+        {
+            "id": 6,
+            "phrase": "peek under something",
+            "definition": "to sneak a little glance beneath something.  I peeked under the table, hoping to see the dog waiting there for the part of my dinner I wasn’t going to eat.  Peek under the chair and see if the cat is there."
+        },
+        {
+            "id": 7,
+            "phrase": "peel off (from something)",
+            "definition": "[for one or more airplanes] to separate from a group of airplanes.  The lead plane peeled off from the others, and soon the rest followed. The lead plane peeled off and dived into the clouds."
+        },
+        {
+            "id": 8,
+            "phrase": "peel off ((of ) something)",
+            "definition": "[for a surface layer] to come loose and fall away from something. (Of is usually retained before pronouns.) _The paint is beginning to peel off the garage.  The paint is peeling off."
+        },
+        {
+            "id": 9,
+            "phrase": "peel out",
+            "definition": "[for a driver] to speed off in a car with a screeching of tires.  Dave got in his car and peeled out, waking the neighbors.  I wish he would stop peeling out!"
+        },
+        {
+            "id": 10,
+            "phrase": "peel something away† (from something)",
+            "definition": "to peel something from the surface of something. Peel the label away from the envelope and place it on the order form. Peel away the label carefully."
+        },
+        {
+            "id": 11,
+            "phrase": "peel something back† (from something)",
+            "definition": "to lift something away from the surface of something.  He peeled the sheets back from the bed and got in.  He peeled back the sheets and got into the bed."
+        },
+        {
+            "id": 12,
+            "phrase": "*a peep",
+            "definition": "a quick look at someone or something. (*Typically: have ~; take ~.) _ Have a peep into the refrigerator and see if we need any milk.  I took a peep at the comet through the telescope."
+        },
+        {
+            "id": 13,
+            "phrase": "peep at someone or something",
+            "definition": "to get a glimpse of someone or something, as if looking through a hole.  I peeped at Tom through the venetian blinds. Look in the microscope and peep at this bacterium."
+        },
+        {
+            "id": 14,
+            "phrase": "peep in(to something)",
+            "definition": "to get a quick look into something, as through a hole in the wall or something similar.  I peeped into the oven to see what was cooking for dinner.  She opened the oven door and peeped in."
+        },
+        {
+            "id": 15,
+            "phrase": "peep out (of something) (at someone or something)",
+            "definition": "to sneak a glimpse of someone or something out of something, as through a hole.  A little mouse peeped out of its hole at the bright lights in the room. Johnny, hiding in the closet, peeped out at the guests through the partly opened door."
+        },
+        {
+            "id": 16,
+            "phrase": "peep over something",
+            "definition": "to raise up and sneak a glance over some barrier; to look over the top of something.  The child peeped over the wall to get a look at the yard next door.  Grandfather peeped over his glasses to look at the television set for a moment."
+        },
+        {
+            "id": 17,
+            "phrase": "peep through something",
+            "definition": "to take a quick glance through something, such as a hole, telescope, etc.  Sam peeped through the keyhole and saw that the room was dark. Peep through the telescope and have a look at the moon!"
+        },
+        {
+            "id": 18,
+            "phrase": "peep under something",
+            "definition": "to take a quick little glance under something.  Would you please peep under the table and see if my shoes are there? _ Dave peeped under the bed, looking for the cat."
+        },
+        {
+            "id": 19,
+            "phrase": "peer about",
+            "definition": "to stare around; to look at everything about. She came into the room and peered about. Mary peered about, looking for a place to sit."
+        },
+        {
+            "id": 20,
+            "phrase": "peer at someone or something",
+            "definition": "to look at someone or something closely; to stare at and examine someone or something. The child peered at me for a while in a strange way.  The owl peered at the snake for a moment before grabbing it."
+        },
+        {
+            "id": 21,
+            "phrase": "peer in(to something)",
+            "definition": "to stare into something; to look deep into something.  I peered into the room, hoping to get a glimpse of the lovely furnishings.  I only had time to peer in and then I walked on by."
+        },
+        {
+            "id": 22,
+            "phrase": "peer out at someone or something",
+            "definition": "to stare out at someone or something.  A little puppy peered out at them from the cage. When I looked under the box, Timmy peered out at me with a big smile."
+        },
+        {
+            "id": 23,
+            "phrase": "peer over something",
+            "definition": "to stare out or look over something, such as one’s glasses. The old man peered over his glasses and looked off into the distance. She peered over the wall to see what she could see."
+        },
+        {
+            "id": 24,
+            "phrase": "peer through something",
+            "definition": "1. to view or look through glasses, spectacles, binoculars, etc.  From the way she peered through her glasses at me, I knew I was in trouble.  Claire stood on the balcony, peering through her binoculars. 2. to stare through a partial barrier, such as a window, drapes, the haze, the fog, etc.  George peered through the drapes and spied on the party next door. Sally peered through the haze as best she could, trying to see if the way was clear."
+        },
+        {
+            "id": 25,
+            "phrase": "peer under something",
+            "definition": "to look underneath something.  She peered under the bed, hoping to find her slippers.  When she peered under the bed, she found nothing but lint."
+        },
+        {
+            "id": 26,
+            "phrase": "peg out",
+            "definition": "Sl. to die.  I was so scared, I thought I would peg out for sure.  Uncle Herman almost pegged out last week."
+        },
+        {
+            "id": 27,
+            "phrase": "peg something down†",
+            "definition": "to fasten something to the ground with pegs.  After he had finished pegging the tent down, he built a fire.  He pegged down the tent before building a fire."
+        },
+        {
+            "id": 28,
+            "phrase": "pelt down (on someone or something)",
+            "definition": "[for something] to fall down on someone or something hard or in quantity. (Typically rain, hail, sleet, stones, etc.) _ The rain pelted down on the children as they ran to their school bus. The ashes from the volcanic eruption pelted down on the town, covering the houses in a gray shroud."
+        },
+        {
+            "id": 29,
+            "phrase": "pelt someone or something with something",
+            "definition": "to hit or strike someone or something with something.  The citizens pelted Max with rocks. The boys pelted the mad dog with a hail of stones."
+        },
+        {
+            "id": 30,
+            "phrase": "The pen is mightier than the sword.",
+            "definition": "Prov. Eloquent writing persuades people better than military force.  Believing that the pen is mightier than the sword, the rebels began publishing an underground newspaper. Alan: Why do you want to become a journalist? Bill: The pen is mightier than the sword."
+        },
+        {
+            "id": 31,
+            "phrase": "pen someone or an animal in† (some place)",
+            "definition": "to confine someone or an animal in a pen. We penned all the kids in out in the backyard while we got the party things ready in the house. We had to pen in the kids to keep them away from the traffic.  Alice penned her dog in."
+        },
+        {
+            "id": 32,
+            "phrase": "pen someone or an animal up†",
+            "definition": "to confine someone to a confined space or an animal to a pen. He said he didn’t want them to pen him up in an office all day.  They penned up the dog during the day."
+        },
+        {
+            "id": 33,
+            "phrase": "penalize someone for something",
+            "definition": "to punish someone for something.  It’s not fair to penalize her for being late.  You needn’t penalize yourself for the failure. It wasn’t all your fault."
+        },
+        {
+            "id": 34,
+            "phrase": "pencil someone or something in†",
+            "definition": "to write in something with a pencil. (Implies that the writing is not final.) _This isn’t a firm appointment yet, so I will just pencil it in.  I penciled in a tentative answer."
+        },
+        {
+            "id": 35,
+            "phrase": "penetrate into someone or something",
+            "definition": "to pierce into someone or something; to stick deep into someone or something. The lance penetrated into the knight, right through his armor.  The bullet penetrated into the wall."
+        },
+        {
+            "id": 36,
+            "phrase": "penetrate something with something",
+            "definition": "to pierce something with something. I could not even penetrate the steel door with a cold chisel.  It was easy to penetrate the lid with a can opener."
+        },
+        {
+            "id": 37,
+            "phrase": "penetrate through something",
+            "definition": "to pierce all the way through something. (Some people will view the through as redundant.) _ The bullet could not penetrate through the metal plating.  It did not have enough force to penetrate through the steel."
+        },
+        {
+            "id": 38,
+            "phrase": "A penny for your thoughts!",
+            "definition": "Prov. What are you thinking about?; I would give you a penny if you tell me your thoughts.  Noticing that Janet looked pensive, Bill said, “A penny for your thoughts!” _You seem very pleased with yourself today. A penny for your thoughts!"
+        },
+        {
+            "id": 39,
+            "phrase": "A penny saved is a penny earned.",
+            "definition": "Prov. Money that you save is more valuable than money that you spend right away.; It is good to save money. Now that you have your first job, you ought to open a savings account. A penny saved is a penny earned. Mary worked hard to save money; she knew that a penny saved is a penny earned."
+        },
+        {
+            "id": 40,
+            "phrase": "penny-wise and pound-foolish",
+            "definition": "Prov. thrifty with small sums and foolish with large sums. (Describes someone who will go to a lot of trouble to save a little money, but overlooks large expenses to save a little money. Even in the United States, the reference is to British pounds sterling.) _Sam: If we drive to six different grocery stores, we’ll get the best bargains on everything we buy. Alan: But with gasoline so expensive, that’s penny-wise and pound-foolish."
+        },
+        {
+            "id": 41,
+            "phrase": "pension someone off†",
+            "definition": "to retire someone with a pension.  The company tried to pension me off before I was ready to retire.  They pensioned off the long-time workers."
+        },
+        {
+            "id": 42,
+            "phrase": "people something with someone",
+            "definition": "to provide population for something or some place, using someone or some kind of people.  The government decided to people the frontier with a variety of races. The island had been peopled with marooned sailors."
+        },
+        {
+            "id": 43,
+            "phrase": "People who live in glass houses shouldn’t throw stones.",
+            "definition": "Prov. You should not criticize other people for having the same faults that you yourself have.  Jill: Richard sure was drinking a lot at the office party. Jane: I noticed you had quite a few cocktails yourself. People who live in glass houses shouldn’t throw stones."
+        },
+        {
+            "id": 44,
+            "phrase": "pep someone or something up†",
+            "definition": "to make someone or something more vigorous. Nancy needs to take some vitamins to pep her up. The coffee break pepped up the tired workers.  Better food might pep your cat up."
+        },
+        {
+            "id": 45,
+            "phrase": "pepper someone or something with something",
+            "definition": "to shower someone or something with something, such as stones, bullets, etc.  The angry crowd peppered the police with stones.  The sheriff ’s posse peppered the bandit’s hideout with bullets."
+        },
+        {
+            "id": 46,
+            "phrase": "perceive someone or something as something",
+            "definition": "to think of someone or something as something or as displaying certain characteristics.  I perceive Randy as sort of hotheaded.  We all perceive this problem as solvable."
+        },
+        {
+            "id": 47,
+            "phrase": "perch on something",
+            "definition": "1. [for a bird] to stand at rest on something.  A robin perched on the branch by my window.  We saw a parrot perched on some kind of f lowering tree. 2. to sit or balance on something.  I can’t perch on this fence forever. Let’s go. Sam was perched on the bicycle and he looked very uncomfortable."
+        },
+        {
+            "id": 48,
+            "phrase": "perch someone or something on something",
+            "definition": "to place, seat, or stand someone or something in a place. She perched the little girl on the edge of the tub.  Walter perched his hat on the top shelf."
+        },
+        {
+            "id": 49,
+            "phrase": "percolate through something",
+            "definition": "[for a liquid] to seep down through something.  The water percolated through the coffee grounds too slowly for Fred, who was just dying for a hot cup of the stuff. The water percolated through the subsoil and appeared again at the bottom of the hill."
+        },
+        {
+            "id": 50,
+            "phrase": "perform something on someone or something",
+            "definition": "to do something to someone or something; to carry out a procedure on someone or something.  The surgeon performed a simple office procedure on the patient. Do you expect me to perform magic on this problem?"
+        },
+        {
+            "id": 51,
+            "phrase": "Perhaps a little later.",
+            "definition": "Not now, but possibly later.  Waiter: Would you like your coffee now? Bob: Perhaps a little later. Waiter: All right.  Sally: Hey, Bill, how about a swim? Bob: Sounds good, but not now. Perhaps a little later. Sally: Okay. See you later."
+        },
+        {
+            "id": 52,
+            "phrase": "perish from something",
+            "definition": "to die from a particular cause, such as a disease. Nearly all the fish perished from the cold.  I was afraid that I would perish from hunger."
+        },
+        {
+            "id": 53,
+            "phrase": "perish in something",
+            "definition": "to die because of involvement in something. Four people perished in the f lames. Our cat perished in an accident."
+        },
+        {
+            "id": 54,
+            "phrase": "Perish the thought.",
+            "definition": "Do not even consider thinking of such a (negative) thing.  If you should become ill— perish the thought—I’d take care of you.  I’m afraid that we need a new car. Perish the thought."
+        },
+        {
+            "id": 55,
+            "phrase": "perish with something",
+            "definition": "to feel bad enough to die because of something, such as heat, hunger, etc. (Often an exaggeration.) _ I was just perishing with hunger when we arrived at the restaurant.  Mary felt as if she would perish with the intense heat of the stuffy little room."
+        },
+        {
+            "id": 56,
+            "phrase": "perk someone up†",
+            "definition": "to make someone more cheery or refreshed.  A nice cup of coffee would really perk me up.  A cup of coffee will perk up the sleepiest person."
+        },
+        {
+            "id": 57,
+            "phrase": "perk something up†",
+            "definition": "to refresh or brighten something; to make something more lively.  A bit of bright yellow here and there will perk this room up a lot. We need something to perk up the second act of the play."
+        },
+        {
+            "id": 58,
+            "phrase": "perk up",
+            "definition": "to become invigorated; to become more active. After a bit of water, the plants perked up nicely. About noon, Andy perked up and looked wide-awake."
+        },
+        {
+            "id": 59,
+            "phrase": "permeate something with something",
+            "definition": "to saturate something with something.  The comedian permeated his act with smutty jokes.  The evening air was permeated with the smell of jasmine."
+        },
+        {
+            "id": 60,
+            "phrase": "permeate through something",
+            "definition": "to seep in and saturate something. The coffee spilled on the desk and permeated through all the papers and stuff.  The strong odor permeated through the walls and nearly suffocated us."
+        },
+        {
+            "id": 61,
+            "phrase": "permit someone out (of something)",
+            "definition": "to allow someone to go out of something or some place.  His mother won’t permit him out of his room all weekend.  I didn’t do anything, but she won’t permit me out!"
+        },
+        {
+            "id": 62,
+            "phrase": "permit someone through (something)",
+            "definition": "to allow someone to pass through something. Would you permit me through the door? I have to get into this building.  Janet said she was in a hurry, but they wouldn’t permit her through."
+        },
+        {
+            "id": 63,
+            "phrase": "permit someone up (something)",
+            "definition": "to allow someone to come up something.  She would not permit me up the ladder.  I wanted to climb the ladder to be with Walter, but he wouldn’t permit me up."
+        },
+        {
+            "id": 64,
+            "phrase": "permit someone up to something",
+            "definition": "to allow someone to come up to something or some place.  The teacher would not permit the smallest children up to the edge.  They would not permit us up to the gate before our turn came."
+        },
+        {
+            "id": 65,
+            "phrase": "persecute someone for something",
+            "definition": "to harass or repress someone for something.  They were persecuting the native people for being underdeveloped.  They were persecuted for being simple and unsuspecting."
+        },
+        {
+            "id": 66,
+            "phrase": "persevere at something",
+            "definition": "to keep trying to do something. I will persevere at my studies and I’m sure I will succeed.  Todd persevered at his job and got promoted in no time."
+        },
+        {
+            "id": 67,
+            "phrase": "persevere in something",
+            "definition": "to persist in [doing] something. I will persevere in my efforts to win election. Kelly persevered in her studies and graduated with honors."
+        },
+        {
+            "id": 68,
+            "phrase": "persevere with something",
+            "definition": "to continue to try to accomplish something.  Do you really think it is wise to persevere with your plan? _ Sally persevered with her scheme to earn a million dollars."
+        },
+        {
+            "id": 69,
+            "phrase": "persist in doing something",
+            "definition": "to continue doing something.  John persists in thinking that he’s always right.  Tom persists in demanding that I agree to his terms."
+        },
+        {
+            "id": 70,
+            "phrase": "persist with something",
+            "definition": "to continue the state of something; to extend an action or state.  Please do not persist with your demands that I agree to your terms.  If you persist with this intrusion, I’m going to call the police."
+        },
+        {
+            "id": 71,
+            "phrase": "person of color",
+            "definition": "a person of an African, Asian, or Native American race. (The plural is people of color.) _ The apartment manager clearly discriminated against people of color. He would only rent to whites.  As a person of color, I felt threatened by the racist jokes that my coworker told."
+        },
+        {
+            "id": 72,
+            "phrase": "*a perspective on something",
+            "definition": "a way of looking at a situation and determining what is important. (*Typically: get ~; have ~; gain ~; give someone ~.) _The jury did not have a good perspective on the crime since some of the evidence had to be ignored.  Studying history gives one a perspective on the past."
+        },
+        {
+            "id": 73,
+            "phrase": "persuade someone of something",
+            "definition": "to convince someone of something. Laura was unable to persuade me of the truth of her statement.  We were all persuaded of the need for higher taxes."
+        },
+        {
+            "id": 74,
+            "phrase": "persuade someone to do something",
+            "definition": "to convince someone to do something.  Are you sure I can’t persuade you to have another piece of cake? _Richard was easily persuaded to have another piece of his favorite cake."
+        },
+        {
+            "id": 75,
+            "phrase": "pertain to someone or something",
+            "definition": "to relate to someone or something; to have something to do with someone or something.  I don’t think that anything discussed in this meeting pertained to me.  It really doesn’t pertain to the matter at hand."
+        },
+        {
+            "id": 76,
+            "phrase": "pester someone about someone or something",
+            "definition": "to bother someone about someone or something.  Please don’t pester me about Frank.  Stop pestering me about money."
+        },
+        {
+            "id": 77,
+            "phrase": "pester someone into something",
+            "definition": "to annoy someone into doing something. We are trying to pester her into accepting the position.  I don’t want to be pestered into losing my temper!"
+        },
+        {
+            "id": 78,
+            "phrase": "pester someone out of something",
+            "definition": "1. to annoy someone out of doing something.  Dave pestered Mary out of going away for the weekend.  He pestered her out of leaving without him. 2. to annoy one out of one’s mind, senses, good manners, etc.  I was pestered out of my mind by a series of silly questions."
+        },
+        {
+            "id": 79,
+            "phrase": "pester someone with something",
+            "definition": "to annoy someone with something. Don’t pester me with your constant questions! _ I was pestered with phone call after phone call."
+        },
+        {
+            "id": 80,
+            "phrase": "pester the life out of someone",
+            "definition": "to annoy someone excessively. Leave me alone. You are pestering the life out of me.  Stop pestering the life out of me!"
+        },
+        {
+            "id": 81,
+            "phrase": "pet hate",
+            "definition": "something that is disliked intensely and is a constant or repeated annoyance.  My pet hate is being put on hold on the telephone.  Another pet hate of mine is having to stand in line."
+        },
+        {
+            "id": 82,
+            "phrase": "pet peeve",
+            "definition": "a frequent annoyance; one’s “favorite” or most often encountered annoyance.  My pet peeve is someone who always comes into the theater after the show has started. Drivers who don’t signal are John’s pet peeve."
+        },
+        {
+            "id": 83,
+            "phrase": "peter out",
+            "definition": "[for something] to die or dwindle away; [for something] to become exhausted gradually.  When the fire petered out, I went to bed. My money finally petered out, and I had to come home."
+        },
+        {
+            "id": 84,
+            "phrase": "petition someone or something for something",
+            "definition": "to make a formal request of someone or a group for something. They petitioned us for an end to the stringent dress code.  We had to petition the upper administration for a revision in the policy."
+        },
+        {
+            "id": 85,
+            "phrase": "phone in (to someone or something)",
+            "definition": "to call in by telephone to a central person or central point.  I will phone in to my secretary and report the change in schedule. I have to phone in and report the changes."
+        },
+        {
+            "id": 86,
+            "phrase": "phone someone up†",
+            "definition": "to call someone on the telephone.  I don’t know what he will do. I will phone him up and ask him.  Phone up your brother and ask his advice."
+        },
+        {
+            "id": 87,
+            "phrase": "phone something in† (to someone or something)",
+            "definition": "to transmit information to a central person or central point by telephone.  I will phone this order in to the plant right away. I will phone in the order to my secretary right now.  Don’t worry. I’ll phone it in."
+        },
+        {
+            "id": 88,
+            "phrase": "a photo op(portunity)",
+            "definition": "a time or event designed for taking pictures of a celebrity.  All the photographers raced toward a photo op with the president."
+        },
+        {
+            "id": 89,
+            "phrase": "*physical (with someone)",
+            "definition": "physical in the use of force against someone. (*Typically: be ~; get ~.) _ The coach got in trouble for getting physical with some members of the team.  When the suspect wouldn’t cooperate, the police were forced to get physical."
+        },
+        {
+            "id": 90,
+            "phrase": "Physician, heal thyself.",
+            "definition": "Prov. Do not rebuke someone for a fault or problem you have yourself. (Biblical.) _ Ellen: You’re such a spendthrift. You should go on a strict budget. Fred: But you manage money even worse than I do! Physician, heal thyself.  Jane: You look like you’re gaining weight. You should probably get more exercise. Alan: Physician, heal thyself. You’re getting a little pudgy, too."
+        },
+        {
+            "id": 91,
+            "phrase": "pick a lock",
+            "definition": "to open a lock without using a key. The robber picked the lock with a nail file.  The thief picked the lock on the safe and stole the money."
+        },
+        {
+            "id": 92,
+            "phrase": "pick and choose",
+            "definition": "to choose very carefully from a number of possibilities; to be selective.  You must take what you are given. You cannot pick and choose.  Meg is so beautiful. She can pick and choose from a whole range of boyfriends."
+        },
+        {
+            "id": 93,
+            "phrase": "pick at someone or something",
+            "definition": "to be very critical of someone or something; to pick on someone or something. Why are you always picking at me? _The critics picked at the little things, missing the serious problems."
+        },
+        {
+            "id": 94,
+            "phrase": "pick at something",
+            "definition": "to try to pull away bits of something.  Don’t pick at the bookbinding. It will fall apart."
+        },
+        {
+            "id": 95,
+            "phrase": "the pick of something",
+            "definition": "the best of the group.  This playful puppy is the pick of the whole lot.  These potatoes are the pick of the crop."
+        },
+        {
+            "id": 96,
+            "phrase": "pick on someone or something",
+            "definition": "to harass or bother someone or something, usually unfairly.  Please stop picking on me! I’m tired of it.  You shouldn’t pick on the cat."
+        },
+        {
+            "id": 97,
+            "phrase": "pick someone or something apart†",
+            "definition": "to pick at and pull someone or something to pieces.  The vultures attacked the hunger-weakened man and tried to pick him apart.  They tried to pick apart the body.  Harry picked his piece of cake apart, looking to get all the nuts out."
+        },
+        {
+            "id": 98,
+            "phrase": "pick someone or something from someone or something",
+            "definition": "to choose someone from a group of people; to choose something from a group of things.  I picked Joe from all the other boys.  Tony picked this one from the collection."
+        },
+        {
+            "id": 99,
+            "phrase": "pick someone or something off†",
+            "definition": "to kill someone or something with a carefully aimed gunshot.  The hunter picked the deer off with great skill. The killer tried to pick off the police officer. "
+        },
+        {
+            "id": 100,
+            "phrase": "pick someone or something out† (for someone or something)",
+            "definition": "to choose someone or something to serve as someone or something.  I picked one of the new people out for Santa Claus this year. I picked out several large potatoes for the stew."
+        },
+        {
+            "id": 101,
+            "phrase": "pick someone or something to pieces",
+            "definition": "to pull or pinch at someone or something until only pieces are left. The savage birds picked the carcass to pieces. The mice seem to have picked the stuffed doll to pieces."
+        },
+        {
+            "id": 102,
+            "phrase": "pick someone’s brain(s)",
+            "definition": "to talk with someone to find out information about something. I spent the afternoon with Donna, picking her brain for ideas to use in our celebration.  Do you mind if I pick your brains? I need some fresh ideas."
+        },
+        {
+            "id": 103,
+            "phrase": "pick someone up†",
+            "definition": "1. to attempt to become acquainted with someone for romantic or sexual purposes. Who are you anyway? Are you trying to pick me up? _No, I never picked up anybody in my life! 2. [for the police] to find and bring someone to the police station for questioning or arrest.  The cop tried to pick her up, but she heard him coming and got away.  Sergeant Jones, go pick up Sally Franklin and bring her in to be questioned about the jewel robbery. 3. to stop one’s car, bus, etc., and offer someone a ride. Don’t ever pick a stranger up when you’re out driving! _ I picked up a hitchhiker today, and we had a nice chat. 4. to go to a place in a car, bus, etc., and take on a person as a passenger. Please come to my office and pick me up at noon.  I have to pick up Billy at school."
+        },
+        {
+            "id": 104,
+            "phrase": "pick something away†",
+            "definition": "to pull or pinch something loose from something.  Mary picked the meat away from the bones.  He picked away the burrs."
+        },
+        {
+            "id": 105,
+            "phrase": "pick something over†",
+            "definition": "to look through something carefully, looking for something special.  The shoppers who got here first picked everything over, and there is not much left.  They picked over all the merchandise."
+        },
+        {
+            "id": 106,
+            "phrase": "pick something up†",
+            "definition": "to lift up or raise something from a lower place.  Please help me pick this stuff up off the pavement.  Pick up every bit of it!"
+        },
+        {
+            "id": 107,
+            "phrase": "pick up",
+            "definition": "1. to tidy up.  When you finish playing, you have to pick up.  Please pick up after yourself. 2. to get busy; to go faster. Things usually pick up around here about 8:00.  I hope business picks up a little later. It’s boring here."
+        },
+        {
+            "id": 108,
+            "phrase": "pick up after someone or something",
+            "definition": "to tidy up after someone or a group.  I refuse to pick up after you all the time.  I refuse to pick up after your rowdy friends."
+        },
+        {
+            "id": 109,
+            "phrase": "pick up on something",
+            "definition": "to become alert to something; to take notice of something; to learn or catch on to something.  She’s real sharp. She picks up on everything.  The cop picked up on the car with the expired license plates."
+        },
+        {
+            "id": 110,
+            "phrase": "pick up speed",
+            "definition": "to increase speed.  The train began to pick up speed as it went downhill. The car picked up speed as we moved into the left lane."
+        },
+        {
+            "id": 111,
+            "phrase": "pick up the pace",
+            "definition": "to speed up the tempo; to increase the rate that something is being done. We are going to have to pick up the pace of activity around here if we are to get the job done."
+        },
+        {
+            "id": 112,
+            "phrase": "pick up the pieces (of something)",
+            "definition": "to gather up each piece or part. Norma picked up the pieces of the broken lamp. She stooped down to pick up the pieces."
+        },
+        {
+            "id": 113,
+            "phrase": "picked over",
+            "definition": "rejected; worn, dirty, or undesirable.  This merchandise looks worn and picked over. I don’t want any of it.  Everything in the store is picked over by the end of the month."
+        },
+        {
+            "id": 114,
+            "phrase": "A picture is worth a thousand words.",
+            "definition": "Prov. Pictures convey information more efficiently and effectively than words do.  It’s much easier to learn how machines work by looking at pictures, rather than by hearing someone describe them. A picture is worth a thousand words.  The newspaper editor decided to devote more space to photographs of the disaster than to text, since a picture is worth a thousand words."
+        },
+        {
+            "id": 115,
+            "phrase": "the picture of (good) health",
+            "definition": "in a very healthy condition.  The doctor says I am the picture of good health.  Each of the children is the picture of health."
+        },
+        {
+            "id": 116,
+            "phrase": "picture perfect",
+            "definition": "looking exactly correct or right. (Hyphenated as a modifier.) _At last, everything was picture perfect.  Nothing less than a picture-perfect party table will do."
+        },
+        {
+            "id": 117,
+            "phrase": "picture someone as someone or something",
+            "definition": "to imagine someone as someone or a type of person; to form a mental picture of someone as someone or a type of person.  Just picture me as Santa Claus! _ I can’t picture you as a doctor."
+        },
+        {
+            "id": 118,
+            "phrase": "picture someone in something",
+            "definition": "1. to form a mental picture of someone wearing something.  I can just picture Tony in that baseball uniform.  Can you picture yourself in a dress like this? 2. to form a mental picture of someone inside something or some place.  I can just picture you in that car! _ Can you picture yourself in jail?"
+        },
+        {
+            "id": 119,
+            "phrase": "piddle around",
+            "definition": "to waste time doing little or nothing.  Stop piddling around and get busy.  I’m not piddling around. I am experimenting."
+        },
+        {
+            "id": 120,
+            "phrase": "piddle something away†",
+            "definition": "to waste away money or a period of time. Please don’t piddle all your money away.  Jane piddled away most of the day."
+        },
+        {
+            "id": 121,
+            "phrase": "pie in the sky",
+            "definition": "1. Fig. a future reward after death, considered as a replacement for a reward not received on earth.  Don’t hold out for pie in the sky. Get realistic.  If he didn’t hope for some heavenly pie in the sky, he would probably be a real crook. 2. Fig. having to do with a hope for a special reward. (This is hyphenated before a nominal.) _ Get rid of your pie-in-the-sky ideas! _ What these pie-in-the-sky people really want is money."
+        },
+        {
+            "id": 122,
+            "phrase": "piece of cake",
+            "definition": "something easy to do.  No problem. When you know what you’re doing, it’s a piece of cake.  Glad to help. It was a piece of cake.  Rescuing frightened cats is my specialty. Piece of cake!"
+        },
+        {
+            "id": 123,
+            "phrase": "piece something out†",
+            "definition": "to add patches or pieces to something to make it complete.  There is not quite enough cloth to make a shirt, but I think I can piece it out with some scraps of a complementary color for the collar.  We managed to piece out the material that we needed."
+        },
+        {
+            "id": 124,
+            "phrase": "piece something together†",
+            "definition": "to fit something together; to assemble the pieces of something, such as a puzzle or something puzzling, and make sense of it.  The police were unable to piece the story together. The detective tried to piece together the events leading up to the crime."
+        },
+        {
+            "id": 125,
+            "phrase": "pierce through something",
+            "definition": "to poke through something; to penetrate something.  He pierced through the meat with a fork and then put it in a spicy marinade. Mary pierced the yarn through with the knitting needles."
+        },
+        {
+            "id": 126,
+            "phrase": "a piercing scream",
+            "definition": "a very loud and shrill scream.  Suddenly, there was a piercing scream from the next room.  Bob heard Susan’s piercing scream and ran to help her."
+        },
+        {
+            "id": 127,
+            "phrase": "pig out (on something)",
+            "definition": "Inf. to eat too much of something; to make a pig of oneself.  I intend to really pig out on pizza.  I love to pig out on ice cream."
+        },
+        {
+            "id": 128,
+            "phrase": "pile in(to something)",
+            "definition": "to climb in or get in roughly. Okay, kids, pile in! _The children piled into the car and slammed the door."
+        },
+        {
+            "id": 129,
+            "phrase": "pile off (something)",
+            "definition": "to get down off something; to clamber down off something. All the kids piled off the wagon and ran into the barn.  She stopped the wagon, and they piled off."
+        },
+        {
+            "id": 130,
+            "phrase": "pile on((to) someone or something)",
+            "definition": "to make a heap of people on someone or something. The football players piled onto the poor guy holding the ball.  They ran up to the ballcarrier and piled on."
+        },
+        {
+            "id": 131,
+            "phrase": "pile out (of something)",
+            "definition": "[for many people] to get out of something roughly. Okay, kids, pile out! _The car door burst open, and the children piled out."
+        },
+        {
+            "id": 132,
+            "phrase": "pile something up†",
+            "definition": "1. to crash or wreck something. Drive carefully if you don’t want to pile the car up.  The driver piled up the car against a tree. 2. to make something into a heap.  Carl piled all the leaves up and set them afire.  Please pile up the leaves."
+        },
+        {
+            "id": 133,
+            "phrase": "pile the work on (someone)",
+            "definition": "to give someone a lot of work to do.  The boss really piled the work on me this week.  The boss piled on the work this week."
+        },
+        {
+            "id": 134,
+            "phrase": "pile up",
+            "definition": "[for things] to gather or accumulate. The newspapers began to pile up after a few days.  Work is really piling up around here."
+        },
+        {
+            "id": 135,
+            "phrase": "pilfer from someone or something",
+            "definition": "to steal from someone or a group.  The petty thief had pilfered from several merchants in town. Someone has pilfered from the petty-cash drawer."
+        },
+        {
+            "id": 136,
+            "phrase": "pilfer something from someone or something",
+            "definition": "to steal something from someone or something.  Did you pilfer this money from your parents? _ Who pilfered some money from the cash box?"
+        },
+        {
+            "id": 137,
+            "phrase": "pilot someone or something through (something)",
+            "definition": "to guide or steer someone or something through something, especially through a waterway. We hired someone to pilot us through the harbor entrance.  The channel was treacherous, and we hired someone to pilot the ship through."
+        },
+        {
+            "id": 138,
+            "phrase": "pin someone or something against something",
+            "definition": "to press and hold someone or something against something.  The police pinned the mugger against the wall and put handcuffs on him.  The wildlife veterinarian pinned the rhino against the walls of the enclosure and subdued it so it could be treated."
+        },
+        {
+            "id": 139,
+            "phrase": "pin someone or something beneath someone, something or an animal",
+            "definition": "to trap someone or something beneath someone, an animal, or something.  The mine cave-in pinned four miners beneath a beam. I held the alligator’s mouth closed and pinned it beneath me."
+        },
+        {
+            "id": 140,
+            "phrase": "pin someone or something under someone or something",
+            "definition": "to trap someone or something under someone or something.  Someone knocked Gerry down and pinned Randy under him.  The accident pinned Maggie under the car."
+        },
+        {
+            "id": 141,
+            "phrase": "pin someone’s ears back†",
+            "definition": "1. Fig. to beat someone, especially about the head.  Don’t talk to me like that or I will pin your ears back! _ Max wanted to pin back Lefty’s ears for making fun of him. 2. Fig. to give someone a good scolding.  Did you hear him? He really pinned Chuck’s ears back.  He pinned back Chuck’s ears."
+        },
+        {
+            "id": 142,
+            "phrase": "pin something back†",
+            "definition": "to hold something back by pinning.  I will pin the curtains back to let a little more light in.  Jane pinned back the curtains."
+        },
+        {
+            "id": 143,
+            "phrase": "pin something on someone",
+            "definition": "Inf. to blame something on someone; to frame someone for a crime; to make it appear that an innocent person has actually committed a crime.  Don’t try to pin that crime on me! I didn’t do it. The gang member tried to pin the crime on a rival gang."
+        },
+        {
+            "id": 144,
+            "phrase": "pin something on someone or something",
+            "definition": "to hang something on someone or something by pinning.  The mayor pinned the medal on the boy who had rescued the swimmer. I pinned a yellow ribbon on my lapel."
+        },
+        {
+            "id": 145,
+            "phrase": "pin something (on)to something",
+            "definition": "to attach or fix something to someone or something by pinning. The mayor pinned the medal onto the lapel of the brave young hero.  She pinned a medal to his lapel."
+        },
+        {
+            "id": 146,
+            "phrase": "pin something up†",
+            "definition": "to raise something and hold it up with pins. I will pin this hem up and then sew it later. Please pin up the hem so I can see where to sew it. "
+        },
+        {
+            "id": 147,
+            "phrase": "pinch someone for something",
+            "definition": "Sl. to arrest someone for something.  The cops pinched Max for driving without a license.  Max was pinched for speeding."
+        },
+        {
+            "id": 148,
+            "phrase": "pinch something back†",
+            "definition": "to pinch off a bit of the top of a plant so it will branch and grow more fully.  You should pinch this back so it will branch.  Pinch back the new leaves at the top."
+        },
+        {
+            "id": 149,
+            "phrase": "pinch something from someone or something",
+            "definition": "Sl. to steal something from someone or something.  Sam pinched an apple from the produce stand.  We saw a pickpocket pinch a wallet from an old man."
+        },
+        {
+            "id": 150,
+            "phrase": "pinch-hit for someone",
+            "definition": "1. Fig. to bat for someone else in a baseball game.  Wally Wilson will pinch-hit for Gary Franklin. Rodney Jones is pinch-hitting for Babe DiMaggio. 2. Fig. to substitute for someone in any situation.  Bart will pinch-hit for Fred, who is at another meeting today. Who will pinch-hit for me while I am on vacation?"
+        },
+        {
+            "id": 151,
+            "phrase": "pine away (after someone or something)",
+            "definition": "to waste away in melancholy and longing for someone or something.  A year later, he was still pining away after Claire.  Still, he is pining away."
+        },
+        {
+            "id": 152,
+            "phrase": "pins and needles",
+            "definition": "a tingling feeling in some part of one’s body, especially the arms and legs.  I’ve got pins and needles in my legs.  Mary gets pins and needles if she crosses her arms for long."
+        },
+        {
+            "id": 153,
+            "phrase": "pipe down",
+            "definition": "to become quiet; to cease making noise; to shut up. (Especially as a rude command.) _ Pipe down! I’m trying to sleep.  Come on! Pipe down and get back to work!"
+        },
+        {
+            "id": 154,
+            "phrase": "a pipe dream",
+            "definition": "a wish or an idea that is impossible to achieve or carry out. (From the dreams or visions induced by the smoking of an opium pipe.) _ Going to the West Indies is a pipe dream. We’ll never have enough money.  Your hopes of winning a lot of money are just a silly pipe dream."
+        },
+        {
+            "id": 155,
+            "phrase": "pipe something away†",
+            "definition": "to conduct a liquid or a gas away through a pipe.  We will have to pipe the excess water away.  They piped away the water."
+        },
+        {
+            "id": 156,
+            "phrase": "pipe something from some place (to some place)",
+            "definition": "to conduct a liquid or a gas from one place to another place through a pipe.  One oil company wanted to pipe oil all the way from northern Alaska to a southern port on the Pacific.  The company pipes gas from the storage tanks in the middle of the state."
+        },
+        {
+            "id": 157,
+            "phrase": "pipe up (with something)",
+            "definition": "to interject a comment; to interrupt with a comment. Nick piped up with an interesting thought. You can always count on Alice to pipe up."
+        },
+        {
+            "id": 158,
+            "phrase": "piping hot",
+            "definition": "[of food] extremely hot.  On a cold day, I like to eat piping hot soup.  Be careful! This coffee is piping hot!"
+        },
+        {
+            "id": 159,
+            "phrase": "pipped (up)",
+            "definition": "Sl. intoxicated.  I’m not drunk. Just a little pipped up.  She’s pipped and ready to get sick."
+        },
+        {
+            "id": 160,
+            "phrase": "piss someone off†",
+            "definition": "Inf. to make someone angry. (Crude. Potentially offensive, even though it is widely used. Use with discretion.) _ She really pissed me off! _ That’s enough to piss off anybody."
+        },
+        {
+            "id": 161,
+            "phrase": "pissed (off )",
+            "definition": "Inf. angry. (Crude. Potentially offensive, even though it is heard widely. Use with discretion.) _I was so pissed off I could have screamed. He’s come back, and he’s sure pissed."
+        },
+        {
+            "id": 162,
+            "phrase": "the pit of one’s stomach",
+            "definition": "the middle of one’s stomach; the location of a “visceral response.” _I got a strange feeling in the pit of my stomach when they told me the bad news."
+        },
+        {
+            "id": 163,
+            "phrase": "pit someone or something against someone or something",
+            "definition": "to set someone or something in opposition to someone or something.  The rules of the tournament pit their team against ours.  John pitted Mary against Sally in the tennis match."
+        },
+        {
+            "id": 164,
+            "phrase": "pitch a tent",
+            "definition": "to erect a tent at a campsite.  The campers pitched their tent in a clearing in the woods.  I pitched my tent next to a large oak tree."
+        },
+        {
+            "id": 165,
+            "phrase": "pitch black",
+            "definition": "very black; as black as pitch. The hearse was pitch black.  The bandit rode on a pitch black horse and wore black clothing."
+        },
+        {
+            "id": 166,
+            "phrase": "pitch camp",
+            "definition": "to set up or arrange a campsite. We pitched camp near the stream.  Two campers went ahead of us to pitch camp while it was still light."
+        },
+        {
+            "id": 167,
+            "phrase": "pitch dark",
+            "definition": "very dark; as dark as pitch. I couldn’t see anything outside because it was pitch dark.  The room was pitch dark, and I couldn’t find the light switch!"
+        },
+        {
+            "id": 168,
+            "phrase": "pitch forward",
+            "definition": "to jerk or thrust forward.  Suddenly the car pitched forward, jerking the passengers around.  We pitched forward inside the car as we went over the bumpy road."
+        },
+        {
+            "id": 169,
+            "phrase": "pitch in (and help) (with something)",
+            "definition": "to join in and help someone with something.  Would you please pitch in and help with the party? _ Come on! Pitch in!"
+        },
+        {
+            "id": 170,
+            "phrase": "pitch someone a curve(ball)",
+            "definition": "to surprise someone with an unexpected act or event. (Referring to a curveball in baseball. It is the route of the ball that is curved, not the ball itself. See also throw someone a curve(ball).) _ You really pitched me a curveball when you said I had done a poor job. I did my best.  You asked Tom a trick question. You certainly pitched him a curve."
+        },
+        {
+            "id": 171,
+            "phrase": "pitch someone or something over something",
+            "definition": "to toss someone or something over something.  Then Max tried to pitch Lefty over the railing onto the tracks.  Billy pitched the stone over the wall."
+        },
+        {
+            "id": 172,
+            "phrase": "pitch something at someone or something",
+            "definition": "1. to throw something at someone or something.  The boys pitched cans at the tree.  We all pitched rocks at the big boulder. 2. to aim advertising at a particular group.  They pitched the ad campaign at teenagers.  These comedy programs are pitched at the lowest level of mentality."
+        },
+        {
+            "id": 173,
+            "phrase": "pitch something away†",
+            "definition": "to toss or throw something away.  He pitched the broken stick away, and looked around for something stronger.  He pitched away the stick."
+        },
+        {
+            "id": 174,
+            "phrase": "pitch something out†",
+            "definition": "to throw something away; to discard something. This cottage cheese is so old, I’m going to pitch it out.  They pitched out the bad food."
+        },
+        {
+            "id": 175,
+            "phrase": "pitch (the) woo",
+            "definition": "Inf. to kiss and caress; to woo someone. (Old but still heard.) _ They were out by the barn pitching woo. Old Ted can hardly see any more, but he can still pitch the woo."
+        },
+        {
+            "id": 176,
+            "phrase": "pivot on something",
+            "definition": "to rotate on something; to spin around, centered on something. This part spins around and pivots on this little red spot, which is what they call a jewel.  If the lever will not pivot on the bar, it needs some lubrication."
+        },
+        {
+            "id": 177,
+            "phrase": "place a strain on someone or something",
+            "definition": "to burden and nearly overwhelm someone or something.  The weight of all the trucks placed a strain on the bridge."
+        },
+        {
+            "id": 178,
+            "phrase": "place an order",
+            "definition": "to submit an order. My secretary placed an order for a new computer.  I placed my order only yesterday."
+        },
+        {
+            "id": 179,
+            "phrase": "A place for everything, and everything in its place.",
+            "definition": "Prov. Everything in order and put away where it belongs. (Used to describe a very orderly thing or place.) _I like to put my books in alphabetical order by author. She has a place for everything, and everything in its place.  Barbara’s room is so tidy. A place for everything, and everything in its place."
+        },
+        {
+            "id": 180,
+            "phrase": "place of business",
+            "definition": "a place where business is done; a factory or office.  Our place of business opens at 9:00 a.m. each day.  You will have to come to our place of business to make a purchase."
+        },
+        {
+            "id": 181,
+            "phrase": "a place of concealment",
+            "definition": "a hiding place.  She brought her little safe out of a place of concealment where it had been for decades."
+        },
+        {
+            "id": 182,
+            "phrase": "place one’s trust in someone or something",
+            "definition": "to trust someone or something.  If you place your trust in me, everything will work out all right.  You should place your trust in your own proven talent."
+        },
+        {
+            "id": 183,
+            "phrase": "place someone in an awkward position",
+            "definition": "to put someone in an embarrassing or delicate situation. Your decision places me in an awkward position.  I’m afraid I have put myself in sort of an awkward position."
+        },
+        {
+            "id": 184,
+            "phrase": "place someone or something above someone or something",
+            "definition": "to put someone or something in a place that is higher than someone or something else.  I placed Sally above everyone else in a place where she could see everything.  I placed the book above Sally on a shelf.  Who placed the mirror above the fireplace?"
+        },
+        {
+            "id": 185,
+            "phrase": "place someone or something at something",
+            "definition": "1. to put someone or something somewhere.  The king placed extra guards at the door for the night.  I placed the wine bottle at the left of the host. 2. to figure that someone or something was in a certain place. The detective placed Randy at the scene of the crime about midnight.  I place the getaway car at the first tollbooth at dawn."
+        },
+        {
+            "id": 186,
+            "phrase": "place someone or something behind someone or something",
+            "definition": "1. to move someone or something to a place behind or to the rear of someone or something else.  Place the taller boy behind John in the second row.  Place the iris behind the nasturtium. 2. to rank or estimate someone or something behind someone or something else. I would place George behind Fred in this contest. Frank placed the white horse well behind the black one in the race."
+        },
+        {
+            "id": 187,
+            "phrase": "place someone or something in jeopardy",
+            "definition": "to put someone or something at risk.  Do you realize that what you just said places all of us in jeopardy? _She has placed the entire project in jeopardy."
+        },
+        {
+            "id": 188,
+            "phrase": "place someone or something next to someone or something",
+            "definition": "to put someone or something immediately adjacent to someone or something.  Please don’t place Donna next to Betty for the class photograph. They are wearing identical dresses.  Please don’t place the f lowers next to me. I have hay fever."
+        },
+        {
+            "id": 189,
+            "phrase": "place someone or something on someone or something",
+            "definition": "to put or lay someone or something on someone or something.  The archbishop placed the crown on the new queen.  The police officer placed Timmy on the sergeant’s desk and gave him an ice-cream cone."
+        },
+        {
+            "id": 190,
+            "phrase": "place someone with someone or something",
+            "definition": "to get someone a job with someone or some company.  The agency was able to place me with Dave, who runs a small candy store on Maple Street.  They placed me with a firm that makes doghouses."
+        },
+        {
+            "id": 191,
+            "phrase": "place something aside†",
+            "definition": "to set something aside or out of the way.  Place this one aside and we’ll keep it for ourselves.  Place aside some of the smaller ones for later."
+        },
+        {
+            "id": 192,
+            "phrase": "place something at a premium",
+            "definition": "to force up the value of something so that its price is higher.  The rapid changes in the market placed all the medical stocks at a premium.  The goods had been placed at a premium by the changing market conditions."
+        },
+        {
+            "id": 193,
+            "phrase": "place something back",
+            "definition": "1. to move something backwards. Place this chair back a little. It is in the walkway. Would you please place the boxes back so there is more room to get through? 2. to return something to where it was.  You found it on the table. Place it back when you finish. When you finish examining the book from the shelf, place it back."
+        },
+        {
+            "id": 194,
+            "phrase": "place something down† (on something)",
+            "definition": "to put something down on something.  Place the book down on the top of the table.  Please place down the book on the table."
+        },
+        {
+            "id": 195,
+            "phrase": "place something in something",
+            "definition": "to put something inside something.  Place the rabbit in the pen with the others.  Please place your dishes in the sink when you finish."
+        },
+        {
+            "id": 196,
+            "phrase": "place something under someone or something",
+            "definition": "to put something beneath someone or something.  Bill was in the tree trying to get down, so we placed a ladder under him.  I placed my wallet under my pillow."
+        },
+        {
+            "id": 197,
+            "phrase": "place something with someone or something",
+            "definition": "to leave something in the care of someone or something.  We placed the trunk with Fred and his wife.  Mary placed the problem with the committee, hoping a solution could be found."
+        },
+        {
+            "id": 198,
+            "phrase": "place the blame on someone or something (for something)",
+            "definition": "to blame someone or something for something.  Please don’t try to place the blame on me for the accident.  The insurance company placed the blame on the weather."
+        },
+        {
+            "id": 199,
+            "phrase": "a place to call one’s own",
+            "definition": "a home of one’s very own.  I am tired of living with my parents. I want a place to call my own."
+        },
+        {
+            "id": 200,
+            "phrase": "plague someone or something with something",
+            "definition": "to bother or annoy someone or something with something.  Stop plaguing me with your requests.  We plagued the committee with ideas."
+        },
+        {
+            "id": 201,
+            "phrase": "plan for someone",
+            "definition": "to prepare enough [of something] for someone.  Fred just called and said he can show up for dinner after all. Please plan for him. Tony wasn’t planned for, and there is no place for him to sit."
+        },
+        {
+            "id": 202,
+            "phrase": "plan for something",
+            "definition": "1. to prepare for something.  I need to take some time and plan for my retirement.  We carefully planned for almost every possibility. 2. to prepare or estimate for a certain number [of people or things].  I am planning for twelve. I hope everyone can come."
+        },
+        {
+            "id": 203,
+            "phrase": "plan on someone",
+            "definition": "to be ready for someone; to anticipate someone’s arrival. Don’t plan on Sam. He has a cold and probably won’t come.  We are planning on Ted and Bill."
+        },
+        {
+            "id": 204,
+            "phrase": "plan on something",
+            "definition": "to prepare for something; to be ready for something; to anticipate something.  If I were you, I would plan on a big crowd at your open house.  This was not planned on."
+        },
+        {
+            "id": 205,
+            "phrase": "plan something out†",
+            "definition": "to make thorough plans for something.  Let us sit down and plan our strategy out.  We sat down and planned out our strategy."
+        },
+        {
+            "id": 206,
+            "phrase": "plane something away†",
+            "definition": "to smooth off bumps or irregularities with a plane. Please plane the bumps away so that the board is perfectly smooth.  Sam planed away the bumps."
+        },
+        {
+            "id": 207,
+            "phrase": "plane something down†",
+            "definition": "to smooth something down with a plane; to remove some material from something with a plane.  I will have to plane the door down before I hang it again.  I planed down the edge of the door for you."
+        },
+        {
+            "id": 208,
+            "phrase": "plane something off†",
+            "definition": "to remove bumps, nicks, or scrapes by planing.  Plane the rough places off so the surface will be as smooth as possible.  Sam planed off the bumps."
+        },
+        {
+            "id": 209,
+            "phrase": "plank over something",
+            "definition": "to cover something over with planking.  The county planked over the old bridge so bicyclists could use it."
+        },
+        {
+            "id": 210,
+            "phrase": "plant something in something",
+            "definition": "to set out a plant in something; to sow seeds in something. Are you going to plant tomatoes in these pots? _ What have you planted in the garden?"
+        },
+        {
+            "id": 211,
+            "phrase": "plant something on someone",
+            "definition": "1. to hide incriminating evidence on a person for later discovery and use in prosecution. (Drugs. Allegedly a police practice used to entrap drug offenders.) _ The cops planted crack on Richard and then arrested him for carrying it.  Don’t touch me! You’ll plant something on me! 2. to conceal narcotics or other contraband on an unsuspecting person for the purpose of smuggling. (This person will bear the risk of discovery and arrest.) _ The crooks planted the stuff on a passenger, but couldn’t find him when the plane landed.  Someone had planted coke on me, and the airport security officer found it."
+        },
+        {
+            "id": 212,
+            "phrase": "plaster one’s hair down†",
+            "definition": "to use water, oil, or cream to dress the hair for combing. (The result looks plastered to the head.) _ Tony used some strange substance to plaster his hair down. He plastered down his hair with something that smells good."
+        },
+        {
+            "id": 213,
+            "phrase": "plaster over something",
+            "definition": "to cover over something with plaster.  I think that we will just plaster over the cracks in the wall."
+        },
+        {
+            "id": 214,
+            "phrase": "plaster something up†",
+            "definition": "to close something up with plaster; to cover over holes or cracks in a wall with plaster.  He plastered the cracks up and then painted over them.  You have to plaster up the cracks."
+        },
+        {
+            "id": 215,
+            "phrase": "plaster something with something",
+            "definition": "to spread some substance onto something. Jane plastered each slice of bread with butter and then heaped on a glob of jam.  She plastered the wall with a thin coat of fine white plaster."
+        },
+        {
+            "id": 216,
+            "phrase": "play a bit part",
+            "definition": "to perform a small part in a play or a movie.  She played a few bit parts in minor Broadway plays, and then got the lead in an exciting new musical."
+        },
+        {
+            "id": 217,
+            "phrase": "play a joke on someone",
+            "definition": "to make a joke that tricks someone. The children played a joke on their teacher. I don’t like it when you play jokes on me."
+        },
+        {
+            "id": 218,
+            "phrase": "play against someone or something",
+            "definition": "to compete against someone or something in a team sport.  We won’t be ready to play against the other team this weekend.  We refuse to play against you until the field is in better condition."
+        },
+        {
+            "id": 219,
+            "phrase": "play along (with someone or something)",
+            "definition": "to play a musical instrument with someone or a group.  The trombonist sat down and began to play along with the others.  Do you mind if I play along?"
+        },
+        {
+            "id": 220,
+            "phrase": "play at something",
+            "definition": "to pretend to be doing something. You are not fixing the car, you are just playing at repair work! _ Stop playing at doing the dishes and get the job done."
+        },
+        {
+            "id": 221,
+            "phrase": "play ball with someone",
+            "definition": "to toss a ball back and forth with someone.  Carla is out playing ball with the little kids.  Will you play ball with us?"
+        },
+        {
+            "id": 222,
+            "phrase": "play both ends (against the middle)",
+            "definition": "[for one] to scheme in a way that pits two sides against each other (for one’s own gain). I told my brother that Mary doesn’t like him. Then I told Mary that my brother doesn’t like her. They broke up, so now I can have the car this weekend. I succeeded in playing both ends against the middle. If you try to play both ends, you’re likely to get in trouble with both sides."
+        },
+        {
+            "id": 223,
+            "phrase": "play cat and mouse with someone",
+            "definition": "to be coy and evasive with someone. I know what you are up to. Don’t play cat and mouse with me! _ I wish that they wouldn’t play cat and mouse with me!"
+        },
+        {
+            "id": 224,
+            "phrase": "play dead",
+            "definition": "to pretend to be dead. When the bear attacked me, I just dropped down and played dead."
+        },
+        {
+            "id": 225,
+            "phrase": "play down to someone",
+            "definition": "to condescend to one’s audience.  Why are you playing down to the audience? They will walk out on you! _Don’t play down to the people who have paid their money to see you."
+        },
+        {
+            "id": 226,
+            "phrase": "play fair",
+            "definition": "to do something by the rules; to play something in a fair and just manner. John won’t play with Bill anymore because Bill doesn’t play fair.  You moved the golf ball with your foot! That’s not playing fair!"
+        },
+        {
+            "id": 227,
+            "phrase": "play fast and loose (with someone or something)",
+            "definition": "to act carelessly, thoughtlessly, and irresponsibly. I’m tired of your playing fast and loose with me. Leave me alone.  Bob got fired for playing fast and loose with the company’s money."
+        },
+        {
+            "id": 228,
+            "phrase": "play first chair",
+            "definition": "1. to be the leader of a section of instruments in an orchestra or a band. (More literal than the following sense.) _Sally learned to play the violin so well that she now plays first chair in the orchestra.  I’m going to practice my f lute so I can play first chair. 2. Fig. to act as a leader.  I need to get this job done. Who plays first chair around here? _You’re not the boss! You don’t play first chair."
+        },
+        {
+            "id": 229,
+            "phrase": "play footsie with someone",
+            "definition": "1. to get romantically or sexually involved with someone. (Refers literally to secretly pushing or rubbing feet with someone under the table.) _ Someone said that Ruth is playing footsie with Henry.  Henry and Ruth are playing footsie with each other. 2. to get involved in a scheme with someone; to cooperate with someone.  The guy who runs the butcher shop was playing footsie with the city meat inspector.  Henry was playing footsie with the mayor in order to get the contract."
+        },
+        {
+            "id": 230,
+            "phrase": "play for keeps",
+            "definition": "to do things with permanent effect; to be serious in one’s actions. (From the game of marbles, where the winner actually keeps all the marbles won.) _ Are we playing for keeps or can we give everything back at the end of the game? _ We are playing for keeps, so be careful of what you do."
+        },
+        {
+            "id": 231,
+            "phrase": "play for something",
+            "definition": "1. to gamble for something; to use something as the medium of exchange for gaming or gambling.  Let’s just play for nickels, okay? _We will play for dollar bills. 2. to play for a particular reason, other than winning.  We are just playing for fun.  They are not competing. They are playing for practice."
+        },
+        {
+            "id": 232,
+            "phrase": "play for time",
+            "definition": "to stall; to act in such a way as to gain time.  I’ll play for time while you sneak out the window.  The lawyers for the defense were playing for time while they looked for a witness."
+        },
+        {
+            "id": 233,
+            "phrase": "play freeze-out",
+            "definition": "to open windows and doors, or turn down a thermostat, making someone cold.  Wow, it’s cold in here! Who’s playing freeze-out? _Is someone trying to play freeze-out?"
+        },
+        {
+            "id": 234,
+            "phrase": "play games (with someone)",
+            "definition": "to use clever strategies against someone. Come on! Stop playing games with me. Let’s talk this over."
+        },
+        {
+            "id": 235,
+            "phrase": "play hard to get",
+            "definition": "to be coy, intentionally shy, and fickle. (Usually refers to someone of the opposite sex.) _ Why can’t we go out? Why do you play hard to get? _ Sally annoys all the boys because she plays hard to get."
+        },
+        {
+            "id": 236,
+            "phrase": "play hardball (with someone)",
+            "definition": "to act strong and aggressive about an issue with someone. Things are getting a little tough. The president has decided to play hardball on this issue.  If he wants to play hardball with us, we can play that way, too."
+        },
+        {
+            "id": 237,
+            "phrase": "play hell with someone or something",
+            "definition": "to cause enormous disruptions with someone or something. (Use discretion with hell.) _ Your proposal would play hell with Gerry and his plans. This new event really plays hell with my schedule."
+        },
+        {
+            "id": 238,
+            "phrase": "play hooky",
+            "definition": "to fail to attend school or some other event.  Why aren’t you in school? Are you playing hooky? _ I don’t have time for the sales meeting today, so I think I’ll just play hooky."
+        },
+        {
+            "id": 239,
+            "phrase": "play in something",
+            "definition": "1. to play a musical instrument in some musical organization.  I used to play in a band.  I wanted to play in the orchestra but I wasn’t good enough. 2. [for someone] to play the action of a game in a particular position or location. Fred played in left field for the rest of the game.  I will play in the backfield for the rest of the game. 3. to perform in a specific production.  She played in the Broadway production of Major Barbara.  Once, I played in The Mikado."
+        },
+        {
+            "id": 240,
+            "phrase": "play in the big leagues",
+            "definition": "to be involved in something of large or important proportions. (Alludes to playing a professional sport at the highest level.) _ You had better shape up if you want to play in the big leagues.  The conductor shouted at the oboist, “You’re playing in the big leagues now. Tune up or ship out.”"
+        },
+        {
+            "id": 241,
+            "phrase": "play innocent",
+            "definition": "to pretend to be innocent and not concerned.  There is no need to play innocent. I know you broke the lamp! _ John is playing innocent, and he knows more than he is telling us."
+        },
+        {
+            "id": 242,
+            "phrase": "play into someone’s hands",
+            "definition": "[for a person one is scheming against] to assist one in one’s scheming without realizing it.  John is doing exactly what I hoped he would. He’s playing into my hands.  John played into my hands by taking the cash he found in my desk. I caught him and had him arrested."
+        },
+        {
+            "id": 243,
+            "phrase": "play it cool",
+            "definition": "1. Inf. to do something while not revealing insecurities or incompetence; to act blasé.  Play it cool, man. Look like you belong there. If the boss walks in, just play it cool. 2. Inf. to hold one’s temper.  Come on now. Let it pass. Play it cool.  Don’t let them get you mad. Play it cool."
+        },
+        {
+            "id": 244,
+            "phrase": "play it for all it’s worth",
+            "definition": "to exploit a problem, disability, or injury to get as much sympathy or compensation as possible.  He injured his hand before the examination and he played it for all it was worth in order to get the exam delayed."
+        },
+        {
+            "id": 245,
+            "phrase": "play it safe",
+            "definition": "to be or act safe; to avoid taking a risk.  You should play it safe and take your umbrella.  If you have a cold or the f lu, play it safe and go to bed."
+        },
+        {
+            "id": 246,
+            "phrase": "play like someone or something",
+            "definition": "to pretend to be someone or a type of a person.  Sam is playing like Mr. Watson, the teacher. He is playing like a teacher and helping Mary with her homework."
+        },
+        {
+            "id": 247,
+            "phrase": "play on",
+            "definition": "to continue to play.  The band played on and the dance continued until the wee hours of the morning.  We played on and on until the last guests left the party."
+        },
+        {
+            "id": 248,
+            "phrase": "play on someone’s heartstrings",
+            "definition": "to attempt to get sympathy from someone.  She is crying so she can play on your heartstrings and try to get you to take her home."
+        },
+        {
+            "id": 249,
+            "phrase": "play on something",
+            "definition": "to have an effect on something; to manage something for a desired effect. (The on can be replaced by upon.) _ The clerk played on my sense of responsibility in trying to get me to buy the book.  See if you can get her to confess by playing on her sense of guilt."
+        }
+    ]
+}
