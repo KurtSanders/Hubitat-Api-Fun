@@ -7,7 +7,7 @@ import groovy.transform.Field
 @Field static final String AUTHOR_NAME          	= "Kurt Sanders"
 @Field static final String NAMESPACE            	= "kurtsanders"
 @Field static final String COMM_LINK            	= "https://community.hubitat.com/"
-@Field static final String GITHUB_LINK          	= "https://github.com/KurtSanders/Idioms"
+@Field static final String GITHUB_LINK          	= "https://github.com/KurtSanders/Hubitat-Fun/tree/main"
 
 library (
     base: "app",
