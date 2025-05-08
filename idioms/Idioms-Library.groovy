@@ -40,3 +40,30 @@ String fmtHelpInfo(String str) {
 
     }
 }
+
+//Logging Functions
+def logMessage(String msg) {
+    if (app) {
+        return "<span style='color: blue'>${app.name}</span>: ${msg}"   
+    } else {
+        return "<span style='color: green'>${device.name}</span>: ${msg}"           
+    }
+}
+
+void logErr(String msg) {
+    if (logLevelInfo.level>=1) log.error "${logMessage(msg)}"
+}
+void logWarn(String msg) {
+    if (logLevelInfo.level>=2) log.warn "${logMessage(msg)}"
+}
+void logInfo(String msg) {
+    if (logLevelInfo.level>=3) log.info "${logMessage(msg)}"
+}
+
+void logDebug(String msg) {
+        if (logLevelInfo.level>=4) log.debug "${logMessage(msg)}"
+}
+
+void logTrace(String msg) {
+        if (logLevelInfo.level>=5) log.trace "${logMessage(msg)}"
+}
