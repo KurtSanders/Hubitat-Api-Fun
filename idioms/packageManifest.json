@@ -4,7 +4,7 @@
   "minimumHEVersion": "0.0.1",
   "dateReleased": "2025-05-08",
   "documentationLink": "https://github.com/KurtSanders/Hubitat-Fun/tree/main/idioms#readme",
-  "communityLink": "https://community.hubitat.com/",
+  "communityLink": "https://community.hubitat.com/t/release-new-hubitat-fun-apps-idioms/153331",
   "licenseFile": "",
   "releaseNotes": "Version 0.0.1\n• Provides a device driver that creates a different idiom phrase and the definition each time the device is refreshed or switched toggled on.  An idiom sentence attribute is availabe for voice TTS output.",
   "bundles": [
