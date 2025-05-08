@@ -12,4 +12,4 @@
 
 ### Idioms Device Attributes
 
-<img src="https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun/main/idioms/images/Idioms_Device_Screenshot.jpg"> 
+<img src="https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun/main/idioms/images/Idioms_Device_Screenshot.jpg" width="400px"> 
