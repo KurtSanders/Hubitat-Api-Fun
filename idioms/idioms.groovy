@@ -58,16 +58,18 @@ preferences {
 
 def installed() {
     setLogLevel("Debug", "30 Minutes")
-    logInfo "Setting Inital logging level to 'Debug' for 30 minutes"
+    checkLogLevel()  // Set Logging Objects    
+	log.info "Setting Inital logging level to 'Debug' for 30 minutes"
     state.idiomNextKey = 0
+	log.info "Initializing Idioms Database..  Please wait"
+    refresh()
+	log.info "Idioms Database Initialization Completed"
 }
 
 def updated() {
     logInfo "updated..."
+    checkLogLevel()  // Set Logging Objects    
     logDebug "Debug logging is: ${logEnable == true}"
-    checkLogLevel()  // Set Logging Objects
-    state.remove('url')
-    
 }
 
 def idiomsFileNumber(num=1) {
