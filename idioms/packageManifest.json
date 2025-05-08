@@ -17,7 +17,7 @@
       "required": true
     },
         {
-      "id": "ff1af273-2b99-4972-a47c-8a8db1735240",
+      "id": "10673de5-1373-46a0-890c-e6a8c6148d34",
       "name": "Idioms-Library",
       "namespace": "kurtsanders",
       "version": "0.0.1",
@@ -27,9 +27,9 @@
   ],
   "drivers": [
     {
-      "id": "770e3d0b-ef33-4dab-8921-b67d59b5abff",
-      "name": "Balboa Hot Tub Local Driver",
-      "version": "0.0.5",
+      "id": "ede31c4f-6a87-4630-b793-5a1af0d49a3c",
+      "name": "Idioms",
+      "version": "0.0.1",
       "namespace": "kurtsanders",
       "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun/refs/heads/main/idioms/idioms.groovy",
       "required": true
