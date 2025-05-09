@@ -1,0 +1,3074 @@
+{
+"dictionary": [
+{
+"phrase": "A bad break",
+"definition": "1. A misfortune. 2. A serious bone fracture.",
+"id": 0
+},
+{
+"phrase": "A bad hair day",
+"definition": "A day on which everything seems to go wrong.",
+"id": 1
+},
+{
+"phrase": "A bad workman always blames his tools",
+"definition": "A proverb that suggests a poor workman tends to look for an excuse for his poor work.",
+"id": 2
+},
+{
+"phrase": "A big ask",
+"definition": "A favour which is a lot to ask of someone.",
+"id": 3
+},
+{
+"phrase": "A bigger bang for your buck",
+"definition": "Better value for your money.",
+"id": 4
+},
+{
+"phrase": "A bird in the hand is worth two in the bush",
+"definition": "Itâs better to have a lesser but certain advantage than the possibility of a greater one that may come to nothing.",
+"id": 5
+},
+{
+"phrase": "A bite to eat",
+"definition": "A small meal, possibly taken quickly when time is short.",
+"id": 6
+},
+{
+"phrase": "A blessing in disguise",
+"definition": "An apparent misfortune that works to the eventual benefit of the recipient.",
+"id": 7
+},
+{
+"phrase": "A bull and cow",
+"definition": "Cockney rhyming slang for a row or argument.",
+"id": 8
+},
+{
+"phrase": "A bunch of fives",
+"definition": "A fist, as used in a fight.",
+"id": 9
+},
+{
+"phrase": "A chip on your shoulder",
+"definition": "A sense of inferiority characterized by a quickness to take offence.",
+"id": 10
+},
+{
+"phrase": "A diamond in the rough",
+"definition": "A person or thing having good underlying qualities while appearing to be coarse and unpolished.",
+"id": 11
+},
+{
+"phrase": "A dime a dozen",
+"definition": "So commonplace as to be of little consequence.",
+"id": 12
+},
+{
+"phrase": "A doubting Thomas",
+"definition": "A sceptic who wonât accept a widely believed truth until seeing the evidence in person.",
+"id": 13
+},
+{
+"phrase": "A drop in the bucket",
+"definition": "A very small part of a bigger whole.",
+"id": 14
+},
+{
+"phrase": "A fate worse than death",
+"definition": "The reputed opinion of sexual intercourse by prim Victorian ladies.",
+"id": 15
+},
+{
+"phrase": "A feather in one's cap",
+"definition": "A symbol of achievement.",
+"id": 16
+},
+{
+"phrase": "A fish out of water",
+"definition": "Someone in an unfamiliar circumstance.",
+"id": 17
+},
+{
+"phrase": "A flash in the pan",
+"definition": "Something that fails to deliver long-term benefit after an initial success.",
+"id": 18
+},
+{
+"phrase": "A fly in the ointment",
+"definition": "A small flaw that spoils the whole.",
+"id": 19
+},
+{
+"phrase": "A fly on the wall",
+"definition": "1. An unperceived observer - able to see and hear but not be seen or heard. 2 - A form of cinema in which events are recorded without direction.",
+"id": 20
+},
+{
+"phrase": "A fool and his money are soon parted",
+"definition": "A foolish person is very likely to lose his money.",
+"id": 21
+},
+{
+"phrase": "A fool's paradise",
+"definition": "A state of euphoria with no basis in reality.",
+"id": 22
+},
+{
+"phrase": "A foot in the door",
+"definition": "An initial inroad that may lead to greater influence in future.",
+"id": 23
+},
+{
+"phrase": "A golden key can open any door",
+"definition": "Money always has a telling influence.",
+"id": 24
+},
+{
+"phrase": "A hot potato",
+"definition": "A current issue which many people are talking about and which is controversial.",
+"id": 25
+},
+{
+"phrase": "A house divided against itself cannot stand",
+"definition": "Failure is certain if those on the same side argue amongst themselves.",
+"id": 26
+},
+{
+"phrase": "A knight in shining armour",
+"definition": "A person who comes to the aid of another when other hopes have faded, like the knights in romantic stories.",
+"id": 27
+},
+{
+"phrase": "A leopard can't change his spots",
+"definition": "You cannot change your innate self.",
+"id": 28
+},
+{
+"phrase": "A little bird told me",
+"definition": "I was told by an undisclosed source.",
+"id": 29
+},
+{
+"phrase": "A load of cobblers",
+"definition": "Nonsense.",
+"id": 30
+},
+{
+"phrase": "A load of codswallop",
+"definition": "Nonsense.",
+"id": 31
+},
+{
+"phrase": "A lot on your plate",
+"definition": "Having many responsibilities.",
+"id": 32
+},
+{
+"phrase": "A man after my own heart",
+"definition": "A kindred spirit. Someone who thinks as I do.",
+"id": 33
+},
+{
+"phrase": "A miss is as good as a mile",
+"definition": "Some endeavours either succeed or they donât - to miss narrowly is still failure.",
+"id": 34
+},
+{
+"phrase": "A penny for your thoughts",
+"definition": "A way of asking what someone is thinking.",
+"id": 35
+},
+{
+"phrase": "A penny saved is a penny earned",
+"definition": "Anything you save has the same effect as adding to your income.",
+"id": 36
+},
+{
+"phrase": "A picture paints a thousand words",
+"definition": "Pictures are far more descriptive than words.",
+"id": 37
+},
+{
+"phrase": "A piece of cake",
+"definition": "A task that can be accomplished very easily.",
+"id": 38
+},
+{
+"phrase": "A pig in a poke",
+"definition": "A commodity that is bought without first examining it.",
+"id": 39
+},
+{
+"phrase": "A place in the sun",
+"definition": "An idealistic dream of a sunny hideaway.",
+"id": 40
+},
+{
+"phrase": "A red rag to a bull",
+"definition": "A deliberate provocation.",
+"id": 41
+},
+{
+"phrase": "A safe pair of hands",
+"definition": "A reliable person, who can be trusted not to fail in a a task.",
+"id": 42
+},
+{
+"phrase": "A sea change",
+"definition": "A radical change.",
+"id": 43
+},
+{
+"phrase": "A sight for sore eyes",
+"definition": "A welcome sight that you werenât expecting.",
+"id": 44
+},
+{
+"phrase": "A skeleton in the closet",
+"definition": "A secret and possibly ruinous source of shame.",
+"id": 45
+},
+{
+"phrase": "A shot in the arm",
+"definition": "A boost or encouragement.",
+"id": 46
+},
+{
+"phrase": "A slap on the wrist",
+"definition": "A mild rebuke, often given when a more severe punishment might be expected.",
+"id": 47
+},
+{
+"phrase": "A sledgehammer to crack a nut",
+"definition": "The use of excessive resources to overcome a small problem.",
+"id": 48
+},
+{
+"phrase": "A sorry sight",
+"definition": "1. Something sadly neglected. 2. A person or thing of untidy appearance.",
+"id": 49
+},
+{
+"phrase": "A stitch in time saves nine",
+"definition": "A small effort made at the right time might save a calamity later on.",
+"id": 50
+},
+{
+"phrase": "A stone's throw",
+"definition": "A short distance.",
+"id": 51
+},
+{
+"phrase": "A taste of your own medicine",
+"definition": "Mistreatment you receive in retaliation to that you gave to others.",
+"id": 52
+},
+{
+"phrase": "A thorn in my flesh",
+"definition": "A persistent and difficult to ignore annoyance.",
+"id": 53
+},
+{
+"phrase": "A toss up",
+"definition": "1. The flip of a coin to decide on something. 2. A result, usually between two courses of action, which is uncertain and could go either way.",
+"id": 54
+},
+{
+"phrase": "A wolf in sheep's clothing",
+"definition": "Someone who uses the pretence of kindliness to disguise their evil intent.",
+"id": 55
+},
+{
+"phrase": "About face",
+"definition": "1. A military command to turn when on parade. 2. A change from oneâs previous position.",
+"id": 56
+},
+{
+"phrase": "About time",
+"definition": "1. Almost time. 2. High time.",
+"id": 57
+},
+{
+"phrase": "Absence makes the heart grow fonder",
+"definition": "Our feelings for people and things grows when we are apart from them.",
+"id": 58
+},
+{
+"phrase": "Abso-bloody-lutely",
+"definition": "A more emphatic version of âAbsolutelyâ.",
+"id": 59
+},
+{
+"phrase": "Ace in the hole",
+"definition": "A saved, hidden advantage that can supply a victory when revealed.",
+"id": 60
+},
+{
+"phrase": "Achilles' heel",
+"definition": "A fatal weakness in an otherwise strong person or thing.",
+"id": 61
+},
+{
+"phrase": "Across the board",
+"definition": "Applying everywhere and to all classes of thing.",
+"id": 62
+},
+{
+"phrase": "Act your age",
+"definition": "Behave in a manner appropriate to your stage in life.",
+"id": 63
+},
+{
+"phrase": "Actions speak louder than words",
+"definition": "Actions show oneâs character more than what you say.",
+"id": 64
+},
+{
+"phrase": "Adam's ale",
+"definition": "A reference to water - often used to emphasize the purity of water compared to other drinks.",
+"id": 65
+},
+{
+"phrase": "Add fuel to the fire",
+"definition": "Make a bad situation even worse than it is.",
+"id": 66
+},
+{
+"phrase": "Add insult to injury",
+"definition": "To further a loss. To make a bad situation worse.",
+"id": 67
+},
+{
+"phrase": "Against the clock",
+"definition": "In a great hurry to complete something before a set deadline.",
+"id": 68
+},
+{
+"phrase": "Ain't my first rodeo",
+"definition": "Said by someone who has experience of a situation.",
+"id": 69
+},
+{
+"phrase": "Al fresco",
+"definition": "In the open air.",
+"id": 70
+},
+{
+"phrase": "Al desko",
+"definition": "Eating oneâs lunch while still working. (A Pun on âAl frescoâ.).",
+"id": 71
+},
+{
+"phrase": "All at sea",
+"definition": "In a confused, disordered state.",
+"id": 72
+},
+{
+"phrase": "All kidding aside",
+"definition": "Said when you want people to realise you are speaking seriously, when they might otherwise think you were joking.",
+"id": 73
+},
+{
+"phrase": "All bark and no bite",
+"definition": "Having lots to say but not willing to engage in a fight.",
+"id": 74
+},
+{
+"phrase": "All Greek to me",
+"definition": "Incomprehensible, as Greek is to someone who cannot speak it.",
+"id": 75
+},
+{
+"phrase": "All in all",
+"definition": "On the whole - when everything is considered.",
+"id": 76
+},
+{
+"phrase": "All in a day's work",
+"definition": "Typical; a normal set of circumstances.",
+"id": 77
+},
+{
+"phrase": "All set",
+"definition": "Ready to go.",
+"id": 78
+},
+{
+"phrase": "All the way",
+"definition": "Referring to something that is done fully, especially as a euphemism for full sexual activity.",
+"id": 79
+},
+{
+"phrase": "All thumbs",
+"definition": "Clumsy or physically inept.",
+"id": 80
+},
+{
+"phrase": "All to cock",
+"definition": "Ruined or shambolic.",
+"id": 81
+},
+{
+"phrase": "All together now",
+"definition": "Invitation to join in communal singing.",
+"id": 82
+},
+{
+"phrase": "Alley cat",
+"definition": "1. A cat that lives wild in a town. 2. Slang term for a prostitute.",
+"id": 83
+},
+{
+"phrase": "Alpha Mom",
+"definition": "An ambitious mother who aims to excel at work while raising children.",
+"id": 84
+},
+{
+"phrase": "Alphabet soup",
+"definition": "A jumble of words or letters, often referring to organisations known by their initials, like CIA or BBC.",
+"id": 85
+},
+{
+"phrase": "Amber nectar",
+"definition": "A slang term for lager.",
+"id": 86
+},
+{
+"phrase": "Amped up",
+"definition": "Excited and ready for action.",
+"id": 87
+},
+{
+"phrase": "An act of God",
+"definition": "Some event that is considered to be outside human control. Commonly used in insurance policies to refer to events that the insured cannot be held responsible for.",
+"id": 88
+},
+{
+"phrase": "An arm and a leg",
+"definition": "Very expensive. A large amount of money.",
+"id": 89
+},
+{
+"phrase": "An axe to grind",
+"definition": "A dispute with someone.",
+"id": 90
+},
+{
+"phrase": "An open and shut case",
+"definition": "A straightforward legal case in which the outcome is clear.",
+"id": 91
+},
+{
+"phrase": "Ankle biter",
+"definition": "A slang term for small child.",
+"id": 92
+},
+{
+"phrase": "Apples and pears",
+"definition": "Cockney rhyming slang for stairs.",
+"id": 93
+},
+{
+"phrase": "As high as a kite",
+"definition": "1. Very high up in the sky. 2. High on drugs or excitement.",
+"id": 94
+},
+{
+"phrase": "At the drop of a hat",
+"definition": "With no delay.",
+"id": 95
+},
+{
+"phrase": "Away with the fairies",
+"definition": "Not facing reality; in a dream world.",
+"id": 96
+},
+{
+"phrase": "Baby brain",
+"definition": "Confusion or forgetfulness caused by lack of sleep when caring for a new-born.",
+"id": 97
+},
+{
+"phrase": "Baby bump",
+"definition": "The protruding belly of a pregnant woman. Also used to describe the unborn child itself.",
+"id": 98
+},
+{
+"phrase": "Baby snatcher",
+"definition": "Someone who enters into an amorous relationship with a much younger person.",
+"id": 99
+},
+{
+"phrase": "Back seat driver",
+"definition": "Someone who criticizes from the side-lines without being directly involved.",
+"id": 100
+},
+{
+"phrase": "Back to square one",
+"definition": "Back to the beginning.",
+"id": 101
+},
+{
+"phrase": "Back to the drawing board",
+"definition": "Said when a plan fails and it's time to start again and make a new plan.",
+"id": 102
+},
+{
+"phrase": "Bag lady",
+"definition": "A homeless woman, who carries all her possessions in shopping bags.",
+"id": 103
+},
+{
+"phrase": "Baker's dozen",
+"definition": "Thirteen.",
+"id": 104
+},
+{
+"phrase": "Barking up the wrong tree",
+"definition": "Responding to something which isn't the important issue.",
+"id": 105
+},
+{
+"phrase": "Barnet Fair",
+"definition": "Cockney rhyming slang for hair.",
+"id": 106
+},
+{
+"phrase": "Basket case",
+"definition": "A person or thing that is no longer able to function effectively, either through disability or misfortune.",
+"id": 107
+},
+{
+"phrase": "Bat from the pavilion end",
+"definition": "Slang term for a homosexuality.",
+"id": 108
+},
+{
+"phrase": "Be a sport",
+"definition": "Be generous and/or sportsmanlike.",
+"id": 109
+},
+{
+"phrase": "Be glad to see the back of",
+"definition": "Be happy when a person leaves or when an unpleasant situation is ended.",
+"id": 110
+},
+{
+"phrase": "Beach bum",
+"definition": "Someone, usually a youngster, who spends all their time hanging out at the beach surfing and partying.",
+"id": 111
+},
+{
+"phrase": "Bean counter",
+"definition": "A disparaging term for an accountant or anyone who compiles statistics.",
+"id": 112
+},
+{
+"phrase": "Beat around the bush",
+"definition": "Avoiding the main topic.",
+"id": 113
+},
+{
+"phrase": "Beauty contest / Beauty parade",
+"definition": "A political contest in which the result is influenced by personality and image more than by policy.",
+"id": 114
+},
+{
+"phrase": "Bedroom tax",
+"definition": "slang term for UK's removal of Spare Room Subsidy.",
+"id": 115
+},
+{
+"phrase": "Bells and whistles",
+"definition": "Attractive additional features or trimmings.",
+"id": 116
+},
+{
+"phrase": "Bend over backwards",
+"definition": "Make extravagant efforts to avoid bias.",
+"id": 117
+},
+{
+"phrase": "Between a rock and a hard place",
+"definition": "Between two unwelcome options.",
+"id": 118
+},
+{
+"phrase": "Between the wars",
+"definition": "The period between WWI and WWII.",
+"id": 119
+},
+{
+"phrase": "Beyond price",
+"definition": "To be so prized and valuable as to not be obtainable by money.",
+"id": 120
+},
+{
+"phrase": "Big fish in a small pond",
+"definition": "An important person but only so within a small area of influence.",
+"id": 121
+},
+{
+"phrase": "Binge watch",
+"definition": "Watch multiple episodes of a television programme in succession.",
+"id": 122
+},
+{
+"phrase": "Bitch slap",
+"definition": "An open-handed slap in the face intended to be humiliating.",
+"id": 123
+},
+{
+"phrase": "Bite off more than you can chew",
+"definition": "Take on a task that is more than one can manage.",
+"id": 124
+},
+{
+"phrase": "Bite the dust",
+"definition": "Die, especially in a violent or sudden way.",
+"id": 125
+},
+{
+"phrase": "Bite your tongue",
+"definition": "Avoid speaking.",
+"id": 126
+},
+{
+"phrase": "Blood blister",
+"definition": "Cockney rhyming slang for sister.",
+"id": 127
+},
+{
+"phrase": "Blood is thicker than water",
+"definition": "Family loyalties are stronger than those to other people.",
+"id": 128
+},
+{
+"phrase": "Blow a raspberry",
+"definition": "Cockney rhyming slang for fart.",
+"id": 129
+},
+{
+"phrase": "Blue plate special",
+"definition": "A set meal provided at a reduced price.",
+"id": 130
+},
+{
+"phrase": "Boat race",
+"definition": "Cockney rhyming slang for face.",
+"id": 131
+},
+{
+"phrase": "Bottle and glass",
+"definition": "Cockney rhyming slang for arse.",
+"id": 132
+},
+{
+"phrase": "Bought the farm",
+"definition": "Died, especially in a violent way which may give rise to an insurance claim.",
+"id": 133
+},
+{
+"phrase": "Brahms and Lizst",
+"definition": "Cockney rhyming slang for pissed.",
+"id": 134
+},
+{
+"phrase": "Brass monkey weather",
+"definition": "Extremely cold weather. The full expression is 'Cold enough to freeze the balls off a brass monkey'.",
+"id": 135
+},
+{
+"phrase": "Brass tacks",
+"definition": "Cockney rhyming slang for facts.",
+"id": 136
+},
+{
+"phrase": "Break a leg",
+"definition": "A superstitious way to wish 'good luck' to an actor before a performance while avoiding saying 'good luck' out loud, which is considered unlucky.",
+"id": 137
+},
+{
+"phrase": "Breast is best",
+"definition": "Slogan of breastfeeding campaign.",
+"id": 138
+},
+{
+"phrase": "Bricks and mortar",
+"definition": "Cockney rhyming slang for daughter.",
+"id": 139
+},
+{
+"phrase": "Brighton Pier",
+"definition": "Cockney rhyming slang for queer (i.e. homosexual).",
+"id": 140
+},
+{
+"phrase": "Bring your A game",
+"definition": "Perform to the best of your ability.",
+"id": 141
+},
+{
+"phrase": "Brown bread",
+"definition": "Cockney rhyming slang for dead.",
+"id": 142
+},
+{
+"phrase": "Brown out",
+"definition": "1. A partial failure of the electricity supply. 2. The exposing of one's buttocks in public.",
+"id": 143
+},
+{
+"phrase": "Brum brum",
+"definition": "Child's play idiom expressing the sound of a vehicle.",
+"id": 144
+},
+{
+"phrase": "Bucket list",
+"definition": "A list of things you plan to do before you 'kick the bucket' (die). Often a list of fanciful ideas rather than of concrete plans.",
+"id": 145
+},
+{
+"phrase": "Burn the midnight oil",
+"definition": "To work late into the night.",
+"id": 146
+},
+{
+"phrase": "Bust a move",
+"definition": "Dance in a stylish way.",
+"id": 147
+},
+{
+"phrase": "Buy a lemon",
+"definition": "Waste money by purchasing a car that is frequently faulty.",
+"id": 148
+},
+{
+"phrase": "Calendar year",
+"definition": "Twelve months beginning from the first of January.",
+"id": 149
+},
+{
+"phrase": "Can't cut the mustard",
+"definition": "Unable to meet the demands put upon you.",
+"id": 150
+},
+{
+"phrase": "Canteen culture",
+"definition": "Boorish behaviour by rank and file police or soldiers.",
+"id": 151
+},
+{
+"phrase": "Carbon footprint",
+"definition": "A measure of the amount of carbon dioxide (CO2) emitted during an industrial or domestic process.",
+"id": 152
+},
+{
+"phrase": "Carpe diem",
+"definition": "Latin expression meaning seize the day.",
+"id": 153
+},
+{
+"phrase": "Cast iron stomach",
+"definition": "Said to be possessed by someone who is able to eat anything with no ill effects.",
+"id": 154
+},
+{
+"phrase": "Cat got your tongue?",
+"definition": "A question addressed to someone who is inexplicably silent. The implication is that the person's tongue is missing.",
+"id": 155
+},
+{
+"phrase": "Caught between two stools",
+"definition": "Finding it difficult to choose between two alternatives.",
+"id": 156
+},
+{
+"phrase": "Caught by the short hairs (or short and curlies)",
+"definition": "Trapped by an opponent in a situation you can't escape.",
+"id": 157
+},
+{
+"phrase": "Chaise Lounge",
+"definition": "The American spelling for the piece of furniture known elsewhere as a chaise longue.",
+"id": 158
+},
+{
+"phrase": "Charley horse",
+"definition": "Stiffness or cramp in the arm or leg.",
+"id": 159
+},
+{
+"phrase": "Chasing tail",
+"definition": "Of a man pursuing women.",
+"id": 160
+},
+{
+"phrase": "Cheek by jowl",
+"definition": "Side by side; close together.",
+"id": 161
+},
+{
+"phrase": "Chicken feed",
+"definition": "Something of little importance, especially a small sum of money.",
+"id": 162
+},
+{
+"phrase": "Cherry ripe",
+"definition": "Cockney rhyming slang for pipe.",
+"id": 163
+},
+{
+"phrase": "Chew someone out",
+"definition": "Verbally scold someone.",
+"id": 164
+},
+{
+"phrase": "Children should be seen and not heard",
+"definition": "Old proverb suggesting that children should not impinge on the adult world.",
+"id": 165
+},
+{
+"phrase": "China plate",
+"definition": "Cockney rhyming slang for mate.",
+"id": 166
+},
+{
+"phrase": "Chow down",
+"definition": "Begin to eat.",
+"id": 167
+},
+{
+"phrase": "City bike",
+"definition": "A bicycle designing especially for urban riding.",
+"id": 168
+},
+{
+"phrase": "Click bait",
+"definition": "An eye catching word or image on a website.",
+"id": 169
+},
+{
+"phrase": "Close but no cigar",
+"definition": "Very near to success but falling short.",
+"id": 170
+},
+{
+"phrase": "Cloud cuckoo land",
+"definition": "An imaginary idealistic state where everything is perfect. It is usually used with reference to someone who has an overly optimistic and unrealistic belief.",
+"id": 171
+},
+{
+"phrase": "Cock and bull story",
+"definition": "An unbelievable tale.",
+"id": 172
+},
+{
+"phrase": "Code monkey",
+"definition": "Slang term for a computer programmer.",
+"id": 173
+},
+{
+"phrase": "Cold enough to freeze the balls off a brass monkey",
+"definition": "Extremely cold weather. The full expression is 'Cold enough to freeze the balls off a brass monkey'.",
+"id": 174
+},
+{
+"phrase": "Come hell or high water",
+"definition": "Despite any great difficult or obstacle.",
+"id": 175
+},
+{
+"phrase": "Comfort women",
+"definition": "women forced into sexual slavery by the Japanese in WWII.",
+"id": 176
+},
+{
+"phrase": "Company man",
+"definition": "A worker especially loyal to the employer he works for.",
+"id": 177
+},
+{
+"phrase": "Cop an attitude",
+"definition": "Adopt an aggressive stance.",
+"id": 178
+},
+{
+"phrase": "Corduroy road",
+"definition": "A road that is ridged and furrowed like the fabric.",
+"id": 179
+},
+{
+"phrase": "Country house hotel",
+"definition": "An upmarket hotel located in a revamped rural mansion.",
+"id": 180
+},
+{
+"phrase": "Crack someone up",
+"definition": "Make someone laugh.",
+"id": 181
+},
+{
+"phrase": "Cream crackered",
+"definition": "Cockney rhyming slang for knackered. - note, when this term was coined, cream crackers were a popular snack in the UK.",
+"id": 182
+},
+{
+"phrase": "Cross that bridge when you come to it",
+"definition": "Deal with a problem if and when it becomes necessary, not before.",
+"id": 183
+},
+{
+"phrase": "Cross your fingers",
+"definition": "To hope that something happens.",
+"id": 184
+},
+{
+"phrase": "Crunch time",
+"definition": "The period of time just before a project has to be completed.",
+"id": 185
+},
+{
+"phrase": "Cry wolf",
+"definition": "Intentionally raise a false alarm.",
+"id": 186
+},
+{
+"phrase": "Curiosity killed the cat",
+"definition": "Being inquisitive can lead you into a dangerous situation.",
+"id": 187
+},
+{
+"phrase": "Currant bun",
+"definition": "Cockney rhyming slang for sun.",
+"id": 188
+},
+{
+"phrase": "Cut corners",
+"definition": "Doing things in a slipshod way, to avoid expense or effort.",
+"id": 189
+},
+{
+"phrase": "Cut to the chase",
+"definition": "Leave out all the unnecessary details and get straight to the point.",
+"id": 190
+},
+{
+"phrase": "Daily grind",
+"definition": "The dull daily routine.",
+"id": 191
+},
+{
+"phrase": "Daisy roots",
+"definition": "Cockney rhyming slang for boots.",
+"id": 192
+},
+{
+"phrase": "Date rape",
+"definition": "The rape by a man of his partner on a date.",
+"id": 193
+},
+{
+"phrase": "Day surgery",
+"definition": "Minor surgery that does not require the patient to stay in hospital overnight.",
+"id": 194
+},
+{
+"phrase": "Daylight saving time",
+"definition": "The adjustment of clocks to provide longer evening daylight.",
+"id": 195
+},
+{
+"phrase": "Dead ringer",
+"definition": "An exact duplicate.",
+"id": 196
+},
+{
+"phrase": "Dead white European male",
+"definition": "Derogatory reference to someone who has an unjustified reputation.",
+"id": 197
+},
+{
+"phrase": "Designated driver",
+"definition": "Someone who agrees not to drink alcohol at a social event in order to be sober enough to drive others home.",
+"id": 198
+},
+{
+"phrase": "Dial down",
+"definition": "1. Adjust a device to reduce sound or temperature. 2. Reduce one's emotional reaction to something.",
+"id": 199
+},
+{
+"phrase": "Dicky Dirt",
+"definition": "Cockney rhyming slang for shirt.",
+"id": 200
+},
+{
+"phrase": "Discussing Uganda",
+"definition": "Euphemism for sex.",
+"id": 201
+},
+{
+"phrase": "Dog and bone",
+"definition": "Cockney rhyming slang for telephone.",
+"id": 202
+},
+{
+"phrase": "Dog days of summer",
+"definition": "The hottest days of the summer season.",
+"id": 203
+},
+{
+"phrase": "Donkey's years",
+"definition": "1. Cockney rhyming slang for ears. 2. A very long time.",
+"id": 204
+},
+{
+"phrase": "Don't bite the hand that feeds you",
+"definition": "Don't hurt someone that helps you.",
+"id": 205
+},
+{
+"phrase": "Don't count your chickens before they hatch",
+"definition": "Don't count on receiving some benefit until you actually have it.",
+"id": 206
+},
+{
+"phrase": "Don't cry over spilt milk",
+"definition": "Don't fret pointlessly about some mistake or loss when it can't be remedied.",
+"id": 207
+},
+{
+"phrase": "Don't give up the day job",
+"definition": "Said to someone who is a poor performer at a task - suggesting that they wouldn't be able to succeed at it professionally.",
+"id": 208
+},
+{
+"phrase": "Don't look a gift horse in the mouth",
+"definition": "When you receive a gift accept it with good grace and don't find fault with it.",
+"id": 209
+},
+{
+"phrase": "Don't put all your eggs in one basket",
+"definition": "Don't risk all your property on a single venture.",
+"id": 210
+},
+{
+"phrase": "Double denim",
+"definition": "Denim jeans worn with a denim shirt or jacket.",
+"id": 211
+},
+{
+"phrase": "Double header",
+"definition": "A sports expression denoting two events held at the same time.",
+"id": 212
+},
+{
+"phrase": "Down to the wire",
+"definition": "Not decided until the very last minute.",
+"id": 213
+},
+{
+"phrase": "Dressed to the nines",
+"definition": "Very smartly dressed, in one's best clothes.",
+"id": 214
+},
+{
+"phrase": "Drink like a fish",
+"definition": "Drink very heavily.",
+"id": 215
+},
+{
+"phrase": "Drive someone up the wall",
+"definition": "Irritate or annoy very much.",
+"id": 216
+},
+{
+"phrase": "Dropping like flies",
+"definition": "Many people either falling ill or dying.",
+"id": 217
+},
+{
+"phrase": "Dry run",
+"definition": "A rehearsal.",
+"id": 218
+},
+{
+"phrase": "Duvet day",
+"definition": "A work day which an employee is allowed to spend at home relaxing.",
+"id": 219
+},
+{
+"phrase": "Ear popping",
+"definition": "Sound that is loud or that catches the attention.",
+"id": 220
+},
+{
+"phrase": "Easy-peasy",
+"definition": "Something that is extremely easy. Often used by children. Sometimes used by adults to demote an achievement that was accomplished with little apparent effort.",
+"id": 221
+},
+{
+"phrase": "Eighty six",
+"definition": "Referring to an item on a menu that is no longer available.",
+"id": 222
+},
+{
+"phrase": "Elbow grease",
+"definition": "Energetic labour, especially in the polishing of household items.",
+"id": 223
+},
+{
+"phrase": "Elephant's trunk",
+"definition": "Cockney rhyming slang for drunk.",
+"id": 224
+},
+{
+"phrase": "Elvis has left the building",
+"definition": "The primary performer has left. There's no point waiting around.",
+"id": 225
+},
+{
+"phrase": "Enhanced interrogation techniques",
+"definition": "Euphemism for torture.",
+"id": 226
+},
+{
+"phrase": "Ethnic cleansing",
+"definition": "The singling out and killing of a specific ethnic group.",
+"id": 227
+},
+{
+"phrase": "Every cloud has a silver lining",
+"definition": "An encouragement to be optimistic. Even bad events have a good side to them.",
+"id": 228
+},
+{
+"phrase": "Everything but the kitchen sink",
+"definition": "Everything imaginable.",
+"id": 229
+},
+{
+"phrase": "Evil twin",
+"definition": "An imaginary double, humorously referred to in order to explain the uncharacteristic bad behaviour of a normally moral person. Usually used light-heartedly. The expression formed as an allusion to plots in films involving actual evil twins.",
+"id": 230
+},
+{
+"phrase": "Excuse my French",
+"definition": "Please forgive me for swearing.",
+"id": 231
+},
+{
+"phrase": "Eyebrow raising",
+"definition": "Something that creates shock or surprise.",
+"id": 232
+},
+{
+"phrase": "Face card",
+"definition": "The jack queen or king in a set of playing cards.",
+"id": 233
+},
+{
+"phrase": "Face the music",
+"definition": "Accept he unwelcome consequences of one's own actions.",
+"id": 234
+},
+{
+"phrase": "Factory farming",
+"definition": "Rearing livestock under industrial conditions.",
+"id": 235
+},
+{
+"phrase": "Fairytale ending",
+"definition": "A happy simplistic ending to a story similar to those found in fairy tales.",
+"id": 236
+},
+{
+"phrase": "Far cry from",
+"definition": "Very different from.",
+"id": 237
+},
+{
+"phrase": "Feeding frenzy",
+"definition": "A frantic competition or exploitation - like a group shark attack.",
+"id": 238
+},
+{
+"phrase": "Fell off the back of a lorry",
+"definition": "A coy reference to an item that has been stolen.",
+"id": 239
+},
+{
+"phrase": "Field day",
+"definition": "A day noted for remarkable or exciting events.",
+"id": 240
+},
+{
+"phrase": "Fiddlesticks",
+"definition": "An exclamation meaning 1. Nonsense; rubbish. 2. An indication of mild annoyance.",
+"id": 241
+},
+{
+"phrase": "Find your feet",
+"definition": "To become conscious of and develop one's expertise.",
+"id": 242
+},
+{
+"phrase": "Fire the imagination",
+"definition": "Inspire with enthusiasm.",
+"id": 243
+},
+{
+"phrase": "First among equals",
+"definition": "The most senior person in a group of equal rank.",
+"id": 244
+},
+{
+"phrase": "First footing",
+"definition": "Making a round of visits at New Year.",
+"id": 245
+},
+{
+"phrase": "First World problem",
+"definition": "A relatively trivial problem only affecting the affluent.",
+"id": 246
+},
+{
+"phrase": "First World",
+"definition": "The industrialised affluent and wealthy nations.",
+"id": 247
+},
+{
+"phrase": "Fixed in your ways",
+"definition": "Unwilling to change from your habitual way of doing things.",
+"id": 248
+},
+{
+"phrase": "Flea market",
+"definition": "A market used to buy and sell inexpensive goods. The kind of place that might sell carpets infested with fleas.",
+"id": 249
+},
+{
+"phrase": "Flea pit",
+"definition": "A downmarket cinema - allegedly verminous.",
+"id": 250
+},
+{
+"phrase": "Flesh and blood",
+"definition": "1 - One's family. 2 - the bodily stuff we are made of.",
+"id": 251
+},
+{
+"phrase": "Flip the bird",
+"definition": "To aggressively raise your middle finger at someone as a sign of displeasure.",
+"id": 252
+},
+{
+"phrase": "Flog a dead horse",
+"definition": "To attempt to make progress with something that has no future.",
+"id": 253
+},
+{
+"phrase": "Flotsam and jetsam",
+"definition": "Assorted bits and pieces of rubbish; especially items that are found in the sea.",
+"id": 254
+},
+{
+"phrase": "Foam at the mouth",
+"definition": "To show vehement rage.",
+"id": 255
+},
+{
+"phrase": "Food fight",
+"definition": "Chaotic collective behaviour where items of food are thrown about wildly.",
+"id": 256
+},
+{
+"phrase": "Fools' gold",
+"definition": "Something that appears valuable but really isn't, like iron pyrites - a worthless mineral that resembles gold.",
+"id": 257
+},
+{
+"phrase": "Frock up",
+"definition": "Wear a smart or formal dress for a special occasion.",
+"id": 258
+},
+{
+"phrase": "Frog and toad",
+"definition": "Cockney rhyming slang for road.",
+"id": 259
+},
+{
+"phrase": "Fuddy-duddy",
+"definition": "An old-fashioned and foolish type of person.",
+"id": 260
+},
+{
+"phrase": "Full monty",
+"definition": "Everything possible. The whole thing.",
+"id": 261
+},
+{
+"phrase": "Full of bull",
+"definition": "Talking hot air.",
+"id": 262
+},
+{
+"phrase": "Funny farm",
+"definition": "A mental hospital.",
+"id": 263
+},
+{
+"phrase": "Gee gee",
+"definition": "Childish term for a horse.",
+"id": 264
+},
+{
+"phrase": "Gender bender",
+"definition": "A person who adopts a deliberately androgynous appearance, by use of uni-sex make-up, hair-style and clothing. Probably influenced by 'bender' being an earlier slang term for homosexual.",
+"id": 265
+},
+{
+"phrase": "George Raft",
+"definition": "Cockney rhyming slang for daft.",
+"id": 266
+},
+{
+"phrase": "Get a gold star",
+"definition": "Earn a merit point for doing well.",
+"id": 267
+},
+{
+"phrase": "Get down to brass tacks",
+"definition": "Concern yourself with the basic and important realities.",
+"id": 268
+},
+{
+"phrase": "Get off on the wrong foot",
+"definition": "Make a bad start in a relationship or task.",
+"id": 269
+},
+{
+"phrase": "Get on board",
+"definition": "Accept and participate with an idea or project.",
+"id": 270
+},
+{
+"phrase": "Get out of hand",
+"definition": "Become chaotic and uncontrollable.",
+"id": 271
+},
+{
+"phrase": "Get out of the wrong side of the bed",
+"definition": "",
+"id": 272
+},
+{
+"phrase": "Get over it",
+"definition": "Move beyond something that is bothering you.",
+"id": 273
+},
+{
+"phrase": "Get your head around",
+"definition": "Understand something, especially something difficult to comprehend because it is complex or surprising.",
+"id": 274
+},
+{
+"phrase": "Ginger Beer",
+"definition": "Cockney rhyming slang for queer.",
+"id": 275
+},
+{
+"phrase": "Give him an inch and he'll take a mile",
+"definition": "allow someone a small concession and they will take advantage and try to take more.",
+"id": 276
+},
+{
+"phrase": "Give the benefit of the doubt",
+"definition": "Decide to believe a statement which isn't proven.",
+"id": 277
+},
+{
+"phrase": "Give the slip",
+"definition": "To get away from. To escape.",
+"id": 278
+},
+{
+"phrase": "Glass ceiling",
+"definition": "An unacknowledged or unseen discriminatory barrier that prevents women and minorities from rising to positions of power.",
+"id": 279
+},
+{
+"phrase": "Gnat's bollock",
+"definition": "A very small (imaginary) unit of measurement.",
+"id": 280
+},
+{
+"phrase": "Go ape shit",
+"definition": "Become excessively agitated and excited.",
+"id": 281
+},
+{
+"phrase": "Go belly (or tits) up",
+"definition": "Become badly and permanently inoperative.",
+"id": 282
+},
+{
+"phrase": "Go for broke",
+"definition": "Put every resource into getting a particular result.",
+"id": 283
+},
+{
+"phrase": "Go out on a limb",
+"definition": "Take a risk to support someone or something.",
+"id": 284
+},
+{
+"phrase": "Go the extra mile",
+"definition": "Going beyond what is usually required. Make an extra effort.",
+"id": 285
+},
+{
+"phrase": "Going to hell in a handbasket",
+"definition": "Deteriorating and headed for complete disaster.",
+"id": 286
+},
+{
+"phrase": "Good Samaritan",
+"definition": "Someone who compassionately helps another who is in need.",
+"id": 287
+},
+{
+"phrase": "Graveyard shift",
+"definition": "Working hours that extend overnight.",
+"id": 288
+},
+{
+"phrase": "Greasy spoon",
+"definition": "A small cheap cafe selling fried food.",
+"id": 289
+},
+{
+"phrase": "Great minds think alike",
+"definition": "Said ironically when two people have matching thoughts.",
+"id": 290
+},
+{
+"phrase": "Great scot",
+"definition": "Exclamation of surprise.",
+"id": 291
+},
+{
+"phrase": "Gregory Peck",
+"definition": "Cockney rhyming slang for neck.",
+"id": 292
+},
+{
+"phrase": "Gut feeling",
+"definition": "A personal intuition, based on feeling rather than fact.",
+"id": 293
+},
+{
+"phrase": "Had a good war",
+"definition": "To have been successful during a military campaign.",
+"id": 294
+},
+{
+"phrase": "Hair of the dog",
+"definition": "An alcoholic drink, intended to cure a hangover. It is mistakenly believed that a small measure of the same drink that made a person drunk will sober them up and cure the drinks ill effects. The expression is also used in other contexts, whenever an additional dose of whatever caused a problem is thought to be an appropriate remedy.",
+"id": 295
+},
+{
+"phrase": "Half inch",
+"definition": "Cockney rhyming slang for pinch.",
+"id": 296
+},
+{
+"phrase": "Happy sad",
+"definition": "A bittersweet feeling combining both happiness and sadness.",
+"id": 297
+},
+{
+"phrase": "Harry spankers",
+"definition": "Brand spanking new.",
+"id": 298
+},
+{
+"phrase": "Has the cat got your tongue?",
+"definition": "A question addressed to someone who is inexplicably silent. The implication is that the person's tongue is missing.",
+"id": 299
+},
+{
+"phrase": "Haste makes waste",
+"definition": "Doing things in a rush makes for a poor result.",
+"id": 300
+},
+{
+"phrase": "Hat trick",
+"definition": "A threefold feat in sports or some other activity.",
+"id": 301
+},
+{
+"phrase": "Have a blast",
+"definition": "Have an especially good time.",
+"id": 302
+},
+{
+"phrase": "Have a Captain Cook",
+"definition": "Cockney rhyming slang for look.",
+"id": 303
+},
+{
+"phrase": "He makes my flesh (or skin) crawl (or creep)",
+"definition": "Said of someone who the speaker has a deep dislike of.",
+"id": 304
+},
+{
+"phrase": "Head over heels",
+"definition": "Very excited, especially when in love.",
+"id": 305
+},
+{
+"phrase": "Hear it on the grapevine",
+"definition": "Hear rumors about something from an anonymous informal contact.",
+"id": 306
+},
+{
+"phrase": "Heebie-jeebies",
+"definition": "A state of nervous anxiety or fear.",
+"id": 307
+},
+{
+"phrase": "Hell bent",
+"definition": "Determined to achieve something at all costs.",
+"id": 308
+},
+{
+"phrase": "Help yourself",
+"definition": "Invitation to take something freely.",
+"id": 309
+},
+{
+"phrase": "Hidden in plain sight",
+"definition": "Something that defies apprehension by being too obvious.",
+"id": 310
+},
+{
+"phrase": "High and mighty",
+"definition": "Proud and arrogant.",
+"id": 311
+},
+{
+"phrase": "High on the hog",
+"definition": "Luxurious.",
+"id": 312
+},
+{
+"phrase": "High season",
+"definition": "The most popular time to visit a resort or attraction - when prices are highest.",
+"id": 313
+},
+{
+"phrase": "Hit the books",
+"definition": "To study, especially for a test or exam.",
+"id": 314
+},
+{
+"phrase": "Hit the hay",
+"definition": "",
+"id": 315
+},
+{
+"phrase": "Hit the nail on the head",
+"definition": "Make the precise correct point.",
+"id": 316
+},
+{
+"phrase": "Hit the sack",
+"definition": "Retire to bed.",
+"id": 317
+},
+{
+"phrase": "Hobson's choice",
+"definition": "1. A choice forced upon someone. 2. Cockney rhyming slang for voice.",
+"id": 318
+},
+{
+"phrase": "Hocus pocus",
+"definition": "A term used to denote magic or trickery.",
+"id": 319
+},
+{
+"phrase": "Hold your horses",
+"definition": "Be patient.",
+"id": 320
+},
+{
+"phrase": "Holy shit",
+"definition": "An expression of extreme surprise or disbelief.",
+"id": 321
+},
+{
+"phrase": "I can't be doing with it",
+"definition": "I am unwilling to tolerate it.",
+"id": 322
+},
+{
+"phrase": "I can't think straight",
+"definition": "I'm overwhelmed and stressed and it is affecting my ability to think.",
+"id": 323
+},
+{
+"phrase": "I'm good to go",
+"definition": "I am ready to participate.",
+"id": 324
+},
+{
+"phrase": "If it's not one thing, it's another",
+"definition": "Said after more than one thing goes wrong.",
+"id": 325
+},
+{
+"phrase": "In cahoots with",
+"definition": "To be in a partnership with, often for unscrupulous purposes.",
+"id": 326
+},
+{
+"phrase": "In a nutshell",
+"definition": "In a few words. Concisely stated.",
+"id": 327
+},
+{
+"phrase": "In like Flynn",
+"definition": "To be easily successful, especially concerning sex or romance.",
+"id": 328
+},
+{
+"phrase": "In limbo",
+"definition": "In an uncertain situation, over which you have no control (a reference to the state of being outside both heaven and hell).",
+"id": 329
+},
+{
+"phrase": "In the bag",
+"definition": "Something that is secured.",
+"id": 330
+},
+{
+"phrase": "In the buff",
+"definition": "Naked.",
+"id": 331
+},
+{
+"phrase": "In the heat of the moment",
+"definition": "In an overwhelming situation, causing you to act rashly.",
+"id": 332
+},
+{
+"phrase": "In the same boat",
+"definition": "Jointly facing the same predicament.",
+"id": 333
+},
+{
+"phrase": "In your face",
+"definition": "Aggressive confrontation.",
+"id": 334
+},
+{
+"phrase": "Inside job",
+"definition": "A crime committed by or with the help of someone living or working in the place that it took place.",
+"id": 335
+},
+{
+"phrase": "It never rains but it pours",
+"definition": "When troubles come they often come together.",
+"id": 336
+},
+{
+"phrase": "It takes two to tango",
+"definition": "It takes two people to cause a problem between them.",
+"id": 337
+},
+{
+"phrase": "It's a small world",
+"definition": "Said when people meet unexpectedly, away from their usual haunts.",
+"id": 338
+},
+{
+"phrase": "It's all gone Pete Tong",
+"definition": "Cockney rhyming slang for gone wrong.",
+"id": 339
+},
+{
+"phrase": "It's not rocket science",
+"definition": "Said of something that isn't complex or difficult to understand.",
+"id": 340
+},
+{
+"phrase": "Ivy league",
+"definition": "The joint name given to Columbia, Brown, Cornell, Dartmouth, Yale, Pennsylvania, Princeton, and Harvard universities.",
+"id": 341
+},
+{
+"phrase": "Jack Palancing",
+"definition": "Cockney rhyming slang for dancing.",
+"id": 342
+},
+{
+"phrase": "Jam jar",
+"definition": "Cockney rhyming slang for car.",
+"id": 343
+},
+{
+"phrase": "Jelly belly",
+"definition": "An overweight person.",
+"id": 344
+},
+{
+"phrase": "Jimmy Riddle",
+"definition": "Cockney rhyming slang for piddle.",
+"id": 345
+},
+{
+"phrase": "Joshing me",
+"definition": "Tricking me.",
+"id": 346
+},
+{
+"phrase": "Jump on the bandwagon",
+"definition": "Join a popular trend.",
+"id": 347
+},
+{
+"phrase": "Jump the shark",
+"definition": "Introduce a ridiculous or unbelievable plot device into a TV series in order to boost flagging ratings.",
+"id": 348
+},
+{
+"phrase": "Just deserts",
+"definition": "The result which is deserved. A reward for what has been done - good or bad.",
+"id": 349
+},
+{
+"phrase": "Keep an eye on",
+"definition": "Observe carefully to make sure something bad isn't done.",
+"id": 350
+},
+{
+"phrase": "Keep at bay",
+"definition": "Keep something away.",
+"id": 351
+},
+{
+"phrase": "Keep body and soul together",
+"definition": "Earn sufficient money in order to keep yourself alive.",
+"id": 352
+},
+{
+"phrase": "Keep your chin up",
+"definition": "Remain positive in a tough situation.",
+"id": 353
+},
+{
+"phrase": "Khyber pass",
+"definition": "Cockney rhyming slang for arse.",
+"id": 354
+},
+{
+"phrase": "Kick the bucket",
+"definition": "Die.",
+"id": 355
+},
+{
+"phrase": "Kill two birds with one stone",
+"definition": "Accomplish two things with a single action.",
+"id": 356
+},
+{
+"phrase": "Knee jerk reaction",
+"definition": "A quick and automatic response.",
+"id": 357
+},
+{
+"phrase": "Knee trembler",
+"definition": "Sexual intercourse between two people standing up.",
+"id": 358
+},
+{
+"phrase": "Knock on wood",
+"definition": "Knuckle tapping on wood in order to avoid bad luck or to continue having good luck.",
+"id": 359
+},
+{
+"phrase": "Know the ropes",
+"definition": "To understand how to do something.",
+"id": 360
+},
+{
+"phrase": "Lame duck",
+"definition": "A person or thing that is no longer properly able to function. Also, more specifically, a person in authority, for example a president or prime minister, in their final period of office after a successor has already been elected.",
+"id": 361
+},
+{
+"phrase": "Last but not least",
+"definition": "An introduction, intended to let the audience know that the last person mentioned is not the least important.",
+"id": 362
+},
+{
+"phrase": "Last straw",
+"definition": "The last of a series of problems, which pushes one's endurance beyond its limits.",
+"id": 363
+},
+{
+"phrase": "Lend me your ear",
+"definition": "Politely ask for someones full attention.",
+"id": 364
+},
+{
+"phrase": "Let bygones be bygones",
+"definition": "Allow a disagreement or argument to be put in the past.",
+"id": 365
+},
+{
+"phrase": "Let sleeping dogs lie",
+"definition": "Avoid restarting a conflict.",
+"id": 366
+},
+{
+"phrase": "Let the cat out of the bag",
+"definition": "Share a secret that wasn't intended to be shared.",
+"id": 367
+},
+{
+"phrase": "Let your hair down",
+"definition": "Behave in a free an uninhibited manner. Usually applied to women.",
+"id": 368
+},
+{
+"phrase": "Let's rewind",
+"definition": "A suggestion that the thing under consideration has gone along unproductive lines and should be looked at again from the beginning.",
+"id": 369
+},
+{
+"phrase": "Level playing field",
+"definition": "Fair competition where no side has an advantage.",
+"id": 370
+},
+{
+"phrase": "Like a chicken with its head cut off",
+"definition": "In a frenzied manner.",
+"id": 371
+},
+{
+"phrase": "Link rot",
+"definition": "The tendency of WWW addresses to become out of date and point to unavailable pages.",
+"id": 372
+},
+{
+"phrase": "Link farm",
+"definition": "A website that exists primarily to display links to another website, with the intention of improving the search status of the second site.",
+"id": 373
+},
+{
+"phrase": "Liquor someone up",
+"definition": "To supply or to drink alcoholic drink.",
+"id": 374
+},
+{
+"phrase": "Little devil",
+"definition": "An exclamation of surprise and annoyance, directed at someone who has behaved badly or performed some kind of prank. Often applied to children.",
+"id": 375
+},
+{
+"phrase": "Little fish in a big pond",
+"definition": "Someone considered unimportant compared to their more significant peers.",
+"id": 376
+},
+{
+"phrase": "Loaf of bread",
+"definition": "Cockney rhyming slang for head.",
+"id": 377
+},
+{
+"phrase": "Long in the tooth",
+"definition": "Old.",
+"id": 378
+},
+{
+"phrase": "Loose cannon",
+"definition": "Someone who is unpredictable and can cause damage by being reckless.",
+"id": 379
+},
+{
+"phrase": "Lord Fred",
+"definition": "Cockney rhyming slang for bed.",
+"id": 380
+},
+{
+"phrase": "Lose your head",
+"definition": "Overcome by emotion and out of control.",
+"id": 381
+},
+{
+"phrase": "Lose your touch",
+"definition": "Lose an ability that you used to possess.",
+"id": 382
+},
+{
+"phrase": "Magic mushroom",
+"definition": "A type of mushroom with hallucinogenic properties - sometimes known as 'shrooms'.",
+"id": 383
+},
+{
+"phrase": "Make a scene",
+"definition": "Cause a disturbance.",
+"id": 384
+},
+{
+"phrase": "Make no bones about",
+"definition": "To state a fact so there are no doubts about it.",
+"id": 385
+},
+{
+"phrase": "Man cave",
+"definition": "A shed or some other retreat that men decorate in the way they choose (with or without their male friends) and use to relax in traditional male pursuits.",
+"id": 386
+},
+{
+"phrase": "Many happy returns",
+"definition": "A toast given to someone on their birthday.",
+"id": 387
+},
+{
+"phrase": "Mate's rates",
+"definition": "A discount price offered to friends.",
+"id": 388
+},
+{
+"phrase": "Mea culpa",
+"definition": "I'm to blame.",
+"id": 389
+},
+{
+"phrase": "Mellow yellow",
+"definition": "Dried banana peel, used as an intoxicant.",
+"id": 390
+},
+{
+"phrase": "Men in suits",
+"definition": "Conventionally minded and dressed men who hold positions of authority. Also called just 'suits'.",
+"id": 391
+},
+{
+"phrase": "Method to my madness",
+"definition": "Odd actions that appear meaningless but are done for a good reason.",
+"id": 392
+},
+{
+"phrase": "Mince pies",
+"definition": "Cockney rhyming slang for eyes.",
+"id": 393
+},
+{
+"phrase": "Mind your language",
+"definition": "An admonition not to swear.",
+"id": 394
+},
+{
+"phrase": "Miss the boat",
+"definition": "Missed the chance to take an opportunity.",
+"id": 395
+},
+{
+"phrase": "Mrs. Mop",
+"definition": "traditional English name for a cleaning woman.",
+"id": 396
+},
+{
+"phrase": "Mumbo jumbo",
+"definition": "Nonsense or meaningless speech.",
+"id": 397
+},
+{
+"phrase": "Mum's the word",
+"definition": "Keep quiet. Say nothing.",
+"id": 398
+},
+{
+"phrase": "Mutt and Jeff",
+"definition": "Cockney rhyming slang for deaf.",
+"id": 399
+},
+{
+"phrase": "My old china",
+"definition": "Cockney rhyming slang for mate.",
+"id": 400
+},
+{
+"phrase": "My old Dutch",
+"definition": "Cockney rhyming slang for duchess.",
+"id": 401
+},
+{
+"phrase": "Nail it",
+"definition": "To perform something particularly well.",
+"id": 402
+},
+{
+"phrase": "Nest egg",
+"definition": "Savings set aside for future use.",
+"id": 403
+},
+{
+"phrase": "Never-never land",
+"definition": "A utopian dreamland.",
+"id": 404
+},
+{
+"phrase": "New arrival",
+"definition": "Colloquial term for a new-born baby.",
+"id": 405
+},
+{
+"phrase": "New kid on the block",
+"definition": "Someone new to the group or area.",
+"id": 406
+},
+{
+"phrase": "New York minute",
+"definition": "A short space of time.",
+"id": 407
+},
+{
+"phrase": "Nine to five",
+"definition": "A standard office day, between 9am and 5pm. Often used to denote the boring nature of the weekly working routine.",
+"id": 408
+},
+{
+"phrase": "Nip slip",
+"definition": "The inadvertent exposure of a womans nipple.",
+"id": 409
+},
+{
+"phrase": "Nitty-gritty",
+"definition": "The important aspects of a situation; the heart of the matter.",
+"id": 410
+},
+{
+"phrase": "No dice",
+"definition": "A refusal to accept a proposition.",
+"id": 411
+},
+{
+"phrase": "No room to swing a cat",
+"definition": "An awkward or confined space.",
+"id": 412
+},
+{
+"phrase": "No rush",
+"definition": "Said to someone to indicate that you aren't in a hurry for them to complete their task.",
+"id": 413
+},
+{
+"phrase": "No saint",
+"definition": "Someone who might claim to be of good behaviour but has in fact a sordid past.",
+"id": 414
+},
+{
+"phrase": "No spring chicken",
+"definition": "Said of people who are no longer young but may behave as though they were.",
+"id": 415
+},
+{
+"phrase": "Nose around",
+"definition": "Investigate in an off-hand manner.",
+"id": 416
+},
+{
+"phrase": "North and south",
+"definition": "Cockney rhyming slang for mouth.",
+"id": 417
+},
+{
+"phrase": "Not all there",
+"definition": "Not in possession of one's mental faculties.",
+"id": 418
+},
+{
+"phrase": "Not playing with a full deck",
+"definition": "Someone who lacks intelligence.",
+"id": 419
+},
+{
+"phrase": "Off one's rocker",
+"definition": "Crazy; out of one's mind.",
+"id": 420
+},
+{
+"phrase": "Off the hook",
+"definition": "No longer having to deal with something.",
+"id": 421
+},
+{
+"phrase": "Off the record",
+"definition": "Something said in confidence that the one speaking doesn't want repeated.",
+"id": 422
+},
+{
+"phrase": "Old chestnut",
+"definition": "A story that has been told repeatedly and which has lost any originality.",
+"id": 423
+},
+{
+"phrase": "On a hiding to nothing",
+"definition": "Faced with a hopeless situation, even after making one's best efforts.",
+"id": 424
+},
+{
+"phrase": "On a wing and a prayer",
+"definition": "In a difficult situation and reliant on luck to get out of it.",
+"id": 425
+},
+{
+"phrase": "On cloud nine",
+"definition": "Blissfully happy.",
+"id": 426
+},
+{
+"phrase": "On the ball",
+"definition": "With a good understanding of a situation and a readiness to act.",
+"id": 427
+},
+{
+"phrase": "On the fence",
+"definition": "Unwilling to give one's view about which side you support.",
+"id": 428
+},
+{
+"phrase": "On the record",
+"definition": "Something said in confidence that the one speaking is happy to have repeated.",
+"id": 429
+},
+{
+"phrase": "On the same page",
+"definition": "Several people agreeing.",
+"id": 430
+},
+{
+"phrase": "On your Tod",
+"definition": "Cockney rhyming slang for alone.",
+"id": 431
+},
+{
+"phrase": "Once in a blue moon",
+"definition": "A rare occurrence.",
+"id": 432
+},
+{
+"phrase": "Open warfare",
+"definition": "Engaged in active fighting or dispute.",
+"id": 433
+},
+{
+"phrase": "Out of sight",
+"definition": "Still used with its literal meaning of 'beyond the range of sight' but more commonly used in its hippie-era meaning of 'excellent; extraordinary'.",
+"id": 434
+},
+{
+"phrase": "Out of the blue",
+"definition": "Suddenly and unexpectedly.",
+"id": 435
+},
+{
+"phrase": "Out on the town",
+"definition": "Out enjoying oneself.",
+"id": 436
+},
+{
+"phrase": "Over my dead body",
+"definition": "Said when you absolutely refuse to allow something to happen.",
+"id": 437
+},
+{
+"phrase": "Over the top",
+"definition": "Excessive.",
+"id": 438
+},
+{
+"phrase": "Paint the town red",
+"definition": "Go on a boisterous or exuberant spree",
+"id": 439
+},
+{
+"phrase": "Partner up",
+"definition": "Find a companion.",
+"id": 440
+},
+{
+"phrase": "Pass the buck",
+"definition": "Avoid responsibility by giving it to someone else.",
+"id": 441
+},
+{
+"phrase": "Pedal to the metal",
+"definition": "To go at full speed, when driving a vehicle.",
+"id": 442
+},
+{
+"phrase": "Peachy keen",
+"definition": "Excellent; wonderful.",
+"id": 443
+},
+{
+"phrase": "Peeping Tom",
+"definition": "Someone who covertly observes sexually active or naked people.",
+"id": 444
+},
+{
+"phrase": "Peg out",
+"definition": "1. To die, especially to die of old age. 2. To complete a circuit of the board in the card game cribbage.",
+"id": 445
+},
+{
+"phrase": "Pen and ink",
+"definition": "Cockney rhyming slang for stink.",
+"id": 446
+},
+{
+"phrase": "Perfect pitch",
+"definition": "The ability to determine a musical note by ear.",
+"id": 447
+},
+{
+"phrase": "Phone it in",
+"definition": "Perform an act in an uncommitted disinterested manner.",
+"id": 448
+},
+{
+"phrase": "Photo bomb",
+"definition": "Spoil a photograph by unexpectedly appearing in the picture and taking the attention away from the intended subject - usually as a prank.",
+"id": 449
+},
+{
+"phrase": "Pig out",
+"definition": "To overeat in a slovenly manner.",
+"id": 450
+},
+{
+"phrase": "Pig's ear",
+"definition": "Cockney rhyming slang for beer.",
+"id": 451
+},
+{
+"phrase": "Pigs might fly",
+"definition": "Said when referring to something that is highly unlikely.",
+"id": 452
+},
+{
+"phrase": "Pipe down",
+"definition": "An instruction to shut-up or be quiet.",
+"id": 453
+},
+{
+"phrase": "Plates of meat",
+"definition": "Cockney rhyming slang for feet.",
+"id": 454
+},
+{
+"phrase": "Play Devil's advocate",
+"definition": "A person who takes a contrary position from the one being presented, either for the sake of argument or to test the validity of the opposing point of view.",
+"id": 455
+},
+{
+"phrase": "Play the field",
+"definition": "Indulge in a series of sexual relationships.",
+"id": 456
+},
+{
+"phrase": "Play safe",
+"definition": "Avoid risk.",
+"id": 457
+},
+{
+"phrase": "Pommy bashing",
+"definition": "Australian slang term for physical or verbal attacks on the English.",
+"id": 458
+},
+{
+"phrase": "Porky pies",
+"definition": "Cockney rhyming slang for lies.",
+"id": 459
+},
+{
+"phrase": "Potatoes (or taters) in the mould",
+"definition": "Cockney rhyming slang for cold.",
+"id": 460
+},
+{
+"phrase": "Potty mouth",
+"definition": "A foul mouthed person.",
+"id": 461
+},
+{
+"phrase": "Practice makes perfect",
+"definition": "Diligent practice leads to expertise.",
+"id": 462
+},
+{
+"phrase": "Prick up your ears",
+"definition": "Listen very carefully - like a dog or horse with erect ears.",
+"id": 463
+},
+{
+"phrase": "Pull the plug",
+"definition": "Bring something to an end.",
+"id": 464
+},
+{
+"phrase": "Pull the wool over someone's eyes",
+"definition": "Deceive someone.",
+"id": 465
+},
+{
+"phrase": "Pull your horns in",
+"definition": "Become less ambitious; curb your enthusiasm.",
+"id": 466
+},
+{
+"phrase": "Pulling your leg",
+"definition": "Tricking someone as a joke.",
+"id": 467
+},
+{
+"phrase": "Put a sock in it",
+"definition": "An instruction to a noisy person or a group to be quiet.",
+"id": 468
+},
+{
+"phrase": "Quality time",
+"definition": "Time spent with a child, spouse or friend in an uninterrupted and attentive way.",
+"id": 469
+},
+{
+"phrase": "Queer street",
+"definition": "The imaginary location of people who have major problems in their life, especially debt. (Note: not a real place, nor connected to homosexuality)",
+"id": 470
+},
+{
+"phrase": "Queer the pitch",
+"definition": "Ruin a plan or undertaking.",
+"id": 471
+},
+{
+"phrase": "Rabbit and pork",
+"definition": "Cockney rhyming slang for talk.",
+"id": 472
+},
+{
+"phrase": "Rags to riches",
+"definition": "From poverty to wealth.",
+"id": 473
+},
+{
+"phrase": "Raining cats and dogs",
+"definition": "Raining very heavily.",
+"id": 474
+},
+{
+"phrase": "Red letter day",
+"definition": "A significant, important or happy day.",
+"id": 475
+},
+{
+"phrase": "Red tape",
+"definition": "Bureaucracy, especially in public business.",
+"id": 476
+},
+{
+"phrase": "Rest up",
+"definition": "Take a break from one's efforts.",
+"id": 477
+},
+{
+"phrase": "Revenge porn",
+"definition": "The malicious posting of sexual images online to harm the reputation of an ex partner.",
+"id": 478
+},
+{
+"phrase": "Riding shotgun",
+"definition": "Riding in the front passenger seat of a car.",
+"id": 479
+},
+{
+"phrase": "Ring fencing",
+"definition": "Earmarking funds to guarantee a specific project can go ahead.",
+"id": 480
+},
+{
+"phrase": "Rise and shine",
+"definition": "Instruction to get out of bed and get ready for work.",
+"id": 481
+},
+{
+"phrase": "Rome was not built in one day",
+"definition": "Major and important projects take time.",
+"id": 482
+},
+{
+"phrase": "Rosie Lea",
+"definition": "Cockney rhyming slang for tea.",
+"id": 483
+},
+{
+"phrase": "Ruby Murray",
+"definition": "Cockney rhyming slang for curry.",
+"id": 484
+},
+{
+"phrase": "Rule of thumb",
+"definition": "A rough estimate.",
+"id": 485
+},
+{
+"phrase": "Run out of steam",
+"definition": "Completely out of energy.",
+"id": 486
+},
+{
+"phrase": "Sad-ass",
+"definition": "A reference to an inept or undesirable person or thing.",
+"id": 487
+},
+{
+"phrase": "Salad days",
+"definition": "The days of one's youthful inexperience and enthusiasm.",
+"id": 488
+},
+{
+"phrase": "Saved by the bell",
+"definition": "Saved by a last minute intervention.",
+"id": 489
+},
+{
+"phrase": "Scarper Flow",
+"definition": "Cockney rhyming slang for go.",
+"id": 490
+},
+{
+"phrase": "Scot-free",
+"definition": "Without payment.",
+"id": 491
+},
+{
+"phrase": "Scrape together",
+"definition": "To manage, with difficulty, enough of what is needed - especially money.",
+"id": 492
+},
+{
+"phrase": "Scrub up",
+"definition": "Make an effort to present oneself well dressed and smartly turned out.",
+"id": 493
+},
+{
+"phrase": "See eye to eye",
+"definition": "When two or more people agree.",
+"id": 494
+},
+{
+"phrase": "Sexton Blake",
+"definition": "Cockney rhyming slang for fake.",
+"id": 495
+},
+{
+"phrase": "Shoot down in flames",
+"definition": "Destroy an argument or theory.",
+"id": 496
+},
+{
+"phrase": "Shoot straight",
+"definition": "To talk or deal honestly.",
+"id": 497
+},
+{
+"phrase": "Shoot through",
+"definition": "To leave or abscond.",
+"id": 498
+},
+{
+"phrase": "Shovel ready",
+"definition": "A building project in which all the preliminaries have been arranged.",
+"id": 499
+},
+{
+"phrase": "Side boob",
+"definition": "The side of a female breast revealed by skimpy clothing.",
+"id": 500
+},
+{
+"phrase": "Silver bullet",
+"definition": "A simple and seeming effortless solution to a difficult problem.",
+"id": 501
+},
+{
+"phrase": "Silver fox",
+"definition": "A handsome grey-haired man.",
+"id": 502
+},
+{
+"phrase": "Silver surfer",
+"definition": "An older person who uses the World Wide Web.",
+"id": 503
+},
+{
+"phrase": "Silver threads amongst the gold",
+"definition": "Blonde hair that is turning grey.",
+"id": 504
+},
+{
+"phrase": "Silver tongued",
+"definition": "Eloquent or persuasive manner of speech.",
+"id": 505
+},
+{
+"phrase": "Sit tight",
+"definition": "Wait and take do nothing until the time is right for action.",
+"id": 506
+},
+{
+"phrase": "Sixth sense",
+"definition": "An imaginary intuitive facility.",
+"id": 507
+},
+{
+"phrase": "Skid row",
+"definition": "The rundown area of a city inhabited by the destitute.",
+"id": 508
+},
+{
+"phrase": "Smell a rat",
+"definition": "To begin to suspect that things aren't as they should be.",
+"id": 509
+},
+{
+"phrase": "Smell something fishy",
+"definition": "Detect that something isn't as it should be.",
+"id": 510
+},
+{
+"phrase": "Sniff test",
+"definition": "Sniff an item of clothing (or food) to check if it might be suitable to wear (or eat).",
+"id": 511
+},
+{
+"phrase": "Son of a gun",
+"definition": "A rogue.",
+"id": 512
+},
+{
+"phrase": "Sparrow fart",
+"definition": "Jokey term for the early morning.",
+"id": 513
+},
+{
+"phrase": "Spitting image",
+"definition": "The exact likeness.",
+"id": 514
+},
+{
+"phrase": "Spoiler alert",
+"definition": "Said, or printed, as a warning that the following will give away the ending or important plot development of a drama.",
+"id": 515
+},
+{
+"phrase": "Steal someone's thunder",
+"definition": "Hurt someone who was close to us by betraying them secretly and breaking their trust.",
+"id": 516
+},
+{
+"phrase": "Steal someone's thunder",
+"definition": "Take the credit for something someone else did.",
+"id": 517
+},
+{
+"phrase": "Step up to the mark",
+"definition": "Mark yourself ready to take responsibility.",
+"id": 518
+},
+{
+"phrase": "Stitch up",
+"definition": "1. Put someone in difficulty, often by making it appear that they are to blame for a misdemeanour. 2. Repair with needle and thread.",
+"id": 519
+},
+{
+"phrase": "Straight from the horse's mouth",
+"definition": "Heard from the authoritative source.",
+"id": 520
+},
+{
+"phrase": "Stranger things have happened",
+"definition": "Said when the feasibility of some unlikely event is questioned.",
+"id": 521
+},
+{
+"phrase": "Suck it up",
+"definition": "Accept a bad situation.",
+"id": 522
+},
+{
+"phrase": "Swing by",
+"definition": "Drop in for a visit.",
+"id": 523
+},
+{
+"phrase": "Swipe right",
+"definition": "(On the dating app Tinder) to indicate that you find someone unattractive by dragging one's finger to the right, across their screen image.",
+"id": 524
+},
+{
+"phrase": "Syrup of figs",
+"definition": "Cockney rhyming slang for wig.",
+"id": 525
+},
+{
+"phrase": "Take a butchers",
+"definition": "Cockney rhyming slang for look.",
+"id": 526
+},
+{
+"phrase": "Take a raincheck",
+"definition": "An offer that is declined now but may be reconsidered later.",
+"id": 527
+},
+{
+"phrase": "Take with a grain of salt",
+"definition": "Don't take what someone says too seriously - the the implication that it isn't true.",
+"id": 528
+},
+{
+"phrase": "Talk of the devil!",
+"definition": "Said when someone that you have just been talking about arrives.",
+"id": 529
+},
+{
+"phrase": "Tea leaf",
+"definition": "Cockney rhyming slang for thief.",
+"id": 530
+},
+{
+"phrase": "That Friday feeling",
+"definition": "Anticipation of the weekend after a hard working week.",
+"id": 531
+},
+{
+"phrase": "That sucks",
+"definition": "1. An expression of sympathy. 2. Said of something that the speaker rates very lowly.",
+"id": 532
+},
+{
+"phrase": "The acid test",
+"definition": "1. A scientific test to distinguish between gold and base metals. 2. A conclusive test to determine the validity of a claim.",
+"id": 533
+},
+{
+"phrase": "The apple of my eye",
+"definition": "Someone who is cherished above all others.",
+"id": 534
+},
+{
+"phrase": "The author of your own misfortune",
+"definition": "Be to blame for one's own problems.",
+"id": 535
+},
+{
+"phrase": "The ball is in your court",
+"definition": "It is your turn to make a decision.",
+"id": 536
+},
+{
+"phrase": "The best of both worlds",
+"definition": "The benefits available from two apparently conflicting options.",
+"id": 537
+},
+{
+"phrase": "The best thing since sliced bread",
+"definition": "An outstandingly good idea or plan.",
+"id": 538
+},
+{
+"phrase": "The Big Pond",
+"definition": "Nickname of the Atlantic Ocean between the UK and the USA.",
+"id": 539
+},
+{
+"phrase": "The bull in the bowler hat",
+"definition": "Jokey term for artificial insemination.",
+"id": 540
+},
+{
+"phrase": "The empty chair",
+"definition": "The perceived absense of someone who is recently deceased.",
+"id": 541
+},
+{
+"phrase": "The fog of war",
+"definition": "Confusion caused by the chaos of battle.",
+"id": 542
+},
+{
+"phrase": "The glorious twelfth",
+"definition": "The 12th of August - the start of the British grouse shooting season.",
+"id": 543
+},
+{
+"phrase": "The hair of the dog",
+"definition": "An alcoholic drink, intended to cure a hangover. It is mistakenly believed that a small measure of the same drink that made a person drunk will sober them up and cure the drinks ill effects. The expression is also used in other contexts, whenever an additional dose of whatever caused a problem is thought to be an appropriate remedy.",
+"id": 544
+},
+{
+"phrase": "Heebie-jeebies",
+"definition": "A state of nervous anxiety or fear.",
+"id": 545
+},
+{
+"phrase": "The God Squad",
+"definition": "enthusiastic Christian believers.",
+"id": 546
+},
+{
+"phrase": "The icing on the cake",
+"definition": "Something that makes a good situation even better.",
+"id": 547
+},
+{
+"phrase": "The last straw",
+"definition": "The last of a series of problems, which pushes one's endurance beyond its limits.",
+"id": 548
+},
+{
+"phrase": "Nitty-gritty",
+"definition": "The important aspects of a situation; the heart of the matter.",
+"id": 549
+},
+{
+"phrase": "The sound of leather on willow",
+"definition": "The sound of the ball on the bat in cricket.",
+"id": 550
+},
+{
+"phrase": "The tail is wagging the dog",
+"definition": "A small and usually insignificant factor (or person) dominates over one that is normally more powerful and influential.",
+"id": 551
+},
+{
+"phrase": "The town bike",
+"definition": "Promiscuous woman.",
+"id": 552
+},
+{
+"phrase": "The whole nine yards",
+"definition": "The full entirety of something.",
+"id": 553
+},
+{
+"phrase": "The wheels have come off",
+"definition": "Said when a previously promising enterprise goes irretrievably wrong.",
+"id": 554
+},
+{
+"phrase": "Third time lucky",
+"definition": "Said when trying something for the third time.",
+"id": 555
+},
+{
+"phrase": "Third time's a charm",
+"definition": "The third try is often successful.",
+"id": 556
+},
+{
+"phrase": "Throw the towel in",
+"definition": "Give up, especially to avoid further punishment when facing certain defeat.",
+"id": 557
+},
+{
+"phrase": "Tie the knot",
+"definition": "Get married.",
+"id": 558
+},
+{
+"phrase": "Til the cows come home",
+"definition": "A long time to wait.",
+"id": 559
+},
+{
+"phrase": "Titfer tat",
+"definition": "Cockney rhyming slang for hat.",
+"id": 560
+},
+{
+"phrase": "To cut a long story short",
+"definition": "Said when a storyteller doesn't want to bore his audience with a long involved account.",
+"id": 561
+},
+{
+"phrase": "Tongue in cheek",
+"definition": "Humorously, not to be taken seriously.",
+"id": 562
+},
+{
+"phrase": "Top banana",
+"definition": "The leading, most important, person in a group or organisation.",
+"id": 563
+},
+{
+"phrase": "Tour de force",
+"definition": "A feat of strength power or skill.",
+"id": 564
+},
+{
+"phrase": "Toy-boy",
+"definition": "A woman's much younger male lover.",
+"id": 565
+},
+{
+"phrase": "Trouble and strife",
+"definition": "Cockney rhyming slang for wife.",
+"id": 566
+},
+{
+"phrase": "Turn a blind eye",
+"definition": "Refuse to acknowledge something that you know is genuine.",
+"id": 567
+},
+{
+"phrase": "Twist someone's arm",
+"definition": "Persuade someone to do something they don't really want to do.",
+"id": 568
+},
+{
+"phrase": "Twenty three skidoo",
+"definition": "Invitation to go away.",
+"id": 569
+},
+{
+"phrase": "Two and eight",
+"definition": "Cockney rhyming slang for state.",
+"id": 570
+},
+{
+"phrase": "Uncle Dick",
+"definition": "Cockney rhyming slang for sick.",
+"id": 571
+},
+{
+"phrase": "Uncle Tom",
+"definition": "A derogatory term for a black man who is servile towards white men.",
+"id": 572
+},
+{
+"phrase": "Under the weather",
+"definition": "Feeling ill.",
+"id": 573
+},
+{
+"phrase": "Unlucky in love",
+"definition": "Having been unable to find a long-term romantic partner.",
+"id": 574
+},
+{
+"phrase": "Up a blind alley",
+"definition": "On a fruitless course of action.",
+"id": 575
+},
+{
+"phrase": "Up shit creek without a paddle",
+"definition": "In serious difficulty, with no hope of respite.",
+"id": 576
+},
+{
+"phrase": "Ups a daisy",
+"definition": "A saying, usually to a child, after a stumble or fall, to encourage them to get up. (ups is a variant of whoops).",
+"id": 577
+},
+{
+"phrase": "Us versus them",
+"definition": "Denoting the enmity between two opposing groups.",
+"id": 578
+},
+{
+"phrase": "Use your loaf",
+"definition": "Think smart.",
+"id": 579
+},
+{
+"phrase": "Van Gogh's ear for music",
+"definition": "Tone deaf.",
+"id": 580
+},
+{
+"phrase": "Variety is the spice of life",
+"definition": "Increased experience makes for a more exciting life.",
+"id": 581
+},
+{
+"phrase": "Vatican roulette",
+"definition": "The rhythm method of birth control.",
+"id": 582
+},
+{
+"phrase": "Wardrobe malfunction",
+"definition": "Referring to an item of clothing slipping out of place to expose part of the body.",
+"id": 583
+},
+{
+"phrase": "Washed up",
+"definition": "1. Deposited on a beach by the tide. 2. Finished and failed, with no further chance of success.",
+"id": 584
+},
+{
+"phrase": "Water under the bridge",
+"definition": "A past experience that you prefer not to affect your current life.",
+"id": 585
+},
+{
+"phrase": "Wear your heart on your sleeve",
+"definition": "Openly express your emotions.",
+"id": 586
+},
+{
+"phrase": "Well hung",
+"definition": "Said of a man with large genitals.",
+"id": 587
+},
+{
+"phrase": "Wet behind the ears",
+"definition": "Young and naive, like a new-born baby.",
+"id": 588
+},
+{
+"phrase": "Where there's muck there's brass",
+"definition": "Dirt and muddle are evidence of products being manufactured and money (brass) being made.",
+"id": 589
+},
+{
+"phrase": "Whipper snapper",
+"definition": "A child or impertinent youth.",
+"id": 590
+},
+{
+"phrase": "Whistle and flute",
+"definition": "Cockney rhyming slang for suit.",
+"id": 591
+},
+{
+"phrase": "White elephant",
+"definition": "An object that appears magnificent but which is a burdensome financial liability.",
+"id": 592
+},
+{
+"phrase": "Wild and woolly",
+"definition": "Uncultured and lawless.",
+"id": 593
+},
+{
+"phrase": "Wind someone up",
+"definition": "Deliberately draw attention to something with the intention of causing trouble.",
+"id": 594
+},
+{
+"phrase": "Wine and dine",
+"definition": "Entertain in a high class restaurant.",
+"id": 595
+},
+{
+"phrase": "Winter drawers on",
+"definition": "British euphemistic joke.",
+"id": 596
+},
+{
+"phrase": "Work out",
+"definition": "1. Calculate using arithmetic. 2. Take exercise (also spelled 'workout').",
+"id": 597
+},
+{
+"phrase": "Word for word",
+"definition": "An exact, precisely corresponding to, copy of another's words.",
+"id": 598
+},
+{
+"phrase": "Worse for wear",
+"definition": "Either 1. Shabby and worn out, or 2. Drunk.",
+"id": 599
+},
+{
+"phrase": "Would you Adam and Eve it?",
+"definition": "Cockney rhyming slang for would you believe it?",
+"id": 600
+},
+{
+"phrase": "Wouldn't be caught dead",
+"definition": "Referring to something you absolutely refuse to do.",
+"id": 601
+},
+{
+"phrase": "X marks the spot",
+"definition": "Said of a location that indicates something significant - like a pirate's mark on a treasure map.",
+"id": 602
+},
+{
+"phrase": "Yarn bombing",
+"definition": "The adorning of public buildings with knitted or crocheted material - either for fun or to make a political point.",
+"id": 603
+},
+{
+"phrase": "Yellow belly",
+"definition": "A coward.",
+"id": 604
+},
+{
+"phrase": "You are what you eat",
+"definition": "What you eat affects you health.",
+"id": 605
+},
+{
+"phrase": "You can lead a horse to water",
+"definition": "You can encourage someone to to do something but, in the end, what they do is their own choice.",
+"id": 606
+},
+{
+"phrase": "You can't judge a book by its cover",
+"definition": "Decisions can't be made solely on appearance.",
+"id": 607
+},
+{
+"phrase": "You can't teach and old dog new tricks",
+"definition": "Once animals (and people) are set in their ways they struggle to assimilate new ideas.",
+"id": 608
+},
+{
+"phrase": "You can't take it with you",
+"definition": "Suggestion that you should spend money and live life now as it will be no use to you after you die.",
+"id": 609
+},
+{
+"phrase": "Your guess is as good as mine",
+"definition": "I have no idea.",
+"id": 610
+},
+{
+"phrase": "Your name is mud",
+"definition": "You are discredited or in disgrace. The very mention of your name produces scorn.",
+"id": 611
+},
+{
+"phrase": "Your number is up",
+"definition": "It is now your turn. For instance, if 1. You are about to die. or 2. You have won a lottery.",
+"id": 612
+},
+{
+"phrase": "Zip your lip",
+"definition": "Say nothing; keep your mouth shut. Often shortened to 'zip it'.",
+"id": 613
+}
+]
+}
