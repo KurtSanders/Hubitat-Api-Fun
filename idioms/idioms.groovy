@@ -18,12 +18,9 @@
 #include kurtsanders.Idioms-Library
 
 @Field static final String  PARENT_DEVICE_NAME  = "Idioms"
-@Field static final String  IDIOMS_FNAME 		= "Idioms_phrases_map"
-@Field static final String  IDIOMS_GITHIB		= "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun/refs/heads/main/idioms/data/"
-@Field static final Integer IDIOMS_PER_FILE 	= 250
-@Field static final Integer IDIOMS_FILES 		= 85
-@Field static final String  VERSION 			= "0.0.1"
-
+@Field static final String  IDIOMS_GITHIB		= "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun/refs/heads/main/idioms/data_v2/Idioms.json"
+@Field static final String  VERSION 			= "0.1.0"
+@Field static final Number IDIOMS_PER_FILE 		= 613
 
 metadata {
     definition(name: PARENT_DEVICE_NAME, namespace: NAMESPACE, author: AUTHOR_NAME) {
@@ -39,8 +36,6 @@ metadata {
         attribute "error"		, "string"
         
         command "resetKey"			, [[name: "Idiom Key ID Number*"	, type: "NUMBER", description: "Resets the idiom MAP key"]]
-        command "idiomsFileNumber"	, [[name: "Idioms File Number 1-85*", type: "NUMBER", description: "Select the Idioms File Number 1-85", range: "1..85"]]
-
     }
 }
 
@@ -60,7 +55,6 @@ def installed() {
     setLogLevel("Debug", "30 Minutes")
     checkLogLevel()  // Set Logging Objects    
 	log.info "Setting Inital logging level to 'Debug' for 30 minutes"
-    state.idiomNextKey = 0
 	log.info "Initializing Idioms Database..  Please wait"
     refresh()
 	log.info "Idioms Database Initialization Completed"
@@ -70,26 +64,30 @@ def updated() {
     logInfo "updated..."
     checkLogLevel()  // Set Logging Objects    
     logDebug "Debug logging is: ${logEnable == true}"
-}
-
-def idiomsFileNumber(num=1) {
-    if (num > 1 || num <=85) {
-        logInfo "Idioms File Number changed to #${num}"
-        state.dataFileSuffix = num
-    } else {
-         logErr "Invalid Idioms File Number '${num}'.  Must be an Integer between 1 and 85"
-    }    
+    
+    // State cleanup from 0.0.1
+    state.remove('idiomsFileNum')
+    state.remove('idiomsGitHubFileNumber')
+    state.remove('dataFileSuffix')
+    state.remove('idiomNextKey')
 }
 
 def resetKey(num=0) {
-    state.remove("idiomKey")
-    state.idNextKey = num
-    refresh()
+	state.idiomsPerFile = state.idiomsPerFile?:IDIOMS_PER_FILE 
+    if (num <= state.idiomsPerFile) {
+        state.idNextKey = num
+        logInfo "Idioms Key id reset to: ${state.idNextKey}"
+        sendEvent(name: error, value: "")
+    } else {
+        def msg = "Invalid Idiom Key #, must be <= ${state.maxRecsFile}"
+        logErr msg
+        sendEvent(name: error, value: msg)
+    }
 }
 
 def on() {
     refresh()
-    runIn(1000,'off')
+    runIn(500,'off')
 }
 
 def off() {   
@@ -98,14 +96,15 @@ def off() {
 
 def refresh() {
     state.idNextKey = (state.idNextKey)?:0
-    state.dataFileSuffix = (state.dataFileSuffix)?:1
-    if (state.idNextKey > IDIOMS_PER_FILE) {
-        state.dataFileSuffix = state.dataFileSuffix + 1
-        if (state.dataFileSuffix > IDIOMS_FILES) state.dataFileSuffix = 1
+    logDebug "==> state.idNextKey= ${state.idNextKey}"
+    state.idiomsPerFile = state.idiomsPerFile?:IDIOMS_PER_FILE 
+    if (state.idNextKey > state.idiomsPerFile) {
+        logInfo "Idioms EOF reached: Reseting Idioms Key to 0"
         state.idNextKey = 0
     }
-    def uri = "${IDIOMS_GITHIB}${IDIOMS_FNAME}${state.dataFileSuffix}.json"
+    def uri = "${IDIOMS_GITHIB}"
     logDebug "Sending on GET request to → ${uri}"
+    logDebug "==> state.idNextKey= ${state.idNextKey}"
     
     try {
         httpGet(['uri': uri, contentType: "application/json"]) { response ->
@@ -115,6 +114,9 @@ def refresh() {
             }
             logTrace "==> response.success= ${response.success}"
             if (response.success) {
+                state.idiomsPerFile = response.data["dictionary"].size()
+                logDebug "==> state.idiomsPerFile= ${state.idiomsPerFile}"
+                
                 Map mapIdiomData = response.data["dictionary"][state.idNextKey]
                 Integer id = mapIdiomData["id"]
                 logDebug "==> id= ${id}"
@@ -135,7 +137,9 @@ def refresh() {
             }
         }
     } catch (Exception e) {
-        logWarn "Http Call to ${uri} failed: ${e.message}"
+        def msg = "Http Call to ${uri} failed: ${e.message}"
+        logWarn msg
+		sendEvent(name: error, value: msg)        
     }
     logDebug "Refresh Completed"
 }
