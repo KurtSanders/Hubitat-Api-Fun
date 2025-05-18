@@ -21,7 +21,7 @@
             "name": "Idioms-Library",
             "namespace": "kurtsanders",
             "version": "0.0.1",
-            "location": "https://github.com/KurtSanders/Hubitat-Fun/raw/refs/heads/main/idioms/IdiomsBundle.zip",
+            "location": "https://github.com/KurtSanders/Hubitat-Api-Fun/raw/refs/heads/main/idioms/IdiomsBundle.zip",
             "required": true
         }
     ],
@@ -31,7 +31,7 @@
             "name": "Idioms",
             "version": "0.1.0",
             "namespace": "kurtsanders",
-            "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun/refs/heads/main/idioms/idioms.groovy",
+            "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Api-Fun/refs/heads/main/idioms/idioms.groovy",
             "required": true
         }
     ]
