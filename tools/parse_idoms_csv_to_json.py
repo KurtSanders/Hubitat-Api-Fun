@@ -2,11 +2,13 @@ import json
 import csv
 
 infilename = "/Users/sandeke/PycharmProjects/Hubitat-Fun/idioms/data_v3/english_idioms.csv"
-outfilename = "/Users/sandeke/Downloads/Idioms.json"
+outfolder = "/Users/sandeke/Downloads/"
+
 d = {'Idioms': []}
 
 # Write dictionary to a JSON file
 def write_dict_to_json(data, fn):
+    outfile = outfolder + fn
     with open(fn, 'w') as outfile:
         json.dump(data, outfile, separators=(',', ':'), indent=0, ensure_ascii=False)  # indent for better readability
 
