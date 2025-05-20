@@ -21,7 +21,7 @@
             "name": "Fun-Api-Responses-Library",
             "namespace": "kurtsanders",
             "version": "0.0.1",
-            "location": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/raw/refs/heads/main/groovy/IdiomsBundle.zip",
+            "location": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/raw/refs/heads/main/groovy/FunApiResponses.zip",
             "required": true
         }
     ],
