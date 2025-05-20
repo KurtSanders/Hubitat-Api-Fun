@@ -20,9 +20,9 @@
 
 import groovy.transform.Field
 
-@Field static final String APP_NAME      			= "Fun Api Responses"
+@Field static final String APP_NAME      			= "Fun Api Responses App"
 @Field static final String PARENT_DEVICE_NAME      	= "Fun Api Responses"
-@Field static final String PARENT_DEVICE_TYPE_NAME  = "Fun Api Responses"
+@Field static final String PARENT_DEVICE_TYPE_NAME  = "Fun Api Responses Driver"
 @Field static final String VERSION                 	= "0.0.1"
 
 
@@ -349,9 +349,10 @@ void refresh(selectedSite=site) {
             response 			= "${preResponse} is by '${author}'.\n${value}"
         break
             case 'Riddles':
+            logDebug "==> httpResponse?.data= ${httpResponse?.data}"
             def riddle 			= httpResponse?.data[state.mysite.response.riddle]
             def difficulty 		= httpResponse?.data[state.mysite.response.difficulty]
-            response 			= "Here is a ${difficulty} ${(difficulty?'difficult':'')} riddle for you.\n${riddle}.\n${value}"
+            response 			= "Here is a riddle for you that is rated ${difficulty}.\n${riddle}.\n${value}"
         break
             default:
             response 			= "${preResponse} '${value}'."

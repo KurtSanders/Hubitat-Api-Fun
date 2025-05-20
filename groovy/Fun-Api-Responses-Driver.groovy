@@ -20,7 +20,7 @@
 @Field static final String  VERSION 			= "0.0.1"
 
 metadata {
-    definition(name: "Fun Api Responses", namespace: "kurtsanders", author: "Kurt Sanders") {
+    definition(name: "Fun Api Responses Driver", namespace: "kurtsanders", author: "Kurt Sanders") {
         capability "Actuator"
         capability "Sensor"
         capability "Refresh"
