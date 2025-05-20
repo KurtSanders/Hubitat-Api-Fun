@@ -31,7 +31,7 @@
             "name": "Fun Api Responses App",
             "version": "0.0.1",
             "namespace": "kurtsanders",
-            "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/groovy/Fun-Api-Responses-App.groovy",
+            "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/groovy/Fun%20Api%20Responses%20App.groovy",
             "required": true
         }
     ],
@@ -41,7 +41,7 @@
             "name": "Fun Api Responses Driver",
             "version": "0.0.1",
             "namespace": "kurtsanders",
-            "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/groovy/Fun-Api-Responses-Driver.groovy",
+            "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/groovy/Fun%20Api%20Responses%20Driver.groovy",
             "required": true
         }
     ]
