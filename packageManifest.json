@@ -3,8 +3,8 @@
     "author": "Kurt Sanders",
     "minimumHEVersion": "0.0.1",
     "dateReleased": "2025-05-09",
-    "documentationLink": "https://github.com/KurtSanders/Hubitat-Fun/tree/main/idioms#readme",
-    "communityLink": "https://community.hubitat.com/t/release-new-hubitat-fun-apps-idioms/153331",
+    "documentationLink": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/tree/main?tab=readme-ov-file#hubitat-fun-api-responses-app",
+    "communityLink": "https://community.hubitat.com/t/pre-release-new-hubitat-fun-api-response-app-idioms-jokes-trivia-poems-quotes-riddles/153331",
     "licenseFile": "",
     "releaseNotes": "Version 0.0.1\n1. This application generates random responses that are suitable for TTS on capability 'SpeechSynthesis' compatible devices (ie. Amazon, Google, Sonos, Ikea, etc).\n2. A free account on APILeague.com is required to obtain an api string for those categories indicated below. You may wish to purchase their paid plans, which allow more responses (tokens) per day.\n3. The 'Idiom' category does not require an api account or api string. The Idioms category is powered by my own JSON file (over 700 entries), and I will add more on an as-needed basis..",
     "bundles": [

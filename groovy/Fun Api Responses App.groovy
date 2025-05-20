@@ -27,7 +27,7 @@ import groovy.transform.Field
 
 
 definition(
-    name              : APP_NAME,
+    name              : "Fun Api Responses App",
     namespace         : NAMESPACE,
     author            : AUTHOR_NAME,
     description       : "Installs 'Fun Api Responses' application, creates parent device and sets attributes & preferences.",
