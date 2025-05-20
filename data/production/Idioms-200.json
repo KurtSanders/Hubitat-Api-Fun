@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "A fool and his money are soon parted",
+   "definition": "A foolish person is very likely to lose his money."
+  },
+  {
+   "phrase": "A fool's paradise",
+   "definition": "A state of euphoria with no basis in reality."
+  },
+  {
+   "phrase": "A foot in the door",
+   "definition": "An initial inroad that may lead to greater influence in future."
+  },
+  {
+   "phrase": "A golden key can open any door",
+   "definition": "Money always has a telling influence."
+  },
+  {
+   "phrase": "A hot potato",
+   "definition": "A current issue which many people are talking about and which is controversial."
+  },
+  {
+   "phrase": "A house divided against itself cannot stand",
+   "definition": "Failure is certain if those on the same side argue amongst themselves."
+  },
+  {
+   "phrase": "A knight in shining armour",
+   "definition": "A person who comes to the aid of another when other hopes have faded, like the knights in romantic stories."
+  },
+  {
+   "phrase": "A leopard can't change his spots",
+   "definition": "You cannot change your innate self."
+  },
+  {
+   "phrase": "A little bird told me",
+   "definition": "I was told by an undisclosed source."
+  },
+  {
+   "phrase": "A load of cobblers",
+   "definition": "Nonsense."
+  },
+  {
+   "phrase": "A load of codswallop",
+   "definition": "Nonsense."
+  },
+  {
+   "phrase": "A lot on your plate",
+   "definition": "Having many responsibilities."
+  },
+  {
+   "phrase": "A man after my own heart",
+   "definition": "A kindred spirit. someone who thinks as i do."
+  },
+  {
+   "phrase": "A miss is as good as a mile",
+   "definition": "Some endeavours either succeed or they donât - to miss narrowly is still failure."
+  },
+  {
+   "phrase": "A penny for your thoughts",
+   "definition": "A way of asking what someone is thinking."
+  },
+  {
+   "phrase": "A penny saved is a penny earned",
+   "definition": "Anything you save has the same effect as adding to your income."
+  },
+  {
+   "phrase": "A picture paints a thousand words",
+   "definition": "Pictures are far more descriptive than words."
+  },
+  {
+   "phrase": "A piece of cake",
+   "definition": "A task that can be accomplished very easily."
+  },
+  {
+   "phrase": "A pig in a poke",
+   "definition": "A commodity that is bought without first examining it."
+  },
+  {
+   "phrase": "A place in the sun",
+   "definition": "An idealistic dream of a sunny hideaway."
+  },
+  {
+   "phrase": "A red rag to a bull",
+   "definition": "A deliberate provocation."
+  },
+  {
+   "phrase": "A safe pair of hands",
+   "definition": "A reliable person, who can be trusted not to fail in a a task."
+  },
+  {
+   "phrase": "A sea change",
+   "definition": "A radical change."
+  },
+  {
+   "phrase": "A sight for sore eyes",
+   "definition": "A welcome sight that you werenât expecting."
+  },
+  {
+   "phrase": "A skeleton in the closet",
+   "definition": "A secret and possibly ruinous source of shame."
+  },
+  {
+   "phrase": "A shot in the arm",
+   "definition": "A boost or encouragement."
+  },
+  {
+   "phrase": "A slap on the wrist",
+   "definition": "A mild rebuke, often given when a more severe punishment might be expected."
+  },
+  {
+   "phrase": "A sledgehammer to crack a nut",
+   "definition": "The use of excessive resources to overcome a small problem."
+  },
+  {
+   "phrase": "A sorry sight",
+   "definition": "1. something sadly neglected. 2. a person or thing of untidy appearance."
+  },
+  {
+   "phrase": "A stitch in time saves nine",
+   "definition": "A small effort made at the right time might save a calamity later on."
+  },
+  {
+   "phrase": "A stone's throw",
+   "definition": "A short distance."
+  },
+  {
+   "phrase": "A taste of your own medicine",
+   "definition": "Mistreatment you receive in retaliation to that you gave to others."
+  },
+  {
+   "phrase": "A thorn in my flesh",
+   "definition": "A persistent and difficult to ignore annoyance."
+  },
+  {
+   "phrase": "A toss up",
+   "definition": "1. the flip of a coin to decide on something. 2. a result, usually between two courses of action, which is uncertain and could go either way."
+  },
+  {
+   "phrase": "A wolf in sheep's clothing",
+   "definition": "Someone who uses the pretence of kindliness to disguise their evil intent."
+  },
+  {
+   "phrase": "About face",
+   "definition": "1. a military command to turn when on parade. 2. a change from oneâs previous position."
+  },
+  {
+   "phrase": "About time",
+   "definition": "1. almost time. 2. high time."
+  },
+  {
+   "phrase": "Absence makes the heart grow fonder",
+   "definition": "Our feelings for people and things grows when we are apart from them."
+  },
+  {
+   "phrase": "Abso-bloody-lutely",
+   "definition": "A more emphatic version of âabsolutelyâ."
+  },
+  {
+   "phrase": "Ace in the hole",
+   "definition": "A saved, hidden advantage that can supply a victory when revealed."
+  },
+  {
+   "phrase": "Achilles' heel",
+   "definition": "A fatal weakness in an otherwise strong person or thing."
+  },
+  {
+   "phrase": "Across the board",
+   "definition": "Applying everywhere and to all classes of thing."
+  },
+  {
+   "phrase": "Act your age",
+   "definition": "Behave in a manner appropriate to your stage in life."
+  },
+  {
+   "phrase": "Actions speak louder than words",
+   "definition": "Actions show oneâs character more than what you say."
+  },
+  {
+   "phrase": "Adam's ale",
+   "definition": "A reference to water - often used to emphasize the purity of water compared to other drinks."
+  },
+  {
+   "phrase": "Add fuel to the fire",
+   "definition": "Make a bad situation even worse than it is."
+  },
+  {
+   "phrase": "Add insult to injury",
+   "definition": "To further a loss. to make a bad situation worse."
+  },
+  {
+   "phrase": "Against the clock",
+   "definition": "In a great hurry to complete something before a set deadline."
+  },
+  {
+   "phrase": "Ain't my first rodeo",
+   "definition": "Said by someone who has experience of a situation."
+  },
+  {
+   "phrase": "Al fresco",
+   "definition": "In the open air."
+  },
+  {
+   "phrase": "Al desko",
+   "definition": "Eating oneâs lunch while still working. (a pun on âal frescoâ.)."
+  },
+  {
+   "phrase": "All at sea",
+   "definition": "In a confused, disordered state."
+  },
+  {
+   "phrase": "All kidding aside",
+   "definition": "Said when you want people to realise you are speaking seriously, when they might otherwise think you were joking."
+  },
+  {
+   "phrase": "All bark and no bite",
+   "definition": "Having lots to say but not willing to engage in a fight."
+  },
+  {
+   "phrase": "All greek to me",
+   "definition": "Incomprehensible, as greek is to someone who cannot speak it."
+  },
+  {
+   "phrase": "All in all",
+   "definition": "On the whole - when everything is considered."
+  },
+  {
+   "phrase": "All in a day's work",
+   "definition": "Typical; a normal set of circumstances."
+  },
+  {
+   "phrase": "All set",
+   "definition": "Ready to go."
+  },
+  {
+   "phrase": "All the way",
+   "definition": "Referring to something that is done fully, especially as a euphemism for full sexual activity."
+  },
+  {
+   "phrase": "All thumbs",
+   "definition": "Clumsy or physically inept."
+  },
+  {
+   "phrase": "All to cock",
+   "definition": "Ruined or shambolic."
+  },
+  {
+   "phrase": "All together now",
+   "definition": "Invitation to join in communal singing."
+  },
+  {
+   "phrase": "Alley cat",
+   "definition": "1. a cat that lives wild in a town. 2. slang term for a prostitute."
+  },
+  {
+   "phrase": "Alpha mom",
+   "definition": "An ambitious mother who aims to excel at work while raising children."
+  },
+  {
+   "phrase": "Alphabet soup",
+   "definition": "A jumble of words or letters, often referring to organisations known by their initials, like cia or bbc."
+  },
+  {
+   "phrase": "Amber nectar",
+   "definition": "A slang term for lager."
+  },
+  {
+   "phrase": "Amped up",
+   "definition": "Excited and ready for action."
+  },
+  {
+   "phrase": "An act of god",
+   "definition": "Some event that is considered to be outside human control. commonly used in insurance policies to refer to events that the insured cannot be held responsible for."
+  },
+  {
+   "phrase": "An arm and a leg",
+   "definition": "Very expensive. a large amount of money."
+  },
+  {
+   "phrase": "An axe to grind",
+   "definition": "A dispute with someone."
+  },
+  {
+   "phrase": "An open and shut case",
+   "definition": "A straightforward legal case in which the outcome is clear."
+  },
+  {
+   "phrase": "Ankle biter",
+   "definition": "A slang term for small child."
+  },
+  {
+   "phrase": "Apples and pears",
+   "definition": "Cockney rhyming slang for stairs."
+  },
+  {
+   "phrase": "As high as a kite",
+   "definition": "1. very high up in the sky. 2. high on drugs or excitement."
+  },
+  {
+   "phrase": "At the drop of a hat",
+   "definition": "With no delay."
+  },
+  {
+   "phrase": "Away with the fairies",
+   "definition": "Not facing reality; in a dream world."
+  },
+  {
+   "phrase": "Baby brain",
+   "definition": "Confusion or forgetfulness caused by lack of sleep when caring for a new-born."
+  },
+  {
+   "phrase": "Baby bump",
+   "definition": "The protruding belly of a pregnant woman. also used to describe the unborn child itself."
+  },
+  {
+   "phrase": "Baby snatcher",
+   "definition": "Someone who enters into an amorous relationship with a much younger person."
+  },
+  {
+   "phrase": "Back seat driver",
+   "definition": "Someone who criticizes from the side-lines without being directly involved."
+  },
+  {
+   "phrase": "Back to square one",
+   "definition": "Back to the beginning."
+  },
+  {
+   "phrase": "Back to the drawing board",
+   "definition": "Said when a plan fails and it's time to start again and make a new plan."
+  },
+  {
+   "phrase": "Bag lady",
+   "definition": "A homeless woman, who carries all her possessions in shopping bags."
+  },
+  {
+   "phrase": "Baker's dozen",
+   "definition": "Thirteen."
+  },
+  {
+   "phrase": "Barking up the wrong tree",
+   "definition": "Responding to something which isn't the important issue."
+  },
+  {
+   "phrase": "Barnet fair",
+   "definition": "Cockney rhyming slang for hair."
+  },
+  {
+   "phrase": "Basket case",
+   "definition": "A person or thing that is no longer able to function effectively, either through disability or misfortune."
+  },
+  {
+   "phrase": "Bat from the pavilion end",
+   "definition": "Slang term for a homosexuality."
+  },
+  {
+   "phrase": "Be a sport",
+   "definition": "Be generous and/or sportsmanlike."
+  },
+  {
+   "phrase": "Be glad to see the back of",
+   "definition": "Be happy when a person leaves or when an unpleasant situation is ended."
+  },
+  {
+   "phrase": "Beach bum",
+   "definition": "Someone, usually a youngster, who spends all their time hanging out at the beach surfing and partying."
+  },
+  {
+   "phrase": "Bean counter",
+   "definition": "A disparaging term for an accountant or anyone who compiles statistics."
+  },
+  {
+   "phrase": "Beat around the bush",
+   "definition": "Avoiding the main topic."
+  },
+  {
+   "phrase": "Beauty contest / beauty parade",
+   "definition": "A political contest in which the result is influenced by personality and image more than by policy."
+  },
+  {
+   "phrase": "Bedroom tax",
+   "definition": "Slang term for uk's removal of spare room subsidy."
+  },
+  {
+   "phrase": "Bells and whistles",
+   "definition": "Attractive additional features or trimmings."
+  },
+  {
+   "phrase": "Bend over backwards",
+   "definition": "Make extravagant efforts to avoid bias."
+  },
+  {
+   "phrase": "Between a rock and a hard place",
+   "definition": "Between two unwelcome options."
+  },
+  {
+   "phrase": "Between the wars",
+   "definition": "The period between wwi and wwii."
+  },
+  {
+   "phrase": "Beyond price",
+   "definition": "To be so prized and valuable as to not be obtainable by money."
+  },
+  {
+   "phrase": "Big fish in a small pond",
+   "definition": "An important person but only so within a small area of influence."
+  }
+ ]
+}

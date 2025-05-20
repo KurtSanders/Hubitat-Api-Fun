@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Elbow grease",
+   "definition": "Energetic labour, especially in the polishing of household items."
+  },
+  {
+   "phrase": "Elephant's trunk",
+   "definition": "Cockney rhyming slang for drunk."
+  },
+  {
+   "phrase": "Elvis has left the building",
+   "definition": "The primary performer has left. there's no point waiting around."
+  },
+  {
+   "phrase": "Enhanced interrogation techniques",
+   "definition": "Euphemism for torture."
+  },
+  {
+   "phrase": "Ethnic cleansing",
+   "definition": "The singling out and killing of a specific ethnic group."
+  },
+  {
+   "phrase": "Every cloud has a silver lining",
+   "definition": "An encouragement to be optimistic. even bad events have a good side to them."
+  },
+  {
+   "phrase": "Everything but the kitchen sink",
+   "definition": "Everything imaginable."
+  },
+  {
+   "phrase": "Evil twin",
+   "definition": "An imaginary double, humorously referred to in order to explain the uncharacteristic bad behaviour of a normally moral person. usually used light-heartedly. the expression formed as an allusion to plots in films involving actual evil twins."
+  },
+  {
+   "phrase": "Excuse my french",
+   "definition": "Please forgive me for swearing."
+  },
+  {
+   "phrase": "Eyebrow raising",
+   "definition": "Something that creates shock or surprise."
+  },
+  {
+   "phrase": "Face card",
+   "definition": "The jack queen or king in a set of playing cards."
+  },
+  {
+   "phrase": "Face the music",
+   "definition": "Accept he unwelcome consequences of one's own actions."
+  },
+  {
+   "phrase": "Factory farming",
+   "definition": "Rearing livestock under industrial conditions."
+  },
+  {
+   "phrase": "Fairytale ending",
+   "definition": "A happy simplistic ending to a story similar to those found in fairy tales."
+  },
+  {
+   "phrase": "Far cry from",
+   "definition": "Very different from."
+  },
+  {
+   "phrase": "Feeding frenzy",
+   "definition": "A frantic competition or exploitation - like a group shark attack."
+  },
+  {
+   "phrase": "Fell off the back of a lorry",
+   "definition": "A coy reference to an item that has been stolen."
+  },
+  {
+   "phrase": "Field day",
+   "definition": "A day noted for remarkable or exciting events."
+  },
+  {
+   "phrase": "Fiddlesticks",
+   "definition": "An exclamation meaning 1. nonsense; rubbish. 2. an indication of mild annoyance."
+  },
+  {
+   "phrase": "Find your feet",
+   "definition": "To become conscious of and develop one's expertise."
+  },
+  {
+   "phrase": "Fire the imagination",
+   "definition": "Inspire with enthusiasm."
+  },
+  {
+   "phrase": "First among equals",
+   "definition": "The most senior person in a group of equal rank."
+  },
+  {
+   "phrase": "First footing",
+   "definition": "Making a round of visits at new year."
+  },
+  {
+   "phrase": "First world problem",
+   "definition": "A relatively trivial problem only affecting the affluent."
+  },
+  {
+   "phrase": "First world",
+   "definition": "The industrialised affluent and wealthy nations."
+  },
+  {
+   "phrase": "Fixed in your ways",
+   "definition": "Unwilling to change from your habitual way of doing things."
+  },
+  {
+   "phrase": "Flea market",
+   "definition": "A market used to buy and sell inexpensive goods. the kind of place that might sell carpets infested with fleas."
+  },
+  {
+   "phrase": "Flea pit",
+   "definition": "A downmarket cinema - allegedly verminous."
+  },
+  {
+   "phrase": "Flesh and blood",
+   "definition": "1 - one's family. 2 - the bodily stuff we are made of."
+  },
+  {
+   "phrase": "Flip the bird",
+   "definition": "To aggressively raise your middle finger at someone as a sign of displeasure."
+  },
+  {
+   "phrase": "Flog a dead horse",
+   "definition": "To attempt to make progress with something that has no future."
+  },
+  {
+   "phrase": "Flotsam and jetsam",
+   "definition": "Assorted bits and pieces of rubbish; especially items that are found in the sea."
+  },
+  {
+   "phrase": "Foam at the mouth",
+   "definition": "To show vehement rage."
+  },
+  {
+   "phrase": "Food fight",
+   "definition": "Chaotic collective behaviour where items of food are thrown about wildly."
+  },
+  {
+   "phrase": "Fools' gold",
+   "definition": "Something that appears valuable but really isn't, like iron pyrites - a worthless mineral that resembles gold."
+  },
+  {
+   "phrase": "Frock up",
+   "definition": "Wear a smart or formal dress for a special occasion."
+  },
+  {
+   "phrase": "Frog and toad",
+   "definition": "Cockney rhyming slang for road."
+  },
+  {
+   "phrase": "Fuddy-duddy",
+   "definition": "An old-fashioned and foolish type of person."
+  },
+  {
+   "phrase": "Full monty",
+   "definition": "Everything possible. the whole thing."
+  },
+  {
+   "phrase": "Full of bull",
+   "definition": "Talking hot air."
+  },
+  {
+   "phrase": "Funny farm",
+   "definition": "A mental hospital."
+  },
+  {
+   "phrase": "Gee gee",
+   "definition": "Childish term for a horse."
+  },
+  {
+   "phrase": "Gender bender",
+   "definition": "A person who adopts a deliberately androgynous appearance, by use of uni-sex make-up, hair-style and clothing. probably influenced by 'bender' being an earlier slang term for homosexual."
+  },
+  {
+   "phrase": "George raft",
+   "definition": "Cockney rhyming slang for daft."
+  },
+  {
+   "phrase": "Get a gold star",
+   "definition": "Earn a merit point for doing well."
+  },
+  {
+   "phrase": "Get down to brass tacks",
+   "definition": "Concern yourself with the basic and important realities."
+  },
+  {
+   "phrase": "Get off on the wrong foot",
+   "definition": "Make a bad start in a relationship or task."
+  },
+  {
+   "phrase": "Get on board",
+   "definition": "Accept and participate with an idea or project."
+  },
+  {
+   "phrase": "Get out of hand",
+   "definition": "Become chaotic and uncontrollable."
+  },
+  {
+   "phrase": "Get out of the wrong side of the bed",
+   "definition": ""
+  },
+  {
+   "phrase": "Get over it",
+   "definition": "Move beyond something that is bothering you."
+  },
+  {
+   "phrase": "Get your head around",
+   "definition": "Understand something, especially something difficult to comprehend because it is complex or surprising."
+  },
+  {
+   "phrase": "Ginger beer",
+   "definition": "Cockney rhyming slang for queer."
+  },
+  {
+   "phrase": "Give him an inch and he'll take a mile",
+   "definition": "Allow someone a small concession and they will take advantage and try to take more."
+  },
+  {
+   "phrase": "Give the benefit of the doubt",
+   "definition": "Decide to believe a statement which isn't proven."
+  },
+  {
+   "phrase": "Give the slip",
+   "definition": "To get away from. to escape."
+  },
+  {
+   "phrase": "Glass ceiling",
+   "definition": "An unacknowledged or unseen discriminatory barrier that prevents women and minorities from rising to positions of power."
+  },
+  {
+   "phrase": "Gnat's bollock",
+   "definition": "A very small (imaginary) unit of measurement."
+  },
+  {
+   "phrase": "Go ape shit",
+   "definition": "Become excessively agitated and excited."
+  },
+  {
+   "phrase": "Go belly (or tits) up",
+   "definition": "Become badly and permanently inoperative."
+  },
+  {
+   "phrase": "Go for broke",
+   "definition": "Put every resource into getting a particular result."
+  },
+  {
+   "phrase": "Go out on a limb",
+   "definition": "Take a risk to support someone or something."
+  },
+  {
+   "phrase": "Go the extra mile",
+   "definition": "Going beyond what is usually required. make an extra effort."
+  },
+  {
+   "phrase": "Going to hell in a handbasket",
+   "definition": "Deteriorating and headed for complete disaster."
+  },
+  {
+   "phrase": "Good samaritan",
+   "definition": "Someone who compassionately helps another who is in need."
+  },
+  {
+   "phrase": "Graveyard shift",
+   "definition": "Working hours that extend overnight."
+  },
+  {
+   "phrase": "Greasy spoon",
+   "definition": "A small cheap cafe selling fried food."
+  },
+  {
+   "phrase": "Great minds think alike",
+   "definition": "Said ironically when two people have matching thoughts."
+  },
+  {
+   "phrase": "Great scot",
+   "definition": "Exclamation of surprise."
+  },
+  {
+   "phrase": "Gregory peck",
+   "definition": "Cockney rhyming slang for neck."
+  },
+  {
+   "phrase": "Gut feeling",
+   "definition": "A personal intuition, based on feeling rather than fact."
+  },
+  {
+   "phrase": "Had a good war",
+   "definition": "To have been successful during a military campaign."
+  },
+  {
+   "phrase": "Hair of the dog",
+   "definition": "An alcoholic drink, intended to cure a hangover. it is mistakenly believed that a small measure of the same drink that made a person drunk will sober them up and cure the drinks ill effects. the expression is also used in other contexts, whenever an additional dose of whatever caused a problem is thought to be an appropriate remedy."
+  },
+  {
+   "phrase": "Half inch",
+   "definition": "Cockney rhyming slang for pinch."
+  },
+  {
+   "phrase": "Happy sad",
+   "definition": "A bittersweet feeling combining both happiness and sadness."
+  },
+  {
+   "phrase": "Harry spankers",
+   "definition": "Brand spanking new."
+  },
+  {
+   "phrase": "Has the cat got your tongue?",
+   "definition": "A question addressed to someone who is inexplicably silent. the implication is that the person's tongue is missing."
+  },
+  {
+   "phrase": "Haste makes waste",
+   "definition": "Doing things in a rush makes for a poor result."
+  },
+  {
+   "phrase": "Hat trick",
+   "definition": "A threefold feat in sports or some other activity."
+  },
+  {
+   "phrase": "Have a blast",
+   "definition": "Have an especially good time."
+  },
+  {
+   "phrase": "Have a captain cook",
+   "definition": "Cockney rhyming slang for look."
+  },
+  {
+   "phrase": "He makes my flesh (or skin) crawl (or creep)",
+   "definition": "Said of someone who the speaker has a deep dislike of."
+  },
+  {
+   "phrase": "Head over heels",
+   "definition": "Very excited, especially when in love."
+  },
+  {
+   "phrase": "Hear it on the grapevine",
+   "definition": "Hear rumors about something from an anonymous informal contact."
+  },
+  {
+   "phrase": "Heebie-jeebies",
+   "definition": "A state of nervous anxiety or fear."
+  },
+  {
+   "phrase": "Hell bent",
+   "definition": "Determined to achieve something at all costs."
+  },
+  {
+   "phrase": "Help yourself",
+   "definition": "Invitation to take something freely."
+  },
+  {
+   "phrase": "Hidden in plain sight",
+   "definition": "Something that defies apprehension by being too obvious."
+  },
+  {
+   "phrase": "High and mighty",
+   "definition": "Proud and arrogant."
+  },
+  {
+   "phrase": "High on the hog",
+   "definition": "Luxurious."
+  },
+  {
+   "phrase": "High season",
+   "definition": "The most popular time to visit a resort or attraction - when prices are highest."
+  },
+  {
+   "phrase": "Hit the books",
+   "definition": "To study, especially for a test or exam."
+  },
+  {
+   "phrase": "Hit the hay",
+   "definition": ""
+  },
+  {
+   "phrase": "Hit the nail on the head",
+   "definition": "Make the precise correct point."
+  },
+  {
+   "phrase": "Hit the sack",
+   "definition": "Retire to bed."
+  },
+  {
+   "phrase": "Hobson's choice",
+   "definition": "1. a choice forced upon someone. 2. cockney rhyming slang for voice."
+  },
+  {
+   "phrase": "Hocus pocus",
+   "definition": "A term used to denote magic or trickery."
+  },
+  {
+   "phrase": "Hold your horses",
+   "definition": "Be patient."
+  },
+  {
+   "phrase": "Holy shit",
+   "definition": "An expression of extreme surprise or disbelief."
+  },
+  {
+   "phrase": "I can't be doing with it",
+   "definition": "I am unwilling to tolerate it."
+  },
+  {
+   "phrase": "I can't think straight",
+   "definition": "I'm overwhelmed and stressed and it is affecting my ability to think."
+  }
+ ]
+}

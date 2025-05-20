@@ -1,0 +1,408 @@
+{
+ "Idioms": [
+  {
+   "phrase": "Binge watch",
+   "definition": "Watch multiple episodes of a television programme in succession."
+  },
+  {
+   "phrase": "Bitch slap",
+   "definition": "An open-handed slap in the face intended to be humiliating."
+  },
+  {
+   "phrase": "Bite off more than you can chew",
+   "definition": "Take on a task that is more than one can manage."
+  },
+  {
+   "phrase": "Bite the dust",
+   "definition": "Die, especially in a violent or sudden way."
+  },
+  {
+   "phrase": "Bite your tongue",
+   "definition": "Avoid speaking."
+  },
+  {
+   "phrase": "Blood blister",
+   "definition": "Cockney rhyming slang for sister."
+  },
+  {
+   "phrase": "Blood is thicker than water",
+   "definition": "Family loyalties are stronger than those to other people."
+  },
+  {
+   "phrase": "Blow a raspberry",
+   "definition": "Cockney rhyming slang for fart."
+  },
+  {
+   "phrase": "Blue plate special",
+   "definition": "A set meal provided at a reduced price."
+  },
+  {
+   "phrase": "Boat race",
+   "definition": "Cockney rhyming slang for face."
+  },
+  {
+   "phrase": "Bottle and glass",
+   "definition": "Cockney rhyming slang for arse."
+  },
+  {
+   "phrase": "Bought the farm",
+   "definition": "Died, especially in a violent way which may give rise to an insurance claim."
+  },
+  {
+   "phrase": "Brahms and lizst",
+   "definition": "Cockney rhyming slang for pissed."
+  },
+  {
+   "phrase": "Brass monkey weather",
+   "definition": "Extremely cold weather. the full expression is 'cold enough to freeze the balls off a brass monkey'."
+  },
+  {
+   "phrase": "Brass tacks",
+   "definition": "Cockney rhyming slang for facts."
+  },
+  {
+   "phrase": "Break a leg",
+   "definition": "A superstitious way to wish 'good luck' to an actor before a performance while avoiding saying 'good luck' out loud, which is considered unlucky."
+  },
+  {
+   "phrase": "Breast is best",
+   "definition": "Slogan of breastfeeding campaign."
+  },
+  {
+   "phrase": "Bricks and mortar",
+   "definition": "Cockney rhyming slang for daughter."
+  },
+  {
+   "phrase": "Brighton pier",
+   "definition": "Cockney rhyming slang for queer (i.e. homosexual)."
+  },
+  {
+   "phrase": "Bring your a game",
+   "definition": "Perform to the best of your ability."
+  },
+  {
+   "phrase": "Brown bread",
+   "definition": "Cockney rhyming slang for dead."
+  },
+  {
+   "phrase": "Brown out",
+   "definition": "1. a partial failure of the electricity supply. 2. the exposing of one's buttocks in public."
+  },
+  {
+   "phrase": "Brum brum",
+   "definition": "Child's play idiom expressing the sound of a vehicle."
+  },
+  {
+   "phrase": "Bucket list",
+   "definition": "A list of things you plan to do before you 'kick the bucket' (die). often a list of fanciful ideas rather than of concrete plans."
+  },
+  {
+   "phrase": "Burn the midnight oil",
+   "definition": "To work late into the night."
+  },
+  {
+   "phrase": "Bust a move",
+   "definition": "Dance in a stylish way."
+  },
+  {
+   "phrase": "Buy a lemon",
+   "definition": "Waste money by purchasing a car that is frequently faulty."
+  },
+  {
+   "phrase": "Calendar year",
+   "definition": "Twelve months beginning from the first of january."
+  },
+  {
+   "phrase": "Can't cut the mustard",
+   "definition": "Unable to meet the demands put upon you."
+  },
+  {
+   "phrase": "Canteen culture",
+   "definition": "Boorish behaviour by rank and file police or soldiers."
+  },
+  {
+   "phrase": "Carbon footprint",
+   "definition": "A measure of the amount of carbon dioxide (co2) emitted during an industrial or domestic process."
+  },
+  {
+   "phrase": "Carpe diem",
+   "definition": "Latin expression meaning seize the day."
+  },
+  {
+   "phrase": "Cast iron stomach",
+   "definition": "Said to be possessed by someone who is able to eat anything with no ill effects."
+  },
+  {
+   "phrase": "Cat got your tongue?",
+   "definition": "A question addressed to someone who is inexplicably silent. the implication is that the person's tongue is missing."
+  },
+  {
+   "phrase": "Caught between two stools",
+   "definition": "Finding it difficult to choose between two alternatives."
+  },
+  {
+   "phrase": "Caught by the short hairs (or short and curlies)",
+   "definition": "Trapped by an opponent in a situation you can't escape."
+  },
+  {
+   "phrase": "Chaise lounge",
+   "definition": "The american spelling for the piece of furniture known elsewhere as a chaise longue."
+  },
+  {
+   "phrase": "Charley horse",
+   "definition": "Stiffness or cramp in the arm or leg."
+  },
+  {
+   "phrase": "Chasing tail",
+   "definition": "Of a man pursuing women."
+  },
+  {
+   "phrase": "Cheek by jowl",
+   "definition": "Side by side; close together."
+  },
+  {
+   "phrase": "Chicken feed",
+   "definition": "Something of little importance, especially a small sum of money."
+  },
+  {
+   "phrase": "Cherry ripe",
+   "definition": "Cockney rhyming slang for pipe."
+  },
+  {
+   "phrase": "Chew someone out",
+   "definition": "Verbally scold someone."
+  },
+  {
+   "phrase": "Children should be seen and not heard",
+   "definition": "Old proverb suggesting that children should not impinge on the adult world."
+  },
+  {
+   "phrase": "China plate",
+   "definition": "Cockney rhyming slang for mate."
+  },
+  {
+   "phrase": "Chow down",
+   "definition": "Begin to eat."
+  },
+  {
+   "phrase": "City bike",
+   "definition": "A bicycle designing especially for urban riding."
+  },
+  {
+   "phrase": "Click bait",
+   "definition": "An eye catching word or image on a website."
+  },
+  {
+   "phrase": "Close but no cigar",
+   "definition": "Very near to success but falling short."
+  },
+  {
+   "phrase": "Cloud cuckoo land",
+   "definition": "An imaginary idealistic state where everything is perfect. it is usually used with reference to someone who has an overly optimistic and unrealistic belief."
+  },
+  {
+   "phrase": "Cock and bull story",
+   "definition": "An unbelievable tale."
+  },
+  {
+   "phrase": "Code monkey",
+   "definition": "Slang term for a computer programmer."
+  },
+  {
+   "phrase": "Cold enough to freeze the balls off a brass monkey",
+   "definition": "Extremely cold weather. the full expression is 'cold enough to freeze the balls off a brass monkey'."
+  },
+  {
+   "phrase": "Come hell or high water",
+   "definition": "Despite any great difficult or obstacle."
+  },
+  {
+   "phrase": "Comfort women",
+   "definition": "Women forced into sexual slavery by the japanese in wwii."
+  },
+  {
+   "phrase": "Company man",
+   "definition": "A worker especially loyal to the employer he works for."
+  },
+  {
+   "phrase": "Cop an attitude",
+   "definition": "Adopt an aggressive stance."
+  },
+  {
+   "phrase": "Corduroy road",
+   "definition": "A road that is ridged and furrowed like the fabric."
+  },
+  {
+   "phrase": "Country house hotel",
+   "definition": "An upmarket hotel located in a revamped rural mansion."
+  },
+  {
+   "phrase": "Crack someone up",
+   "definition": "Make someone laugh."
+  },
+  {
+   "phrase": "Cream crackered",
+   "definition": "Cockney rhyming slang for knackered. - note, when this term was coined, cream crackers were a popular snack in the uk."
+  },
+  {
+   "phrase": "Cross that bridge when you come to it",
+   "definition": "Deal with a problem if and when it becomes necessary, not before."
+  },
+  {
+   "phrase": "Cross your fingers",
+   "definition": "To hope that something happens."
+  },
+  {
+   "phrase": "Crunch time",
+   "definition": "The period of time just before a project has to be completed."
+  },
+  {
+   "phrase": "Cry wolf",
+   "definition": "Intentionally raise a false alarm."
+  },
+  {
+   "phrase": "Curiosity killed the cat",
+   "definition": "Being inquisitive can lead you into a dangerous situation."
+  },
+  {
+   "phrase": "Currant bun",
+   "definition": "Cockney rhyming slang for sun."
+  },
+  {
+   "phrase": "Cut corners",
+   "definition": "Doing things in a slipshod way, to avoid expense or effort."
+  },
+  {
+   "phrase": "Cut to the chase",
+   "definition": "Leave out all the unnecessary details and get straight to the point."
+  },
+  {
+   "phrase": "Daily grind",
+   "definition": "The dull daily routine."
+  },
+  {
+   "phrase": "Daisy roots",
+   "definition": "Cockney rhyming slang for boots."
+  },
+  {
+   "phrase": "Date rape",
+   "definition": "The rape by a man of his partner on a date."
+  },
+  {
+   "phrase": "Day surgery",
+   "definition": "Minor surgery that does not require the patient to stay in hospital overnight."
+  },
+  {
+   "phrase": "Daylight saving time",
+   "definition": "The adjustment of clocks to provide longer evening daylight."
+  },
+  {
+   "phrase": "Dead ringer",
+   "definition": "An exact duplicate."
+  },
+  {
+   "phrase": "Dead white european male",
+   "definition": "Derogatory reference to someone who has an unjustified reputation."
+  },
+  {
+   "phrase": "Designated driver",
+   "definition": "Someone who agrees not to drink alcohol at a social event in order to be sober enough to drive others home."
+  },
+  {
+   "phrase": "Dial down",
+   "definition": "1. adjust a device to reduce sound or temperature. 2. reduce one's emotional reaction to something."
+  },
+  {
+   "phrase": "Dicky dirt",
+   "definition": "Cockney rhyming slang for shirt."
+  },
+  {
+   "phrase": "Discussing uganda",
+   "definition": "Euphemism for sex."
+  },
+  {
+   "phrase": "Dog and bone",
+   "definition": "Cockney rhyming slang for telephone."
+  },
+  {
+   "phrase": "Dog days of summer",
+   "definition": "The hottest days of the summer season."
+  },
+  {
+   "phrase": "Donkey's years",
+   "definition": "1. cockney rhyming slang for ears. 2. a very long time."
+  },
+  {
+   "phrase": "Don't bite the hand that feeds you",
+   "definition": "Don't hurt someone that helps you."
+  },
+  {
+   "phrase": "Don't count your chickens before they hatch",
+   "definition": "Don't count on receiving some benefit until you actually have it."
+  },
+  {
+   "phrase": "Don't cry over spilt milk",
+   "definition": "Don't fret pointlessly about some mistake or loss when it can't be remedied."
+  },
+  {
+   "phrase": "Don't give up the day job",
+   "definition": "Said to someone who is a poor performer at a task - suggesting that they wouldn't be able to succeed at it professionally."
+  },
+  {
+   "phrase": "Don't look a gift horse in the mouth",
+   "definition": "When you receive a gift accept it with good grace and don't find fault with it."
+  },
+  {
+   "phrase": "Don't put all your eggs in one basket",
+   "definition": "Don't risk all your property on a single venture."
+  },
+  {
+   "phrase": "Double denim",
+   "definition": "Denim jeans worn with a denim shirt or jacket."
+  },
+  {
+   "phrase": "Double header",
+   "definition": "A sports expression denoting two events held at the same time."
+  },
+  {
+   "phrase": "Down to the wire",
+   "definition": "Not decided until the very last minute."
+  },
+  {
+   "phrase": "Dressed to the nines",
+   "definition": "Very smartly dressed, in one's best clothes."
+  },
+  {
+   "phrase": "Drink like a fish",
+   "definition": "Drink very heavily."
+  },
+  {
+   "phrase": "Drive someone up the wall",
+   "definition": "Irritate or annoy very much."
+  },
+  {
+   "phrase": "Dropping like flies",
+   "definition": "Many people either falling ill or dying."
+  },
+  {
+   "phrase": "Dry run",
+   "definition": "A rehearsal."
+  },
+  {
+   "phrase": "Duvet day",
+   "definition": "A work day which an employee is allowed to spend at home relaxing."
+  },
+  {
+   "phrase": "Ear popping",
+   "definition": "Sound that is loud or that catches the attention."
+  },
+  {
+   "phrase": "Easy-peasy",
+   "definition": "Something that is extremely easy. often used by children. sometimes used by adults to demote an achievement that was accomplished with little apparent effort."
+  },
+  {
+   "phrase": "Eighty six",
+   "definition": "Referring to an item on a menu that is no longer available."
+  }
+ ]
+}
