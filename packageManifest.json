@@ -1,0 +1,48 @@
+{
+    "packageName": "Idioms",
+    "author": "Kurt Sanders",
+    "minimumHEVersion": "0.0.1",
+    "dateReleased": "2025-05-09",
+    "documentationLink": "https://github.com/KurtSanders/Hubitat-Fun/tree/main/idioms#readme",
+    "communityLink": "https://community.hubitat.com/t/release-new-hubitat-fun-apps-idioms/153331",
+    "licenseFile": "",
+    "releaseNotes": "Version 0.0.1\n1. This application generates random responses that are suitable for TTS on capability 'SpeechSynthesis' compatible devices (ie. Amazon, Google, Sonos, Ikea, etc).\n2. A free account on APILeague.com is required to obtain an api string for those categories indicated below. You may wish to purchase their paid plans, which allow more responses (tokens) per day.\n3. The 'Idiom' category does not require an api account or api string. The Idioms category is powered by my own JSON file (over 700 entries), and I will add more on an as-needed basis..",
+    "bundles": [
+        {
+            "id": "b438d8c9-c3bb-45b6-9dcd-a5f0fb931617",
+            "name": "SanderSoft Bundle",
+            "namespace": "kurtsanders",
+            "version": "0.0.6",
+            "location": "https://github.com/KurtSanders/HubitatPackages/raw/master/resources/bundles/SanderSoftBundle.zip",
+            "required": true
+        },
+        {
+            "id": "1e71b0aa4-6c9c-401a-b8e9-bf5bae19c0ca",
+            "name": "Fun-Api-Responses-Library",
+            "namespace": "kurtsanders",
+            "version": "0.0.1",
+            "location": "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses/raw/refs/heads/main/groovy/IdiomsBundle.zip",
+            "required": true
+        }
+    ],
+    "apps": [
+        {
+            "id": "28856352-d07f-4bfb-a487-6d1eb5b9b92b",
+            "name": "Fun Api Responses",
+            "version": "0.0.1",
+            "namespace": "kurtsanders",
+            "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/groovy/Fun-Api-Responses-App.groovy",
+            "required": true
+        }
+    ],
+    "drivers": [
+        {
+            "id": "540069b8-233f-496a-9161-3d24b40f60bd",
+            "name": "Fun Api Responses",
+            "version": "0.0.1",
+            "namespace": "kurtsanders",
+            "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/groovy/Fun-Api-Responses-Driver.groovy",
+            "required": true
+        }
+    ]
+}
