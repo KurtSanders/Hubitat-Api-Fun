@@ -30,6 +30,7 @@
             "id": "28856352-d07f-4bfb-a487-6d1eb5b9b92b",
             "name": "Fun Api Responses App",
             "version": "0.0.1",
+            "primary": true,
             "namespace": "kurtsanders",
             "location": "https://raw.githubusercontent.com/KurtSanders/Hubitat-Fun-Api-Responses/refs/heads/main/groovy/Fun%20Api%20Responses%20App.groovy",
             "required": true
