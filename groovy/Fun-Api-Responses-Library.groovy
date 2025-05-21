@@ -6,6 +6,8 @@ import groovy.transform.Field
 
 @Field static final String 	AUTHOR_NAME          	= "Kurt Sanders"
 @Field static final String 	NAMESPACE            	= "kurtsanders"
+@Field static final String  PARENT_DEVICE_NAME      = "Fun Api Responses Driver"
+@Field static final String  PARENT_DEVICE_TYPE_NAME = "Fun Api Responses Driver"
 @Field static final String 	COMM_LINK            	= "https://community.hubitat.com/t/release-new-hubitat-fun-apps-idioms/153331"
 @Field static final String 	GITHUB_LINK          	= "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses"
 @Field static final String 	OPENAPI_API_JSON_LEAGUE = "https://raw.githubusercontent.com/ddsky/api-league-clients/master/apileague-openapi-3.json"
@@ -108,10 +110,10 @@ def createDataChildDevice(namespace, typeName, deviceNetworkId, label) {
         logInfo "In createDataChildDevice - Child device not found - Creating device: ${typeName}"
         try {
             rc = addChildDevice(namespace, typeName, deviceNetworkId, ["name": "${typeName}", "label": "${label}", isComponent: false])
-            statusMessageD = "<b>The Child Device '${label}'has been been created. (${typeName})</b>"
+            statusMessageD = "<b>A device with the name '${label}' has been been created. (${typeName})</b>"
         } catch (e) { logErr "Unable to create device - ${e}" }
     } else {
-        statusMessageD = "<b>The child device '${label}' (${typeName}) already exists.</b>"
+        statusMessageD = "<b>The device '${label}' (${typeName}) already exists.</b>"
     }
     logInfo "${statusMessageD}"
     return rc

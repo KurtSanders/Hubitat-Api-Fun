@@ -21,8 +21,6 @@
 import groovy.transform.Field
 
 @Field static final String APP_NAME      			= "Fun Api Responses App"
-@Field static final String PARENT_DEVICE_NAME      	= "Fun Api Responses"
-@Field static final String PARENT_DEVICE_TYPE_NAME  = "Fun Api Responses Driver"
 @Field static final String VERSION                 	= "0.0.1"
 
 
@@ -64,13 +62,14 @@ void setChildrenDevices(setStateOnly=false) {
     Map childrenDeviceMap = [:]
     getSites().each {
         def devId 	= "${it}-${app.id}-${PARENT_DEVICE_TYPE_NAME}"
-        if (!setStateOnly) createDataChildDevice(NAMESPACE, PARENT_DEVICE_TYPE_NAME, devId, it)
+        if (!setStateOnly) createDataChildDevice(NAMESPACE, PARENT_DEVICE_TYPE_NAME, devId, "Fun-${it}")
         childrenDeviceMap["${it}"] = "${devId}"
         }
     state.siteDevId = childrenDeviceMap
 }
 
 def testGroovy() {
+
     // Testing Area
     return
 }
@@ -122,21 +121,22 @@ def mainPage() {
         }
         section(sectionHeader("${PARENT_DEVICE_TYPE_NAME} Device and Preferences Manager")) {
             def hubIP = location.hub.localIP
-            def line = '<span><style>ul {list-style: none;}li {display: inline-block;margin-right: 15px;}</style>'
-            line += '<ul>'
+            def line = '<span><style>#menu ul{list-style: none;}#menu li{display: inline-block;margin-right: 20px;}</style><div id="menu"><ul>'
             getSites().each {
             	def d = getChildDevice(state.siteDevId[it])
-                def deviceLink = "'http://${hubIP}/device/edit/${d.id}'"
-                def hoverTitle = "title='View ${it} device in new browser tab'" 
+                if (d) {
+	                def deviceLink = "'http://${hubIP}/device/edit/${d.id}'"
+                	def hoverTitle = "title='View ${it} device in new browser tab'" 
                     def parentDeviceWebLink = "<a target='_blank' ${hoverTitle} rel='noopener noreferrer' href=${deviceLink}><strong>${d.label}</strong></a>"
-                def boxGraphic = "<a href=${deviceLink} target='_blank' ${hoverTitle} > ${BOX_ARROW} </a>"
-                line += "<li>${parentDeviceWebLink}${boxGraphic}</li>"
+                	def boxGraphic = "<a href=${deviceLink} target='_blank' ${hoverTitle} > ${BOX_ARROW} </a>"
+                	line += "<li>${parentDeviceWebLink}${boxGraphic}</li>"
+                }
             }
-            line += '</ul>'
+            line += '</ul></div>'
             line += "The following ${getSites().size()} devices <strong>&#8593;</strong> have been automatically created for you that will contain the response. "
             line += "You will need to install the respective device's 'Push' momentary button(s) on your HE dashboard and/or use Rules/WebCore to command refresh the respective device."
             paragraph line
-//            input "testGroovy", "button", title: "Test Groovy Code"
+            if (location.hub.name == 'C7-2 Hub') input "testGroovy", "button", title: "Test Groovy Code"
         }
         section(sectionHeader("REQUIRED Site Choice and Inputs")) {
 	        if (site) {
