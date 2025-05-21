@@ -222,6 +222,17 @@ void appButtonHandler(String buttonName) {
 
 void refresh(selectedSite=site) {
     logTrace "==> selectedSite= ${selectedSite}"
+    def d = getChildDevice(state.siteDevId[selectedSite])
+
+    if (selectedSite != 'Idioms') {
+	    if (!apiKey) {
+    	    def errorMessage = "You need a free api key from https://apileague.com/console/ for the '${selectedSite}' category'"
+			log.error errorMessage
+            d.sendEvent(name: 'error'	, value: errorMessage)
+        	return
+    	}
+	}
+    
     state.mysite = SERVICES['sites'][selectedSite]
     state.lastSite = selectedSite
     logTrace "==> state.mysite= ${state.mysite}"
@@ -251,7 +262,6 @@ void refresh(selectedSite=site) {
     }
     
     logInfo "==> Sending a httpGET request to '${uri}${path}' for '${selectedSite}' response"
-    def d = getChildDevice(state.siteDevId[selectedSite])
     d.sendEvent(name: 'error'	, value: ' ')
     state.response = ''
     def params = [
