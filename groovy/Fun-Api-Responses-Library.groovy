@@ -8,7 +8,7 @@ import groovy.transform.Field
 @Field static final String 	NAMESPACE            	= "kurtsanders"
 @Field static final String  PARENT_DEVICE_NAME      = "Fun Api Responses Driver"
 @Field static final String  PARENT_DEVICE_TYPE_NAME = "Fun Api Responses Driver"
-@Field static final String 	COMM_LINK            	= "https://community.hubitat.com/t/release-new-hubitat-fun-apps-idioms/153331"
+@Field static final String 	COMM_LINK            	= "https://community.hubitat.com/t/release-fun-api-response-app-idioms-jokes-trivia-poems-quotes-riddles/153331"
 @Field static final String 	GITHUB_LINK          	= "https://github.com/KurtSanders/Hubitat-Fun-Api-Responses"
 @Field static final String 	OPENAPI_API_JSON_LEAGUE = "https://raw.githubusercontent.com/ddsky/api-league-clients/master/apileague-openapi-3.json"
 @Field static final String  API_LEAGUE_WEBSITE		= "<a target='_blank' rel='noopener noreferrer 'href='https://apileague.com/console/'>API League Website</a>"
